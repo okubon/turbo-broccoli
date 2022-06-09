@@ -1,8 +1,8 @@
 # TheGitGangTheory
-- Oliver Kubon
-- Janina Blum
-- Vera Bateva
-- Helga Wolf
+- Oliver Kubon - @okubon
+- Janina Blum - @xxjuly
+- Vera Bateva - @vbateva
+- Helga Wolf - @HelgaWolf
 
 # Thema 
 Gender Bias

@@ -69,7 +69,6 @@ def main():
     # iteration through files
     for filename in os.listdir(directory):
         filepath = os.path.join(directory, filename)
-        #print(filepath)
         results = get_the_juice_stuff(filepath)
         export_df = pd.concat([export_df,results])
 

@@ -37,23 +37,22 @@ def main(path):
     NR = root[2].text
     DATUM = root[3].text
     TITEL = root[4].text
-    text = root[5].text
+    TEXT = root[5].text
 
     # get count of beiträge
-    results = beitrag(text)
+    results = beitrag(TEXT)
     counts = Counter(results)
 
     # create results in df
     df = pd.DataFrame.from_dict(counts, orient = 'index').reset_index()
     df = df.rename(columns={'index':'NAME', 0:'ANZAHL BEITRÄGE'})
-    # add the rest of imformation
+    # add the rest of imformation to df
     df['WAHLPERIODE'] = WAHLPERIODE
     df['DOKUMENTENART'] = DOKUMENTENART
     df['NR'] = NR
     df['DATUM'] = DATUM
 
-    
-    print(df)
+    return df
 
 
 

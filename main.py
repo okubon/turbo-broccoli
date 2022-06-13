@@ -32,11 +32,11 @@ def main(path):
     root = load_xml(path)
 
     # get content from xml file
-    wahlperiode = root[0].text
-    dokumentenart = root[1].text
-    nr = root[2].text
-    datum = root[3].text
-    titel = root[4].text
+    WAHLPERIODE = root[0].text
+    DOKUMENTENART = root[1].text
+    NR = root[2].text
+    DATUM = root[3].text
+    TITEL = root[4].text
     text = root[5].text
 
     # get count of beiträge
@@ -45,7 +45,14 @@ def main(path):
 
     # create results in df
     df = pd.DataFrame.from_dict(counts, orient = 'index').reset_index()
-    df = df.rename(columns={'index':'Name', 0:'Anzahl Beiträge'})
+    df = df.rename(columns={'index':'NAME', 0:'ANZAHL BEITRÄGE'})
+    # add the rest of imformation
+    df['WAHLPERIODE'] = WAHLPERIODE
+    df['DOKUMENTENART'] = DOKUMENTENART
+    df['NR'] = NR
+    df['DATUM'] = DATUM
+
+    
     print(df)
 
 

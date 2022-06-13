@@ -3,6 +3,7 @@ from snorkel.labeling import labeling_function
 import pandas as pd
 import re
 from collections import Counter
+import os
 
 def load_xml(path):
     tree = ET.parse(path)
@@ -28,7 +29,7 @@ def beitrag(txt):
     list = clean_items(list)
     return list
 
-def main(path):
+def get_the_juice_stuff(path):
     root = load_xml(path)
 
     # get content from xml file
@@ -51,10 +52,28 @@ def main(path):
     df['DOKUMENTENART'] = DOKUMENTENART
     df['NR'] = NR
     df['DATUM'] = DATUM
-
+    #print(df)
     return df
 
+def export_csv(df):
+    df.to_csv(r'script/output.csv', index = False)
+    return
 
+def main():
+    # empty df to store results
+    export_df = pd.DataFrame()
 
-path = './testdaten/10001.xml'
-main(path)
+    # directory where the files are located
+    directory = 'testdaten'
+
+    # iteration through files
+    for filename in os.listdir(directory):
+        filepath = os.path.join(directory, filename)
+        #print(filepath)
+        results = get_the_juice_stuff(filepath)
+        export_df = pd.concat([export_df,results])
+
+    # export df to csv
+    export_csv(export_df)
+
+main()

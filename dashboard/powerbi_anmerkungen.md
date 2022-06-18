@@ -18,7 +18,7 @@
 	- Wahlperiode
 	
 * Wahlperiode 20 wurde herausgefiltert
-* Parteivereinheitlichung (CDU und CSU => CDU/CSU | GRÜNE + DIE GRÜNEN/BÜNDNIS 90 => BÜNDNIS 90/DIE GRÜNEN) | PDS => PDS/LL
+* Parteivereinheitlichung (CDU und CSU => CDU/CSU | GRÜNE + DIE GRÜNEN/BÜNDNIS 90 => BÜNDNIS 90/DIE GRÜNEN) | PDS + PDS/LL => DIE LINKE.
 * Dimensionstabellen für Wahlperiode, Geschlecht und Partei, bei m:n Verbindungen im Datenmodell würden sonst Filterungen und Abhängigkeiten zerspringen
 
 ### output.csv (Testdaten)

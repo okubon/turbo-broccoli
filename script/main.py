@@ -5,6 +5,7 @@ import pandas as pd
 import re
 from collections import Counter
 import os
+import xml.etree.ElementTree as ETree
 
 def load_xml(path):
     tree = ET.parse(path)
@@ -161,4 +162,4 @@ def main(dir, rb_ID):
 
 
 rb_ID = 0
-main('testdaten', rb_ID)
+main('Daten_alle_WP', rb_ID)

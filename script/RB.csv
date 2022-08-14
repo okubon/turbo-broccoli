@@ -1,0 +1,255 @@
+RB_ID,RB_Name,WAHLPERIODE,NR,DATUM
+1,Stratmann (GRÜNE),10,10/1,29.03.1983
+2,Stratmann (GRÜNE),10,10/1,29.03.1983
+3,Jahn (Marburg) (SPD),10,10/1,29.03.1983
+4,Vogel (SPD),10,10/1,29.03.1983
+5,Wolfgramm (Göttingen) (FDP),10,10/1,29.03.1983
+6,Porzner (SPD),10,10/1,29.03.1983
+7,Burgmann (GRÜNE),10,10/1,29.03.1983
+8,Hoss (GRÜNE),10,10/1,29.03.1983
+9,Hoss (GRÜNE),10,10/1,29.03.1983
+10,Hoss (GRÜNE),10,10/1,29.03.1983
+11,Hoss (GRÜNE),10,10/1,29.03.1983
+12,Porzner (SPD),10,10/1,29.03.1983
+13,Stücklen (CDU/CSU),10,10/1,29.03.1983
+14,Westphal (SPD),10,10/1,29.03.1983
+15,Wurbs (FDP),10,10/1,29.03.1983
+16,Jahn (Marburg) (SPD),10,10/3,30.03.1983
+17,Fischer (Frankfurt) (GRÜNE),10,10/3,30.03.1983
+18,Fischer (Frankfurt) (GRÜNE),10,10/3,30.03.1983
+19,Porzner (SPD),10,10/3,30.03.1983
+20,Fischer (Frankfurt) (GRÜNE),10,10/3,30.03.1983
+21,Wolfgramm (Göttingen) (FDP),10,10/3,30.03.1983
+22,Seiters (CDU/CSU),10,10/3,30.03.1983
+23,Hecker (GRÜNE),10,10/3,30.03.1983
+24,Broil (CDU/CSU),10,10/3,30.03.1983
+25,Broil (CDU/CSU),10,10/3,30.03.1983
+26,Broil (CDU/CSU),10,10/3,30.03.1983
+27,Schäfer (Offenburg) (SPD),10,10/3,30.03.1983
+28,Schneider (Berlin) (GRÜNE),10,10/3,30.03.1983
+29,Schneider (Berlin) (GRÜNE),10,10/3,30.03.1983
+30,Schneider (Berlin) (GRÜNE),10,10/3,30.03.1983
+31,Niegel (CDU/CSU),10,10/3,30.03.1983
+32,Baum (FDP),10,10/3,30.03.1983
+33,Fellner (CDU/CSU),10,10/3,30.03.1983
+34,Fellner (CDU/CSU),10,10/3,30.03.1983
+35,Stratmann (GRÜNE),10,10/3,30.03.1983
+36,Porzner (SPD),10,10/3,30.03.1983
+37,Rühe (CDU/CSU),10,10/4,04.05.1983
+38,Rühe (CDU/CSU),10,10/4,04.05.1983
+39,Schäfer (Mainz) (FDP),10,10/4,04.05.1983
+40,Voigt (Frankfurt) (SPD),10,10/4,04.05.1983
+41,Bastian (GRÜNE),10,10/4,04.05.1983
+42,Bastian (GRÜNE),10,10/4,04.05.1983
+43,Bastian (GRÜNE),10,10/4,04.05.1983
+44,Klein (München) (CDU/CSU),10,10/4,04.05.1983
+45,Klein (München) (CDU/CSU),10,10/4,04.05.1983
+46,Büchler (Hof) (SPD),10,10/4,04.05.1983
+47,Lintner (CDU/CSU),10,10/4,04.05.1983
+48,Lintner (CDU/CSU),10,10/4,04.05.1983
+49,Schneider (Berlin) (GRÜNE),10,10/4,04.05.1983
+50,Ronneburger (FDP),10,10/4,04.05.1983
+51,Reents (GRÜNE),10,10/5,05.05.1983
+52,Reents (GRÜNE),10,10/5,05.05.1983
+53,Reents (GRÜNE),10,10/5,05.05.1983
+54,Reents (GRÜNE),10,10/5,05.05.1983
+55,Wolfgramm (Göttingen) (FDP),10,10/5,05.05.1983
+56,Hoffmann (Saarbrücken) (SPD),10,10/5,05.05.1983
+57,Hoppe (FDP),10,10/5,05.05.1983
+58,Kleinert (Marburg) (GRÜNE),10,10/5,05.05.1983
+59,Kleinert (Marburg) (GRÜNE),10,10/5,05.05.1983
+60,Kleinert (Marburg) (GRÜNE),10,10/5,05.05.1983
+61,Kleinert (Marburg) (GRÜNE),10,10/5,05.05.1983
+62,Kleinert (Marburg) (GRÜNE),10,10/5,05.05.1983
+63,Roth (SPD),10,10/5,05.05.1983
+64,Roth (SPD),10,10/5,05.05.1983
+65,Roth (SPD),10,10/5,05.05.1983
+66,Roth (SPD),10,10/5,05.05.1983
+67,Kleinert (Marburg) (GRÜNE),10,10/5,05.05.1983
+68,Hauser (Krefeld) (CDU/CSU),10,10/5,05.05.1983
+69,Reuschenbach (SPD),10,10/5,05.05.1983
+70,Roth (SPD),10,10/5,05.05.1983
+71,Lutz (SPD),10,10/5,05.05.1983
+72,Hoss (GRÜNE),10,10/5,05.05.1983
+73,Hoss (GRÜNE),10,10/5,05.05.1983
+74,Hoss (GRÜNE),10,10/5,05.05.1983
+75,Hoffie (FDP),10,10/5,05.05.1983
+76,Hoss (GRÜNE),10,10/5,05.05.1983
+77,Cronenberg (Arnsberg) (FDP),10,10/5,05.05.1983
+78,Cronenberg (Arnsberg) (FDP),10,10/5,05.05.1983
+79,Cronenberg (Arnsberg) (FDP),10,10/5,05.05.1983
+80,Cronenberg (FDP),10,10/5,05.05.1983
+81,Waltemathe (SPD),10,10/5,05.05.1983
+82,Fischer (Frankfurt) (GRÜNE),10,10/5,05.05.1983
+83,Fischer (Frankfurt) (GRÜNE),10,10/5,05.05.1983
+84,Weisskirchen (Wiesloch) (SPD),10,10/5,05.05.1983
+85,Schröder (Hannover) (SPD),10,10/5,05.05.1983
+86,Schäfer (Offenburg) (SPD),10,10/5,05.05.1983
+87,Schäfer (Offenburg) (SPD),10,10/5,05.05.1983
+88,Voigt (Frankfurt) (SPD),10,10/5,05.05.1983
+89,Erhard (Bad Schwalbach) (CDU/CSU),10,10/5,05.05.1983
+90,Kleinert (Hannover) (FDP),10,10/5,05.05.1983
+91,Kleinert (Hannover) (FDP),10,10/5,05.05.1983
+92,Kleinert (Hannover) (FDP),10,10/5,05.05.1983
+93,Seiters (CDU/CSU),10,10/5,05.05.1983
+94,Burgmann (GRÜNE),10,10/6,06.05.1983
+95,Burgmann (GRÜNE),10,10/6,06.05.1983
+96,Burgmann (GRÜNE),10,10/6,06.05.1983
+97,Becker (Nienberge) (SPD),10,10/6,06.05.1983
+98,Brandt (SPD),10,10/6,06.05.1983
+99,Schily (GRÜNE),10,10/6,06.05.1983
+100,Mischnick (FDP),10,10/6,06.05.1983
+101,Mischnick (FDP),10,10/6,06.05.1983
+102,Mischnick (FDP),10,10/6,06.05.1983
+103,Mischnick (FDP),10,10/6,06.05.1983
+104,Duve (SPD),10,10/7,18.05.1983
+105,Eigen (CDU/CSU),10,10/7,18.05.1983
+106,Eigen (CDU/CSU),10,10/7,18.05.1983
+107,Broil (CDU/CSU),10,10/7,18.05.1983
+108,Duve (SPD),10,10/7,18.05.1983
+109,Boroffka (CDU/CSU),10,10/7,18.05.1983
+110,Lennartz (SPD),10,10/7,18.05.1983
+111,Toetemeyer (SPD),10,10/7,18.05.1983
+112,Toetemeyer (SPD),10,10/7,18.05.1983
+113,Schneider (Berlin) (GRÜNE),10,10/7,18.05.1983
+114,Duve (SPD),10,10/7,18.05.1983
+115,Zander (SPD),10,10/7,18.05.1983
+116,Fischer (Frankfurt) (GRÜNE),10,10/7,18.05.1983
+117,Duve (SPD),10,10/7,18.05.1983
+118,Toetemeyer (SPD),10,10/7,18.05.1983
+119,Verheugen (SPD),10,10/7,18.05.1983
+120,Klein (Dieburg) (SPD),10,10/7,18.05.1983
+121,Peter (Kassel) (SPD),10,10/7,18.05.1983
+122,Stratmann (GRÜNE),10,10/7,18.05.1983
+123,Zander (SPD),10,10/7,18.05.1983
+124,Schäfer (Offenburg) (SPD),10,10/7,18.05.1983
+125,Schäfer (Offenburg) (SPD),10,10/7,18.05.1983
+126,Schäfer (Offenburg) (SPD),10,10/7,18.05.1983
+127,Schäfer (Offenburg) (SPD),10,10/7,18.05.1983
+128,Schäfer (Offenburg) (SPD),10,10/7,18.05.1983
+129,Stahl (Kempen) (SPD),10,10/7,18.05.1983
+130,Stahl (Kempen) (SPD),10,10/7,18.05.1983
+131,Vogt (Kaiserslautern) (GRÜNE),10,10/7,18.05.1983
+132,Broll (CDU/CSU),10,10/7,18.05.1983
+133,Broil (CDU/CSU),10,10/7,18.05.1983
+134,Duve (SPD),10,10/7,18.05.1983
+135,Broil (CDU/CSU),10,10/7,18.05.1983
+136,Broil (CDU/CSU),10,10/7,18.05.1983
+137,Duve (SPD),10,10/7,18.05.1983
+138,Klein (Dieburg) (SPD),10,10/7,18.05.1983
+139,Klein (Dieburg) (SPD),10,10/7,18.05.1983
+140,Duve (SPD),10,10/7,18.05.1983
+141,Vogt (Kaiserslautern) (GRÜNE),10,10/7,18.05.1983
+142,Reents (GRÜNE),10,10/7,18.05.1983
+143,Klein (Dieburg) (SPD),10,10/7,18.05.1983
+144,Klein (Dieburg) (SPD),10,10/7,18.05.1983
+145,Klein (Dieburg) (SPD),10,10/7,18.05.1983
+146,Wolfgramm (Göttingen) (FDP),11,11/1,18.02.1987
+147,Jahn (Marburg) (SPD),11,11/1,18.02.1987
+148,Kleinert (Marburg) (GRÜNE),11,11/1,18.02.1987
+149,Seiters (CDU/CSU),11,11/1,18.02.1987
+150,Seiters (CDU/CSU),11,11/1,18.02.1987
+151,Wolfgramm (Göttingen) (FDP),11,11/1,18.02.1987
+152,Wolfgramm (Göttingen) (FDP),11,11/1,18.02.1987
+153,Jahn (Marburg) (SPD),11,11/1,18.02.1987
+154,Kleinert (Marburg) (GRÜNE),11,11/1,18.02.1987
+155,Seiters (CDU/CSU),11,11/1,18.02.1987
+156,Stücklen (CDU/CSU),11,11/1,18.02.1987
+157,Westphal (SPD),11,11/1,18.02.1987
+158,Kleinert (Marburg) (GRÜNE),11,11/3,12.03.1987
+159,Jahn (Marburg) (SPD),11,11/3,12.03.1987
+160,Rühe (CDU/CSU),11,11/3,12.03.1987
+161,Voigt (Frankfurt) (SPD),11,11/3,12.03.1987
+162,Ronneburger (FDP),11,11/3,12.03.1987
+163,Stobbe (SPD),11,11/3,12.03.1987
+164,Stobbe (SPD),11,11/3,12.03.1987
+165,Lamers (CDU/CSU),11,11/3,12.03.1987
+166,Petersen (CDU/CSU),11,11/3,12.03.1987
+167,Kleinert (Marburg) (GRÜNE),11,11/4,18.03.1987
+168,Roth (SPD),11,11/4,18.03.1987
+169,Roth (SPD),11,11/4,18.03.1987
+170,Roth (SPD),11,11/4,18.03.1987
+171,Roth (SPD),11,11/4,18.03.1987
+172,Hauser (Krefeld) (CDU/CSU),11,11/4,18.03.1987
+173,Ebermann (GRÜNE),11,11/4,18.03.1987
+174,Vosen (SPD),11,11/4,18.03.1987
+175,Roth (SPD),11,11/4,18.03.1987
+176,Roth (SPD),11,11/4,18.03.1987
+177,Westphal (SPD),11,11/4,18.03.1987
+178,Sellin (GRÜNE),11,11/4,18.03.1987
+179,Sellin (GRÜNE),11,11/4,18.03.1987
+180,Spilker (CDU/CSU),11,11/4,18.03.1987
+181,Carstens (Emstek) (CDU/CSU),11,11/5,19.03.1987
+182,Carstens (Emstek) (CDU/CSU),11,11/5,19.03.1987
+183,Carstens (Emstek) (CDU/CSU),11,11/5,19.03.1987
+184,Carstens (Emstek) (CDU/CSU),11,11/5,19.03.1987
+185,Carstens (Emstek) (CDU/CSU),11,11/5,19.03.1987
+186,Westphal (SPD),11,11/5,19.03.1987
+187,Kleinert (Marburg) (GRÜNE),11,11/5,19.03.1987
+188,Mischnick (FDP),11,11/5,19.03.1987
+189,Vosen (SPD),11,11/5,19.03.1987
+190,Mischnick (FDP),11,11/5,19.03.1987
+191,Mischnick (FDP),11,11/5,19.03.1987
+192,Mischnick (FDP),11,11/5,19.03.1987
+193,Baum (FDP),11,11/5,19.03.1987
+194,Kühbacher (SPD),11,11/5,19.03.1987
+195,Baum (FDP),11,11/5,19.03.1987
+196,Stratmann (GRÜNE),11,11/5,19.03.1987
+197,Baum (FDP),11,11/5,19.03.1987
+198,Weiermann (SPD),11,11/5,19.03.1987
+199,Weiermann (SPD),11,11/5,19.03.1987
+200,Cronenberg (Arnsberg) (FDP),11,11/5,19.03.1987
+201,Cronenberg (Arnsberg) (FDP),11,11/5,19.03.1987
+202,Hoss (GRÜNE),11,11/5,19.03.1987
+203,Hoss (GRÜNE),11,11/5,19.03.1987
+204,Wüppesahl (GRÜNE),11,11/5,19.03.1987
+205,Wüppesahl (GRÜNE),11,11/5,19.03.1987
+206,Mischnick (FDP),11,11/6,20.03.1987
+207,Kleinert (Marburg) (GRÜNE),11,11/6,20.03.1987
+208,Mischnick (FDP),11,11/6,20.03.1987
+209,Mischnick (FDP),11,11/6,20.03.1987
+210,Mischnick (FDP),11,11/6,20.03.1987
+211,Mischnick (FDP),11,11/6,20.03.1987
+212,Mischnick (FDP),11,11/6,20.03.1987
+213,Rühe (CDU/CSU),11,11/6,20.03.1987
+214,Rühe (CDU/CSU),11,11/6,20.03.1987
+215,Bohl (CDU/CSU),11,11/7,01.04.1987
+216,Wolfgramm (Göttingen) (FDP),11,11/7,01.04.1987
+217,Wolfgramm (Göttingen) (FDP),11,11/7,01.04.1987
+218,Bohl (CDU/CSU),11,11/7,01.04.1987
+219,Bohl (CDU/CSU),11,11/7,01.04.1987
+220,Kleinert (Marburg) (GRÜNE),11,11/7,01.04.1987
+221,Kleinert (Marburg) (GRÜNE),11,11/7,01.04.1987
+222,Kleinert (Marburg) (GRÜNE),11,11/7,01.04.1987
+223,Becker (Nienberge) (SPD),11,11/7,01.04.1987
+224,Roth (SPD),11,11/7,01.04.1987
+225,Wissmann (CDU/CSU),11,11/7,01.04.1987
+226,Stratmann (GRÜNE),11,11/7,01.04.1987
+227,Stratmann (GRÜNE),11,11/7,01.04.1987
+228,Stratmann (GRÜNE),11,11/7,01.04.1987
+229,Beckmann (FDP),11,11/7,01.04.1987
+230,Jahn (Marburg) (SPD),11,11/7,01.04.1987
+231,Wissmann (CDU/CSU),11,11/7,01.04.1987
+232,Müller (Wadern) (CDU/CSU),11,11/7,01.04.1987
+233,Müller (Wadern) (CDU/CSU),11,11/7,01.04.1987
+234,Schanz (SPD),11,11/7,01.04.1987
+235,Schanz (SPD),11,11/7,01.04.1987
+236,Stratmann (GRÜNE),11,11/7,01.04.1987
+237,Stratmann (GRÜNE),11,11/7,01.04.1987
+238,Stratmann (GRÜNE),11,11/7,01.04.1987
+239,Schanz (SPD),11,11/7,01.04.1987
+240,Schanz (SPD),11,11/7,01.04.1987
+241,Urbaniak (SPD),11,11/7,01.04.1987
+242,Stratmann (GRÜNE),11,11/7,01.04.1987
+243,Sieler (Amberg) (SPD),11,11/7,01.04.1987
+244,Stratmann (GRÜNE),11,11/7,01.04.1987
+245,Stratmann (GRÜNE),11,11/7,01.04.1987
+246,Roth (SPD),11,11/7,01.04.1987
+247,Stratmann (GRÜNE),11,11/7,01.04.1987
+248,Stratmann (GRÜNE),11,11/7,01.04.1987
+249,Reuschenbach (SPD),11,11/7,01.04.1987
+250,Reuschenbach (SPD),11,11/7,01.04.1987
+251,Reuschenbach (SPD),11,11/7,01.04.1987
+252,Urbaniak (SPD),11,11/7,01.04.1987
+253,Breuer (CDU/CSU),11,11/7,01.04.1987
+254,Urbaniak (SPD),11,11/7,01.04.1987

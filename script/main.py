@@ -28,14 +28,19 @@ def clean_ko_item(input):
 
     # Splits after '— '
     if '— ' in input:
-        output = input.split(sep='— ', maxsplit=1)[1]
-    else:
-        output = input
+        input = input.split(sep='— ', maxsplit=1)[1]
 
-    if output[0] == '—':
-        output = output[1:]
+    if input[0] == '—':
+        input = input[1:]
 
-    return output
+    if ':' in input:
+        input = input.split(sep=':', maxsplit=1)[1]
+
+    if 'Abg.' in input:
+        input = input.split(sep='Abg.', maxsplit=1)[1]
+    
+
+    return input
 
 def typeofspeech(str, rb_regex, ko_regex):
     if re.match(rb_regex, str):
@@ -142,10 +147,11 @@ def main(dir, rb_ID):
     RB_df = pd.DataFrame()
     KO_df = pd.DataFrame()
 
- 
+    filenumber = 0
 
     # iteration through files
     for filename in os.listdir(dir):
+        filenumber += 1
         filepath = os.path.join(dir, filename)
         file = load_xml(filepath)
 
@@ -155,6 +161,7 @@ def main(dir, rb_ID):
         KO_df = pd.concat([KO_df,results[1]])
 
         rb_ID = results[2]
+        print(f'filenumber = {filenumber}')
  
     # export df to csv
     export_rb(RB_df)

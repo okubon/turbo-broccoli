@@ -100,7 +100,7 @@ def get_the_juice_stuff(file, rb_ID):
     ko_dict = {}
 
     # regex for the different typ of speeches
-    rb_regex = "([a-zA-ZÄäÜüÖö]+\s\([^)]*\)\s\([^)]*\):|[a-zA-ZÄäÜüÖö]+\s\([^)]*\):)"
+    rb_regex = "([a-zA-ZÄäÜüÖöß]+\s\([^)]*\)\s\([^)]*\):|[a-zA-ZÄäÜüÖöß]+\s\([^)]*\).*:)"
     ko_regex = "[a-zA-Z]+.*\[.*\]:"
 
     # iteration through sentences

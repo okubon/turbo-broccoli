@@ -1,3 +1,4 @@
+from operator import contains
 import xml.etree.ElementTree as ET
 from snorkel.labeling import labeling_function
 import nltk.data
@@ -6,20 +7,147 @@ import re
 from collections import Counter
 import os
 import xml.etree.ElementTree as ETree
+import pandas
 
 def load_xml(path):
+    ''''''
     tree = ET.parse(path)
     root = tree.getroot()
     return root
 
+def get_file(filename):
+    filepath = os.path.join(dir, filename)
+    file = load_xml(filepath)
+    return file
+
+def split_text(text):
+    '''Splits text into single sentences when \n occurs'''
+    split_text = text.split("\n")
+    return split_text
+
+def create_RB_regex():
+    '''
+    regex for the different typ of RB
+
+    # base
+    catch all RB with () in it. It's the base and finds the most RB
+
+    # title
+    finds stuff like: "Dr. Schröder,  Bundesminister des Innern:" 
+
+    # funktion
+    finds stuff like: "Schäfer, Staatsminister im Auswärtigen Amt:"
+
+    # ralterspraesident
+    finds stuff like: "Alterspräsident Labe:"
+    
+    '''
+    dict = {
+        'base': "([a-zA-ZÄäÜüÖöß]+\s\([^)]*\)\s\([^)]*\):|[a-zA-ZÄäÜüÖöß]+\s\([^)]*\).*:)",
+        'title': "[a-zA-Z]+\..*[a-zA-Z]+.*:",   
+        'alterspraesident': "Alterspräsident [a-zA-Z]+:"
+    }
+    # 'funktion': "[A-Z]+.*,.*:",
+    #'title': "[a-zA-Z]+\..*[a-zA-Z]+.*:",   
+    #'alterspraesident': "Alterspräsident [a-zA-Z]+:"
+    return dict
+
+def create_KO_regex():
+    '''
+    regex for the different typ of KO
+    '''
+    dict = {
+        "base": "[a-zA-Z]+.*\[.*\]:"
+    }
+
+
+    return dict
+
+def typeofspeech(str, rb_regex, ko_regex):
+    # check if its RB
+    for key in rb_regex.keys():
+        if re.match(rb_regex[key], str):
+            type = 'rb'
+            regex = rb_regex[key]
+            break
+        else:
+            for key in ko_regex.keys():
+                if re.match(ko_regex[key], str):
+                    type = 'ko'
+                    regex = ko_regex[key]
+                    break
+                else:
+                    type = "Null"
+                    regex = "Null"
+    return type, regex
+
+def clean_rb_df(df):
+    # key words in rb to skip
+    discard = ["Drucksache",  
+                "Geschäftsordnung", 
+                "Tagesordnungspunkt",
+                "Verordnung",
+                "Ausschuss",
+                "abschätzung",
+                "Schriftlicher",
+                "§",
+                "Ratsdok",
+                "Ergänzung",
+                "btr.",
+                "Fortsetzung",
+                "vergessen",
+                "Fragen",
+                "Drittens",
+                "Zweitens",
+                "Haushaltsführung",
+                "Erstens",
+                "z. B.",
+                "Elftens",
+                "Viertens",
+                "Fünftens",
+                "Sechstens",
+                "Siebtens",
+                "Achtens",
+                "Neuntens",
+                "Zehntens",
+                "Frieden",
+                "Indessen",
+                "Mensch",
+                "Bundesregierung",
+                "Februar",
+                "Er",
+                "Sie",
+                "wir",
+                "Abs.",
+                "Reform",
+                "Alle",
+                "der",
+                "die",
+                "das",
+                "Ich",
+                "Du",
+                "Frage",
+                "F.D.P.",
+                "Was",
+                "Warum",
+                "Wie",
+                "Beispiel"]
+
+    # check if sentence is needed
+    for item in discard:
+        df = df[~df.RB_Name.str.contains('|'.join(discard))]
+    return df
+
 def clean_rb_item(input):
-    '''
-    Cleans the item in a list from colons.
-    Example: "Stratmann (GRÜNE):" -> "Stratmann (GRÜNE)"
-    '''
-    l = len(input)
-    output = input[:l-1]
-    return output
+    step1 = input.split(':')
+    step2 = step1[0].split(',')
+    step3 = step2[0].split(' .')
+    step4 = step3[0].split('   ')
+    step5 = step4[0].split(' 	')
+    step6 = step5[0].split('	')
+    step7 = step6[0].split(' 	 ')
+    step8 = re.split(r'\d', step7[0], maxsplit=1)
+    return step8[0]
 
 def clean_ko_item(input):
     # Cleans the item in a list from colons.
@@ -39,49 +167,7 @@ def clean_ko_item(input):
     if 'Abg.' in input:
         input = input.split(sep='Abg.', maxsplit=1)[1]
     
-
     return input
-
-def typeofspeech(str, rb_regex, ko_regex):
-    if re.match(rb_regex, str):
-        typeofspeech = 'rb'
-    elif re.match(ko_regex, str):
-        typeofspeech = 'ko'
-    else:
-        typeofspeech = "Null"
-
-    return typeofspeech
-
-@labeling_function()
-def get_RB(rb_regex, sentence):
-    '''
-    Name (Partei):
-    Name (Partei/Partei):
-    Name (Stadt):
-    Name (Stadt) (Partei):
-    Name (Stadt) (Partei/Partei):
-    '''
-    list = re.findall(rb_regex, sentence)
-
-    return list[0]
-
-@labeling_function()
-def get_KO(ko_regex, sentence):
-    '''
-    (Conradi [SPD]: Und wer soll das bezahlen?)
-    (Dr. Dregger [CDU/CSU]: Sehr gut!)
-    (Kleinert [Marburg] [GRÜNE]: Vor allemgerechter!)
-    (Beifall bei der CDU/CSU und der FDP — Dr. Apel [SPD]: Es ist doch völlig unrichtig, was Sie sagen!)
-    (Beifall bei der SPD - Zuruf des Abg. Dr. Waigel [CDU/CSU])
-
-    Hauser [Krefeld]\n[CDU/CSU]
-
-    (Name [Partei]: Text)
-    (Name [Partei/Partei]: Text)
-    (Text — Name [Partei]: Text)
-    '''
-    list = re.findall(ko_regex, sentence)
-    return list[0]
 
 def get_the_juice_stuff(file, rb_ID):
     # get meta data and content from xml file
@@ -99,20 +185,25 @@ def get_the_juice_stuff(file, rb_ID):
     rb_dict = {}
     ko_dict = {}
 
-    # regex for the different typ of speeches
-    rb_regex = "([a-zA-ZÄäÜüÖöß]+\s\([^)]*\)\s\([^)]*\):|[a-zA-ZÄäÜüÖöß]+\s\([^)]*\).*:)"
-    ko_regex = "[a-zA-Z]+.*\[.*\]:"
+    # load regex variations
+    rb_regex = create_RB_regex()
+    ko_regex = create_KO_regex()
 
     # iteration through sentences
     for sentence in text:
-        type = typeofspeech(sentence, rb_regex, ko_regex)
+        type = typeofspeech(sentence,rb_regex,ko_regex)[0]
+        regex = typeofspeech(sentence,rb_regex,ko_regex)[1]
+
         if type == 'rb':
             rb_ID += 1
-            rb_list = re.findall(rb_regex, sentence)
-            rb_dict[str(rb_ID)] = clean_rb_item(rb_list[0])
+            rb_list = re.findall(regex, sentence)
+            rb_item = clean_rb_item(rb_list[0])
+            rb_dict[str(rb_ID)] = rb_item
+            break
         elif type == 'ko':
-            ko_list = re.findall(ko_regex, sentence)
+            ko_list = re.findall(regex, sentence)
             ko_dict[str(rb_ID)] = clean_ko_item(ko_list[0])
+            break
     
     # create rb df
     rb_df = pd.DataFrame.from_dict(rb_dict, orient = 'index').reset_index()
@@ -121,6 +212,7 @@ def get_the_juice_stuff(file, rb_ID):
     rb_df['WAHLPERIODE'] = WAHLPERIODE
     rb_df['NR'] = NR
     rb_df['DATUM'] = DATUM
+    #rb_df = clean_rb_df(rb_df)
 
     # create ko df
     ko_df = pd.DataFrame.from_dict(ko_dict, orient = 'index').reset_index()
@@ -128,45 +220,37 @@ def get_the_juice_stuff(file, rb_ID):
 
     return rb_df, ko_df, rb_ID
     
-
-def export_rb(df):
-    df.to_csv(r'script/RB.csv', index = False)
+def export_results(RB_df, KO_df):
+    RB_df.to_csv(r'script/RB.csv',encoding='utf-8-sig', index = False)
+    KO_df.to_csv(r'script/KO.csv',encoding='utf-8-sig', index = False)
     return
 
-def export_ko(df):
-    df.to_csv(r'script/KO.csv', index = False)
-    return
-
-def split_text(text):
-    '''Splits text into single sentences when \n occurs'''
-    split_text = text.split("\n")
-    return split_text
-
-def main(dir, rb_ID):
+def main(dir, rb_ID, filenumber):
     # empty dfs to store results for RB and KO
     RB_df = pd.DataFrame()
     KO_df = pd.DataFrame()
 
-    filenumber = 0
-
     # iteration through files
     for filename in os.listdir(dir):
+        file = get_file(filename)
         filenumber += 1
-        filepath = os.path.join(dir, filename)
-        file = load_xml(filepath)
 
         results = get_the_juice_stuff(file, rb_ID)
 
         RB_df = pd.concat([RB_df,results[0]])
         KO_df = pd.concat([KO_df,results[1]])
 
+        RB_df = clean_rb_df(RB_df)
+
         rb_ID = results[2]
         print(f'filenumber = {filenumber}')
  
-    # export df to csv
-    export_rb(RB_df)
-    export_ko(KO_df)
+    # export to csv
+    export_results(RB_df, KO_df)
 
-
+# Global vars
 rb_ID = 0
-main('Daten_alle_WP', rb_ID)
+filenumber = 0
+dir = 'Daten_alle_WP'
+
+main(dir, rb_ID, filenumber)

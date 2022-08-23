@@ -41,15 +41,16 @@ def create_RB_regex():
     # ralterspraesident
     finds stuff like: "Alterspräsident Labe:"
     
-    '''
+    '''#         ([a-zA-ZÄäÜüÖö]+\s\([^)]*\)\s\([^)]*\):|[a-zA-ZÄäÜüÖö]+\s\([^)]*\):)
     dict = {
-        'base': "([a-zA-ZÄäÜüÖöß]+\s\([^)]*\)\s\([^)]*\):|[a-zA-ZÄäÜüÖöß]+\s\([^)]*\).*:)",
-        'title': "[a-zA-Z]+\..*[a-zA-Z]+.*:",   
-        'alterspraesident': "Alterspräsident [a-zA-Z]+:"
+        'base': "([a-zA-ZÄäÜüÖöß]+\s\([^)]*\)\s\([^)]*\):|[a-zA-ZÄäÜüÖöß]+\s\([^)]*\):)",
+        'title': "Dr\..*[a-zA-ZÄäÜüÖöß]+.*:"
     }
+    ## Weitere regexfunktionen
+    # 'base': "([a-zA-ZÄäÜüÖöß]+\s\([^)]*\)\s\([^)]*\):|[a-zA-ZÄäÜüÖöß]+\s\([^)]*\).*:)"
     # 'funktion': "[A-Z]+.*,.*:",
-    #'title': "[a-zA-Z]+\..*[a-zA-Z]+.*:",   
-    #'alterspraesident': "Alterspräsident [a-zA-Z]+:"
+    # 'title': "Dr\..*[a-zA-ZÄäÜüÖöß]+.*:",   
+    # 'alterspraesident': "Alterspräsident [a-zA-Z]+:"
     return dict
 
 def create_KO_regex():
@@ -87,51 +88,17 @@ def clean_rb_df(df):
                 "Geschäftsordnung", 
                 "Tagesordnungspunkt",
                 "Verordnung",
-                "Ausschuss",
-                "abschätzung",
+                "Ausschuss","ausschusses","schusses","ses \(",
+                "gie \(",
                 "Schriftlicher",
                 "§",
                 "Ratsdok",
                 "Ergänzung",
                 "btr.",
                 "Fortsetzung",
-                "vergessen",
                 "Fragen",
-                "Drittens",
-                "Zweitens",
                 "Haushaltsführung",
-                "Erstens",
-                "z. B.",
-                "Elftens",
-                "Viertens",
-                "Fünftens",
-                "Sechstens",
-                "Siebtens",
-                "Achtens",
-                "Neuntens",
-                "Zehntens",
-                "Frieden",
-                "Indessen",
-                "Mensch",
-                "Bundesregierung",
-                "Februar",
-                "Er",
-                "Sie",
-                "wir",
-                "Abs.",
-                "Reform",
-                "Alle",
-                "der",
-                "die",
-                "das",
-                "Ich",
-                "Du",
-                "Frage",
-                "F.D.P.",
-                "Was",
-                "Warum",
-                "Wie",
-                "Beispiel"]
+                "folgenabschätzung", "abschätzung"]
 
     # check if sentence is needed
     for item in discard:
@@ -144,10 +111,8 @@ def clean_rb_item(input):
     step3 = step2[0].split(' .')
     step4 = step3[0].split('   ')
     step5 = step4[0].split(' 	')
-    step6 = step5[0].split('	')
-    step7 = step6[0].split(' 	 ')
-    step8 = re.split(r'\d', step7[0], maxsplit=1)
-    return step8[0]
+    step6 = re.split(r'\d', step5[0], maxsplit=1)
+    return step6[0]
 
 def clean_ko_item(input):
     # Cleans the item in a list from colons.
@@ -191,6 +156,7 @@ def get_the_juice_stuff(file, rb_ID):
 
     # iteration through sentences
     for sentence in text:
+        #print(f'START: ' + sentence)
         type = typeofspeech(sentence,rb_regex,ko_regex)[0]
         regex = typeofspeech(sentence,rb_regex,ko_regex)[1]
 
@@ -240,7 +206,7 @@ def main(dir, rb_ID, filenumber):
         RB_df = pd.concat([RB_df,results[0]])
         KO_df = pd.concat([KO_df,results[1]])
 
-        RB_df = clean_rb_df(RB_df)
+        #RB_df = clean_rb_df(RB_df)
 
         rb_ID = results[2]
         print(f'filenumber = {filenumber}')

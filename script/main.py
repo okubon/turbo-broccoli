@@ -9,6 +9,7 @@ import os
 import xml.etree.ElementTree as ETree
 import pandas
 import time
+import glob
 
 def load_xml(path):
     tree = ET.parse(path)
@@ -16,8 +17,8 @@ def load_xml(path):
     return root
 
 def get_file(filename):
-    filepath = os.path.join(dir, filename)
-    file = load_xml(filepath)
+    #filepath = os.path.join(dir, filename)
+    file = load_xml(filename)
     return file
 
 def split_text(text):
@@ -169,9 +170,9 @@ def get_the_juice_stuff(file, rb_ID,rb_regex,ko_regex,rb_dict,ko_dict):
 
     return rb_df, ko_df, rb_ID
 
-def export_results(RB_df, KO_df):
-    RB_df.to_csv(r'script/RB.csv',encoding='utf-8-sig', index = False)
-    KO_df.to_csv(r'script/KO.csv',encoding='utf-8-sig', index = False)
+def export_results(RB_df, KO_df,WP):
+    RB_df.to_csv(rf'output/rb/{WP}.csv',encoding='utf-8-sig', index = False)
+    #KO_df.to_csv(rf'output/ko/%.csv' % WAHLPERIODE,encoding='utf-8-sig', index = False)
     return
 
 def main(dir, rb_ID, filenumber):
@@ -187,32 +188,43 @@ def main(dir, rb_ID, filenumber):
     rb_dict = {}
     ko_dict = {}
 
-    
     # iteration through files
-    for filename in os.listdir(dir):
-        t0 = time.time()
-        file = get_file(filename)
+    for root, dirs, files in os.walk(dir):
+        for name in files:
+            t0 = time.time()
+            filename =  os.path.join(root, name)
+            file = get_file(filename)
+            filenumber += 1
 
-        filenumber += 1
-        
-        results = get_the_juice_stuff(file, rb_ID,rb_regex,ko_regex,rb_dict,ko_dict)
-        
-        #Clean_rb_df = clean_rb_df()
+            results = get_the_juice_stuff(file, rb_ID,rb_regex,ko_regex,rb_dict,ko_dict)
+            
+            #Clean_rb_df = clean_rb_df()
 
-        RB_df = pd.concat([RB_df,results[0]])
-        KO_df = pd.concat([KO_df,results[1]])
-        rb_ID = results[2]
+            RB_df = pd.concat([RB_df,results[0]])
+            KO_df = pd.concat([KO_df,results[1]])
+            rb_ID = results[2]
 
-        t1 = time.time()
-        total = t1 - t0
-        print(f'filenumber = {filenumber} - time: {total}')
- 
-    # export to csv
-    export_results(RB_df, KO_df)
+            t1 = time.time()
+            total = t1 - t0
+            print(f'filenumber = {filenumber} - time: {total}')
+
+            # export to csv
+            WP = WAHLPERIODE = file[0].text
+            export_results(RB_df, KO_df, WP)
+            RB_df = RB_df.iloc[0:0]
+            KO_df = KO_df.iloc[0:0]
+    #
+    # alle csv dateien zusammen setzen
+    path = "output/rb/"
+
+    all_files = glob.glob(os.path.join(path, "*.csv"))
+    df_from_each_file = (pd.read_csv(f, sep=',') for f in all_files)
+    df_merged   = pd.concat(df_from_each_file, ignore_index=True)
+    df_merged.to_csv( "output/rb_merged.csv")
 
 # Global vars
 rb_ID = 0
 filenumber = 0
-dir = 'Daten_alle_WP'
+dir = 'Daten_alle_WP/'
 
 main(dir, rb_ID, filenumber)

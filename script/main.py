@@ -8,9 +8,9 @@ from collections import Counter
 import os
 import xml.etree.ElementTree as ETree
 import pandas
+import time
 
 def load_xml(path):
-    ''''''
     tree = ET.parse(path)
     root = tree.getroot()
     return root
@@ -43,8 +43,7 @@ def create_RB_regex():
     
     '''#         ([a-zA-ZÄäÜüÖö]+\s\([^)]*\)\s\([^)]*\):|[a-zA-ZÄäÜüÖö]+\s\([^)]*\):)
     dict = {
-        'base': "([a-zA-ZÄäÜüÖöß]+\s\([^)]*\)\s\([^)]*\):|[a-zA-ZÄäÜüÖöß]+\s\([^)]*\):)",
-        'title': "Dr\..*[a-zA-ZÄäÜüÖöß]+.*:"
+        'base': "([a-zA-ZÄäÜüÖöß]+\s\([^)]*\)\s\([^)]*\):|[a-zA-ZÄäÜüÖöß]+\s\([^)]*\).*?:)"
     }
     ## Weitere regexfunktionen
     # 'base': "([a-zA-ZÄäÜüÖöß]+\s\([^)]*\)\s\([^)]*\):|[a-zA-ZÄäÜüÖöß]+\s\([^)]*\).*:)"
@@ -67,20 +66,18 @@ def create_KO_regex():
 def typeofspeech(str, rb_regex, ko_regex):
     # check if its RB
     for key in rb_regex.keys():
-        if re.match(rb_regex[key], str):
+        match = re.match(rb_regex[key], str)
+        if match:
             type = 'rb'
-            regex = rb_regex[key]
-            break
         else:
             for key in ko_regex.keys():
-                if re.match(ko_regex[key], str):
+                match = re.match(ko_regex[key], str)
+                if match:
                     type = 'ko'
-                    regex = ko_regex[key]
-                    break
                 else:
                     type = "Null"
-                    regex = "Null"
-    return type, regex
+                    match = ["Null"]
+    return type, match[0]
 
 def clean_rb_df(df):
     # key words in rb to skip
@@ -108,11 +105,10 @@ def clean_rb_df(df):
 def clean_rb_item(input):
     step1 = input.split(':')
     step2 = step1[0].split(',')
-    step3 = step2[0].split(' .')
-    step4 = step3[0].split('   ')
-    step5 = step4[0].split(' 	')
-    step6 = re.split(r'\d', step5[0], maxsplit=1)
-    return step6[0]
+    step3 = step2[0].split(' . ')
+    step4 = re.split(r'\d', step3[0], maxsplit=1)
+    output = step4[0].strip()
+    return output
 
 def clean_ko_item(input):
     # Cleans the item in a list from colons.
@@ -134,7 +130,7 @@ def clean_ko_item(input):
     
     return input
 
-def get_the_juice_stuff(file, rb_ID):
+def get_the_juice_stuff(file, rb_ID,rb_regex,ko_regex,rb_dict,ko_dict):
     # get meta data and content from xml file
     WAHLPERIODE = file[0].text
     DOKUMENTENART = file[1].text
@@ -146,30 +142,17 @@ def get_the_juice_stuff(file, rb_ID):
     # split the text in single sentences
     text = split_text(TEXT)
 
-    # empty dicts to store the results
-    rb_dict = {}
-    ko_dict = {}
-
-    # load regex variations
-    rb_regex = create_RB_regex()
-    ko_regex = create_KO_regex()
-
     # iteration through sentences
     for sentence in text:
-        #print(f'START: ' + sentence)
-        type = typeofspeech(sentence,rb_regex,ko_regex)[0]
-        regex = typeofspeech(sentence,rb_regex,ko_regex)[1]
+        check = typeofspeech(sentence,rb_regex,ko_regex)
+        type = check[0]
+        match = clean_rb_item(check[1])
 
         if type == 'rb':
             rb_ID += 1
-            rb_list = re.findall(regex, sentence)
-            rb_item = clean_rb_item(rb_list[0])
-            rb_dict[str(rb_ID)] = rb_item
-            break
+            rb_dict[str(rb_ID)] = match
         elif type == 'ko':
-            ko_list = re.findall(regex, sentence)
-            ko_dict[str(rb_ID)] = clean_ko_item(ko_list[0])
-            break
+            ko_dict[str(rb_ID)] = match
     
     # create rb df
     rb_df = pd.DataFrame.from_dict(rb_dict, orient = 'index').reset_index()
@@ -185,7 +168,7 @@ def get_the_juice_stuff(file, rb_ID):
     ko_df = ko_df.rename(columns={'index':'RB_ID', 0:'KO_Name'})
 
     return rb_df, ko_df, rb_ID
-    
+
 def export_results(RB_df, KO_df):
     RB_df.to_csv(r'script/RB.csv',encoding='utf-8-sig', index = False)
     KO_df.to_csv(r'script/KO.csv',encoding='utf-8-sig', index = False)
@@ -196,20 +179,33 @@ def main(dir, rb_ID, filenumber):
     RB_df = pd.DataFrame()
     KO_df = pd.DataFrame()
 
+    # load regex variations
+    rb_regex = create_RB_regex()
+    ko_regex = create_KO_regex()
+
+    # empty dicts to store the results
+    rb_dict = {}
+    ko_dict = {}
+
+    
     # iteration through files
     for filename in os.listdir(dir):
+        t0 = time.time()
         file = get_file(filename)
-        filenumber += 1
 
-        results = get_the_juice_stuff(file, rb_ID)
+        filenumber += 1
+        
+        results = get_the_juice_stuff(file, rb_ID,rb_regex,ko_regex,rb_dict,ko_dict)
+        
+        #Clean_rb_df = clean_rb_df()
 
         RB_df = pd.concat([RB_df,results[0]])
         KO_df = pd.concat([KO_df,results[1]])
-
-        #RB_df = clean_rb_df(RB_df)
-
         rb_ID = results[2]
-        print(f'filenumber = {filenumber}')
+
+        t1 = time.time()
+        total = t1 - t0
+        print(f'filenumber = {filenumber} - time: {total}')
  
     # export to csv
     export_results(RB_df, KO_df)

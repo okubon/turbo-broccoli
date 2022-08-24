@@ -1,13 +1,7 @@
-from operator import contains
 import xml.etree.ElementTree as ET
-from snorkel.labeling import labeling_function
-import nltk.data
 import pandas as pd
 import re
-from collections import Counter
 import os
-import xml.etree.ElementTree as ETree
-import pandas
 import time
 import glob
 
@@ -225,6 +219,6 @@ def main(dir, rb_ID, filenumber):
 # Global vars
 rb_ID = 0
 filenumber = 0
-dir = 'Daten_alle_WP/'
+dir = 'protokolle_wp_1-12/'
 
 main(dir, rb_ID, filenumber)

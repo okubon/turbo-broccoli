@@ -1,4 +1,10 @@
-# changelog
+# Changelog
+
+**[07/08.2022] - Team**
+* Alles steht in Flammen
+* Nichts funktioniert wie es soll
+* Verzweiflung macht sich breit
+* Irgendwelche Dinge sind irgendwann passiert 
 
 **[18.06.2022] - Team**
 * Präsentationsrohfassung bearbeiten

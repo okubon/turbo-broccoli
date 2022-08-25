@@ -35,82 +35,20 @@ def merge_all_csv() -> None:
     ko_df_merged = pd.concat(ko_df_from_each_file, ignore_index=True)
     ko_df_merged.to_csv("output/ko_merged.csv")
 
-def clean_rb_df(df: pd.DataFrame) -> pd.DataFrame:
-    '''
-    The RegEx match some unwanted sentences that this function gets rid of.
-    '''
-    # key words in rb to skip
-    discard = [
-        "Drucksache",  
-        "Geschäftsordnung", 
-        "Tagesordnungspunkt",
-        "Verordnung",
-        "Ausschuss","ausschusses","schusses","ses \(",
-        "gie \(",
-        "Schriftlicher",
-        "§",
-        "Ratsdok",
-        "Ergänzung",
-        "btr.",
-        "Fortsetzung",
-        "Fragen",
-        "Haushaltsführung",
-        "folgenabschätzung", "abschätzung"
-    ]
-
-    # check if sentence is needed
-    for item in discard:
-        df = df[~df.RB_Name.str.contains('|'.join(discard))]
-
-    return df
-
-def clean_rb_item(input):
-    '''
-    The RegEx sometimes match a bit too much of a sentence. 
-    This cuts off the excess.
-    '''
-    step1 = input.split(':')
-    step2 = step1[0].split(',')
-    step3 = step2[0].split(' . ')
-    step4 = re.split(r'\d', step3[0], maxsplit=1)
-    output = step4[0].strip()
-
-    return output
-
-def clean_ko_item(input):
-    '''
-    The RegEx sometimes match a bit too much of a sentence. 
-    This cuts off the excess.
-    '''
-    # Cleans the item in a list from colons.
-    l = len(input)
-    input = input[:l-1]
-
-    # Splits after '— '
-    if '— ' in input:
-        input = input.split(sep='— ', maxsplit=1)[1]
-    if input[0] == '—':
-        input = input[1:]
-    if ':' in input:
-        input = input.split(sep=':', maxsplit=1)[1]
-    if 'Abg.' in input:
-        input = input.split(sep='Abg.', maxsplit=1)[1]
-    
-    return input
-
-def type_of_speech(sentence: str) -> tuple[str, Union[re.Match, list]]:
+def type_of_speech(sentence: str) -> tuple[str, str]:
     '''
     Checks if the part contains a RB or KO.
     '''
     # RegEx for the different formats of RB
     rb_regex = {
-        'base': "([a-zA-ZÄäÜüÖöß]+\s\([^)]*\)\s\([^)]*\):|[a-zA-ZÄäÜüÖöß]+\s\([^)]*\).*?:)",
-        'title': "Dr\..*[a-zA-ZÄäÜüÖöß]+.*:"
+        'base': "([a-zA-ZÄäÜüÖöß]+\s\([^)]*\)\s\([^)]*\).*?(?=:)|[a-zA-ZÄäÜüÖöß]+\s\([^)]*\).*?(?=:))",
+        'title': "^(Alterspräsidenti?n?|Präsidenti?n?|Vizepräsidenti?n?|Abg.|Frau|Dr?.)\s[a-zA-ZÄäÜüÖöß]+.*?(?=:)"
     }
 
     # RegEx for the different formats of KO
+    # for whatever reason the positive lookbehind for '(' doesn't work
     ko_regex = {
-        "base": "[a-zA-Z]+.*\[.*\]:"
+        "base": "\([a-zA-Z]+.*\[.*\](?=:)"
     }
     
     if re.match(rb_regex["base"], sentence):
@@ -149,7 +87,6 @@ def extract_from_protocol(file, rb_ID:int) -> tuple[pd.DataFrame, pd.DataFrame, 
     # iteration through sentences
     for sentence in text:
         type, match = type_of_speech(sentence)
-        # match = clean_rb_item(check[1]) #TODO
 
         if type == 'rb':
             rb_ID += 1
@@ -190,8 +127,13 @@ def main() -> None:
     for root, dirs, files in os.walk(dir):  
 
         if (RB_df.shape[0] != 0) and (KO_df.shape[0] != 0):
-            # clean the dfs
-            # RB_df = clean_rb_df(RB_df)
+            
+            # some comments get catched because they stretch over multiple lines
+            # cut off from the previous part by a newline, they get filtered here
+            RB_df = RB_df[~RB_df["RB_Name"].str.contains('\[')]
+
+            # the positive look behind didn't work
+            KO_df["KO_Name"] = KO_df["KO_Name"].str[1:]
 
             # export to csv
             RB_df.to_csv(rf'output/rb/rb{wp}.csv',encoding='utf-8-sig', index = False)

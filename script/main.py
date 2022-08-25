@@ -5,6 +5,7 @@ import os
 import time
 import glob
 import logging
+from typing import Union
 
 # alternative to spamming your terminal, used to check on performance and errors
 logging.basicConfig(
@@ -16,7 +17,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-def merge_all_csv():
+def merge_all_csv() -> None:
     '''
     For performance reasons every period has its seperate csv. 
     This function merges all of them. Note: the output csv might be
@@ -34,9 +35,9 @@ def merge_all_csv():
     ko_df_merged = pd.concat(ko_df_from_each_file, ignore_index=True)
     ko_df_merged.to_csv("output/ko_merged.csv")
 
-def clean_rb_df(df):
+def clean_rb_df(df: pd.DataFrame) -> pd.DataFrame:
     '''
-    The RegEx match some other patterns that this function gets rid of.
+    The RegEx match some unwanted sentences that this function gets rid of.
     '''
     # key words in rb to skip
     discard = [
@@ -60,23 +61,26 @@ def clean_rb_df(df):
     # check if sentence is needed
     for item in discard:
         df = df[~df.RB_Name.str.contains('|'.join(discard))]
+
     return df
 
 def clean_rb_item(input):
     '''
-    The RegEx sometimes match a bit too much. This cuts off some of the excess.
+    The RegEx sometimes match a bit too much of a sentence. 
+    This cuts off the excess.
     '''
     step1 = input.split(':')
     step2 = step1[0].split(',')
     step3 = step2[0].split(' . ')
     step4 = re.split(r'\d', step3[0], maxsplit=1)
     output = step4[0].strip()
+
     return output
 
 def clean_ko_item(input):
     '''
-    The RegEx sometimes match a bit too much. 
-    This cuts off some of the excess and other additional parts.
+    The RegEx sometimes match a bit too much of a sentence. 
+    This cuts off the excess.
     '''
     # Cleans the item in a list from colons.
     l = len(input)
@@ -94,7 +98,7 @@ def clean_ko_item(input):
     
     return input
 
-def type_of_speech(sentence):
+def type_of_speech(sentence: str) -> tuple[str, Union[re.Match, list]]:
     '''
     Checks if the part contains a RB or KO.
     '''
@@ -111,24 +115,28 @@ def type_of_speech(sentence):
     
     if re.match(rb_regex["base"], sentence):
         match = re.match(rb_regex["base"], sentence)
-        type = 'rb'    
+        dtype = 'rb'    
     elif re.match(rb_regex["title"], sentence):
         match = re.match(rb_regex["title"], sentence)
-        type = 'rb'    
+        dtype = 'rb' 
     elif re.match(ko_regex["base"], sentence):
         match = re.match(ko_regex["base"], sentence)
-        type = 'ko'
+        dtype = 'ko'
     else:
         match = ["Null"]
-        type = "Null"
+        dtype = "Null"
+    
+    return dtype, match[0]
 
-    return type, match[0]
-
-def extract_from_protocol(file, rb_ID, rb_dict, ko_dict):
+def extract_from_protocol(file, rb_ID:int) -> tuple[pd.DataFrame, pd.DataFrame, int, int]:
     '''
     Cuts a singular given protocol into parts and extracts the RB and KO.
     Saves those extractions into dictionaries and creates a df out of those.
     '''
+    # empty dicts to store the results
+    rb_dict = {}
+    ko_dict = {}
+
     # get meta data and content from xml file
     wahlperiode = file[0].text
     nr = file[2].text
@@ -141,6 +149,7 @@ def extract_from_protocol(file, rb_ID, rb_dict, ko_dict):
     # iteration through sentences
     for sentence in text:
         type, match = type_of_speech(sentence)
+        # match = clean_rb_item(check[1]) #TODO
 
         if type == 'rb':
             rb_ID += 1
@@ -163,11 +172,12 @@ def extract_from_protocol(file, rb_ID, rb_dict, ko_dict):
 
     return rb_df, ko_df, rb_ID, wahlperiode
 
-def main(dir, rb_ID):
+def main() -> None:
     '''
     Walks through the entire process of extracting, assigning, 
     cleaning and saving the data.
     '''
+    rb_ID = 0
     dir = 'protokolle_wp_1-12/'
 
     filenumber, total_time, wp = 0, 0, 0
@@ -180,6 +190,8 @@ def main(dir, rb_ID):
     for root, dirs, files in os.walk(dir):  
 
         if (RB_df.shape[0] != 0) and (KO_df.shape[0] != 0):
+            # clean the dfs
+            # RB_df = clean_rb_df(RB_df)
 
             # export to csv
             RB_df.to_csv(rf'output/rb/rb{wp}.csv',encoding='utf-8-sig', index = False)
@@ -194,26 +206,22 @@ def main(dir, rb_ID):
 
         for name in files:
 
-            # empty dicts to store the results
-            rb_dict = {}
-            ko_dict = {}
-
             filenumber += 1
             t0 = time.time()
 
             filename =  os.path.join(root, name)
             file = ET.parse(filename).getroot()
 
-            part_rb_df, part_ko_df, rb_ID, wp = extract_from_protocol(file, rb_ID, rb_dict, ko_dict)
+            part_rb_df, part_ko_df, rb_ID, wp = extract_from_protocol(file, rb_ID)
             
-            RB_df = pd.concat([RB_df,part_rb_df])
-            KO_df = pd.concat([KO_df,part_ko_df])
+            RB_df = pd.concat([RB_df, part_rb_df])
+            KO_df = pd.concat([KO_df, part_ko_df])
 
             t1 = time.time()
             total_time += t1 - t0 
 
 
-main(dir, 0)
+main()
 # commented out because the merged file tends to kill (me and) the data 
 # transformation process inside PowerQuery
 # merge_all_csv()

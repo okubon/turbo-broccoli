@@ -1,153 +1,92 @@
-from operator import contains
 import xml.etree.ElementTree as ET
-from snorkel.labeling import labeling_function
-import nltk.data
 import pandas as pd
 import re
-from collections import Counter
 import os
-import xml.etree.ElementTree as ETree
-import pandas
 import time
 import glob
+import logging
+from typing import Union
 
-def load_xml(path):
-    tree = ET.parse(path)
-    root = tree.getroot()
-    return root
+# alternative to spamming your terminal, used to check on performance and errors
+logging.basicConfig(
+    format='%(asctime)s: %(message)s', 
+    datefmt='%d/%m/%Y %I:%M:%S', 
+    filename='script/filetime.log', 
+    filemode="w", 
+    encoding='utf-8', 
+    level=logging.INFO
+)
 
-def get_file(filename):
-    #filepath = os.path.join(dir, filename)
-    file = load_xml(filename)
-    return file
-
-def split_text(text):
-    '''Splits text into single sentences when \n occurs'''
-    split_text = text.split("\n")
-    return split_text
-
-def create_RB_regex():
+def merge_all_csv() -> None:
     '''
-    regex for the different typ of RB
-
-    # base
-    catch all RB with () in it. It's the base and finds the most RB
-
-    # title
-    finds stuff like: "Dr. Schröder,  Bundesminister des Innern:" 
-
-    # funktion
-    finds stuff like: "Schäfer, Staatsminister im Auswärtigen Amt:"
-
-    # ralterspraesident
-    finds stuff like: "Alterspräsident Labe:"
-    
-    '''#         ([a-zA-ZÄäÜüÖö]+\s\([^)]*\)\s\([^)]*\):|[a-zA-ZÄäÜüÖö]+\s\([^)]*\):)
-    dict = {
-        'base': "([a-zA-ZÄäÜüÖöß]+\s\([^)]*\)\s\([^)]*\):|[a-zA-ZÄäÜüÖöß]+\s\([^)]*\).*?:)"
-    }
-    ## Weitere regexfunktionen
-    # 'base': "([a-zA-ZÄäÜüÖöß]+\s\([^)]*\)\s\([^)]*\):|[a-zA-ZÄäÜüÖöß]+\s\([^)]*\).*:)"
-    # 'funktion': "[A-Z]+.*,.*:",
-    # 'title': "Dr\..*[a-zA-ZÄäÜüÖöß]+.*:",   
-    # 'alterspraesident': "Alterspräsident [a-zA-Z]+:"
-    return dict
-
-def create_KO_regex():
+    For performance reasons every period has its seperate csv. 
+    This function merges all of them. Note: the output csv might be
+    to big for some pcs or tools to handle.
     '''
-    regex for the different typ of KO
+    rb_path = "output/rb/"
+    rb_all_files = glob.glob(os.path.join(rb_path, "*.csv"))
+    rb_df_from_each_file = (pd.read_csv(f, sep=',') for f in rb_all_files)
+    rb_df_merged = pd.concat(rb_df_from_each_file, ignore_index=True)
+    rb_df_merged.to_csv("output/rb_merged.csv")
+
+    ko_path = "output/ko/"
+    ko_all_files = glob.glob(os.path.join(ko_path, "*.csv"))
+    ko_df_from_each_file = (pd.read_csv(f, sep=',') for f in ko_all_files)
+    ko_df_merged = pd.concat(ko_df_from_each_file, ignore_index=True)
+    ko_df_merged.to_csv("output/ko_merged.csv")
+
+def type_of_speech(sentence: str) -> tuple[str, str]:
     '''
-    dict = {
-        "base": "[a-zA-Z]+.*\[.*\]:"
+    Checks if the part contains a RB or KO.
+    '''
+    # RegEx for the different formats of RB
+    rb_regex = {
+        'base': "([a-zA-ZÄäÜüÖöß]+\s\([^)]*\)\s\([^)]*\).*?(?=:)|[a-zA-ZÄäÜüÖöß]+\s\([^)]*\).*?(?=:))",
+        'title': "^(Alterspräsidenti?n?|Präsidenti?n?|Vizepräsidenti?n?|Abg.|Frau|Dr?.)\s[a-zA-ZÄäÜüÖöß]+.*?(?=:)"
     }
 
-
-    return dict
-
-def typeofspeech(str, rb_regex, ko_regex):
-    # check if its RB
-    for key in rb_regex.keys():
-        match = re.match(rb_regex[key], str)
-        if match:
-            type = 'rb'
-        else:
-            for key in ko_regex.keys():
-                match = re.match(ko_regex[key], str)
-                if match:
-                    type = 'ko'
-                else:
-                    type = "Null"
-                    match = ["Null"]
-    return type, match[0]
-
-def clean_rb_df(df):
-    # key words in rb to skip
-    discard = ["Drucksache",  
-                "Geschäftsordnung", 
-                "Tagesordnungspunkt",
-                "Verordnung",
-                "Ausschuss","ausschusses","schusses","ses \(",
-                "gie \(",
-                "Schriftlicher",
-                "§",
-                "Ratsdok",
-                "Ergänzung",
-                "btr.",
-                "Fortsetzung",
-                "Fragen",
-                "Haushaltsführung",
-                "folgenabschätzung", "abschätzung"]
-
-    # check if sentence is needed
-    for item in discard:
-        df = df[~df.RB_Name.str.contains('|'.join(discard))]
-    return df
-
-def clean_rb_item(input):
-    step1 = input.split(':')
-    step2 = step1[0].split(',')
-    step3 = step2[0].split(' . ')
-    step4 = re.split(r'\d', step3[0], maxsplit=1)
-    output = step4[0].strip()
-    return output
-
-def clean_ko_item(input):
-    # Cleans the item in a list from colons.
-    l = len(input)
-    input = input[:l-1]
-
-    # Splits after '— '
-    if '— ' in input:
-        input = input.split(sep='— ', maxsplit=1)[1]
-
-    if input[0] == '—':
-        input = input[1:]
-
-    if ':' in input:
-        input = input.split(sep=':', maxsplit=1)[1]
-
-    if 'Abg.' in input:
-        input = input.split(sep='Abg.', maxsplit=1)[1]
+    # RegEx for the different formats of KO
+    # for whatever reason the positive lookbehind for '(' doesn't work
+    ko_regex = {
+        "base": "\([a-zA-Z]+.*\[.*\](?=:)"
+    }
     
-    return input
+    if re.match(rb_regex["base"], sentence):
+        match = re.match(rb_regex["base"], sentence)
+        dtype = 'rb'    
+    elif re.match(rb_regex["title"], sentence):
+        match = re.match(rb_regex["title"], sentence)
+        dtype = 'rb' 
+    elif re.match(ko_regex["base"], sentence):
+        match = re.match(ko_regex["base"], sentence)
+        dtype = 'ko'
+    else:
+        match = ["Null"]
+        dtype = "Null"
+    
+    return dtype, match[0]
 
-def get_the_juice_stuff(file, rb_ID,rb_regex,ko_regex,rb_dict,ko_dict):
+def extract_from_protocol(file, rb_ID:int) -> tuple[pd.DataFrame, pd.DataFrame, int, int]:
+    '''
+    Cuts a singular given protocol into parts and extracts the RB and KO.
+    Saves those extractions into dictionaries and creates a df out of those.
+    '''
+    # empty dicts to store the results
+    rb_dict = {}
+    ko_dict = {}
+
     # get meta data and content from xml file
-    WAHLPERIODE = file[0].text
-    DOKUMENTENART = file[1].text
-    NR = file[2].text
-    DATUM = file[3].text
-    TITEL = file[4].text
-    TEXT = file[5].text
+    wahlperiode = file[0].text
+    nr = file[2].text
+    datum = file[3].text
+    protocol = file[5].text
 
     # split the text in single sentences
-    text = split_text(TEXT)
+    text = protocol.split("\n")
 
     # iteration through sentences
     for sentence in text:
-        check = typeofspeech(sentence,rb_regex,ko_regex)
-        type = check[0]
-        match = clean_rb_item(check[1])
+        type, match = type_of_speech(sentence)
 
         if type == 'rb':
             rb_ID += 1
@@ -158,73 +97,73 @@ def get_the_juice_stuff(file, rb_ID,rb_regex,ko_regex,rb_dict,ko_dict):
     # create rb df
     rb_df = pd.DataFrame.from_dict(rb_dict, orient = 'index').reset_index()
     rb_df = rb_df.rename(columns={'index':'RB_ID', 0:'RB_Name'})
+
     # add the rest of imformation to df
-    rb_df['WAHLPERIODE'] = WAHLPERIODE
-    rb_df['NR'] = NR
-    rb_df['DATUM'] = DATUM
-    #rb_df = clean_rb_df(rb_df)
+    rb_df['WAHLPERIODE'] = wahlperiode
+    rb_df['NR'] = nr
+    rb_df['DATUM'] = datum
 
     # create ko df
     ko_df = pd.DataFrame.from_dict(ko_dict, orient = 'index').reset_index()
     ko_df = ko_df.rename(columns={'index':'RB_ID', 0:'KO_Name'})
 
-    return rb_df, ko_df, rb_ID
+    return rb_df, ko_df, rb_ID, wahlperiode
 
-def export_results(RB_df, KO_df,WP):
-    RB_df.to_csv(rf'output/rb/{WP}.csv',encoding='utf-8-sig', index = False)
-    #KO_df.to_csv(rf'output/ko/%.csv' % WAHLPERIODE,encoding='utf-8-sig', index = False)
-    return
+def main() -> None:
+    '''
+    Walks through the entire process of extracting, assigning, 
+    cleaning and saving the data.
+    '''
+    rb_ID = 0
+    dir = 'protokolle_wp_1-12/'
 
-def main(dir, rb_ID, filenumber):
+    filenumber, total_time, wp = 0, 0, 0
+
     # empty dfs to store results for RB and KO
-    RB_df = pd.DataFrame()
-    KO_df = pd.DataFrame()
+    RB_df = pd.DataFrame(columns=["RB_ID","RB_Name","WAHLPERIODE","NR","DATUM"])
+    KO_df = pd.DataFrame(columns=["RB_ID","KO_Name"])
 
-    # load regex variations
-    rb_regex = create_RB_regex()
-    ko_regex = create_KO_regex()
+    # iterate through folders and files
+    for root, dirs, files in os.walk(dir):  
 
-    # empty dicts to store the results
-    rb_dict = {}
-    ko_dict = {}
-
-    # iteration through files
-    for root, dirs, files in os.walk(dir):
-        for name in files:
-            t0 = time.time()
-            filename =  os.path.join(root, name)
-            file = get_file(filename)
-            filenumber += 1
-
-            results = get_the_juice_stuff(file, rb_ID,rb_regex,ko_regex,rb_dict,ko_dict)
+        if (RB_df.shape[0] != 0) and (KO_df.shape[0] != 0):
             
-            #Clean_rb_df = clean_rb_df()
+            # some comments get catched because they stretch over multiple lines
+            # cut off from the previous part by a newline, they get filtered here
+            RB_df = RB_df[~RB_df["RB_Name"].str.contains('\[')]
 
-            RB_df = pd.concat([RB_df,results[0]])
-            KO_df = pd.concat([KO_df,results[1]])
-            rb_ID = results[2]
-
-            t1 = time.time()
-            total = t1 - t0
-            print(f'filenumber = {filenumber} - time: {total}')
+            # the positive look behind didn't work
+            KO_df["KO_Name"] = KO_df["KO_Name"].str[1:]
 
             # export to csv
-            WP = WAHLPERIODE = file[0].text
-            export_results(RB_df, KO_df, WP)
+            RB_df.to_csv(rf'output/rb/rb{wp}.csv',encoding='utf-8-sig', index = False)
+            KO_df.to_csv(rf'output/ko/ko{wp}.csv',encoding='utf-8-sig', index = False) 
+                        
+            logging.info(f' WP{wp} - {filenumber} files - {RB_df.shape[0]} RB - {KO_df.shape[0]} KO - {round(total_time,2)} sec.')
+            filenumber, total_time = 0, 0    
+            
+            # empty out dfs for next loop
             RB_df = RB_df.iloc[0:0]
             KO_df = KO_df.iloc[0:0]
-    #
-    # alle csv dateien zusammen setzen
-    path = "output/rb/"
 
-    all_files = glob.glob(os.path.join(path, "*.csv"))
-    df_from_each_file = (pd.read_csv(f, sep=',') for f in all_files)
-    df_merged   = pd.concat(df_from_each_file, ignore_index=True)
-    df_merged.to_csv( "output/rb_merged.csv")
+        for name in files:
 
-# Global vars
-rb_ID = 0
-filenumber = 0
-dir = 'Daten_alle_WP/'
+            filenumber += 1
+            t0 = time.time()
 
-main(dir, rb_ID, filenumber)
+            filename =  os.path.join(root, name)
+            file = ET.parse(filename).getroot()
+
+            part_rb_df, part_ko_df, rb_ID, wp = extract_from_protocol(file, rb_ID)
+            
+            RB_df = pd.concat([RB_df, part_rb_df])
+            KO_df = pd.concat([KO_df, part_ko_df])
+
+            t1 = time.time()
+            total_time += t1 - t0 
+
+
+main()
+# commented out because the merged file tends to kill (me and) the data 
+# transformation process inside PowerQuery
+# merge_all_csv()

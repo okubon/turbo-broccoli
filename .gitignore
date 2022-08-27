@@ -130,3 +130,9 @@ dmypy.json
 
 # macOS specific
 .DS_Store
+
+# backup copies
+*.bak
+
+# file that i use for testing stuff
+test.py

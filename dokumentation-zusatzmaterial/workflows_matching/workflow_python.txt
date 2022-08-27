@@ -1,0 +1,8 @@
+- read stammdaten_basic.csv as df_stamm
+- read rb_n.csv as df_rb
+- if df_rb.loc[(df.rb['name'] == df_stamm['name') & df_rb.loc[(df.rb['WP'] == df_stamm['WP') & df_rb.loc[(df.rb['ortszusatz'] == df_stamm['ortszusatz') & df_rb.loc[(df.rb['partei'] == df_stamm['partei'), dann schreibe df_stamm[UID] in df_rb[UID]
+
+
+die if-schleife müsste mehrfach, wobei beim ersten mal die meistmöglichen spalten matchen müssen, und danach immer weniger, wobei nur noch über die iteriert wird, wo keine UID geschrieben wurde. von der performance her wahrscheinlich keine so gute logik, aber auch nur erste idee.
+
+alternativ: erst spalte name nach nur einmal vorkommenden durchsuchen und die alle matchen, dann rest?

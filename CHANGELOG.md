@@ -2,7 +2,7 @@
 **[28.08.2022] - Helga**
 * Verschiedene Matchingmethoden zwischen Stammdaten und Namen in extrahierten Redebeiträgen skizziert, siehe Ordner workflows_matching
 * Excel-Workflow mit Summenprodukten etabliert, für WP1 ausgeführt, aber extrem viel manuelle Nachbearbeitung.
-* Problem: Datenqualität im Original (OCR-Fehler, Tippfehler) und zum Teil nach der Extraktion (Regex produziert falsch Positive; Konversionsfehler von XML-Stammdatenaten zu CSV (Zuordnungsfehler, Dubletten wegen Parteiwechseln, Zusammenschlüssen von Gruppen zu neuen Fraktion
+* Problem: Datenqualität im Original (OCR-Fehler, Tippfehler) und zum Teil nach der Extraktion (Regex produziert falsch Positive; Konversionsfehler von XML-Stammdaten zu CSV (Zuordnungsfehler, Dubletten wegen Parteiwechseln, Zusammenschlüssen von Gruppen zu neuen Fraktion
 * Ergebnisse für WP1 inklusive manuelle Nachbearbeitung: rb1_UID.xlsx
 
 **[07/08.2022] - Team**

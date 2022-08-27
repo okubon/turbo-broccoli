@@ -31,6 +31,7 @@
 185086,Kunze,,,,,,,
 185101,Schmid,,,Dr.,,,,Tübingen
 185105,Weber,,,Dr.,,,,Koblenz
+185113,Schmid,,,Dr.,,,,Tübingen
 185113,Heiterkeit.,,,,,,,
 185118,Schröter,,,,,,,Wilmersdorf
 185122,Weber,,,Dr.,,,,Koblenz
@@ -57,7 +58,9 @@
 185793,Weber,,,Dr.,,,,Aachen
 185829,Lenz,,,,,,,Brühl
 185855,Kunze,,,,,,,
+185910,Lenz,,,,,,,Brühl
 186116,Kunze,,,,,,,
+186137,Kunze,,,,,,,
 186175,Weber,,,Dr.,,,,Aachen
 186179,Pohle,,,,,,,Eckernförde
 186196,Kunze,,,,,,,
@@ -83,6 +86,7 @@
 186749,Schröter,,,,,,,Wilmersdorf
 186751,Schröter,,,,,,,Wilmersdorf
 186754,Schröter,,,,,,,Wilmersdorf
+186832,Baur,,,,,,,Augsburg
 186921,Weber,,,Dr.,,,,Aachen
 186957,Hansen,,,,,,,Köln
 187067,Baur,,,,,,,Augsburg
@@ -136,6 +140,8 @@
 188495,Könen,,,,,,,Düsseldorf
 188576,Kunze,,,,,,,
 188579,Arndgen,,,,,,,
+188579,Schröter,,,,,,,Wilmersdorf
+188607,Schröter,,,,,,,Wilmersdorf
 188607,Beifall in der Mitte.,,,,,,,
 188628,Kunze,,,,,,,
 188678,Kemmer,,,,,,,Bamberg
@@ -157,6 +163,7 @@
 188943,'Hansen,,,,,,,Köln
 188995,Müller,,,Dr.,,,,Bonn
 189002,Schröter,,,,,,,Wilmersdorf
+189040,Schneider,,,,,,,Bremerhaven
 189040,Zuruf  SPD,,,,von der,,SPD,
 189047,Kunze,,,,,,,
 189060,Baur,,,,,,,Augsburg
@@ -165,8 +172,10 @@
 189077,Pohle,,,,,,,Eckernförde
 189182,Beyer,,,,,,,Frankfurt
 189241,Schmid,,,Dr.,,,,Frankfurt
+189415,Kunze,,,,,,,
 189415,Große Heiterkeit.,,,,,,,
 189507,Beifall in der Mitte.,,,,,,,
+189507,Schröter,,,,,,,Wilmersdorf
 189519,Lenz,,,,,,,Brühl
 189605,Kemper,,,,,,,Trier
 189607,Kemper,,,,,,,Trier
@@ -175,6 +184,9 @@
 189708,Weber,,,Dr. h. c.,,,,Aachen
 189726,Schröter,,,,,,,Wilmersdorf
 189837,Kunze,,,,,,,
+189853,Könen,,,,,,,Düsseldorf
+189853,Gegenrufe  Mitte.,,,,von der,,,
+189853,Gegenrufe  Mitte,,,,von der,,,
 189853,Könen,,,,,,,Düsseldorf
 189907,Schröter,,,,,,,Wilmersdorf
 189917,Blank,,,Dr.,,,,Oberhausen
@@ -194,6 +206,7 @@
 190155,Kunze,,,,,,,
 190274,Kunze,,,,,,,
 190309,Zustimmung.,,,,,,,
+190309,Kunze,,,,,,,
 190317,Spies,,,,,,,Emmenhausen
 190370,Baur,,,,,,,Augsburg
 190381,Baur,,,,,,,Augsburg
@@ -227,7 +240,9 @@
 191303,Schmid,,,Dr.,,,,Frankfurt
 191315,Kunze,,,,,,,
 191321,Heiterkeit.,,,,,,,
+191321,Kunze,,,,,,,
 191335,Kunze,,,,,,,
+191355,Kunze,,,,,,,
 191355,Beifall in der Mitte.,,,,,,,
 191369,Spies,,,,,,,Emmenhausen
 191373,Kunze,,,,,,,
@@ -243,6 +258,7 @@
 191725,Kühn,,,,,,,Bonn
 191726,Kühn,,,,,,,Bonn
 191926,Schneider,,,,,,,Bremerhaven
+192084,Schneider,,,,,,,Bremerhaven
 192084,Heiterkeit.,,,,,,,
 192240,Böhm,,,Dr.,,,,Frankfurt
 192292,Schröter,,,,,,,Wilmersdorf
@@ -290,6 +306,11 @@
 194457,Müller,,,Dr.,,,,Bonn
 194604,Schröter -,,,,,,,Wilmersdorf
 194609,Schröter,,,,,,,Wilmersdorf
+194640,Spies,,,,,,,Emmenhausen
+194640,Stücklen,,,,,,,
+194640,Schütz,,,,,,,
+194641,Schröter,,,,,,,Wilmersdorf
+194641,Zurufe  Mitte,,,,von der,,,
 194641,Lachen und Hört! Hört! in der Mitte.,,,,,,,
 194670,Schmidt,,,,,,,Hamburg
 194693,Spies,,,,,,,Emmenhausen
@@ -302,8 +323,11 @@
 195212,Schröter,,,,,,,Wilmersdorf
 195262,Schröter,,,,,,,Wilmersdorf
 195265,Heiterkeit.,,,,,,,
+195265,Schröter,,,,,,,Wilmersdorf
 195275,Baur,,,,,,,Augsburg
+195306,Kunze,,,,,,,
 195306,Finselberger,,,,,,,
+195307,Schmitt,,,,,,,Vockenhausen
 195307,Stücklen,,,,,,,
 195308,Schmitt,,,,,,,Vockenhausen
 195316,Schmitt,,,,,,,Vockenhausen
@@ -324,6 +348,7 @@
 196389,Maier,,,,,,,Freiburg
 196390,Maier,,,,,,,Freiburg
 196549,Schmitt,,,,,,,Vockenhausen
+196560,Schmitt,,,,,,,Vockenhausen
 196560,Zuruf  SPD.,,,,von der,,SPD,
 196567,Schmitt,,,,,,,Vockenhausen
 196571,Schmitt,,,,,,,Vockenhausen
@@ -362,6 +387,7 @@
 198341,Kunze,,,,,,,
 198453,Schröter,,,,,,,Wilmersdorf
 198470,Könen,,,,,,,Düsseldorf
+198502,Schröter,,,,,,,Wilmersdorf
 198516,Schmidt,,,,,,,Hamburg
 198518,Schmid,,,Dr.,,,,Frankfurt
 198522,Schmidt,,,,,,,Hamburg
@@ -414,6 +440,8 @@
 199837,Weber,,,Dr. h. c.,,,,Aachen
 199848,Schröter,,,,,,,Wilmersdorf
 199905,Weber,,,Dr. h. c.,,,,Aachen
+199946,Schröter,,,,,,,Wilmersdorf
+199950,Schröter,,,,,,,Wilmersdorf
 199956,Weber,,,Dr. h. c.,,,,Aachen
 199983,Kunze,,,,,,,
 200003,Zuruf  SPD,,,,von der,,SPD,
@@ -421,6 +449,7 @@
 200070,Kunze,,,,,,,
 200074,Hansen,,,,,,,Köln
 200080,Hansen,,,,,,,Köln
+200099,Hansen,,,,,,,Köln
 200117,Hansen,,,,,,,Köln
 200225,Weber,,,Dr. h. c.,,,,Aachen
 200226,Kunze,,,,,,,
@@ -428,6 +457,7 @@
 200236,Kunze,,,,,,,
 200254,Kunze,,,,,,,
 200311,Schmid,,,Dr.,,,,Frankfurt
+200312,Schmid,,,Dr.,,,,Frankfurt
 200321,Weber,,,Dr. h. c.,,,,Aachen
 200349,Baur,,,,,,,Augsburg
 200385,Kunze,,,,,,,
@@ -462,6 +492,7 @@
 201409,Weber,,,Dr.,,,,Aachen
 201487,Könen,,,,,,,Düsseldorf
 201493,Zuruf links,,,,,,,
+201493,Schmidt,,,,,,,Hamburg
 201518,Schmid,,,,,,,Frankfurt
 201537,Schmid,,,Dr.,,,,Frankfurt
 201547,Schmidt,,,,,,,Hamburg
@@ -498,8 +529,9 @@
 202544,Hansen,,,,,,,Köln
 202567,Schneider,,,,,,,Hamburg
 202569,Heiterkeit.,,,,,,,
+202569,Hansen,,,,,,,Köln
 202617,Lange,,,,,,,Essen
-202767,Maier,,,,,,,Mannheim
+202767,Maier,,,,,,,
 203041,Kunze,,,,,,,
 203066,Schneider,,,,,,,Hamburg
 203164,Kunze,,,,,,,
@@ -509,7 +541,9 @@
 203237,Kunze,,,,,,,
 203254,Lange,,,,,,,Essen
 203263,Schröter,,,,,,,Wilmersdorf
+203269,Schröter,,,,,,,Wilmersdorf
 203275,Becker,,,Dr.,,,,Hersfeld
+203276,Schröter,,,,,,,Wilmersdorf
 203292,Kunze,,,,,,,
 203419,Lange,,,,,,,Essen
 203490,Weber,,,Dr. h. c.,,,,Aachen
@@ -522,6 +556,9 @@
 203760,Kunze,,,,,,,
 203764,Schneider,,,,,,,Bremerhaven
 203777,Kunze,,,,,,,
+203779,Löhr,,,Dr.,,,,
+203779,Schmücker,,,,,,,
+203779,Erregte Pfui-Rufe in der Mitte.,,,,,,,
 203792,Kunze,,,,,,,
 203796,Schröter,,,,,,,Wilmersdorf
 203890,Schmitt,,,,,,,Vockenhausen
@@ -534,6 +571,7 @@
 204404,Pohle,,,,,,,Eckernförde
 204408,Schneider,,,,,,,Bremerhaven
 204783,Kunze,,,,,,,
+204892,Baur,,,,,,,Augsburg
 204892,Kalinke,,,,,,,
 204930,Schild,,,Dr.,,,,Düsseldorf
 205031,Weber,,,Dr.,,,,Koblenz
@@ -542,7 +580,11 @@
 205187,Kunze,,,,,,,
 205189,Kunze,,,,,,,
 205245,Hansen,,,,,,,Köln
+205252,Lachen und Oho-Rufe bei der CDU/CSU.,,,,,,CDU/CSU,
+205252,Zuruf  SPD,,,,von der,,SPD,
 205252,Erler,,,,,,,
+205255,Kunze,,,,,,,
+205255,Zuruf  SPD,,,,von der,,SPD,
 205256,Hansen,,,,,,,Köln
 205260,Schröter,,,,,,,Wilmersdorf
 205312,Lenz,,,Dr.,,,,Godesberg
@@ -558,6 +600,8 @@
 205483,Schmidt,,,,,,,Hamburg
 205485,Schmidt,,,,,,,Hamburg
 205486,Kliesing,,,Dr.,,,,
+205486,Schmidt,,,,,,,Hamburg
+205491,Schmidt,,,,,,,Hamburg
 205654,Kunze,,,,,,,
 205673,Schmitt,,,,,,,Vockenhausen
 205684,Weber,,,Dr. h. c.,,,,Aachen
@@ -570,9 +614,12 @@
 205987,Lücker,,,,,,,München
 206005,Schmidt,,,Dr.,,,,Gellersen
 206123,Schröter,,,,,,,Wilmersdorf
+206131,Schröter,,,,,,,Wilmersdorf
 206209,Baur,,,,,,,Augsburg
 206289,Schröter,,,,,,,Wilmersdorf
 206290,Zurufe  SPD,,,,von der,,SPD,
+206290,Schröter,,,,,,,Wilmersdorf
+206294,Schröter,,,,,,,Wilmersdorf
 206294,Lachen und Zurufe.,,,,,,,
 206422,Lenz,,,Dr.,,,,Godesberg
 206430,Lenz,,,Dr.,,,,Godesberg
@@ -587,7 +634,9 @@
 206696,Schröter,,,,,,,Wilmersdorf
 206698,Schröter,,,,,,,Wilmersdorf
 206705,Bausch,,,,vom,,,
+206710,Hansen,,,,,,,Köln
 206710,Andauern Zurufe  SPD. —Auseinandersetzungen zwischen Abgeordneten der SPD und der CDU/CSU.,,,,de,,SPD,
+206710,Wittrock,,,,,,,
 206728,Becker,,,Dr.,,,,Hersfeld
 206742,Hansen,,,,,,,Köln
 206745,Brandt,,,,,,,Berlin
@@ -621,6 +670,7 @@
 207519,Schneider,,,,,,,Bremerhaven
 207525,Spies,,,,,,,Emmenhausen
 207561,Lenze,,,,,,,Attendorn
+207561,Müller,,,Dr.,,,,Bonn
 207626,Hansen,,,,,,,Köln
 207647,Kunze,,,,,,,
 207670,Schmid,,,Dr.,,,,Frankfurt
@@ -637,16 +687,19 @@
 207954,Schmidt,,,,,,,Hamburg
 208087,Baur,,,,,,,Augsburg
 208090,Weber,,,Dr. h. c.,,,,Aachen
+208096,Becker,,,,,,,Pirmasens
 208179,Weber,,,Dr. h. c.,,,,Aachen
 208225,Baur,,,,,,,Augsburg
 208303,Lange,,,,,,,Essen
 208323,Kalinke,,,,,,,
+208323,Kunze,,,,,,,
 208417,Schmitt,,,,,,,Vockenhausen
 208513,Schröter,,,,,,,Wilmersdorf
 208552,Weber,,,Dr. h. c.,,,,Aachen
 208690,Lange,,,,,,,Essen
 208761,Schmidt,,,,,,,Hamburg
 208779,Schmidt,,,,,,,Hamburg
+208793,Könen,,,,,,,Düsseldorf
 208793,Zuruf  SPD,,,,von der,,SPD,
 208804,Könen,,,,,,,Düsseldorf
 208808,Könen,,,,,,,Düsseldorf
@@ -669,6 +722,7 @@
 209273,Schmitt,,,,,,,Vockenhausen
 209278,Schröter,,,,,,,Wilmersdorf
 209296,Zurufe  SPD,,,,von der,,SPD,
+209296,Schröer,,,,,,,Wilmersdorf
 209304,Schmitt,,,,,,,Vockenhausen
 209705,Schmitt,,,,,,,Vockenhausen
 209717,Schmid,,,Dr.,,,,Frankfurt
@@ -679,6 +733,7 @@
 209925,Weber,,,,,,,Untersontheim
 209935,Weber,,,,,,,Untersontheim
 209993,Wittrock,,,,,,,
+209993,Kunze,,,,,,,
 210021,Kunze,,,,,,,
 210126,Schmitt,,,,,,,Vockenhausen
 210146,Weber,,,Dr. h. c.,,,,Aachen
@@ -691,58 +746,3 @@
 210485,Schmidt,,,,,,,Vockenhausen
 210549,Schmitt,,,,,,,Vockenhausen
 210629,Schmitt,,,,,,,Vockenhausen
-185113,Schmid,,,Dr.,,,,Tübingen
-185910,Lenz,,,,,,,Brühl
-186137,Kunze,,,,,,,
-186832,Baur,,,,,,,Augsburg
-188579,Schröter,,,,,,,Wilmersdorf
-188607,Schröter,,,,,,,Wilmersdorf
-189040,Schneider,,,,,,,Bremerhaven
-189415,Kunze,,,,,,,
-189507,Schröter,,,,,,,Wilmersdorf
-189853,Gegenrufe  Mitte.,,,,von der,,,
-190309,Kunze,,,,,,,
-191321,Kunze,,,,,,,
-191355,Kunze,,,,,,,
-192084,Schneider,,,,,,,Bremerhaven
-194640,Stücklen,,,,,,,
-194641,Zurufe  Mitte,,,,von der,,,
-195265,Schröter,,,,,,,Wilmersdorf
-195306,Kunze,,,,,,,
-195307,Schmitt,,,,,,,Vockenhausen
-196560,Schmitt,,,,,,,Vockenhausen
-198502,Schröter,,,,,,,Wilmersdorf
-199946,Schröter,,,,,,,Wilmersdorf
-199950,Schröter,,,,,,,Wilmersdorf
-200099,Hansen,,,,,,,Köln
-200312,Schmid,,,Dr.,,,,Frankfurt
-201493,Schmidt,,,,,,,Hamburg
-202569,Hansen,,,,,,,Köln
-203269,Schröter,,,,,,,Wilmersdorf
-203276,Schröter,,,,,,,Wilmersdorf
-203779,Erregte Pfui-Rufe in der Mitte.,,,,,,,
-204892,Baur,,,,,,,Augsburg
-205255,Zuruf  SPD,,,,von der,,SPD,
-205486,Schmidt,,,,,,,Hamburg
-205491,Schmidt,,,,,,,Hamburg
-206131,Schröter,,,,,,,Wilmersdorf
-206290,Schröter,,,,,,,Wilmersdorf
-206294,Schröter,,,,,,,Wilmersdorf
-206710,Wittrock,,,,,,,
-207561,Müller,,,Dr.,,,,Bonn
-208096,Becker,,,,,,,Pirmasens
-208323,Kunze,,,,,,,
-208793,Könen,,,,,,,Düsseldorf
-209296,Schröer,,,,,,,Wilmersdorf
-209993,Kunze,,,,,,,
-189853,Könen,,,,,,,Düsseldorf
-194640,Spies,,,,,,,Emmenhausen
-194641,Schröter,,,,,,,Wilmersdorf
-203779,Löhr,,,Dr.,,,,
-205252,Lachen und Oho-Rufe bei der CDU/CSU.,,,,,,CDU/CSU,
-205255,Kunze,,,,,,,
-206710,Hansen,,,,,,,Köln
-189853,Gegenrufe  Mitte,,,,von der,,,
-194640,Schütz,,,,,,,
-203779,Schmücker,,,,,,,
-205252,Zuruf  SPD,,,,von der,,SPD,

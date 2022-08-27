@@ -2,6 +2,8 @@
 232560,Döhring,,,,,,,Stuttgart
 232600,Brandt,,,,,,,Berlin
 232603,Brandt,,,,,,,Berlin
+232606,Brandt,,,,,,,Berlin
+232818,Schütz,,,,,,,München
 233098,Döhring,,,,,,,Stuttgart
 233470,Bauer,,,,,,,Wasserburg
 233991,Lücker,,,,,,,München
@@ -27,6 +29,7 @@
 237625,Jacobi,,,,,,,Köln
 238504,Könen,,,,,,,Düsseldorf
 238546,Zustimmung.,,,,,,,
+238546,Könen,,,,,,,Düsseldorf
 238685,Schmidt,,,Dr.,,,,Wuppertal
 238754,Arndt,,,Dr.,,,,Berlin
 239041,Döring,,,,,,,Düsseldorf
@@ -35,12 +38,14 @@
 239645,Beyer,,,,,,,Frankfurt
 239799,Kühn,,,,,,,Hildesheim
 240281,Döhring,,,,,,,Stuttgart
+240291,Kühn,,,,,,,Hildesheim
 240864,Schmidt,,,Dr.,,,,Gellersen
 240905,Bauer,,,,,,,Wasserburg
 240974,Schmidt,,,Dr.,,,,Wuppertal
 240986,Bauer,,,,,,,Wasserburg
 241448,Jacobi,,,,,,,Köln
 241466,Riegel,,,,,,,Göppingen
+241480,Haase,,,,,,,Kassel
 242333,Weber,,,Dr.,,,,Koblenz
 242790,Könen,,,,,,,Düsseldorf
 242813,Könen,,,,,,,Düsseldorf
@@ -53,6 +58,8 @@
 244879,Schmidt,,,Dr.,,,,Gellersen
 244934,Müller,,,,,,,Worms
 245119,Weber,,,Dr.,,,,Koblenz
+245147,Berger-Heise,,,,,,,Berg
+245147,Könen,,,,,,,Düsseldorf
 245147,Jacobi,,,,,,,Köln
 245162,Jacobi,,,,,,,Köln
 245165,Könen,,,,,,,Düsseldorf
@@ -63,9 +70,11 @@
 247482,Fritz,,,Dr.,,,,Ludwigshafen
 247999,Fritz,,,Dr.,,,,Ludwigshafen
 248321,Zuruf  Mitte,,,,von der,,,
+248321,Haase,,,,,,,Kassel
 249863,Weber,,,Dr.,,,,Koblenz
 249869,Weber,,,Dr.,,,,Koblenz
 249909,Wehner,,,,,,,
+249909,Gegenruf des   Weber,,,Dr.,,,,Koblenz
 249919,Weber,,,Dr.,,,,Koblenz
 250252,Könen,,,,,,,Düsseldorf
 250256,Könen,,,,,,,Düsseldorf
@@ -82,6 +91,7 @@
 253452,Seidl,,,,,,,München
 253918,Jacobi,,,,,,,Köln
 253939,Zustimmung.,,,,,,,
+253939,Schmidt,,,Dr.,,,,Wuppertal
 253962,Schmidt,,,Dr.,,,,Gellersen
 254263,Schmidt,,,Dr.,,,,Wuppertal
 255116,Könen,,,,,,,Düsseldorf
@@ -110,6 +120,7 @@
 263344,Schmidt,,,Dr.,,,,Wuppertal
 263594,Könen,,,,,,,Düsseldorf
 263596,Killat,,,,,,,
+263596,Hahn,,,,,,,Bielefeld
 265237,Schmidt,,,Dr.,,,,Gellersen
 265254,Schmidt,,,Dr.,,,,Gellersen
 265614,Jacobi,,,,,,,Köln
@@ -120,14 +131,3 @@
 267924,Jacobi,,,,,,,Köln
 267942,Jacobi,,,,,,,Köln
 267977,Jacobi,,,,,,,Köln
-232606,Brandt,,,,,,,Berlin
-232818,Schütz,,,,,,,München
-238546,Könen,,,,,,,Düsseldorf
-240291,Kühn,,,,,,,Hildesheim
-241480,Haase,,,,,,,Kassel
-245147,Berger-Heise,,,,,,,Berg
-248321,Haase,,,,,,,Kassel
-249909,Gegenruf des   Weber,,,Dr.,,,,Koblenz
-253939,Schmidt,,,Dr.,,,,Wuppertal
-263596,Hahn,,,,,,,Bielefeld
-245147,Könen,,,,,,,Düsseldorf

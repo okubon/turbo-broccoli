@@ -17,7 +17,6 @@ def type_of_speech(sentence: str) -> tuple[str, str]:
         "base": "\([a-zA-Z]+.*\[.*\](?=:)"
     }
     
-    # TODO: RB_ID in KO ist
     if re.match(rb_regex["base"], sentence):
         match = re.match(rb_regex["base"], sentence)
         dtype = "rb"    

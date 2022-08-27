@@ -1,7 +1,9 @@
 ﻿RB_ID,KO_Name,FUNKTION,POSITION,ANREDE_TITEL,PRAEFIX,ADEL,PARTEI,ORTSZUSATZ
 155397,Etzel,,,,,,,Duisburg
+155522,Mayer,,,,,,,Stuttgart
 155522,Unruhe.,,,,,,,
 155760,Richter,,,Dr.,,,,Niedersachsen
+156384,Schmid,,,Dr.,,,,Tübingen
 156384,Heiterkeit.,,,,,,,
 156385,Schmid,,,Dr.,,,,Tübingen
 156386,Schmid,,,Dr.,,,,Tübingen
@@ -11,6 +13,7 @@
 156457,Schmid,,,Dr.,,,,Tübingen
 156548,Paul,,,,,,,Düsseldorf
 156599,Schmid,,,Dr.,,,,Tübingen
+156706,Schmid,,,Dr.,,,,Tübingen
 156706,Heiterkeit.,,,,,,,
 156708,Schmid,,,Dr.,,,,Tübingen
 156727,Richter,,,Dr.,,,,Niedersachsen
@@ -26,6 +29,7 @@
 157218,Schmidt,,,,,,,Bayern
 157266,Paul,,,,,,,Düsseldorf
 157369,Etzel,,,Dr.,,,,Bamberg
+157419,Paul,,,,,,,Düsseldorf
 157419,Zuruf rechts,,,,,,,
 157517,Weber,,,Dr.,,,,Essen
 157590,Weber,,,Dr.,,,,Essen
@@ -69,6 +73,7 @@
 159179,Schmid,,,Dr.,,,,Tübingen
 159193,Mayer,,,,,,,Stuttgart
 159239,Heiterkeit.,,,,,,,
+159239,Müller,,,,,,,Frankfurt
 159260,Weber,,,Dr.,,,,Essen
 159264,br. Weber,,,,,,,Essen
 159284,Mayer,,,,,,,Stuttgart
@@ -92,6 +97,7 @@
 160171,Weber,,,Dr.,,,,Essen
 160172,Weber,,,Dr.,,,,Essen
 160258,Müller,,,Dr.,,,,Bonn
+160282,Mayer,,,,,,,Stuttgart
 160282,Zurufe rechts.,,,,,,,
 160323,Paul,,,,,,,Düsseldorf
 160448,Schmid,,,Dr.,,,,Tübingen
@@ -143,11 +149,13 @@
 162075,Schmid,,,Dr.,,,,Tübingen
 162113,Müller,,,Dr.,,,,Bonn
 162172,Müller,,,Dr.,,,,Bonn
+162172,Müller,,,,,,,Frankfurt
 162215,Richter,,,,,,,Frankfurt
 162224,Schröder,,,Dr.,,,,Düsseldorf
 162229,Müller,,,,,,,Frankfurt
 162233,Müller,,,,,,,Frankfurt
 162258,Zuruf  SPD,,,,von der,,SPD,
+162258,Schmid,,,Dr.,,,,Tübingen
 162293,Schmid,,,Dr.,,,,Tübingen
 162300,Schmid,,,Dr.,,,,Tübingen
 162305,Schmid,,,Dr.,,,,Tübingen
@@ -185,6 +193,7 @@
 163227,Becker,,,Dr.,,,,Hersfeld
 163240,Schmid,,,Dr.,,,,Tübingen
 163251,Beifall in der Mitte und rechts.,,,,,,,
+163251,Schmid,,,Dr.,,,,Tübingen
 163258,Schmid,,,Dr.,,,,Tübingen
 163265,Abe.  Schmid,,,Dr.,,,,Tübingen
 163267,Schmid,,,Dr.,,,,Tübingen
@@ -199,7 +208,9 @@
 163431,Schmid,,,Dr.,,,,Tübingen
 163433,Schmid,,,Dr.,,,,Tübingen
 163436,Heiterkeit.,,,,,,,
+163436,Schmid,,,Dr.,,,,Tübingen
 163438,Schmid,,,Dr.,,,,Tübingen
+163440,Schmid,,,Dr.,,,,Tübingen
 163440,Jaeger,,,Dr.,,,,
 163446,Schmid,,,Dr.,,,,Tübingen
 163449,Weber,,,Dr.,,,,Essen
@@ -217,6 +228,7 @@
 163594,Mayer,,,,,,,Stuttgart
 163595,Paul,,,,,,,Düsseldorf
 163610,Sehr gut! in der Mitte.,,,,,,,
+163610,Müller,,,,,,,Frankfurt
 163637,Schmid,,,Dr.,,,,Tübingen
 163648,Schmid '[Tübingen],,,Dr.,,,,Tübingen
 163714,Mayer,,,,,,,Stuttgart
@@ -242,9 +254,11 @@
 164636,Schmid,,,Dr.,,,,Tübingen
 164664,Schmid,,,Dr.,,,,Tübingen
 164670,Beifall rechts.,,,,,,,
+164670,Schmid,,,Dr.,,,,Tübingen
 164768,Schmid,,,Dr.,,,,Tübingen
 164785,Schmid,,,Dr.,,,,Tübingen
 164813,Schmid,,,Dr.,,,,Tübingen
+164819,Schmid,,,Dr.,,,,Tübingen
 164819,Beifall rechts.,,,,,,,
 164905,Schmid,,,Dr.,,,,Tübingen
 165007,Mayer,,,,,,,Stuttgart
@@ -267,6 +281,7 @@
 165902,Müller,,,Dr.,,,,Bonn
 165903,Müller,,,Dr.,,,,Bonn
 165948,Weber,,,Dr.,,,,Koblenz
+165970,Becker,,,Dr.,,,,Hersfeld
 165970,Beifall und Heiterkeit.,,,,,,,
 166005,Becker,,,Dr.,,,,Hersfeld
 166075,Richter,,,,,,,Frankfurt
@@ -291,6 +306,7 @@
 166741,Müller,,,,,,,Frankfurt
 166762,Schmid,,,Dr.,,,,Tübingen
 166766,Jaeger,,,Dr.,,,,
+166766,Schmid,,,Dr.,,,,Tübingen
 166784,Mayer,,,,,,,Stuttgart
 166976,Etzel,,,,,,,Duisburg
 166986,Etzel,,,,,,,Duisburg
@@ -312,10 +328,12 @@
 168044,Etzel,,,,,,,Duisburg
 168074,Müller,,,Dr.,,,,Bonn
 168117,Müller,,,,,,,Frankfurt
+168123,Müller,,,,,,,Frankfurt
 168123,Erneuter Beifall in der Mitte und rechts.,,,,,,,
 168160,Richter,,,,,,,Frankfurt
 168185,Richter,,,,,,,Frankfurt
 168187,Richter,,,,,,,Frankfurt
+168213,Richter,,,,,,,Frankfurt
 168213,Heiterkeit links.,,,,,,,
 168262,Kohl,,,,,,,Stuttgart
 168264,Kohl,,,,,,,Stuttgart
@@ -338,6 +356,7 @@
 168945,Schmid,,,Dr.,,,,Tübingen
 168947,Etzel,,,,,,,Duisburg
 168948,Etzel,,,,,,,Duisburg
+168953,Etzel,,,,,,,Duisburg
 168955,Schröder,,,Dr.,,,,Düsseldorf
 168961,Etzel,,,,,,,Duisburg
 168983,Etzel,,,,,,,Duisburg
@@ -353,8 +372,10 @@
 169052,Schröder,,,Dr.,,,,Düsseldorf
 169055,Schröder,,,Dr.,,,,Düsseldorf
 169062,Richter,,,Dr.,,,,Niedersachsen
+169066,Richter,,,Dr.,,,,Niedersachsen
 169066,Erneuter Beifall.,,,,,,,
 169073,Kaiser,,,,,,,
+169073,Weber,,,Dr.,,,,Essen
 169076,Etzel,,,,,,,Duisburg
 169078,Schmid,,,Dr.,,,,Tübingen
 169097,Schmid,,,Dr.,,,,Tübingen
@@ -364,8 +385,10 @@
 169105,Schmid,,,Dr.,,,,Tübingen
 169115,Schmid,,,Dr.,,,,Tübingen
 169117,Schmid,,,Dr.,,,,Tübingen
+169117,Etzel,,,,,,,Duisburg
 169120,Schmid,,,Dr.,,,,Tübingen
 169148,Heiterkeit.,,,,,,,
+169148,Schröder,,,,,,,Düsseldorf
 169214,Schmid,,,Dr.,,,,Tübingen
 169218,Müller,,,,,,,Frankfurt
 169469,Müller,,,,,,,Frankfurt
@@ -374,6 +397,7 @@
 169667,Paul,,,,,,,Düsseldorf
 169747,Richter,,,Dr.,,,,Niedersachsen
 169764,Unruhe.,,,,,,,
+169764,Kohl,,,,,,,Stuttgart
 169797,Müller,,,,,,,Frankfurt
 169832,Kohl,,,,,,,Stuttgart
 169837,Schröter,,,,,,,Kiel
@@ -424,10 +448,13 @@
 171322,Müller,,,Dr.,,,,Bonn
 171325,Müller,,,Dr.,,,,Bonn
 171367,Schmid,,,Dr.,,,,Tübingen
+171369,Becker,,,Dr.,,,,Hersfeld
 171369,Zuruf  CDU,,,,von der,,,
 171398,Schmid,,,Dr.,,,,Tübingen
 171424,Schmid,,,Dr.,,,,Tübingen
 171504,Lachen links.,,,,,,,
+171504,Paul,,,,,,,Düsseldorf
+171631,Becker,,,Dr.,,,,Hersfeld
 171631,Mellies,,,,,,,
 171847,Müller,,,,,,,Frankfurt
 171998,Paul,,,,,,,Düsseldorf
@@ -463,6 +490,7 @@
 173282,Hoffmann,,,,,,,Hof
 173329,Kohl,,,,,,,Stuttgart
 173364,Beifall.,,,,,,,
+173364,Baur,,,,,,,Augsburg
 173565,Müller,,,,,,,Frankfurt
 173717,Etzel,,,,,,,Duisburg
 173735,Etzel,,,,,,,Duisburg
@@ -484,11 +512,13 @@
 174196,Schröder,,,Dr.,,,,Düsseldorf
 174198,Schröder,,,Dr.,,,,Düsseldorf
 174206,Paul,,,,,,,Düsseldorf
+174223,Weber,,,Dr.,,,,Essen
 174223,Hört! Hört! bei den Regierungsparteien.,,,,,,,
 174237,Schroeder,,,,,,,Berlin
 174250,Weber,,,Dr.,,,,Essen
 174253,Schröder,,,Dr.,,,,Düsseldorf
 174256,Schröder,,,Dr.,,,,Düsseldorf
+174260,Weber,,,Dr.,,,,Essen
 174260,Heiterkeit,,,,,,,
 174364,Schröder,,,Dr.,,,,Düsseldorf
 174388,Richter,,,,,,,Frankfurt
@@ -527,6 +557,7 @@
 174865,Schröder,,,Dr.,,,,Düsseldorf
 174900,Paul,,,,,,,Düsseldorf
 174917,Schröder,,,Dr.,,,,Düsseldorf
+174918,Schröder,,,Dr.,,,,Düsseldorf
 174918,Zuruf links,,,,,,,
 175016,Weber,,,Dr.,,,,Essen
 175053,Richter,,,,,,,Frankfurt
@@ -575,7 +606,9 @@
 176940,Weber,,,Dr.,,,,Essen
 176945,Weber,,,Dr.,,,,Essen
 176976,Zurufe rechts,,,,,,,
+176976,Paul,,,,,,,Düsseldorf
 177000,Schmid,,,Dr.,,,,Tübingen
+177006,Paul,,,,,,,Düsseldorf
 177067,Schröder,,,Dr.,,,,Düsseldorf
 177071,Schröder,,,Dr.,,,,Düsseldorf
 177099,Schröder,,,Dr.,,,,Düsseldorf
@@ -585,6 +618,7 @@
 177128,Schröder,,,Dr.,,,,Düsseldorf
 177136,Schröder,,,Dr.,,,,Düsseldorf
 177166,Schröder,,,Dr.,,,,Düsseldorf
+177182,Müller,,,,,,,Frankfurt
 177182,Beifall.,,,,,,,
 177195,Schröder,,,Dr.,,,,Düsseldorf
 177197,Schröder,,,Dr.,,,,Düsseldorf
@@ -612,6 +646,7 @@
 178073,Schröder,,,Dr.,,,,Düsseldorf
 178074,Greve,,,Dr.,,,,
 178075,Becker,,,Dr.,,,,Hersfeld
+178077,Schröder,,,Dr.,,,,Düsseldorf
 178095,Richter,,,,,,,Frankfurt
 178102,Richter,,,,,,,Frankfurt
 178122,Richter,,,,,,,Frankfurt
@@ -625,6 +660,7 @@
 178862,Weber,,,Dr.,,,,Essen
 178868,Müller,,,Dr.,,,,Bonn
 178874,Schröder,,,Dr.,,,,Düsseldorf
+178880,Schröder,,,Dr.,,,,Düsseldorf
 178927,Schröder,,,Dr.,,,,Düsseldorf
 178930,Jaeger,,,Dr.,,,,Bayern
 178932,Jaeger,,,Dr.,,,,Bayern
@@ -637,6 +673,7 @@
 179007,Müller,,,Dr.,,,,Bonn
 179082,Müller,,,Dr.,,,,Bonn
 179131,Heiterkeit.,,,,,,,
+179131,Baur,,,,,,,Augsburg
 179151,Schmid,,,Dr.,,,,Tübingen
 179152,Schmid,,,Dr.,,,,Tübingen
 179167,Schmid,,,Dr.,,,,Tübingen
@@ -646,6 +683,7 @@
 179190,Weber,,,Dr.,,,,Essen
 179194,Weber,,,Dr.,,,,Essen
 179196,Tillmanns,,,Dr.,,,,
+179196,Schröder,,,Dr.,,,,Düsseldorf
 179207,Weber,,,Dr.,,,,Essen
 179333,Richter,,,,,,,Frankfurt
 179335,Richter,,,,,,,Frankfurt
@@ -701,6 +739,7 @@
 181536,Müller,,,Dr.,,,,Bonn
 181615,Müller,,,Dr.,,,,Bonn
 181624,Kohl,,,,,,,Stuttgart
+181648,Schröter,,,,,,,Berlin
 181678,Weber,,,Dr.,,,,Essen
 181682,Weber,,,Dr.,,,,Essen
 181683,Weber,,,Dr.,,,,Koblenz
@@ -766,7 +805,9 @@
 183700,Schröder,,,Dr.,,,,Düsseldorf
 183744,Weber,,,Dr.,,,,Essen
 183770,Paul,,,,,,,Düsseldorf
+183774,Meyer,,,,,,,Hagen
 183774,Zuruf  FDP,,,,von der,,FDP,
+183802,Becker,,,Dr.,,,,Hersfeld
 183808,Schröder,,,Dr.,,,,Düsseldorf
 183842,Richter,,,,,,,Frankfurt
 183854,Richter,,,,,,,Frankfurt
@@ -781,51 +822,10 @@
 183987,Schröder,,,Dr.,,,,Düsseldorf
 184031,Weber,,,Dr.,,,,Essen
 184057,Paul,,,,,,,Düsseldorf
+184061,Meyer,,,,,,,Hagen
 184061,Zuruf  FDP,,,,von der,,FDP,
+184089,Becker,,,Dr.,,,,Hersfeld
 184095,Schröder,,,Dr.,,,,Düsseldorf
 184113,Müller,,,Dr.,,,,Bonn
 184159,Paul,,,,,,,Düsseldorf
-155522,Mayer,,,,,,,Stuttgart
-156384,Schmid,,,Dr.,,,,Tübingen
-156706,Schmid,,,Dr.,,,,Tübingen
-157419,Paul,,,,,,,Düsseldorf
-159239,Müller,,,,,,,Frankfurt
-160282,Mayer,,,,,,,Stuttgart
-162172,Müller,,,,,,,Frankfurt
-162258,Schmid,,,Dr.,,,,Tübingen
-163251,Schmid,,,Dr.,,,,Tübingen
-163436,Schmid,,,Dr.,,,,Tübingen
-163440,Schmid,,,Dr.,,,,Tübingen
-163610,Müller,,,,,,,Frankfurt
-164670,Schmid,,,Dr.,,,,Tübingen
-164819,Schmid,,,Dr.,,,,Tübingen
-165970,Becker,,,Dr.,,,,Hersfeld
-166766,Schmid,,,Dr.,,,,Tübingen
-168123,Müller,,,,,,,Frankfurt
-168213,Richter,,,,,,,Frankfurt
-168953,Etzel,,,,,,,Duisburg
-169066,Richter,,,Dr.,,,,Niedersachsen
-169073,Weber,,,Dr.,,,,Essen
-169117,Etzel,,,,,,,Duisburg
-169148,Schröder,,,,,,,Düsseldorf
-169764,Kohl,,,,,,,Stuttgart
-171369,Becker,,,Dr.,,,,Hersfeld
-171504,Paul,,,,,,,Düsseldorf
-171631,Becker,,,Dr.,,,,Hersfeld
-173364,Baur,,,,,,,Augsburg
-174223,Weber,,,Dr.,,,,Essen
-174260,Weber,,,Dr.,,,,Essen
-174918,Schröder,,,Dr.,,,,Düsseldorf
-176976,Paul,,,,,,,Düsseldorf
-177006,Paul,,,,,,,Düsseldorf
-177182,Müller,,,,,,,Frankfurt
-178077,Schröder,,,Dr.,,,,Düsseldorf
-178880,Schröder,,,Dr.,,,,Düsseldorf
-179131,Baur,,,,,,,Augsburg
-179196,Schröder,,,Dr.,,,,Düsseldorf
-181648,Schröter,,,,,,,Berlin
-183774,Meyer,,,,,,,Hagen
-183802,Becker,,,Dr.,,,,Hersfeld
-184061,Meyer,,,,,,,Hagen
-184089,Becker,,,Dr.,,,,Hersfeld
 184162,Müller,,,Dr.,,,,Bonn

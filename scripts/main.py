@@ -61,6 +61,7 @@ def main() -> None:
             # final cleaning and extracting before saving
             RB_df, KO_df = clean_dfs(RB_df, KO_df, ortszusatz)
 
+            KO_df = KO_df.sort_values(by=['RB_ID'])
             # export to csv
             RB_df.to_csv(rf"output/rb/rb{wp}.csv",encoding="utf-8-sig", index = False)
             KO_df.to_csv(rf"output/ko/ko{wp}.csv",encoding="utf-8-sig", index = False) 
@@ -80,8 +81,10 @@ def main() -> None:
             filename =  os.path.join(root, name)
             file = ET.parse(filename).getroot()
 
+            # extracts RB and KO from the protocols
             part_rb_df, part_ko_df, rb_ID, wp = extract_from_protocol(file, rb_ID)
             
+            # appends them to the priorly empty dfs
             RB_df = pd.concat([RB_df, part_rb_df])
             KO_df = pd.concat([KO_df, part_ko_df])
 

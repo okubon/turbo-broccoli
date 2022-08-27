@@ -2,16 +2,18 @@
 269389,Schmidt,,,Dr.,,,,Wuppertal
 269449,Schmidt,,,,,,,Hamburg
 269516,Haase,,,,,,,Kassel
+272143,Haase,,,,,,,Kassel
 272316,Schmidt,,,,,,,Hamburg
 274337,Könen,,,,,,,Düsseldorf
 274351,Könen,,,,,,,Düsseldorf
 274939,Marx,,,Dr.,,,,Kaiserslautern
+275055,Jahn,,,Dr.,,,,Braunschweig
 276251,Jahn,,,,,,,Marburg
 277386,Haase,,,,,,,Kassel
 277559,Schmidt,,,Dr.,,,,Gellersen
 277561,Schmidt,,,Dr.,,,,Gellersen
 277567,Schmidt,,,Dr.,,,,Gellersen
-277585,Arndt,,,Dr.,,,,Berlin/Köln
+277585,Arndt,,,Dr.,,,,Berlin
 277766,Franke,,,,,,,Osnabrück
 277882,Jacobi,,,,,,,
 277891,Jacobi,,,,,,,Köln
@@ -27,6 +29,7 @@
 280402,Schmidt,,,Dr.,,,,Wuppertal
 281219,Schmid,,,Dr.,,,,Frankfurt
 281563,Heiterkeit.,,,,,,,
+281563,Könen,,,,,,,Düsseldorf
 281564,Könen,,,,,,,Düsseldorf
 282415,Könen,,,,,,,Düsseldorf
 282729,Haase,,,,,,,Kassel
@@ -80,6 +83,7 @@
 303212,Jacobi,,,,,,,Köln
 303277,Fritsch,,,,,,,Deggendorf
 303589,Busse,,,,,,,Herford
+303792,Rasner,,,,,,CDU/CSU,
 304277,Busse,,,,,,,Herford
 304397,Haase,,,,,,,Kassel
 304820,Haase,,,,,,,Kassel
@@ -95,7 +99,9 @@
 309155,Haase,,,,,,,Kassel
 309547,Könen,,,,,,,Düsseldorf
 309556,Rösing,,,,,,,
+309556,Könen,,,,,,,Düsseldorf
 310161,Unruhe.,,,,,,,
+310161,Marx,,,Dr.,,,,Kaiserslautern
 310176,Marx,,,Dr.,,,,
 310504,Könen,,,,,,,Düsseldorf
 311507,Russe,,,,,,,Bochum
@@ -122,10 +128,4 @@
 319493,Zuruf des  Könen,,,,,,,Düsseldorf
 320050,Rasner,,,,,,,
 320081,Zurufe  Mitte,,,,von der,,,
-272143,Haase,,,,,,,Kassel
-275055,Jahn,,,Dr.,,,,Braunschweig
-281563,Könen,,,,,,,Düsseldorf
-303792,Rasner,,,,,,CDU/CSU,
-309556,Könen,,,,,,,Düsseldorf
-310161,Marx,,,Dr.,,,,Kaiserslautern
 320081,Hauser,,,Dr.,,,,Sasbach

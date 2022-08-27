@@ -34,6 +34,7 @@
 112509,Weng,,,Dr.,,,FDP,Gerlingen
 112510,Conradi,,,,,,SPD,
 112512,Breuer,,,,,,CDU/CSU,
+112514,Kraus,,,,,,CDU/CSU,
 112514,Jobst,,,Dr.,,,CDU/CSU,
 112515,Jobst,,,Dr.,,,CDU/CSU,
 112521,Conradi,,,,,,SPD,
@@ -54,6 +55,7 @@
 112570,Gansel,,,,,,SPD,
 112573,Kittelmann,,,,,,CDU/CSU,
 112574,Roth,,,,,,SPD,
+112575,Jens,,,Dr.,,,SPD,
 112577,Gansel,,,,,,SPD,
 112579,Bohl,,,,,,CDU/CSU,
 112580,Gansel,,,,,,SPD,
@@ -68,11 +70,13 @@
 112620,Schäfer,,,,,,SPD,Offenburg
 112621,Schäfer,,,,,,SPD,Offenburg
 112624,Walther,,,,,,SPD,
+112626,Schäfer,,,,,,SPD,Offenburg
 112628,Walther,,,,,,SPD,
 112629,Roth,,,,,,SPD,
 112631,Schmitz,,,,,,CDU/CSU,Baesweiler
 112634,Roth,,,,,,SPD,
 112635,Vethoff,,,Dr.,,,CDU/CSU,
+112637,Hinsken,,,,,,CDU/CSU,
 112647,Kansy,,,Dr.-Ing.,,,CDU/CSU,
 112651,Baum,,,,,,FDP,
 112655,Geißler,,,Dr.,,,CDU/CSU,
@@ -97,6 +101,7 @@
 112741,Müntefering,,,,,,SPD,
 112742,Conradi,,,,,,SPD,
 112743,Dreßler,,,,,,SPD,
+112747,Conradi,,,,,,SPD,
 112749,Dreßler,,,,,,SPD,
 112755,Kuhlwein,,,,,,SPD,
 112758,Bötsch,,,Dr.,,,CDU/CSU,
@@ -115,6 +120,7 @@
 112812,Duve,,,,,,SPD,
 112813,Heuer,,,Dr.,,,DIE LINKE.,
 112814,Göhner,,,Dr.,,,CDU/CSU,
+112818,Roth,,,,,,SPD,
 112832,Jelpke,,,,,,DIE LINKE.,
 112845,Bohl,,,,,,CDU/CSU,
 112851,Büttner,,,,,,CDU/CSU,
@@ -138,8 +144,9 @@
 112935,Blüm,,,Dr.,,,CDU/CSU,
 112937,Dreßler,,,,,,SPD,
 112941,Heinrich,,,,,,FDP,
-112943,Büttner,,,,,,SPD,Ingolstadt
+112943,Büttner,,,,,,SPD,
 112945,Dreßler,,,,,,SPD,
+112947,Peter,,,,,,SPD,Kassel
 112947,Dreßler,,,,,,SPD,
 112949,Voigt,,,Dr.,,,CDU/CSU,Northeim
 112951,Dreßler,,,,,,SPD,
@@ -181,24 +188,29 @@
 113244,Lucyga,,,Dr.,,,SPD,
 113248,Kansy,,,Dr.-Ing.,,,CDU/CSU,
 113252,Großmann,,,,,,SPD,
+113256,Conradi,,,,,,SPD,
 113259,Müntefering,,,,,,SPD,
 113262,Rose,,,Dr.,,,CDU/CSU,
+113264,Glos,,,,,,CDU/CSU,
 113265,Uldall,,,,,,CDU/CSU,
 113267,Esters,,,,,,SPD,
 113269,Rüttgers,,,Dr.,,,CDU/CSU,
 113271,Otto,,,,,,FDP,Frankfurt
+113272,Rüttgers,,,Dr.,,,CDU/CSU,
 113274,Vogel,,,Dr.,,,SPD,
 113279,Dregger,,,Dr.,,,CDU/CSU,
 113281,Lambsdorff,,,Dr.,,Graf,FDP,
 113284,Rüttgers,,,Dr.,,,CDU/CSU,
 113285,Geißler,,,Dr.,,,CDU/CSU,
 113286,Hoyer,,,Dr.,,,FDP,
+113287,Bohl,,,,,,CDU/CSU,
 113291,Faltlhauser,,,Dr.,,,CDU/CSU,
 113293,Esters,,,,,,SPD,
 113295,Hinsken,,,,,,CDU/CSU,
 113297,Däubler-Gmelin,,,Dr.,,,SPD,
 113298,Weng,,,Dr.,,,FDP,Gerlingen
 113299,Däubler-Gmelin,,,Dr.,,,SPD,
+113301,Reimann,,,,,,SPD,
 113303,Vogel,,,Dr.,,,SPD,
 113304,Penner,,,Dr.,,,SPD,
 113305,Däubler-Gmelin,,,Dr.,,,SPD,
@@ -210,6 +222,7 @@
 113322,Weng,,,Dr.,,,FDP,Gerlingen
 113328,Däubler-Gmelin,,,Dr.,,,SPD,
 113330,Weng,,,Dr.,,,FDP,Gerlingen
+113332,Vogel,,,Dr.,,,SPD,
 113338,Weng,,,Dr.,,,FDP,Gerlingen
 113349,Weng,,,Dr.,,,FDP,Gerlingen
 113354,Struck,,,Dr.,,,SPD,
@@ -231,6 +244,7 @@
 113424,Nolting,,,,,,FDP,
 113426,Schäfer,,,,,,SPD,Offenburg
 113430,Nolting,,,,,,FDP,
+113430,Bindig,,,,,,SPD,
 113435,Schäfer,,,,,,SPD,Offenburg
 113437,Hornung,,,,,,CDU/CSU,
 113439,Sielaff,,,,,,,
@@ -244,6 +258,7 @@
 113470,Sielaff,,,,,,SPD,
 113473,Schäfer,,,,,,SPD,Offenburg
 113474,Rixe,,,,,,SPD,
+113475,Schäfer,,,,,,SPD,Offenburg
 113475,Ostergetelo,,,,,,SPD,
 113477,Schäfer,,,,,,SPD,Offenburg
 113478,Rixe,,,,,,SPD,
@@ -285,6 +300,7 @@
 113591,Struck,,,Dr.,,,SPD,
 113592,Gansel,,,,,,SPD,
 113597,Gerster,,,,,,CDU/CSU,Mainz
+113599,Gansel,,,,,,SPD,
 113603,Gansel,,,,,,SPD,
 113612,Gerster,,,,,,CDU/CSU,Mainz
 113618,Schmidt,,,,,,SPD,Nürnberg
@@ -310,6 +326,9 @@
 113782,Elmer,,,Dr.,,,SPD,
 113784,Rixe,,,,,,SPD,
 113791,Odendahl,,,,,,SPD,
+113805,Weng,,,Dr.,,,FDP,Gerlingen
+113805,Catenhusen,,,,,,SPD,
+113805,Seesing,,,,,,CDU/CSU,
 113805,Beifall des  Vergin,,,,,,SPD,
 113807,Kohn,,,,,,FDP,
 113809,Catenhusen,,,,,,SPD,
@@ -326,6 +345,7 @@
 113866,Lamers,,,,,,CDU/CSU,
 113868,Scharrenbroich,,,,,,CDU/CSU,
 113870,Weisskirchen,,,,,,SPD,Wiesloch
+113942,Müntefering,,,,,,SPD,
 113958,Erler,,,,,,SPD,
 113963,Seifert,,,Dr.,,,DIE LINKE.,
 113968,Toetemeyer,,,,,,SPD,
@@ -385,12 +405,14 @@
 114178,Bohl,,,,,,CDU/CSU,
 114180,Göhner,,,Dr.,,,CDU/CSU,
 114181,Hämmerle,,,,,,SPD,
+114184,Opel,,,,,,SPD,
 114184,Steiner,,,,,,SPD,
 114186,Opel,,,,,,SPD,
 114188,Gerster,,,,,,CDU/CSU,Mainz
 114195,Weng,,,Dr.,,,FDP,Gerlingen
 114196,Rüttgers,,,Dr.,,,CDU/CSU,
 114198,Vogel,,,Dr.,,,SPD,
+114199,Weng,,,Dr.,,,FDP,Gerlingen
 114200,Müntefering,,,,,,SPD,
 114202,Kittelmann,,,,,,CDU/CSU,
 114203,Rüttgers,,,Dr.,,,CDU/CSU,
@@ -427,6 +449,7 @@
 114252,Kansy,,,Dr.-Ing.,,,CDU/CSU,
 114253,Kansy,,,Dr.-Ing.,,,CDU/CSU,
 114254,Bundesminister  Waigel,,,Dr.,,,,
+114254,Gattermann,,,,,,FDP,
 114255,Uldall,,,,,,CDU/CSU,
 114257,Uldall,,,,,,CDU/CSU,
 114258,Waigel,,,Dr.,,,CDU/CSU,
@@ -445,6 +468,7 @@
 114284,Poß,,,,,,SPD,
 114286,Poß,,,,,,SPD,
 114287,Voigt,,,,,,SPD,Frankfurt
+114289,Vogel,,,Dr.,,,SPD,
 114291,Pfeffermann,,,,,,CDU/CSU,
 114295,Enkelmann,,,Dr.,,,DIE LINKE.,
 114299,Voigt,,,,,,SPD,Frankfurt
@@ -455,6 +479,7 @@
 114308,Gysi,,,Dr.,,,DIE LINKE.,
 114309,Vogel,,,Dr.,,,SPD,
 114310,Dregger,,,Dr.,,,CDU/CSU,
+114312,Duve,,,,,,SPD,
 114313,Rose,,,Dr.,,,CDU/CSU,
 114314,Duve,,,,,,SPD,
 114315,Vogel,,,Dr.,,,SPD,
@@ -473,6 +498,7 @@
 114349,Borchert,,,,,,CDU/CSU,
 114350,Schmitz,,,,,,CDU/CSU,Baesweiler
 114351,Würfel,,,,,,FDP,
+114353,Götte,,,Dr.,,,SPD,
 114355,Enkelmann,,,Dr.,,,DIE LINKE.,
 114358,Höll,,,Dr.,,,DIE LINKE.,
 114359,Enkelmann,,,Dr.,,,DIE LINKE.,
@@ -486,11 +512,14 @@
 114370,Doppmeier,,,,,,CDU/CSU,
 114373,Peter,,,,,,SPD,Kassel
 114385,Blank,,,Dr.,,,CDU/CSU,
+114389,Blank,,,Dr.,,,CDU/CSU,
 114391,Matthäus-Maier,,,,,,SPD,
 114394,Wegner,,,Dr.,,,SPD,
 114396,Gerster,,,,,,CDU/CSU,Mainz
+114402,Baum,,,,,,FDP,
 114405,Schmitz,,,,,,CDU/CSU,Baesweiler
 114407,Hirsch,,,Dr.,,,FDP,
+114410,Gegenruf des   Heuer,,,Dr.,,,DIE LINKE.,
 114410,Geis,,,,,,CDU/CSU,
 114412,Blank,,,Dr.,,,CDU/CSU,
 114413,Gerster,,,,,,CDU/CSU,Mainz
@@ -500,6 +529,7 @@
 114420,Lintner,,,,,,CDU/CSU,
 114421,Stetten,,,Dr.,von,Freiherr,CDU/CSU,
 114427,Geis,,,,,,CDU/CSU,
+114431,Geis,,,,,,CDU/CSU,
 114433,Marschewski,,,,,,CDU/CSU,
 114435,Roitzsch,,,,,,CDU/CSU,Quickborn
 114436,Marschewski,,,,,,CDU/CSU,
@@ -517,6 +547,8 @@
 114456,Pfeffermann,,,,,,CDU/CSU,
 114458,Struck,,,Dr.,,,SPD,
 114461,Schäfer,,,,,,SPD,Offenburg
+114461,Matthäus-Maier,,,,,,SPD,
+114466,Schäfer,,,,,,SPD,Offenburg
 114470,Pfeffermann,,,,,,CDU/CSU,
 114473,Matthäus-Maier,,,,,,SPD,
 114474,Schäfer,,,,,,SPD,Offenburg
@@ -571,10 +603,12 @@
 114579,Poß,,,,,,SPD,
 114581,Vogel,,,Dr.,,,SPD,
 114582,Vogel,,,Dr.,,,SPD,
+114583,Schreiner,,,,,,SPD,
 114583,Andres,,,,,,SPD,
 114584,Andres,,,,,,SPD,
 114585,Seifert,,,Dr.,,,DIE LINKE.,
 114586,Andres,,,,,,SPD,
+114587,Schmidt,,,,,,SPD,Salzgitter
 114588,Kirschner,,,,,,SPD,
 114594,Thomae,,,Dr.,,,FDP,
 114595,Altherr,,,Dr.,,,CDU/CSU,
@@ -588,6 +622,7 @@
 114612,Günther,,,,,,CDU/CSU,
 114614,Struck,,,Dr.,,,SPD,
 114615,Laumann,,,,,,CDU/CSU,
+114617,Däubler-Gmelin,,,Dr.,,,SPD,
 114622,Helmrich,,,,,,CDU/CSU,
 114627,Wiefelspütz,,,,,,SPD,
 114629,Däubler-Gmelin,,,Dr.,,,SPD,
@@ -608,6 +643,7 @@
 114672,Penner,,,Dr.,,,SPD,
 114678,Roth,,,,,,SPD,
 114684,Roth,,,,,,SPD,
+114686,Struck,,,Dr.,,,SPD,
 114686,Schwalbe,,,,,,CDU/CSU,
 114691,Hitschler,,,Dr.,,,FDP,
 114700,Roth,,,,,,SPD,
@@ -634,9 +670,13 @@
 114811,Eimer,,,,,,FDP,Fürth
 114813,Meckel,,,,,,SPD,
 114814,Hoyer,,,Dr.,,,FDP,
+114815,Schmidt,,,,,,SPD,Salzgitter
 114817,Wiefelspütz,,,,,,SPD,
+114818,Irmer,,,,,,FDP,
 114820,Meyer,,,Dr.,,,SPD,Ulm
+114822,Wiefelspütz,,,,,,SPD,
 114822,Fuchs,,,,,,SPD,Verl
+114826,Hoyer,,,Dr.,,,FDP,
 114829,Küster,,,Dr.,,,SPD,
 114832,Schmidt-Zadel,,,,,,SPD,
 114857,Müller,,,,,,SPD,Pleisweiler
@@ -649,6 +689,7 @@
 114930,Vogel,,,Dr.,,,SPD,
 114943,Reschke,,,,,,SPD,
 114945,Kuhlwein,,,,,,SPD,
+114945,Vogel,,,Dr.,,,SPD,
 114946,Feilcke,,,,,,CDU/CSU,
 114948,Hitschler,,,Dr.,,,FDP,
 114949,Müntefering,,,,,,SPD,
@@ -694,18 +735,23 @@
 115058,Müller,,,,,,SPD,Völklingen
 115061,Weng,,,Dr.,,,FDP,Gerlingen
 115062,Weng,,,Dr.,,,FDP,Gerlingen
+115065,Lippold,,,Dr.,,,CDU/CSU,Offenbach
 115067,Duve,,,,,,SPD,
 115068,Duve,,,,,,SPD,
 115070,Lennartz,,,,,,SPD,
 115071,Nolting,,,,,,FDP,
 115074,Fischer,,,Dr.,,,DIE LINKE.,
 115075,Lummer,,,,,,CDU/CSU,
+115076,Mitglieder der FDP-Fraktion gratulieren dem Abgeordneten Zurhei  seiner Jungfernrede,,,,de,,FDP,
+115076,Duve,,,,,,SPD,
 115078,Lummer,,,,,,CDU/CSU,
 115080,Lummer,,,,,,CDU/CSU,
 115083,Duve,,,,,,SPD,
 115086,Roth,,,,,,SPD,
 115087,Vogel,,,Dr.,,,SPD,
 115089,Geis,,,,,,CDU/CSU,
+115092,Geis,,,,,,CDU/CSU,
+115092,Müller,,,,,,SPD,Pleisweiler
 115094,Vogel,,,Dr.,,,SPD,
 115095,Stetten,,,Dr.,von,Freiherr,CDU/CSU,
 115096,Stetten,,,Dr.,von,Freiherr,CDU/CSU,
@@ -716,6 +762,7 @@
 115103,Müller,,,,,,SPD,Pleisweiler
 115104,Marschewski,,,,,,CDU/CSU,
 115105,Vogel,,,Dr.,,,SPD,
+115105,Bachmaier,,,,,,SPD,
 115106,Vogel,,,Dr.,,,SPD,
 115108,Roth,,,,,,SPD,
 115111,Roth,,,,,,SPD,
@@ -726,6 +773,7 @@
 115116,Geis,,,,,,CDU/CSU,
 115117,Weng,,,Dr.,,,FDP,Gerlingen
 115121,Kansy,,,Dr.-Ing.,,,CDU/CSU,
+115123,Geis,,,,,,CDU/CSU,
 115126,Vogel,,,Dr.,,,SPD,
 115132,Vogel,,,Dr.,,,SPD,
 115134,Weiler,,,,,,SPD,
@@ -752,6 +800,7 @@
 115170,Rüttgers,,,Dr.,,,CDU/CSU,
 115171,Götte,,,Dr.,,,SPD,
 115173,Rüttgers,,,Dr.,,,CDU/CSU,
+115174,Hämmerle,,,,,,SPD,
 115175,Rüttgers,,,Dr.,,,CDU/CSU,
 115176,Rüttgers,,,Dr.,,,CDU/CSU,
 115180,Rudolf Bindig,,,,,,SPD,
@@ -803,6 +852,8 @@
 115382,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 115385,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 115387,Rudolf Krause,,,Dr.,,,CDU/CSU,Bonese
+115389,Susanne Kastner,,,,,,SPD,
+115390,Marliese Dobberthien,,,Dr.,,,SPD,Marl
 115399,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 115400,Uwe Küster,,,Dr.,,,SPD,
 115402,Marliese Dobberthien,,,Dr.,,,SPD,Marl
@@ -812,9 +863,12 @@
 115457,Franz Müntefering,,,,,,SPD,
 115458,Ernst Hinsken,,,,,,CDU/CSU,
 115463,Ernst Hinsken,,,,,,CDU/CSU,
+115465,Norbert Gansel,,,,,,SPD,
 115467,Vera Wollenberger,,,,,,BÜNDNIS 90/DIE GRÜNEN,
 115468,Peter Kittelmann,,,,,,CDU/CSU,
+115469,Peter Kittelmann,,,,,,CDU/CSU,
 115470,Norbert Gansel,,,,,,SPD,
+115471,Günter Verheugen,,,,,,SPD,
 115472,Norbert Gansel,,,,,,SPD,
 115473,Peter Kittelmann,,,,,,CDU/CSU,
 115474,Norbert Gansel,,,,,,SPD,
@@ -841,9 +895,11 @@
 115514,Horst Sielaff,,,,,,SPD,
 115515,Siegfried Hornung,,,,,,CDU/CSU,
 115516,Horst Sielaff,,,,,,SPD,
+115516,Siegfried Hornung,,,,,,CDU/CSU,
 115517,Horst Sielaff,,,,,,SPD,
 115519,Ottmar Schreiner,,,,,,SPD,
 115525,Barbara Weiler,,,,,,SPD,
+115527,Gerlin Hämmerle,,,,de,,SPD,
 115530,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
 115532,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 115538,Ingrid Roitzsch,,,,,,CDU/CSU,Quickborn
@@ -857,6 +913,7 @@
 115550,Rudolf Dreßler,,,,,,SPD,
 115551,Gerhard Scheu,,,,,,CDU/CSU,
 115553,Detlev  Larcher,,,,von,,SPD,
+115554,Josef Grünbeck,,,,,,FDP,
 115555,Wolfgang Roth,,,,,,SPD,
 115556,Siegfried Hornung,,,,,,CDU/CSU,
 115557,Friedhelm Ost,,,,,,CDU/CSU,
@@ -883,6 +940,8 @@
 115596,Peter Kittelmann,,,,,,CDU/CSU,
 115597,Wolfgang Roth,,,,,,SPD,
 115598,Peter Kittelmann,,,,,,CDU/CSU,
+115599,Sigrid Skarpelis-Sperk,,,Dr.,,,SPD,
+115599,Wolfgang Roth,,,,,,SPD,
 115602,Wolfgang Roth,,,,,,SPD,
 115612,Elke Leonhard-Schmid,,,Dr.,,,SPD,
 115615,Peter Kittelmann,,,,,,CDU/CSU,
@@ -922,6 +981,7 @@
 115730,Dietmar Schütz,,,,,,SPD,
 115736,Dietmar Schütz,,,,,,SPD,
 115740,Norbert Gansel,,,,,,SPD,
+115740,Dietmar Schütz,,,,,,SPD,
 115741,Norbert Gansel,,,,,,SPD,
 115747,Norbert Gansel,,,,,,SPD,
 115748,Otto Schily,,,,,,SPD,
@@ -935,6 +995,7 @@
 115788,Otto Schily,,,,,,SPD,
 115800,Gerhart Rudolf Baum,,,,,,FDP,
 115801,Gerd Poppe,,,,,,BÜNDNIS 90/DIE GRÜNEN,
+115802,Detlev  Larcher,,,,von,,SPD,
 115805,Diemar Schütz,,,,,,SPD,
 115807,Harald B. Schäfer,,,,,,SPD,Offenburg
 115808,Gerhart Rudolf Baum,,,,,,FDP,
@@ -942,10 +1003,12 @@
 115811,Gerd Poppe,,,,,,BÜNDNIS 90/DIE GRÜNEN,
 115814,Dietmar Schütz,,,,,,SPD,
 115815,Dietmar Schütz,,,,,,SPD,
+115815,Harald B. Schäfer,,,,,,SPD,Offenburg
 115816,Harald B. Schäfer,,,,,,SPD,Offenburg
 115817,Harald B. Schäfer,,,,,,SPD,Offenburg
 115818,Harald B. Schäfer,,,,,,SPD,
 115819,Harald B. Schäfer,,,,,,SPD,Offenburg
+115820,Harald B. Schäfer,,,,,,SPD,Offenburg
 115824,Gerhard Friedrich,,,Dr.,,,CDU/CSU,
 115828,Harald B. Schäfer,,,,,,SPD,Offenburg
 115834,Michael Müller,,,,,,SPD,Düsseldorf
@@ -988,13 +1051,16 @@
 115953,Walter Hitschler,,,Dr.,,,FDP,
 115955,Manfred Richter,,,,,,FDP,Bremerhaven
 115958,Ingrid Matthäus-Maier,,,,,,SPD,
+115961,Hans-Jochen Vogel,,,Dr.,,,SPD,
 115965,Josef Grünbeck,,,,,,FDP,
 115966,Norbert Eimer,,,,,,FDP,Fürth
 115969,Norbert Eimer,,,,,,FDP,Fürth
 115973,Werner Hoyer,,,Dr.,,,FDP,
+115976,Joachim Poß,,,,,,SPD,
 115978,Kurt Faltlhauser,,,Dr.,,,CDU/CSU,
 115980,Detlev  Larcher,,,,von,,SPD,
 115981,Ingrid Matthäus-Maier,,,,,,SPD,
+115981,Joachim Poß,,,,,,SPD,
 115984,Ingrid Matthäus-Maier,,,,,,SPD,
 115985,Ingrid Matthäus-Maier,,,,,,SPD,
 115989,Joachim Poß,,,,,,SPD,
@@ -1018,6 +1084,7 @@
 116037,Walter Hitschler,,,Dr.,,,FDP,
 116041,Detlev  Larcher,,,,von,,SPD,
 116045,Detlev  Larcher,,,,von,,SPD,
+116050,Burkhard Hirsch,,,Dr.,,,FDP,
 116053,Detlev  Larcher,,,,von,,SPD,
 116066,Heribert Scharrenbroich,,,,,,CDU/CSU,
 116067,Ernst Hinsken,,,,,,CDU/CSU,
@@ -1045,6 +1112,7 @@
 116173,Harald B. Schäfer,,,,,,SPD,Offenburg
 116176,Christoph Zöpel,,,Dr.,,,SPD,
 116177,Monika Ganseforth,,,,,,SPD,
+116179,HansEberhard Urbaniak,,,,,,SPD,
 116180,Ulrich Irmer,,,,,,FDP,
 116181,Harald B. Schäfer,,,,,,SPD,Offenburg
 116185,Hans-Eberhard Urbaniak,,,,,,SPD,
@@ -1071,6 +1139,7 @@
 116235,Helmut Wieczorek,,,,,,SPD,Duisburg
 116245,Peter Struck,,,Dr.,,,SPD,
 116247,Peter Struck,,,Dr.,,,SPD,
+116251,Horst Günther,,,,,,CDU/CSU,Duisburg
 116252,Ottmar Schreiner,,,,,,SPD,
 116254,Ottmar Schreiner,,,,,,SPD,
 116256,Horst Günther,,,,,,CDU/CSU,Duisburg
@@ -1120,10 +1189,12 @@
 116374,Ingrid Matthäus-Maier,,,,,,SPD,
 116377,Ingrid Matthäus-Maier,,,,,,SPD,
 116385,Ulrich Briefs,,,Dr.,,,DIE LINKE.,
+116387,Jochen Borchert,,,,,,CDU/CSU,
 116389,Ingrid Matthäus-Maier,,,,,,SPD,
 116390,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 116391,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
 116402,Ilja Seifert,,,Dr.,,,DIE LINKE.,
+116404,Ingrid Matthäus-Maier,,,,,,SPD,
 116406,Horst Jungmann,,,,,,SPD,Wittmoldt
 116408,Klaus Rose,,,Dr.,,,CDU/CSU,
 116414,Adolf Roth,,,,,,CDU/CSU,Gießen
@@ -1146,11 +1217,13 @@
 116459,Johannes Gerster,,,,,,CDU/CSU,Mainz
 116460,Klaus-Dieter Uelhoff,,,Dr.,,,CDU/CSU,
 116461,Klaus-Dieter Uelhoff,,,Dr.,,,CDU/CSU,
+116462,Johannes Gerster,,,,,,CDU/CSU,Mainz
 116464,Horst Jungmann,,,,,,SPD,Wittmoldt
 116467,Johannes Gerster,,,,,,CDU/CSU,Mainz
 116475,Ulla Jelpke,,,,,,DIE LINKE.,
 116479,Peter Struck,,,Dr.,,,SPD,
 116480,Klaus Rose,,,Dr.,,,CDU/CSU,
+116481,Ingrid Matthäus-Maier,,,,,,SPD,
 116482,Ina Albowitz,,,,,,FDP,
 116487,Ingrid Matthäus-Maier,,,,,,SPD,
 116489,Ernst Waltemathe,,,,,,SPD,
@@ -1165,12 +1238,15 @@
 116505,Siegfried Hornung,,,,,,CDU/CSU,
 116506,Otto  Lambsdorff,,,Dr.,,Graf,FDP,
 116508,Siegfried Hornung,,,,,,CDU/CSU,
+116509,Peter Glotz,,,Dr.,,,SPD,
 116509,Heiterkeit,,,,,,,
 116510,Hans-Werner Müller,,,,,,CDU/CSU,Wadern
 116511,Horst Jungmann,,,,,,SPD,Wittmoldt
 116512,Horst Jungmann,,,,,,SPD,Wittmoldt
 116513,Horst Jungmann,,,,,,SPD,Wittmoldt
 116514,Siegfried Hornung,,,,,,CDU/CSU,
+116516,Siegfried Hornung,,,,,,CDU/CSU,
+116516,Paul Breuer,,,,,,CDU/CSU,
 116517,Horst Jungmann,,,,,,SPD,Wittmoldt
 116518,Günther Friedrich Nolting,,,,,,FDP,
 116526,Siegfried Hornung,,,,,,CDU/CSU,
@@ -1193,6 +1269,7 @@
 116570,Dietrich Austermann,,,,,,CDU/CSU,
 116573,Gerhard O. Pfeffermann,,,,,,CDU/CSU,
 116577,Gerhard O. Pfeffermann,,,,,,CDU/CSU,
+116579,Peter Harry Carstensen,,,,,,CDU/CSU,Nordstrand
 116580,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
 116581,Gerhard O. Pfeffermann,,,,,,CDU/CSU,
 116582,Dietrich Austermann,,,,,,CDU/CSU,
@@ -1211,11 +1288,15 @@
 116607,Lieselott Blunck,,,,,,SPD,
 116608,Harald B. Schäfer,,,,,,SPD,Offenburg
 116610,Bürgermeister Klaus Wedemeier,,,,,,,Bremen
+116610,Harald B. Schäfer,,,,,,SPD,Offenburg
 116611,Helmut Wieczorek,,,,,,SPD,Duisburg
 116612,Ernst Hinsken,,,,,,CDU/CSU,
 116614,Ingrid Matthäus-Maier,,,,,,SPD,
 116616,Kurt J. Rossmanith,,,,,,CDU/CSU,
 116618,Kurt J. Rossmanith,,,,,,CDU/CSU,
+116620,Gegenruf des  Josef Grünbeck,,,,,,FDP,
+116620,Ingrid MatthäusMaier,,,,,,SPD,
+116621,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 116623,Ingrid Matthäus-Maier,,,,,,SPD,
 116625,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 116626,Arnulf Kriedner,,,,,,CDU/CSU,
@@ -1235,6 +1316,7 @@
 116655,Rudolf Bindig,,,,,,SPD,
 116660,Jochen Borchert,,,,,,CDU/CSU,
 116661,Ernst Waltemathe,,,,,,SPD,
+116662,Nils Diederich,,,Dr.,,,SPD,Berlin
 116664,Ekkehard Gries,,,,,,FDP,
 116666,Ernst Waltemathe,,,,,,SPD,
 116667,Helmut Wieczorek,,,,,,SPD,Duisburg
@@ -1254,11 +1336,13 @@
 116711,Ingrid Matthäus-Maier,,,,,,SPD,
 116712,Eike Ebert,,,,,,SPD,
 116714,Ingrid Matthäus-Maier,,,,,,SPD,
+116721,Peter Kittelmann,,,,,,CDU/CSU,
 116723,Michael Glos,,,,,,CDU/CSU,
 116725,Rudi Walther,,,,,,SPD,
 116726,Rudi Walther,,,,,,SPD,
 116727,Horst Jungmann,,,,,,SPD,Wittmoldt
 116728,Heiterkeit,,,,,,,
+116728,Klaus Rose,,,Dr.,,,CDU/CSU,
 116729,Detlev  Larcher,,,,von,,SPD,
 116733,Eike Ebert,,,,,,SPD,
 116735,Detlev  Larcher,,,,von,,SPD,
@@ -1332,6 +1416,7 @@
 116941,Siegfried Hornung,,,,,,CDU/CSU,
 116942,Siegfried Hornung,,,,,,CDU/CSU,
 116943,Siegfried Hornung,,,,,,CDU/CSU,
+116943,Egon Susset,,,,,,CDU/CSU,
 116944,Siegfried Hornung,,,,,,CDU/CSU,
 116945,Horst Peter,,,,,,SPD,Kassel
 116946,Harald B. Schäfer,,,,,,SPD,Offenburg
@@ -1363,6 +1448,7 @@
 117002,Johannes Gerster,,,,,,CDU/CSU,Mainz
 117003,Friedrich Vogel,,,,,,CDU/CSU,Ennepetal
 117004,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
+117004,Konrad Weiß,,,,,,BÜNDNIS 90/DIE GRÜNEN,Berlin
 117007,Ingrid Köppe,,,,,,BÜNDNIS 90/DIE GRÜNEN,
 117008,Johannes Gerster,,,,,,CDU/CSU,Mainz
 117010,Detlev  Larcher,,,,von,,SPD,
@@ -1387,15 +1473,18 @@
 117065,Josef Grünbeck,,,,,,FDP,
 117066,Doris Odendahl,,,,,,SPD,
 117067,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
+117068,Peter Struck,,,Dr.,,,SPD,
 117069,Hans-Joachim Fuchtel,,,,,,CDU/CSU,
 117071,Eckart Kuhlwein,,,,,,SPD,
 117074,Günter Rixe,,,,,,SPD,
 117076,Norbert Geis,,,,,,CDU/CSU,
 117079,Marliese Dobberthien,,,Dr.,,,SPD,Marl
+117081,Margret FunkeSchmitt-Rink,,,Dr.,,,FDP,
 117082,Norbert Geis,,,,,,CDU/CSU,
 117188,Martin Pfaff,,,Dr.,,,SPD,
 117203,Dieter Thomae,,,Dr.,,,FDP,
 117204,Editha Limbach,,,,,,CDU/CSU,
+117205,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
 117208,Ulrich Janzen,,,Dr.,,,SPD,
 117212,Dieter Thomae,,,Dr.,,,FDP,
 117214,Paul Hoffacker,,,Dr.,,,CDU/CSU,Hof
@@ -1440,6 +1529,7 @@
 117308,Peter Kittelmann,,,,,,CDU/CSU,
 117314,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 117328,Walter Hitschler,,,Dr.,,,FDP,
+117330,Manfred Richter,,,,,,FDP,Bremerhaven
 117332,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 117334,Vera Wollenberger,,,,,,BÜNDNIS 90/DIE GRÜNEN,
 117335,Ingrid Köppe,,,,,,BÜNDNIS 90/DIE GRÜNEN,
@@ -1455,6 +1545,7 @@
 117373,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
 117374,Wolfgang Roth,,,,,,SPD,
 117377,Friedrich Bohl,,,,,,CDU/CSU,
+117382,Maria Michalk,,,,,,CDU/CSU,
 117383,Detlev  Larcher,,,,von,,SPD,
 117385,Wolfgang Thierse,,,,,,SPD,
 117386,Arne Börnsen,,,,,,SPD,Ritterhude
@@ -1522,8 +1613,10 @@
 117538,Franz Heinrich Krey,,,,,,CDU/CSU,
 117539,Detlev  Larcher,,,,von,,SPD,
 117540,Herta Däubler-Gmelin,,,Dr.,,,SPD,
+117541,Detlev  Larcher,,,,von,,SPD,
 117542,Heribert Blens,,,Dr.,,,CDU/CSU,
 117543,Detlev  Larcher,,,,von,,SPD,
+117544,Detlev  Larcher,,,,von,,SPD,
 117547,Hans H. Gattermann,,,,,,FDP,
 117564,Karl Stockhausen,,,,,,CDU/CSU,
 117567,Karl Stockhausen,,,,,,CDU/CSU,
@@ -1546,6 +1639,8 @@
 117649,Günther Friedrich Nolting,,,,,,FDP,
 117651,Albrecht Müller,,,,,,SPD,Pleisweiler
 117654,Klaus Lennartz,,,,,,SPD,
+117655,Dieter Heistermann,,,,,,SPD,
+117655,Detlev  Larcher,,,,von,,SPD,
 117656,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
 117658,Albrecht Müller,,,,,,SPD,Pleisweiler
 117659,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
@@ -1585,12 +1680,14 @@
 117748,Ulrich Irmer,,,,,,FDP,
 117750,Konrad Weiß,,,,,,BÜNDNIS 90/DIE GRÜNEN,Berlin
 117751,Ursula Fischer,,,Dr.,,,DIE LINKE.,
+117752,Werner Zywietz,,,,,,FDP,
 117752,Ulrich Irmer,,,,,,FDP,
 117756,Ursula Fischer,,,Dr.,,,DIE LINKE.,
 117760,Uwe Holtz,,,Dr.,,,SPD,
 117764,Harmut Soell,,,Dr.,,,SPD,
 117769,Uwe Holtz,,,Dr.,,,SPD,
 117782,Margret Funke-Schmitt-Rink,,,Dr.,,,FDP,
+117787,Friedrich Bohl,,,,,,CDU/CSU,
 117787,Heiterkeit,,,,,,,
 117789,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 117791,Otto Schily,,,,,,SPD,
@@ -1618,6 +1715,7 @@
 117846,Hans-Jochen Vogel,,,Dr.,,,SPD,
 117847,Peter Kittelmann,,,,,,CDU/CSU,
 117850,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
+117850,Norbert Blüm,,,Dr.,,,CDU/CSU,
 117860,Heinz Koschnick,,,,,,SPD,
 117861,Horst Ehmke,,,Dr.,,,SPD,Bonn
 117871,Hans-Jochen Vogel,,,Dr.,,,SPD,
@@ -1654,8 +1752,11 @@
 117943,Hans-Jochen Vogel,,,Dr.,,,SPD,
 117947,Jochen Feilcke,,,,,,CDU/CSU,
 117952,Hans-Jochen Vogel,,,Dr.,,,SPD,
+117969,Norbert Gansel,,,,,,SPD,
 117969,Heiterkeit,,,,,,,
 118003,Detlev  Larcher,,,,von,,SPD,
+118004,Heribert Scharrenbroich,,,,,,CDU/CSU,
+118004,Horst Seehofer,,,,,,CDU/CSU,
 118006,Julius Louven,,,,,,CDU/CSU,
 118007,Horst Günther,,,,,,CDU/CSU,Duisburg
 118008,Julius Louven,,,,,,CDU/CSU,
@@ -1666,7 +1767,7 @@
 118013,Hans-Peter Repnik,,,,,,CDU/CSU,
 118019,Ottmar Schreiner,,,,,,SPD,
 118020,Konrad Gilges,,,,,,SPD,
-118021,Hans Büttner,,,,,,SPD,Ingolstadt
+118021,Hans Büttner,,,,,,SPD,
 118022,Heiner Geißler,,,Dr.,,,CDU/CSU,
 118023,Manfred Richter,,,,,,FDP,Bremerhaven
 118024,Gudrun Weyel,,,,,,SPD,
@@ -1688,6 +1789,7 @@
 118060,Hans-Jochen Vogel,,,Dr.,,,SPD,
 118066,Volker Rühe,,,,,,CDU/CSU,
 118067,Volker Rühe,,,,,,CDU/CSU,
+118068,Otto  Lambsdorff,,,Dr.,,Graf,FDP,
 118070,Monika Ganseforth,,,,,,SPD,
 118072,Norbert Gansel,,,,,,SPD,
 118073,Norbert Gansel,,,,,,SPD,
@@ -1742,6 +1844,7 @@
 118179,Michael Glos,,,,,,CDU/CSU,
 118180,Hans-Jochen Vogel,,,Dr.,,,SPD,
 118183,Michael Glos,,,,,,CDU/CSU,
+118186,Hans-Jochen Vogel,,,Dr.,,,SPD,
 118188,Manfred Richter,,,,,,FDP,Bremerhaven
 118190,Hans-Jochen Vogel,,,Dr.,,,SPD,
 118196,Gerlin Hämmerle,,,,de,,SPD,
@@ -1752,6 +1855,7 @@
 118203,Wolfgang Roth,,,,,,SPD,
 118205,Heiner Geißler,,,Dr.,,,CDU/CSU,
 118206,Zuruf  SPD,,,,von der,,SPD,
+118206,Heiner Geißler,,,Dr.,,,CDU/CSU,
 118211,Julius Louven,,,,,,CDU/CSU,
 118213,Rudolf Dreßler,,,,,,SPD,
 118214,Julius Louven,,,,,,CDU/CSU,
@@ -1782,6 +1886,7 @@
 118254,Heiner Geißler,,,Dr.,,,CDU/CSU,
 118255,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 118256,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
+118257,Heiner Geißler,,,Dr.,,,CDU/CSU,
 118258,Heiner Geißler,,,Dr.,,,CDU/CSU,
 118260,Uwe Küster,,,Dr.,,,SPD,
 118261,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
@@ -1793,7 +1898,9 @@
 118268,Peter Struck,,,Dr.,,,SPD,
 118270,Hans-Jochen Vogel,,,Dr.,,,SPD,
 118272,Michael Glos,,,,,,CDU/CSU,
+118272,Hans Peter Schmitz,,,,,,CDU/CSU,Baesweiler
 118276,Klaus Rose,,,Dr.,,,CDU/CSU,
+118278,Hans-Jochen Vogel,,,Dr.,,,SPD,
 118284,Hans-Jochen Vogel,,,Dr.,,,SPD,
 118285,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 118288,Hans-Jochen Vogel,,,Dr.,,,SPD,
@@ -1802,6 +1909,7 @@
 118291,Ingrid Matthäus-Maier,,,,,,SPD,
 118292,Gerlin Hämmerle,,,,de,,SPD,
 118294,Michael Glos,,,,,,CDU/CSU,
+118300,Reinhard Meyer  Bentrup,,,Dr.,zu,,CDU/CSU,
 118302,Hans-Jochen Vogel,,,Dr.,,,SPD,
 118303,Hans-Jochen Vogel,,,Dr.,,,SPD,
 118305,Ingrid Matthäus-Maier,,,,,,SPD,
@@ -1826,6 +1934,7 @@
 118346,Hans  With,,,Dr.,de,,SPD,
 118349,Hans  With,,,Dr.,de,,SPD,
 118350,Peter Kittelmann,,,,,,CDU/CSU,
+118351,Peter Kittelmann,,,,,,CDU/CSU,
 118352,Peter Kittelmann,,,,,,CDU/CSU,
 118354,Hans  With,,,Dr.,de,,SPD,
 118356,Peter Kittelmann,,,,,,CDU/CSU,
@@ -1904,6 +2013,7 @@
 118646,Detlev  Larcher,,,,von,,SPD,
 118648,Ingrid Matthäus-Maier,,,,,,SPD,
 118650,Heiterkeit,,,,,,,
+118650,Friedrich Bohl,,,,,,CDU/CSU,
 118652,Joachim Poß,,,,,,SPD,
 118655,Ingrid Matthäus-Maier,,,,,,SPD,
 118657,Kurt Faltlhauser,,,Dr.,,,CDU/CSU,
@@ -1931,10 +2041,14 @@
 118711,Karsten D. Voigt,,,,,,SPD,Frankfurt
 118713,Hans Koschnick,,,,,,SPD,
 118714,Hermann Otto Solms,,,Dr.,,,FDP,
+118720,Karsten D. Voigt,,,,,,SPD,Frankfurt
 118720,Zuruf  SPD,,,,von der,,SPD,
 118725,Karsten D. Voigt,,,,,,SPD,Frankfurt
 118726,Karl Lamers,,,,,,CDU/CSU,
 118727,Dieter Wiefelspütz,,,,,,SPD,
+118729,Detlev  Larcher,,,,von,,SPD,
+118733,Burkhard Hirsch,,,Dr.,,,FDP,
+118736,Johannes Singer,,,,,,SPD,
 118736,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
 118738,Johannes Singer,,,,,,SPD,
 118740,Hans  With,,,Dr.,de,,SPD,
@@ -1946,6 +2060,8 @@
 118760,Johannes Singer,,,,,,SPD,
 118761,Joachim Hörster,,,,,,CDU/CSU,
 118763,Joachim Hörster,,,,,,CDU/CSU,
+118764,Johannes Singer,,,,,,SPD,
+118766,Jörg  Essen,,,,van,,FDP,Essen
 118767,Manfred Richter,,,,,,FDP,Bremerhaven
 118768,Manfred Richter,,,,,,FDP,Bremerhaven
 118773,Dieter Thomae,,,Dr.,,,FDP,
@@ -1967,6 +2083,7 @@
 118841,Norbert Gansel,,,,,,SPD,
 118852,Evelin Fischer,,,,,,SPD,Gräfenhainichen
 118853,Heiterkeit,,,,,,,
+118853,Detlev  Larcher,,,,von,,SPD,
 118877,Detlev  Larcher,,,,von,,SPD,
 118888,Detlev  Larcher,,,,von,,SPD,
 118889,Detlev  Larcher,,,,von,,SPD,
@@ -1974,6 +2091,7 @@
 118893,Peter Conradi,,,,,,SPD,
 118894,Friedrich Bohl,,,,,,CDU/CSU,
 118895,Heribert Blens,,,Dr.,,,CDU/CSU,
+118896,Ingrid Roitzsch,,,,,,CDU/CSU,Quickborn
 118899,Uwe Küster,,,Dr.,,,SPD,
 118903,Johannes Gerster,,,,,,CDU/CSU,Mainz
 118907,Detlev  Larcher,,,,von,,SPD,
@@ -2031,6 +2149,7 @@
 119025,Claus Jäger,,,,,,CDU/CSU,
 119027,Claus Jäger,,,,,,CDU/CSU,
 119029,Gisela Babel,,,Dr.,,,FDP,
+119030,Gerhart Rudolf Baum,,,,,,FDP,
 119034,Norbert Geis,,,,,,CDU/CSU,
 119036,Uta Würfel,,,,,,FDP,
 119044,Friedrich Bohl,,,,,,CDU/CSU,
@@ -2068,8 +2187,10 @@
 119167,Monika Ganseforth,,,,,,SPD,
 119169,Michael Müller,,,,,,SPD,Düsseldorf
 119172,Monika Ganseforth,,,,,,SPD,
+119173,Michael Müller,,,,,,SPD,Düsseldorf
 119175,Detlev  Larcher,,,,von,,SPD,
 119180,Klaus Lennartz,,,,,,SPD,
+119180,Detlev  Larcher,,,,von,,SPD,
 119181,Detlev  Larcher,,,,von,,SPD,
 119182,Detlev  Larcher,,,,von,,SPD,
 119186,Dirk Fischer,,,,,,CDU/CSU,Hamburg
@@ -2091,7 +2212,10 @@
 119217,Friedrich Bohl,,,,,,CDU/CSU,
 119221,Hans-Günther Toetemeyer,,,,,,SPD,
 119222,Hans-Günther Toetemeyer,,,,,,SPD,
+119224,Hans-Günther Toetemeyer,,,,,,SPD,
 119226,Stefan Schwarz,,,,,,CDU/CSU,
+119227,Dietmar Keller,,,Dr.,,,DIE LINKE.,
+119227,Stefan Schwarz,,,,,,CDU/CSU,
 119228,Stefan Schwarz,,,,,,CDU/CSU,
 119231,Stefan Schwarz,,,,,,CDU/CSU,
 119234,Stefan Schwarz,,,,,,CDU/CSU,
@@ -2143,6 +2267,7 @@
 119406,Alois   Waldburg-Zeil,,,,von,Graf,CDU/CSU,
 119411,Rudolf Bindig,,,,,,SPD,
 119413,Rudolf Bindig,,,,,,SPD,
+119416,UweJens Heuer,,,Dr.,,,DIE LINKE.,
 119416,Zuruf  FDP,,,,von der,,FDP,
 119422,Uwe-Jens Heuer,,,Dr.,,,DIE LINKE.,
 119423,Rudolf Bindig,,,,,,SPD,
@@ -2192,6 +2317,7 @@
 119608,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 119610,Ursula Männle,,,,,,CDU/CSU,
 119611,Ursula Männle,,,,,,CDU/CSU,
+119613,Rudolf Karl Krause,,,Dr.,,,CDU/CSU,Bonese
 119615,Margret Funke-Schmitt-Rink,,,Dr.,,,FDP,
 119618,Margret Funke-Schmitt-Rink,,,Dr.,,,FDP,
 119619,Lieselott Blunck,,,,,,SPD,
@@ -2233,6 +2359,7 @@
 119695,Peter Struck,,,Dr.,,,SPD,
 119697,Liesel Hartenstein,,,Dr.,,,SPD,
 119699,Peter Conradi,,,,,,SPD,
+119700,Editha Limbach,,,,,,CDU/CSU,
 119700,Heiterkeit,,,,,,,
 119706,Peter Struck,,,Dr.,,,SPD,
 119712,Peter Conradi,,,,,,SPD,
@@ -2240,6 +2367,7 @@
 119720,Peter Conradi,,,,,,SPD,
 119723,Peter Struck,,,Dr.,,,SPD,
 119727,Peter Conradi,,,,,,SPD,
+119730,Peter Struck,,,Dr.,,,SPD,
 119730,Norbert Gansel,,,,,,SPD,
 119737,Uwe Lambinus,,,,,,SPD,
 119823,Harald B. Schäfer,,,,,,SPD,Offenburg
@@ -2255,6 +2383,7 @@
 119839,Josef Vosen,,,,,,SPD,
 119841,Gerhart Rudolf Baum,,,,,,FDP,
 119844,Gerhard Friedrich,,,Dr.,,,CDU/CSU,
+119846,Harald B. Schäfer,,,,,,SPD,Offenburg
 119848,Franz Müntefering,,,,,,SPD,
 119849,Harald B. Schäfer,,,,,,SPD,Offenburg
 119851,Hans Koschnick,,,,,,SPD,
@@ -2291,6 +2420,7 @@
 119991,Gernot Erler,,,,,,SPD,
 119992,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
 119995,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
+119997,Norbert Wieczorek,,,Dr.,,,SPD,
 120000,Heidemarie Wieczorek-Zeul,,,,,,SPD,
 120001,Hermann Schwörer,,,Dr.,,,CDU/CSU,
 120002,Heidemarie Wieczorek-Zeul,,,,,,SPD,
@@ -2327,12 +2457,15 @@
 120094,Manfred Richter,,,,,,FDP,Bremerhaven
 120096,Ulrich Briefs,,,Dr.,,,DIE LINKE.,
 120099,Konrad Gilges,,,,,,SPD,
+120099,Freimut Duve,,,,,,SPD,
 120101,Norbert Gansel,,,,,,SPD,
 120103,Norbert Gansel,,,,,,SPD,
 120105,Volker Rühe,,,,,,CDU/CSU,
 120109,Georg Gallus,,,,,,FDP,
+120111,Ingrid Matthäus-Maier,,,,,,SPD,
 120111,Anhalten Zurufe  CDU/CSU,,,,de,,CDU/CSU,
 120113,Volker Rühe,,,,,,CDU/CSU,
+120115,Volker Rühe,,,,,,CDU/CSU,
 120116,Ingrid Matthäus-Maier,,,,,,SPD,
 120117,Burkhard Hirsch,,,Dr.,,,FDP,
 120118,Herta Däubler-Gmelin,,,Dr.,,,SPD,
@@ -2355,6 +2488,7 @@
 120157,Herta Däubler-Gmelin,,,Dr.,,,SPD,
 120161,Herta Däubler-Gmelin,,,Dr.,,,SPD,
 120162,Burkhard Hirsch,,,Dr.,,,FDP,
+120165,Manfred Richter,,,,,,FDP,Bremerhaven
 120165,Zurufe  CDU/CSU,,,,von der,,CDU/CSU,
 120166,Johannes Gerster,,,,,,CDU/CSU,Mainz
 120170,Manfred Richter,,,,,,FDP,Bremerhaven
@@ -2365,6 +2499,7 @@
 120177,Herta Däubler-Gmelin,,,Dr.,,,SPD,
 120178,Herta Däubler-Gmelin,,,Dr.,,,SPD,
 120179,Johannes Gerster,,,,,,CDU/CSU,Mainz
+120180,Herta Däubler-Gmelin,,,Dr.,,,SPD,
 120183,Johannes Gerster,,,,,,CDU/CSU,Mainz
 120185,Klaus Kirschner,,,,,,SPD,
 120186,Friedrich Bohl,,,,,,CDU/CSU,
@@ -2382,6 +2517,7 @@
 120212,Peter Struck,,,Dr.,,,SPD,
 120214,Siegrun Klemmer,,,,,,SPD,
 120222,Klaus Lennartz,,,,,,SPD,
+120224,Klaus Lennartz,,,,,,SPD,
 120228,Michael Müller,,,,,,SPD,Düsseldorf
 120231,Klaus Harries,,,,,,CDU/CSU,
 120232,Klaus Harries,,,,,,CDU/CSU,
@@ -2401,6 +2537,7 @@
 120263,Alois   Waldburg-Zeil,,,,von,Graf,CDU/CSU,
 120267,Dietmar Keller,,,Dr.,,,DIE LINKE.,
 120268,Doris Odendahl,,,,,,SPD,
+120269,Margret FunkeSchmitt-Rink,,,Dr.,,,FDP,
 120270,Doris Odendahl,,,,,,SPD,
 120271,Eckart Kuhlwein,,,,,,SPD,
 120272,Norbert Lammert,,,Dr.,,,CDU/CSU,
@@ -2413,12 +2550,14 @@
 120319,Eberhard Brecht,,,Dr.,,,SPD,
 120322,Manfred Richter,,,,,,FDP,Bremerhaven
 120323,Heiterkeit,,,,,,,
+120323,Manfred Richter,,,,,,FDP,Bremerhaven
 120331,Norbert Gansel,,,,,,SPD,
 120332,Freimut Duve,,,,,,SPD,
 120335,Freimut Duve,,,,,,SPD,
 120338,Norbert Gansel,,,,,,SPD,
 120340,Norbert Gansel,,,,,,SPD,
 120344,Walter Kolbow,,,,,,SPD,
+120353,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
 120354,Vera Wollenberger,,,,,,BÜNDNIS 90/DIE GRÜNEN,
 120355,Joseph-Theodor Blanck,,,Dr.,,,CDU/CSU,
 120357,Herta Däubler-Gmelin,,,Dr.,,,SPD,
@@ -2426,7 +2565,11 @@
 120359,Manfred Opel,,,,,,SPD,
 120360,Stefan Schwarz,,,,,,CDU/CSU,
 120361,Peter Conradi,,,,,,SPD,
+120362,Bernd Wilz,,,,,,CDU/CSU,
 120363,Norbert Gansel,,,,,,SPD,
+120365,Manfred Opel,,,,,,SPD,
+120365,Norbert Gansel,,,,,,SPD,
+120365,Gegenruf des  Friedrich Bohl,,,,,,CDU/CSU,
 120366,Norbert Gansel,,,,,,SPD,
 120369,Norbert Gansel,,,,,,SPD,
 120372,Gernot Erler,,,,,,SPD,
@@ -2443,6 +2586,7 @@
 120400,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
 120401,Peter Kittelmann,,,,,,CDU/CSU,
 120402,Christoph Zöpel,,,Dr.,,,SPD,
+120404,Peter Kittelmann,,,,,,CDU/CSU,
 120405,Hans-Dietrich Genscher,,,,,,FDP,
 120408,Herta Däubler-Gmelin,,,Dr.,,,SPD,
 120410,Herta Däubler-Gmelin,,,Dr.,,,SPD,
@@ -2450,6 +2594,7 @@
 120415,Ulrich Irmer,,,,,,FDP,
 120416,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
 120419,Heidemarie Wieczorek-Zeul,,,,,,SPD,
+120420,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
 120421,Heidemarie Wieczorek-Zeul,,,,,,SPD,
 120424,Norbert Wieczorek,,,Dr.,,,SPD,
 120438,Margrit Wetzel,,,Dr.,,,SPD,
@@ -2467,6 +2612,7 @@
 120551,Gerhart Rudolf Baum,,,,,,FDP,
 120552,Gerhart Rudolf Baum,,,,,,FDP,
 120555,Bernd Reuter,,,,,,SPD,
+120557,Staatsminister Joseph Fischer,,,,,,,Hessen
 120557,Heiterkeit,,,,,,,
 120558,Bernd Reuter,,,,,,SPD,
 120559,Ingrid Roitzsch,,,,,,CDU/CSU,Quickborn
@@ -2493,6 +2639,7 @@
 120605,Olaf Feldmann,,,Dr.,,,FDP,
 120606,Günter Verheugen,,,,,,SPD,
 120608,Norbert Gansel,,,,,,SPD,
+120609,Günter Verheugen,,,,,,SPD,
 120609,Uwe-Jens Heuer,,,Dr.,,,DIE LINKE.,
 120611,Werner Hoyer,,,Dr.,,,FDP,
 120617,Klaus Harries,,,,,,CDU/CSU,
@@ -2508,6 +2655,7 @@
 120637,Gerd Andres,,,,,,SPD,
 120657,Wolfgang Roth,,,,,,SPD,
 120682,Gerhard Reddemann,,,,,,CDU/CSU,
+120686,Wolfgang Roth,,,,,,SPD,
 120686,Heiterkeit,,,,,,,
 120692,Hartmut Soell,,,Dr.,,,SPD,
 120694,Wolfgang Roth,,,,,,SPD,
@@ -2564,13 +2712,17 @@
 120847,Peter Harald Rauen,,,,,,CDU/CSU,
 120849,Hans-Joachim Fuchtel,,,,,,CDU/CSU,
 120850,Harald B. Schäfer,,,,,,SPD,Offenburg
+120852,Harald B. Schäfer,,,,,,SPD,Offenburg
 120854,Friedrich Bohl,,,,,,CDU/CSU,
 120856,Harald B. Schäfer,,,,,,SPD,Offenburg
 120861,Harald B. Schäfer,,,,,,SPD,Offenburg
 120862,Liesel Hartenstein,,,Dr.,,,SPD,
 120863,Liesel Hartenstein,,,Dr.,,,SPD,
+120868,Herta DäublerGmelin,,,Dr.,,,SPD,
+120869,Michael Glos,,,,,,CDU/CSU,
 120870,Hans Peter Schmitz,,,,,,CDU/CSU,Baesweiler
 120871,Hans-Jochen Vogel,,,Dr.,,,SPD,
+120872,Hans-Jochen Vogel,,,Dr.,,,SPD,
 120873,Kurt Faltlhauser,,,Dr.,,,CDU/CSU,
 120875,Gunnar Uldall,,,,,,CDU/CSU,
 120877,Herta Däubler-Gmelin,,,Dr.,,,SPD,
@@ -2598,12 +2750,14 @@
 120931,Gerhard O. Pfeffermann,,,,,,CDU/CSU,
 120934,Gunnar Uldall,,,,,,CDU/CSU,
 120938,Detlev  Larcher,,,,von,,SPD,
+120939,Detlev  Larcher,,,,von,,SPD,
 120940,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 120942,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 120943,Ingrid Matthäus-Maier,,,,,,SPD,
 120945,Gunnar Uldall,,,,,,CDU/CSU,
 120946,Gerlin Hämmerle,,,,de,,SPD,
 120948,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
+120950,Detlev  Larcher,,,,von,,SPD,
 120981,Gerhard O. Pfeffermann,,,,,,CDU/CSU,
 120986,Klaus Kirschner,,,,,,SPD,
 120993,Josef Vosen,,,,,,SPD,
@@ -2613,7 +2767,9 @@
 121026,Ingomar Hauchler,,,Dr.,,,SPD,
 121037,Ingrid Roitzsch,,,,,,CDU/CSU,Quickborn
 121044,Margret Funke-Schmitt-Rink,,,Dr.,,,FDP,
+121046,Dirk Hansen,,,,,,FDP,
 121052,Dirk Hansen,,,,,,FDP,
+121053,Dirk Hansen,,,,,,FDP,
 121053,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
 121056,Karlheinz Guttmacher,,,Dr.,,,FDP,
 121058,Eckhard Kuhlwein,,,,,,SPD,
@@ -2621,6 +2777,7 @@
 121063,Gerhard Reddemann,,,,,,CDU/CSU,
 121065,Ulrich Briefs,,,Dr.,,,DIE LINKE.,
 121070,Andrea Lederer,,,,,,DIE LINKE.,
+121071,Johannes Gerster,,,,,,CDU/CSU,Mainz
 121072,Johannes Gerster,,,,,,CDU/CSU,Mainz
 121074,Franz Müntefering,,,,,,SPD,
 121075,Willfried Penner,,,Dr.,,,SPD,
@@ -2641,11 +2798,13 @@
 121107,Ingrid Roitzsch,,,,,,CDU/CSU,Quickborn
 121114,Otto Schily,,,,,,SPD,
 121128,Rudolf Dreßler,,,,,,SPD,
+121138,Gerd Andres,,,,,,SPD,
 121139,Detlev  Larcher,,,,von,,SPD,
 121140,Gerd Andres,,,,,,SPD,
 121148,Gerd Andres,,,,,,SPD,
 121149,Gerd Andres,,,,,,SPD,
 121150,Burkhard Hirsch,,,Dr.,,,FDP,
+121154,Detlev  Larcher,,,,von,,SPD,
 121154,Otto Schily,,,,,,SPD,
 121156,Heidemarie Wieczorek-Zeul,,,,,,SPD,
 121158,Heidemarie Wieczorek-Zeul,,,,,,SPD,
@@ -2668,6 +2827,7 @@
 121214,Eckart Kuhlwein,,,,,,SPD,
 121215,Engelbert Nelle,,,,,,CDU/CSU,
 121216,Doris Odendahl,,,,,,SPD,
+121217,Dirk Hansen,,,,,,FDP,
 121218,Günter Rixe,,,,,,SPD,
 121220,Günter Rixe,,,,,,SPD,
 121221,Doris Odendahl,,,,,,SPD,
@@ -2697,6 +2857,7 @@
 121266,Wolf-Michael Catenhusen,,,,,,SPD,
 121269,Karl-Hans Laermann,,,Dr.-Ing.,,,FDP,
 121271,Edelgard Bulmahn,,,,,,SPD,
+121272,Achim Großmann,,,,,,SPD,
 121272,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
 121275,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
 121276,Achim Großmann,,,,,,SPD,
@@ -2758,6 +2919,7 @@
 121374,Carl-Ludwig Thiele,,,,,,FDP,
 121376,Ernst Waltemathe,,,,,,SPD,
 121378,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
+121382,Ernst Waltemathe,,,,,,SPD,
 121382,Heiterkeit,,,,,,,
 121393,Ernst Waltemathe,,,,,,SPD,
 121395,Helmut Esters,,,,,,SPD,
@@ -2781,6 +2943,8 @@
 121447,Otto  Lambsdorff,,,Dr.,,Graf,FDP,
 121449,Otto  Lambsdorff,,,Dr.,,Graf,FDP,
 121450,Zurufe  SPD,,,,von der,,SPD,
+121450,Norbert Gansel,,,,,,SPD,
+121450,Peter Conradi,,,,,,SPD,
 121451,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
 121452,Peter Struck,,,Dr.,,,SPD,
 121453,Rudi Walther,,,,,,SPD,Zierenberg
@@ -2810,6 +2974,7 @@
 121492,Fritz Wittmann,,,Dr.,,,CDU/CSU,
 121493,Fritz Wittmann,,,Dr.,,,CDU/CSU,
 121494,Katrin Fuchs,,,,,,SPD,Verl
+121495,Wolfgang Roth,,,,,,SPD,
 121496,Carl-Ludwig Thiele,,,,,,FDP,
 121497,Norbert Gansel,,,,,,SPD,
 121498,Norbert Gansel,,,,,,SPD,
@@ -2829,6 +2994,7 @@
 121539,Horst Jungmann,,,,,,SPD,Wittmoldt
 121540,Nils Diederich,,,Dr.,,,SPD,Berlin
 121543,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
+121544,Josef Vosen,,,,,,SPD,
 121544,Edelgard Bulmahn,,,,,,SPD,
 121547,Wolf-Michael Catenhusen,,,,,,SPD,
 121548,Wolf-Michael Catenhusen,,,,,,SPD,
@@ -2849,6 +3015,7 @@
 121593,Johannes Gerster,,,,,,CDU/CSU,Mainz
 121595,Jochen Borchert,,,,,,CDU/CSU,
 121596,Ina Albowitz,,,,,,FDP,
+121597,Dieter Wiefelspütz,,,,,,SPD,
 121598,Dieter Wiefelspütz,,,,,,SPD,
 121600,Klaus-Dieter Uelhoff,,,Dr.,,,CDU/CSU,
 121602,Uta Würfel,,,,,,FDP,
@@ -2857,9 +3024,11 @@
 121610,Johannes Gerster,,,,,,CDU/CSU,Mainz
 121613,Johannes Gerster,,,,,,CDU/CSU,Mainz
 121616,Carl-Ludwig Thiele,,,,,,FDP,
+121617,Johannes Gerster,,,,,,CDU/CSU,Mainz
 121619,Kurt J. Rossmanith,,,,,,CDU/CSU,
 121620,Kurt J. Rossmanith,,,,,,CDU/CSU,
 121621,Kurt J. Rossmanith,,,,,,CDU/CSU,
+121623,Josef Grünbeck,,,,,,FDP,
 121623,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 121624,Helmut Wieczorek,,,,,,SPD,Duisburg
 121625,Josef Grünbeck,,,,,,FDP,
@@ -2871,6 +3040,7 @@
 121644,Helmut Wieczorek,,,,,,SPD,Duisburg
 121646,Michael Glos,,,,,,CDU/CSU,
 121654,Wolfgang Roth,,,,,,SPD,
+121656,Wolfgang Roth,,,,,,SPD,
 121656,Michael Glos,,,,,,CDU/CSU,
 121657,Wolfgang Roth,,,,,,SPD,
 121658,Otto  Lambsdorff,,,Dr.,,Graf,FDP,
@@ -2910,6 +3080,7 @@
 121728,Maria Michalk,,,,,,CDU/CSU,
 121729,Uta Titze,,,,,,SPD,
 121733,Hans-Jochen Vogel,,,Dr.,,,SPD,
+121734,Hans-Jochen Vogel,,,Dr.,,,SPD,
 121737,Hans-Jochen Vogel,,,Dr.,,,SPD,
 121739,Paul Laufs,,,Dr.,,,CDU/CSU,
 121741,Konstanze Wegner,,,Dr.,,,SPD,Konstanz
@@ -2924,6 +3095,8 @@
 121763,Norbert Geis,,,,,,CDU/CSU,
 121765,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 121767,Oh-Rufe bei der SPD,,,,,,SPD,
+121767,Ingrid MatthäusMaier,,,,,,SPD,
+121774,Nils Diederich,,,Dr.,,,SPD,Berlin
 121775,Adolf Roth,,,,,,CDU/CSU,Gießen
 121776,Ingrid Roitzsch,,,,,,CDU/CSU,Quickborn
 121777,Nils Diederich,,,Dr.,,,SPD,Berlin
@@ -2931,14 +3104,18 @@
 121786,Nils Diederich,,,Dr.,,,SPD,Berlin
 121788,Horst Jungmann,,,,,,SPD,Wittmoldt
 121791,Beifall des   Fritz Schumann,,,Dr.,,,DIE LINKE.,Kroppenstedt
+121791,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
+121791,Horst Jungmann,,,,,,SPD,Wittmoldt
 121793,Anke Fuchs,,,,,,SPD,Köln
 121795,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 121796,Konrad Gilges,,,,,,SPD,
+121797,Horst Jungmann,,,,,,SPD,Wittmoldt
 121799,Ingrid Matthäus-Maier,,,,,,SPD,
 121803,Klaus Rose,,,Dr.,,,CDU/CSU,
 121805,Gerd Poppe,,,,,,BÜNDNIS 90/DIE GRÜNEN,
 121806,Ingrid Matthäus-Maier,,,,,,SPD,
 121807,Anke Fuchs,,,,,,SPD,Köln
+121808,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
 121810,Anke Fuchs,,,,,,SPD,Köln
 121811,Anke Fuchs,,,,,,SPD,Köln
 121812,Rudi Walther,,,,,,SPD,Zierenberg
@@ -2968,6 +3145,7 @@
 121964,Norbert Geis,,,,,,CDU/CSU,
 121965,Hartmut Büttner,,,,,,CDU/CSU,Schönebeck
 121966,Hartmut Büttner,,,,,,CDU/CSU,Schönebeck
+121967,Detlev  Larcher,,,,von,,SPD,
 121968,Hans  With,,,Dr.,de,,SPD,
 121970,Norbert Geis,,,,,,CDU/CSU,
 121972,Wolfgang Ullmann,,,Dr.,,,BÜNDNIS 90/DIE GRÜNEN,
@@ -2994,6 +3172,7 @@
 122095,Alfred Dregger,,,Dr.,,,CDU/CSU,
 122096,Renate Hellwig,,,Dr.,,,CDU/CSU,
 122099,Ulrich Irmer,,,,,,FDP,
+122100,Michael Glos,,,,,,CDU/CSU,
 122102,Michael Glos,,,,,,CDU/CSU,
 122105,Alfred Dregger,,,Dr.,,,CDU/CSU,
 122110,Michael Glos,,,,,,CDU/CSU,
@@ -3031,6 +3210,7 @@
 122196,Reiner Krziskewitz,,,,,,CDU/CSU,
 122197,Peter Conradi,,,,,,SPD,
 122199,Freimut Duve,,,,,,SPD,
+122201,Dieter Wiefelspütz,,,,,,SPD,
 122202,Eberhard Brecht,,,Dr.,,,SPD,
 122203,Willfried Penner,,,Dr.,,,SPD,
 122204,Wilfried Penner,,,Dr.,,,SPD,
@@ -3048,6 +3228,7 @@
 122218,Franz Müntefering,,,,,,SPD,
 122223,Julius Louven,,,,,,CDU/CSU,
 122226,Manfred Richter,,,,,,FDP,Bremerhaven
+122227,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
 122230,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
 122232,Gerd Andres,,,,,,SPD,
 122233,Gerd Andres,,,,,,SPD,
@@ -3062,6 +3243,7 @@
 122246,Ottmar Schreiner,,,,,,SPD,
 122248,Julius Louven,,,,,,CDU/CSU,
 122249,Ottmar Schreiner,,,,,,SPD,
+122250,Manfred Richter,,,,,,FDP,Bremerhaven
 122252,Ottmar Schreiner,,,,,,SPD,
 122253,Julius Louven,,,,,,CDU/CSU,
 122254,Ottmar Schreiner,,,,,,SPD,
@@ -3079,9 +3261,11 @@
 122279,Heiner Geißler,,,Dr.,,,CDU/CSU,
 122280,Heiner Geißler,,,Dr.,,,CDU/CSU,
 122282,Julius Louven,,,,,,CDU/CSU,
+122283,Julius Louven,,,,,,CDU/CSU,
 122283,Zuruf  SPD,,,,von der,,SPD,
 122285,Julius Louven,,,,,,CDU/CSU,
 122287,Dieter-Julius Cronenberg,,,,,,FDP,
+122295,Gerd Andres,,,,,,SPD,
 122296,Heribert Scharrenbroich,,,,,,CDU/CSU,
 122299,Rudolf Bindig,,,,,,SPD,
 122300,Gerhard Reddemann,,,,,,CDU/CSU,
@@ -3099,6 +3283,7 @@
 122324,Ingomar Hauchler,,,Dr.,,,SPD,
 122325,Friedrich Vogel,,,,,,CDU/CSU,Ennepetal
 122326,Burkhard Hirsch,,,Dr.,,,FDP,
+122327,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
 122328,Rudolf Bindig,,,,,,SPD,
 122329,Friedrich Vogel,,,,,,CDU/CSU,Ennepetal
 122330,Friedrich Vogel,,,,,,CDU/CSU,Ennepetal
@@ -3112,6 +3297,7 @@
 122343,Wolfgang Weiermann,,,,,,SPD,
 122345,Konrad Weiß,,,,,,BÜNDNIS 90/DIE GRÜNEN,Berlin
 122347,Kurt J. Rossmanith,,,,,,CDU/CSU,
+122347,Helmut Sauer,,,,,,CDU/CSU,Salzgitter
 122348,Helmut Sauer,,,,,,CDU/CSU,Salzgitter
 122354,Peter Conradi,,,,,,SPD,
 122355,Peter Conradi,,,,,,SPD,
@@ -3145,15 +3331,17 @@
 122473,Hans Wallow,,,,,,SPD,
 122477,Otto Schily,,,,,,SPD,
 122482,Ulrike Mehl,,,,,,SPD,
+122489,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
 122493,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
 122494,Gerhard O. Pfeffermann,,,,,,CDU/CSU,
-122496,Hans Büttner,,,,,,SPD,Ingolstadt
+122496,Hans Büttner,,,,,,SPD,
 122497,Klaus Kirschner,,,,,,SPD,
 122499,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
 122500,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
 122501,Gerd Andres,,,,,,SPD,
 122502,Gerd Andres,,,,,,SPD,
 122504,Paul Hoffacker,,,Dr.,,,CDU/CSU,Hof
+122505,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
 122509,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
 122510,Gerd Andres,,,,,,SPD,
 122511,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
@@ -3170,7 +3358,9 @@
 122540,Wilhelm Schmidt,,,,,,SPD,Salzgitter
 122541,Wilhelm Schmidt,,,,,,SPD,Salzgitter
 122542,Edith Niehuis,,,Dr.,,,SPD,
+122543,Wilhelm Schmidt,,,,,,SPD,Salzgitter
 122545,Stefan Schwarz,,,,,,CDU/CSU,
+122546,Johannes Singer,,,,,,SPD,
 122549,Eckart Kuhlwein,,,,,,SPD,
 122552,Uwe Küster,,,Dr.,,,SPD,
 122553,Stefan Schwarz,,,,,,CDU/CSU,
@@ -3182,6 +3372,7 @@
 122565,Stefan Schwarz,,,,,,CDU/CSU,
 122575,Wilhelm Schmidt,,,,,,SPD,Salzgitter
 122577,Wilhelm Schmidt,,,,,,SPD,Salzgitter
+122578,Eckart Kuhlwein,,,,,,SPD,
 122580,Wilhelm Schmidt,,,,,,SPD,Salzgitter
 122582,Karl Deres,,,,,,CDU/CSU,
 122583,Rudolf Purps,,,,,,SPD,
@@ -3246,6 +3437,9 @@
 122736,Ulrich Irmer,,,,,,FDP,
 122740,Siegfried Hornung,,,,,,CDU/CSU,
 122741,Siegfried Hornung,,,,,,CDU/CSU,
+122743,Norbert Wieczorek,,,Dr.,,,SPD,
+122743,Freimut Duve,,,,,,SPD,
+122745,Detlev  Larcher,,,,von,,SPD,
 122747,Stefan Schwarz,,,,,,CDU/CSU,
 122748,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
 122749,Peter Kittelmann,,,,,,CDU/CSU,
@@ -3257,6 +3451,7 @@
 122759,Detlev  Larcher,,,,von,,SPD,
 122761,Peter Kittelmann,,,,,,CDU/CSU,
 122762,Kurt Faltlhauser,,,Dr.,,,CDU/CSU,
+122764,Ingrid MatthäusMaier,,,,,,SPD,
 122783,Dieter Maaß,,,,,,SPD,Herne
 122809,Manfred Opel,,,,,,SPD,
 122815,Manfred Opel,,,,,,SPD,
@@ -3322,6 +3517,9 @@
 123003,Günther Heyenn,,,,,,SPD,
 123004,Ottmar Schreiner,,,,,,SPD,
 123006,Norbert Blüm,,,Dr.,,,CDU/CSU,
+123008,Ottmar Schreiner,,,,,,SPD,
+123008,Günther Heyenn,,,,,,SPD,
+123008,Christina Schenk,,,,,,BÜNDNIS 90/DIE GRÜNEN,
 123009,Jochen Feilcke,,,,,,CDU/CSU,
 123011,Petra Bläss,,,,,,DIE LINKE.,
 123012,Günther Heyenn,,,,,,SPD,
@@ -3346,6 +3544,7 @@
 123064,Ekkehard Gries,,,,,,FDP,
 123065,Dietmar Schütz,,,,,,SPD,
 123068,Harald B. Schäfer,,,,,,SPD,Offenburg
+123069,Rudolf Dreßler,,,,,,SPD,
 123070,Manfred Reimann,,,,,,SPD,
 123072,Manfred Reimann,,,,,,SPD,
 123073,Konrad Gilges,,,,,,SPD,
@@ -3379,6 +3578,7 @@
 123238,Anke Fuchs,,,,,,SPD,Köln
 123239,Helmut Sauer,,,,,,CDU/CSU,Salzgitter
 123243,Anke Fuchs,,,,,,SPD,Köln
+123243,Gegenruf des   Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
 123244,Karl Lamers,,,,,,CDU/CSU,
 123245,Herbert Werner,,,,,,CDU/CSU,Ulm
 123248,Günter Verheugen,,,,,,SPD,
@@ -3403,6 +3603,7 @@
 123277,Ernst Schwanhold,,,,,,SPD,
 123279,Andrea Lederer,,,,,,DIE LINKE.,
 123281,Anke Fuchs,,,,,,SPD,Köln
+123282,Ortwin Lowack,,,,,,,
 123283,Josef Grünbeck,,,,,,FDP,
 123284,Hermann Bachmaier,,,,,,SPD,
 123285,Peter Kittelmann,,,,,,CDU/CSU,
@@ -3436,6 +3637,8 @@
 123452,Gerd Andres,,,,,,SPD,
 123453,Konrad Gilges,,,,,,SPD,
 123455,Freimut Duve,,,,,,SPD,
+123457,Mitglied des Ministerrates!,,,,,,,
+123457,Freimut Duve,,,,,,SPD,
 123457,Zurufe  CDU/CSU,,,,von der,,CDU/CSU,
 123460,Konrad Gilges,,,,,,SPD,
 123462,Maria Michalk,,,,,,CDU/CSU,
@@ -3445,7 +3648,7 @@
 123473,Friedrich Vogel,,,,,,CDU/CSU,Ennepetal
 123478,Günther Müller,,,Dr.,,,CDU/CSU,
 123480,Barbara Höll,,,Dr.,,,DIE LINKE.,
-123481,Hans Büttner,,,,,,SPD,Ingolstadt
+123481,Hans Büttner,,,,,,SPD,
 123482,Peter Struck,,,Dr.,,,SPD,
 123483,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
 123484,Peter Struck,,,Dr.,,,SPD,
@@ -3516,6 +3719,7 @@
 123749,Michael Glos,,,,,,CDU/CSU,
 123750,Friedhelm Ost,,,,,,CDU/CSU,
 123754,Wolfgang Roth,,,,,,SPD,
+123755,Brigitte Baumeister,,,,,,CDU/CSU,
 123756,Michael Glos,,,,,,CDU/CSU,
 123757,Ingrid Matthäus-Maier,,,,,,SPD,
 123758,Otto  Lambsdorff,,,Dr.,,Graf,FDP,
@@ -3556,6 +3760,7 @@
 123853,Editha Limbach,,,,,,CDU/CSU,
 123856,Editha Limbach,,,,,,CDU/CSU,
 123859,Hans-Hinrich Knaape,,,Dr.,,,SPD,
+123860,Peter Struck,,,Dr.,,,SPD,
 123864,Klaus Kirschner,,,,,,SPD,
 123867,Peter Struck,,,Dr.,,,SPD,
 123870,Paul Hoffacker,,,Dr.,,,CDU/CSU,Hof
@@ -3603,6 +3808,7 @@
 124031,Brigitte Baumeister,,,,,,CDU/CSU,
 124033,Herta Däubler-Gmelin,,,Dr.,,,SPD,
 124034,Siegfried Hornung,,,,,,CDU/CSU,
+124037,Herta Däubler-Gmelin,,,Dr.,,,SPD,
 124038,Claus Jäger,,,,,,CDU/CSU,
 124040,Dietrich Austermann,,,,,,CDU/CSU,
 124041,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
@@ -3620,6 +3826,7 @@
 124071,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
 124072,Johannes Gerster,,,,,,CDU/CSU,Mainz
 124073,Johannes Gerster,,,,,,CDU/CSU,Mainz
+124076,Burkhard Hirsch,,,Dr.,,,FDP,
 124076,Detlev  Larcher,,,,von,,SPD,
 124078,Detlev  Larcher,,,,von,,SPD,
 124080,Herta Däubler-Gmelin,,,Dr.,,,SPD,
@@ -3693,6 +3900,7 @@
 124265,Wolf-Michael Catenhusen,,,,,,SPD,
 124267,Brigitte Baumeister,,,,,,CDU/CSU,
 124268,Josef Vosen,,,,,,SPD,
+124269,Josef Vosen,,,,,,SPD,
 124271,Josef Vosen,,,,,,SPD,
 124272,Christian Lenzer,,,,,,CDU/CSU,
 124273,Josef Vosen,,,,,,SPD,
@@ -3713,12 +3921,14 @@
 124316,Eckart Kuhlwein,,,,,,SPD,
 124318,Burkhard Hirsch,,,Dr.,,,FDP,
 124322,Burkhard Hirsch,,,Dr.,,,FDP,
+124324,Helmut Sauer,,,,,,CDU/CSU,Salzgitter
 124325,Gerhard Reddemann,,,,,,CDU/CSU,
 124326,Burkhard Hirsch,,,Dr.,,,FDP,
 124328,Gerhard Reddemann,,,,,,CDU/CSU,
 124329,Burkhard Hirsch,,,Dr.,,,FDP,
 124330,Heinrich Lummer,,,,,,CDU/CSU,
 124331,Günter Verheugen,,,,,,SPD,
+124333,Helmut Sauer,,,,,,CDU/CSU,Salzgitter
 124334,Burkhard Hirsch,,,Dr.,,,FDP,
 124335,Gerhart Rudolf Baum,,,,,,FDP,
 124342,Harald B. Schäfer,,,,,,SPD,Offenburg
@@ -3734,10 +3944,12 @@
 124456,Roland Sauer,,,,,,CDU/CSU,Stuttgart
 124458,Rolf Olderog,,,Dr.,,,CDU/CSU,
 124461,Gudrun Weyel,,,,,,SPD,
+124462,Gudrun Weyel,,,,,,SPD,
 124462,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
 124463,Roland Sauer,,,,,,CDU/CSU,Stuttgart
 124466,Margret Funke-Schmitt-Rink,,,Dr.,,,FDP,
 124468,Erwin Marschewski,,,,,,CDU/CSU,
+124469,Gudrun Weyel,,,,,,SPD,
 124471,Uta Würfel,,,,,,FDP,
 124473,Rolf Olderog,,,Dr.,,,CDU/CSU,
 124475,Gudrun Weyel,,,,,,SPD,
@@ -3755,6 +3967,7 @@
 124510,Günther Müller,,,Dr.,,,CDU/CSU,
 124511,Günther Müller,,,Dr.,,,CDU/CSU,
 124513,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
+124519,Wolfgang   Stetten,,,Dr.,von,Freiherr,CDU/CSU,
 124520,Elke Leonhard-Schmid,,,Dr.,,,SPD,
 124526,Detlev  Larcher,,,,von,,SPD,
 124529,Wolfgang Thierse,,,,,,SPD,
@@ -3813,6 +4026,9 @@
 124725,Peter Struck,,,Dr.,,,SPD,
 124727,Maria Michalk,,,,,,CDU/CSU,
 124730,Norbert Geis,,,,,,CDU/CSU,
+124732,Zuruf  F.D.P.,,,,von der,,,
+124732,Uwe-Jens Heuer,"der inzwischen wieder Platz genommen hat, spendet Beifall",,Dr.,,,DIE LINKE.,
+124732,Heiterkeit — Zuruf  F.D.P.,,,,von der,,,
 124732,Ingrid Roitzsch,,,,,,CDU/CSU,Quickborn
 124737,Horst Jungmann,,,,,,SPD,Wittmoldt
 124747,Horst Jungmann,,,,,,SPD,Wittmoldt
@@ -3831,12 +4047,14 @@
 124776,Hans-Wilhelm Pesch,,,,,,CDU/CSU,
 124777,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
 124778,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
+124779,Peter Conradi,,,,,,SPD,
 124781,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
 124783,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
 124788,Franz Müntefering,,,,,,SPD,
 124789,Hans Raidel,,,,,,CDU/CSU,
 124790,Franz Müntefering,,,,,,SPD,
 124794,Clemens Schwalbe,,,,,,CDU/CSU,
+124794,Wolfgang   Stetten,,,Dr.,von,Freiherr,CDU/CSU,
 124798,Walter Hitschler,,,Dr.,,,FDP,
 124799,Otto Reschke,,,,,,SPD,
 124800,Franz Müntefering,,,,,,SPD,
@@ -3857,6 +4075,7 @@
 124915,Gerd Andres,,,,,,SPD,
 124916,Josef Grünbeck,,,,,,FDP,
 124917,Heiterkeit,,,,,,,
+124917,Franz Müntefering,,,,,,SPD,
 124918,Gerd Andres,,,,,,SPD,
 124921,Franz Müntefering,,,,,,SPD,
 124922,Josef Grünbeck,,,,,,FDP,
@@ -3896,6 +4115,7 @@
 124981,Harald B. Schäfer,,,,,,SPD,Offenburg
 124985,Manfred Richter,,,,,,FDP,Bremerhaven
 124986,Klaus Daubertshäuser,,,,,,SPD,
+124989,Gerhard O. Pfeffermann,,,,,,CDU/CSU,
 124990,Elke Leonhard-Schmid,,,Dr.,,,SPD,
 124993,Elke Leonhard-Schmid,,,Dr.,,,SPD,
 124996,Manfred Richter,,,,,,FDP,Bremerhaven
@@ -3940,6 +4160,7 @@
 125146,Editha Limbach,,,,,,CDU/CSU,
 125147,Rudolf Dreßler,,,,,,SPD,
 125148,Rudolf Dreßler,,,,,,SPD,
+125149,Bernhard Jagoda,,,,,,CDU/CSU,
 125149,Gisela Babel,,,Dr.,,,FDP,
 125151,Gerd Andres,,,,,,SPD,
 125152,Rudolf Dreßler,,,,,,SPD,
@@ -3956,6 +4177,7 @@
 125167,Rudolf Dreßler,,,,,,SPD,
 125168,Peter Struck,,,Dr.,,,SPD,
 125171,Marion Caspers-Merk,,,,,,SPD,
+125172,Peter Struck,,,Dr.,,,SPD,
 125173,Peter Struck,,,Dr.,,,SPD,
 125174,Peter Struck,,,Dr.,,,SPD,
 125178,Marion Caspers-Merk,,,,,,SPD,
@@ -3977,6 +4199,7 @@
 125214,Rolf Olderog,,,Dr.,,,CDU/CSU,
 125216,Horst Jungmann,,,,,,SPD,Wittmoldt
 125225,Ulrike Mehl,,,,,,SPD,
+125228,Horst Jungmann,,,,,,SPD,Wittmoldt
 125232,Rolf Olderog,,,Dr.,,,CDU/CSU,
 125233,Rolf Olderog,,,Dr.,,,CDU/CSU,
 125234,Rolf Olderog,,,Dr.,,,CDU/CSU,
@@ -4034,6 +4257,7 @@
 125368,Kurt J. Rossmanith,,,,,,CDU/CSU,
 125371,Kurt J. Rossmanith,,,,,,CDU/CSU,
 125373,Ingrid Matthäus-Maier,,,,,,SPD,
+125378,Horst Kubatschka,,,,,,SPD,
 125378,Wolf-Michael Catenhusen,,,,,,SPD,
 125385,Siegmar Mosdorf,,,,,,SPD,
 125386,Detlef Kleinert,,,,,,FDP,Hannover
@@ -4045,6 +4269,7 @@
 125405,Ottfried Hennig,,,Dr.,,,CDU/CSU,
 125407,Rudi Walther,,,,,,SPD,Zierenberg
 125411,Beifall hei der CDU/CSU,,,,,,CDU/CSU,
+125411,Horst Jungmann,,,,,,SPD,Wittmoldt
 125413,Rudolf Kraus,,,,,,CDU/CSU,
 125418,Helmut Sauer,,,,,,CDU/CSU,Salzgitter
 125419,Ottfried Hennig,,,Dr.,,,CDU/CSU,
@@ -4080,6 +4305,7 @@
 125594,Eckart Kuhlwein,,,,,,SPD,
 125596,Hartmut Soell,,,Dr.,,,SPD,
 125597,Dirk Hansen,,,,,,FDP,
+125598,Dirk Hansen,,,,,,FDP,
 125600,Günter Rixe,,,,,,SPD,
 125603,Günter Rixe,,,,,,SPD,
 125604,Gerd Andres,,,,,,SPD,
@@ -4088,6 +4314,7 @@
 125607,Günter Rixe,,,,,,SPD,
 125608,Günter Rixe,,,,,,SPD,
 125609,Norbert Eimer,,,,,,FDP,Fürth
+125610,Günter Rixe,,,,,,SPD,
 125616,Peter Conradi,,,,,,SPD,
 125617,Albert Probst,,,Dr.,,,CDU/CSU,
 125620,Albert Probst,,,Dr.,,,CDU/CSU,
@@ -4097,9 +4324,11 @@
 125631,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 125644,Erwin Marschewski,,,,,,CDU/CSU,
 125645,Wolfgang Lüder,,,,,,FDP,
+125650,Gerd Wartenberg,,,,,,SPD,Berlin
 125652,Jochen Feilcke,,,,,,CDU/CSU,
 125654,Erwin Marschewski,,,,,,CDU/CSU,
 125657,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
+125657,Erwin Marschewski,,,,,,CDU/CSU,
 125658,Erwin Marschewski,,,,,,CDU/CSU,
 125660,Gerd Wartenberg,,,,,,SPD,Berlin
 125662,Herta Däubler-Gmelin,,,Dr.,,,SPD,
@@ -4196,14 +4425,17 @@
 125931,Alois   Waldburg-Zeil,,,,von,Graf,CDU/CSU,
 125948,Burkhard Hirsch,,,Dr.,,,FDP,
 125955,Klaus Kübler,,,Dr.,,,SPD,
+125963,Klaus Kübler,,,Dr.,,,SPD,
 125963,Norbert Gansel,,,,,,SPD,
 125967,Norbert Gansel,,,,,,SPD,
+125967,Claus Jäger,,,,,,CDU/CSU,
 125970,Norbert Gansel,,,,,,SPD,
 125992,Gunnar Uldall,,,,,,CDU/CSU,
 125999,Peter Struck,,,Dr.,,,SPD,
 126004,Michael Habermann,,,,,,SPD,
 126009,Peter Struck,,,Dr.,,,SPD,
 126010,Wolfgang Roth,,,,,,SPD,
+126010,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 126011,Peter Conradi,,,,,,SPD,
 126012,Detlev  Larcher,,,,von,,SPD,
 126015,Peter Struck,,,Dr.,,,SPD,
@@ -4261,6 +4493,7 @@
 126122,Brigitte Adler,,,,,,SPD,
 126123,Siegfried Hornung,,,,,,CDU/CSU,
 126124,Siegfried Hornung,,,,,,CDU/CSU,
+126125,Siegfried Hornung,,,,,,CDU/CSU,
 126126,Brigitte Adler,,,,,,SPD,
 126130,Horst Sielaff,,,,,,SPD,
 126136,Freimut Duve,,,,,,SPD,
@@ -4275,6 +4508,7 @@
 126169,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 126174,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 126176,Detlev  Larcher,,,,von,,SPD,
+126183,Ingrid MatthäusMaier,,,,,,SPD,
 126186,Detlev  Larcher,,,,von,,SPD,
 126201,Detlev  Larcher,,,,von,,SPD,
 126203,Detlev  Larcher,,,,von,,SPD,
@@ -4292,11 +4526,11 @@
 126246,Peter Glotz,,,Dr.,,,SPD,
 126267,Dirk Hansen,,,,,,FDP,
 126269,Detlev  Larcher,,,,von,,SPD,
-126272,Hans Büttner,,,,,,SPD,Ingolstadt
+126272,Hans Büttner,,,,,,SPD,
 126274,Horst Peter,,,,,,SPD,Kassel
 126279,Detlev  Larcher,,,,von,,SPD,
 126280,Jürgen Koppelin,,,,,,FDP,
-126291,Hans Büttner,,,,,,SPD,Ingolstadt
+126291,Hans Büttner,,,,,,SPD,
 126292,Horst Peter,,,,,,SPD,Kassel
 126293,Peter Struck,,,Dr.,,,SPD,
 126296,Ursula Schmidt,,,,,,SPD,Aachen
@@ -4339,6 +4573,7 @@
 126451,Michael Jung,,,,,,CDU/CSU,Limburg
 126452,Rudolf Dreßler,,,,,,SPD,
 126454,Heiterkeit,,,,,,,
+126454,Rudolf Dreßler,,,,,,SPD,
 126458,Hans-Günther Toetemeyer,,,,,,SPD,
 126459,Uwe Holtz,,,Dr.,,,SPD,
 126460,Ingomar Hauchler,,,Dr.,,,SPD,
@@ -4384,6 +4619,7 @@
 126550,Norbert Geis,,,,,,CDU/CSU,
 126551,Norbert Geis,,,,,,CDU/CSU,
 126552,Norbert Geis,,,,,,CDU/CSU,
+126555,Uwe Lambinus,,,,,,SPD,
 126555,Norbert Geis,,,,,,CDU/CSU,
 126556,Johannes Gerster,,,,,,CDU/CSU,Mainz
 126563,Norbert Geis,,,,,,CDU/CSU,
@@ -4415,10 +4651,13 @@
 126620,Burkhard Hirsch,,,Dr.,,,FDP,
 126623,Gerd Wartenberg,,,,,,SPD,Berlin
 126625,Burkhard Hirsch,,,Dr.,,,FDP,
+126626,HansJochen Vogel,,,Dr.,,,SPD,
 126627,Dieter Wiefelspütz,,,,,,SPD,
 126629,Erwin Marschewski,,,,,,CDU/CSU,
 126633,Burkhard Hirsch,,,Dr.,,,FDP,
 126634,Oh-Rufe  CDU/CSU,,,,von der,,CDU/CSU,
+126634,Erwin Marschewski,,,,,,CDU/CSU,
+126634,Dieter Wiefelspütz,,,,,,SPD,
 126638,Erwin Marschewski,,,,,,CDU/CSU,
 126642,Siegfried Vergin,,,,,,SPD,
 126644,Erwin Marschewski,,,,,,CDU/CSU,
@@ -4451,6 +4690,8 @@
 126691,Siegfried Hornung,,,,,,CDU/CSU,
 126692,Siegfried Hornung,,,,,,CDU/CSU,
 126693,Siegfried Hornung,,,,,,CDU/CSU,
+126693,Horst Sielaff,,,,,,SPD,
+126694,Horst Sielaff,,,,,,SPD,
 126695,Horst Sielaff,,,,,,SPD,
 126699,Klaus Beckmann,,,,,,FDP,
 126700,Michaela Geiger,,,,,,CDU/CSU,
@@ -4468,6 +4709,7 @@
 126732,Norbert Wieczorek,,,Dr.,,,SPD,
 126733,Ilja Seifert,,,Dr.,,,DIE LINKE.,
 126734,Friedbert Pflüger,,,Dr.,,,CDU/CSU,
+126734,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
 126736,Albert Probst,,,Dr.,,,CDU/CSU,
 126739,Peter Kittelmann,,,,,,CDU/CSU,
 126742,Johannes Gerster,,,,,,CDU/CSU,Mainz
@@ -4482,7 +4724,7 @@
 126791,Peter Struck,,,Dr.,,,SPD,
 126792,Günther Friedrich Nolting,,,,,,FDP,
 126794,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
-126802,Hans Büttner,,,,,,SPD,Ingolstadt
+126802,Hans Büttner,,,,,,SPD,
 126804,Günther Friedrich Nolting,,,,,,FDP,
 126805,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
 126807,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
@@ -4490,6 +4732,7 @@
 126811,Horst Peter,,,,,,SPD,Kassel
 126812,Martin Göttsching,,,,,,CDU/CSU,
 126813,Gudrun Weyel,,,,,,SPD,
+126816,Julius Louven,,,,,,CDU/CSU,
 126816,Konrad Gilges,,,,,,SPD,
 126817,Konrad Gilges,,,,,,SPD,
 126819,Julius Louven,,,,,,CDU/CSU,
@@ -4498,7 +4741,7 @@
 126824,Julius Louven,,,,,,CDU/CSU,
 126829,Julius Louven,,,,,,CDU/CSU,
 126831,Julius Louven,,,,,,CDU/CSU,
-126832,Hans Büttner,,,,,,SPD,Ingolstadt
+126832,Hans Büttner,,,,,,SPD,
 126833,Barbara Weiler,,,,,,SPD,
 126834,Julius Louven,,,,,,CDU/CSU,
 126836,Julius Louven,,,,,,CDU/CSU,
@@ -4558,6 +4801,7 @@
 127038,Gerd Andres,,,,,,SPD,
 127039,Hans-Joachim Fuchtel,,,,,,CDU/CSU,
 127040,Hans-Joachim Fuchtel,,,,,,CDU/CSU,
+127041,Hans-Joachim Fuchtel,,,,,,CDU/CSU,
 127042,Hans-Joachim Fuchtel,,,,,,CDU/CSU,
 127045,Ottmar Schreiner,,,,,,SPD,
 127047,Gerd Andres,,,,,,SPD,
@@ -4624,11 +4868,13 @@
 127192,Ingrid Matthäus-Maier,,,,,,SPD,
 127198,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
 127200,Theodor Waigel,,,Dr.,,,CDU/CSU,
+127206,Gerhard Reddemann,,,,,,CDU/CSU,
 127208,Uta Würfel,,,,,,FDP,
 127213,Uta Würfel,,,,,,FDP,
 127214,Gerhard O. Pfeffermann,,,,,,CDU/CSU,
 127218,Norbert Geis,,,,,,CDU/CSU,
 127220,Norbert Geis,,,,,,CDU/CSU,
+127221,Uta Würfel,,,,,,FDP,
 127225,Karl-Josef Laumann,,,,,,CDU/CSU,
 127226,Brigitte Baumeister,,,,,,CDU/CSU,
 127232,Uta Würfel,,,,,,FDP,
@@ -4670,6 +4916,7 @@
 127397,Julius Louven,,,,,,CDU/CSU,
 127398,Konrad Gilges,,,,,,SPD,
 127399,Detlev  Larcher,,,,von,,SPD,
+127399,Günther Heyenn,,,,,,SPD,
 127400,Ernst Hinsken,,,,,,CDU/CSU,
 127402,Julius Louven,,,,,,CDU/CSU,
 127403,Detlev  Larcher,,,,von,,SPD,
@@ -4734,6 +4981,7 @@
 127575,Horst Jungmann,,,,,,SPD,Wittmoldt
 127578,Freimut Duve,,,,,,SPD,
 127580,Ilja Seifert,,,Dr.,,,DIE LINKE.,
+127581,Freimut Duve,,,,,,SPD,
 127584,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 127585,Horst Jungmann,,,,,,SPD,Wittmoldt
 127586,Freimut Duve,,,,,,SPD,
@@ -4754,6 +5002,7 @@
 127641,Klaus Lennartz,,,,,,SPD,
 127643,Hans-Ulrich Klose,,,,,,SPD,
 127645,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
+127647,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
 127648,Paul Breuer,,,,,,CDU/CSU,
 127650,Hans-Ulrich Klose,,,,,,SPD,
 127651,Brigitte Schulte,,,,,,SPD,Hameln
@@ -4771,6 +5020,7 @@
 127680,Detlev  Larcher,,,,von,,SPD,
 127682,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
 127683,Siegfried Hornung,,,,,,CDU/CSU,
+127684,Peter Struck,,,Dr.,,,SPD,
 127684,Michael Glos,,,,,,CDU/CSU,
 127686,Ingrid Matthäus-Maier,,,,,,SPD,
 127688,Adolf Roth,,,,,,CDU/CSU,Gießen
@@ -4788,6 +5038,7 @@
 127707,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
 127708,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
 127709,Wolfgang   Stetten,,,Dr.,von,Freiherr,CDU/CSU,
+127711,Ingrid MatthäusMaier,,,,,,SPD,
 127714,Peter Conradi,,,,,,SPD,
 127715,Hans-Ulrich Klose,,,,,,SPD,
 127720,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
@@ -4807,6 +5058,7 @@
 127759,Paul Breuer,,,,,,CDU/CSU,
 127760,Karsten D. Voigt,,,,,,SPD,
 127762,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
+127763,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
 127765,Paul Breuer,,,,,,CDU/CSU,
 127766,Karsten D. Voigt,,,,,,SPD,Frankfurt
 127767,Klaus Rose,,,Dr.,,,CDU/CSU,
@@ -4814,6 +5066,7 @@
 127772,Dieter Heistermann,,,,,,SPD,
 127773,Hans-Günther Toetemeyer,,,,,,SPD,
 127775,Siegfried Hornung,,,,,,CDU/CSU,
+127779,Dieter Heistermann,,,,,,SPD,
 127779,Heiterkeit,,,,,,,
 127781,Siegfried Hornung,,,,,,CDU/CSU,
 127785,Michaela Geiger,,,,,,CDU/CSU,
@@ -4839,6 +5092,7 @@
 127813,Dieter Wiefelspütz,,,,,,SPD,
 127814,Freimut Duve,,,,,,SPD,
 127817,Dieter Wiefelspütz,,,,,,SPD,
+127817,Eduard Oswald,,,,,,CDU/CSU,
 127818,Gerlin Hämmerle,,,,de,,SPD,
 127820,Freimut Duve,,,,,,SPD,
 127821,Karl Deres,,,,,,CDU/CSU,
@@ -4851,6 +5105,7 @@
 127838,Manfred Richter,,,,,,FDP,Bremerhaven
 127842,Norbert Geis,,,,,,CDU/CSU,
 127847,Zuruf  F.D.P.,,,,von der,,,
+127847,Günther Krause,,,Dr.,,,CDU/CSU,Börgerende
 127849,Ingrid Matthäus-Maier,,,,,,SPD,
 127853,Ingrid Matthäus-Maier,,,,,,SPD,
 127856,Michael Glos,,,,,,CDU/CSU,
@@ -4914,6 +5169,7 @@
 127966,Eduard Oswald,,,,,,CDU/CSU,
 127967,Albrecht Müller,,,,,,SPD,Pleisweiler
 127977,Adolf Roth,,,,,,CDU/CSU,Gießen
+127983,Wolfgang Gröbl,,,,,,CDU/CSU,
 127984,Wolfgang Gröbl,,,,,,CDU/CSU,
 127985,Uwe Lühr,,,,,,FDP,
 127987,Gerlin Hämmerle,,,,de,,SPD,
@@ -4943,12 +5199,14 @@
 128037,Günter Rixe,,,,,,SPD,
 128038,Günter Rixe,,,,,,SPD,
 128040,Günter Rixe,,,,,,SPD,
+128041,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 128041,Heiterkeit,,,,,,,
 128042,Günter Rixe,,,,,,SPD,
 128050,Michael Glos,,,,,,CDU/CSU,
 128051,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 128053,Klaus Kirschner,,,,,,SPD,
 128056,Detlev  Larcher,,,,von,,SPD,
+128057,Dieter Thomae,,,Dr.,,,FDP,
 128057,Bernhard Jagoda,,,,,,CDU/CSU,
 128058,Detlev  Larcher,,,,von,,SPD,
 128059,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
@@ -4963,6 +5221,7 @@
 128089,Gerd Andres,,,,,,SPD,
 128092,Gerd Andres,,,,,,SPD,
 128093,Heinz Schemken,,,,,,CDU/CSU,
+128095,Alexander Warrikoff,,,Dr.,,,CDU/CSU,
 128096,Gisela Babel,,,Dr.,,,FDP,
 128097,Adolf Ostertag,,,,,,SPD,
 128100,Gerd Andres,,,,,,SPD,
@@ -5001,6 +5260,7 @@
 128272,Franz Müntefering,,,,,,SPD,
 128281,Peter Struck,,,Dr.,,,SPD,
 128283,Heiterkeit,,,,,,,
+128283,Jürgen Meyer,,,Dr.,,,SPD,Ulm
 128305,Regina Kolbe,,,,,,SPD,
 128347,Alfred Dregger,,,Dr.,,,CDU/CSU,
 128348,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
@@ -5058,11 +5318,13 @@
 128496,Karl Lamers,,,,,,CDU/CSU,
 128499,Wolfgang Mischnick,,,,,,FDP,
 128500,Ingrid Matthäus-Maier,,,,,,SPD,
+128500,Heidemarie Wieczorek-Zeul,,,,,,SPD,
 128501,Ortwin Lowack,,,,,,,
 128504,Ottmar Schreiner,,,,,,SPD,
 128505,Eduard Oswald,,,,,,CDU/CSU,
 128507,Ottmar Schreiner,,,,,,SPD,
 128509,Wolfgang Roth,,,,,,SPD,
+128510,Horst Günther,,,,,,CDU/CSU,Duisburg
 128512,Ottmar Schreiner,,,,,,SPD,
 128517,Eduard Oswald,,,,,,CDU/CSU,
 128518,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
@@ -5099,6 +5361,7 @@
 128766,Peter Kittelmann,,,,,,CDU/CSU,
 128768,Peter Kittelmann,,,,,,CDU/CSU,
 128769,Renate Hellwig,,,Dr.,,,CDU/CSU,
+128774,Peter Kittelmann,,,,,,CDU/CSU,
 128774,Ingrid Matthäus-Maier,,,,,,SPD,
 128777,Peter Conradi,,,,,,SPD,
 128779,Hartmut Soell,,,Dr.,,,SPD,
@@ -5118,6 +5381,7 @@
 128806,Peter Conradi,,,,,,SPD,
 128807,Fritz Gautier,,,Dr.,,,SPD,
 128810,Heidemarie Wieczorek-Zeul,,,,,,SPD,
+128812,Heidemarie Wieczorek-Zeul,,,,,,SPD,
 128813,Peter Kittelmann,,,,,,CDU/CSU,
 128815,Ingrid Matthäus-Maier,,,,,,SPD,
 128819,Ingrid Matthäus-Maier,,,,,,SPD,
@@ -5129,6 +5393,7 @@
 128828,Helmut Haussmann,,,Dr.,,,FDP,
 128830,Peter Kittelmann,,,,,,CDU/CSU,
 128832,Renate Hellwig,,,Dr.,,,CDU/CSU,
+128833,Helmut Haussmann,,,Dr.,,,FDP,
 128834,Renate Hellwig,,,Dr.,,,CDU/CSU,
 128836,Heiner Geißler,,,Dr.,,,CDU/CSU,
 128839,Renate Hellwig,,,Dr.,,,CDU/CSU,
@@ -5140,11 +5405,13 @@
 128855,Brigitte Schulte,,,,,,SPD,Hameln
 128856,Hartmut Soell,,,Dr.,,,SPD,
 128858,Norbert Geis,,,,,,CDU/CSU,
+128859,Gerlin Hämmerle,,,,de,,SPD,
 128864,Barbara Höll,,,Dr.,,,DIE LINKE.,
 128867,Minister  Herbert Schnoor,,,Dr.,,,,
 128869,Paul Breuer,,,,,,CDU/CSU,
 128870,Walter Kolbow,,,,,,SPD,
 128871,Walter Kolbow,,,,,,SPD,
+128873,Paul Breuer,,,,,,CDU/CSU,
 128874,Paul Breuer,,,,,,CDU/CSU,
 128875,Paul Breuer,,,,,,CDU/CSU,
 128876,Günther Friedrich Nolting,,,,,,FDP,
@@ -5176,11 +5443,13 @@
 128961,Ilja Seifert,,,Dr.,,,DIE LINKE.,
 128965,Ilja Seifert,,,Dr.,,,DIE LINKE.,
 128969,Ilja Seifert,,,Dr.,,,DIE LINKE.,
+128974,Gerd Andres,,,,,,SPD,
 128975,Ursula Männle,,,,,,CDU/CSU,
 128982,Ilja Seifert,,,Dr.,,,DIE LINKE.,
 128983,Ilja Seifert,,,Dr.,,,DIE LINKE.,
 128986,Heribert Scharrenborich,,,,,,CDU/CSU,
 128988,Heribert Scharrenbroich,,,,,,CDU/CSU,
+128991,Heribert Scharrenbroich,,,,,,CDU/CSU,
 128992,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
 128998,Ruth Fuchs,,,Dr.,,,DIE LINKE.,
 128999,Gerd Andres,,,,,,SPD,
@@ -5191,6 +5460,8 @@
 129018,Uwe Küster,,,Dr.,,,SPD,
 129035,Otto Schily,,,,,,SPD,
 129040,Rolf Schwanitz,,,,,,SPD,
+129042,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
+129042,Uwe Küster,,,Dr.,,,SPD,
 129042,Otto Schily,,,,,,SPD,
 129045,Uwe Küster,,,Dr.,,,SPD,
 129046,Uwe Küster,,,Dr.,,,SPD,
@@ -5227,6 +5498,7 @@
 129187,Alfred Dregger,,,Dr.,,,CDU/CSU,
 129193,Peter W. Reuschenbach,,,,,,SPD,
 129196,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
+129199,Ingrid Matthäus-Maier,,,,,,SPD,
 129204,Siegfried Hornung,,,,,,CDU/CSU,
 129218,Gisela Babel,,,Dr.,,,FDP,
 129224,Manfred Richter,,,,,,FDP,Bremerhaven
@@ -5264,7 +5536,7 @@
 129276,Friedrich Vogel,,,,,,CDU/CSU,Ennepetal
 129278,Karl Lamers,,,,,,CDU/CSU,
 129280,Gisela Babel,,,Dr.,,,FDP,
-129281,Hans Büttner,,,,,,SPD,Ingolstadt
+129281,Hans Büttner,,,,,,SPD,
 129283,Ottmar Schreiner,,,,,,SPD,
 129284,Ottmar Schreiner,,,,,,SPD,
 129286,Werner Hoyer,,,Dr.,,,FDP,
@@ -5299,6 +5571,7 @@
 129350,Gerhart Rudolf Baum,,,,,,FDP,
 129352,Klaus harries,,,,,,CDU/CSU,
 129355,Klaus Harries,,,,,,CDU/CSU,
+129356,Gerhart Rudolf Baum,,,,,,FDP,
 129356,Heiterkeit,,,,,,,
 129357,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 129359,Klaus Harries,,,,,,CDU/CSU,
@@ -5312,6 +5585,7 @@
 129375,Marion Casspers-Merk,,,,,,SPD,
 129376,Michael Müller,,,,,,SPD,Düsseldorf
 129377,Eckart Kuhlwein,,,,,,SPD,
+129377,Michael Müller,,,,,,SPD,Düsseldorf
 129385,Gerhard Friedrich,,,Dr.,,,CDU/CSU,
 129393,Marion Caspers-Merk,,,,,,SPD,
 129406,Burkhard Hirsch,,,Dr.,,,FDP,
@@ -5353,6 +5627,7 @@
 129553,Erich Riedl,,,Dr.,,,CDU/CSU,
 129555,Josef Vosen,,,,,,SPD,
 129556,Hans Klein,,,,,,CDU/CSU,
+129557,Günter Rixe,,,,,,SPD,
 129557,Unruhe,,,,,,,
 129558,Peter Struck,,,Dr.,,,SPD,
 129559,Josef Vosen,,,,,,SPD,
@@ -5371,10 +5646,13 @@
 129592,Siegfried Hornung,,,,,,CDU/CSU,
 129600,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
 129606,Heiterkeit,,,,,,,
+129606,Jochen Feilcke,,,,,,CDU/CSU,
 129611,Jochen Feilcke,,,,,,CDU/CSU,
 129613,Rupert Scholz,,,Dr.,,,CDU/CSU,
 129614,Ingrid Matthäus-Maier,,,,,,SPD,
+129616,Herta DäublerGmelin,,,Dr.,,,SPD,
 129619,Peter Struck,,,Dr.,,,SPD,
+129647,KlausDieter Feige,,,Dr.,,,BÜNDNIS 90/DIE GRÜNEN,
 129661,Jochen Feilcke,,,,,,CDU/CSU,
 129662,Otto Schily,,,,,,SPD,
 129666,Jochen Feilcke,,,,,,CDU/CSU,
@@ -5410,12 +5688,15 @@
 129742,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 129743,Peter Conradi,,,,,,SPD,
 129744,Gerd Andres,,,,,,SPD,
+129746,Peter Conradi,,,,,,SPD,
 129749,Erika Steinbach-Hermann,,,,,,CDU/CSU,
 129751,Detlev  Larcher,,,,von,,SPD,
 129754,Erwin Marschewski,,,,,,CDU/CSU,
 129758,Norbert Geis,,,,,,CDU/CSU,
 129759,Detlev  Larcher,,,,von,,SPD,
+129763,Herta Däubler-Gmelin,,,Dr.,,,SPD,
 129766,Burkhard Hirsch,,,Dr.,,,FDP,
+129768,Siegfried Hornung,,,,,,CDU/CSU,
 129769,Siegfried Hornung,,,,,,CDU/CSU,
 129772,Siegfried Hornung,,,,,,CDU/CSU,
 129776,Erwin Marschewski,,,,,,CDU/CSU,
@@ -5424,6 +5705,7 @@
 129785,Erwin Marschewski,,,,,,CDU/CSU,
 129786,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 129790,Gisela Babel,,,Dr.,,,FDP,
+129791,Gerd Andres,,,,,,SPD,
 129792,Gerd Andres,,,,,,SPD,
 129794,Walter Altherr,,,Dr.,,,CDU/CSU,
 129795,Gerd Andres,,,,,,SPD,
@@ -5453,6 +5735,8 @@
 129887,Heribert Scharrenbroich,,,,,,CDU/CSU,
 129889,Peter Struck,,,Dr.,,,SPD,
 129893,Freimut Duve,,,,,,SPD,
+129895,Werner Hoyer,,,Dr.,,,FDP,
+129895,Freimut Duve,,,,,,SPD,
 129904,Norbert Gansel,,,,,,SPD,
 129908,Freimut Duve,,,,,,SPD,
 129909,Freimut Duve,,,,,,SPD,
@@ -5462,6 +5746,7 @@
 129917,Freimut Duve,,,,,,SPD,
 129919,Hans-Günther Toetemeyer,,,,,,SPD,
 129920,Ingomar Hauchler,,,Dr.,,,SPD,
+129922,Ingomar Hauchler,,,Dr.,,,SPD,
 129924,Ingomar Hauchler,,,Dr.,,,SPD,
 129926,Ingomar Hauchler,,,Dr.,,,SPD,
 129927,Ingomar Hauchler,,,Dr.,,,SPD,
@@ -5542,6 +5827,9 @@
 130200,Norbert Gansel,,,,,,SPD,
 130204,Uta Zapf,,,,,,SPD,
 130215,Jochen Feilcke,,,,,,CDU/CSU,
+130216,Otto  Lambsdorff,,,Dr.,,Graf,FDP,
+130216,Hans-Jochen Vogel,,,Dr.,,,SPD,
+130216,Hans-Jochen Vogel,,,Dr.,,,SPD,
 130217,Herta Däubler-Gmelin,,,Dr.,,,SPD,
 130218,Herta Däubler-Gmelin,,,Dr.,,,SPD,
 130219,Herta Däubler-Gmelin,,,Dr.,,,SPD,
@@ -5555,6 +5843,7 @@
 130240,Burkhard Hirsch,,,Dr.,,,FDP,
 130243,Josef Vosen,,,,,,SPD,
 130246,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
+130246,Christian Lenzer,,,,,,CDU/CSU,
 130254,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 130255,Ursula Fischer,,,Dr.,,,DIE LINKE.,
 130258,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
@@ -5577,8 +5866,10 @@
 130316,Siegfried Hornung,,,,,,CDU/CSU,
 130377,Hans  With,,,Dr.,de,,SPD,
 130381,Unruhe,,,,,,,
+130381,Freimut Duve,,,,,,SPD,
 130385,Günther Friedrich Nolting,,,,,,FDP,
 130386,Jürgen Koppelin,,,,,,FDP,
+130394,Erika Simm,,,,,,SPD,
 130394,Heiterkeit,,,,,,,
 130396,Erika Simm,,,,,,SPD,
 130400,Gerhard Reddemann,,,,,,CDU/CSU,
@@ -5646,6 +5937,7 @@
 130597,Iris Gleicke,,,,,,SPD,
 130599,Bruno Menzel,,,Dr.,,,FDP,
 130608,Ursula Fischer,,,Dr.,,,DIE LINKE.,
+130611,HansUlrich Klose,,,,,,SPD,
 130611,Große Unruhe im ganzen Hause,,,,,,,
 130613,Helmut Wieczorek,,,,,,SPD,Duisburg
 130616,Helmut Wieczorek,,,,,,SPD,Duisburg
@@ -5706,6 +5998,7 @@
 130772,Ina Albowitz,,,,,,FDP,
 130773,Ina Albowitz,,,,,,FDP,
 130775,Peter Struck,,,Dr.,,,SPD,
+130777,Peter Struck,,,Dr.,,,SPD,
 130780,Peter Struck,,,Dr.,,,SPD,
 130782,Ina Albowitz,,,,,,FDP,
 130784,Rudolf Bindig,,,,,,SPD,
@@ -5721,6 +6014,7 @@
 130802,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 130805,Gert Weisskirchen,,,,,,SPD,Wiesloch
 130808,Ingrid Matthäus-Maier,,,,,,SPD,
+130810,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
 130810,Michael Glos,,,,,,CDU/CSU,
 130812,Michael Glos,,,,,,CDU/CSU,
 130816,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
@@ -5781,6 +6075,7 @@
 130951,Rudi Walther,,,,,,SPD,Zierenberg
 130952,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 130953,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
+130954,Wolfgang Roth,,,,,,SPD,
 130956,Kurt J. Rossmanith,,,,,,CDU/CSU,
 130958,Josef Grünbeck,,,,,,FDP,
 130959,Kurt J. Rossmanith,,,,,,CDU/CSU,
@@ -5814,6 +6109,7 @@
 131030,Gerhard Reddemann,,,,,,CDU/CSU,
 131038,Siegfried Hornung,,,,,,CDU/CSU,
 131040,Beifall,,,,,,,
+131040,Horst Sielaff,,,,,,SPD,
 131041,Horst Sielaff,,,,,,SPD,
 131042,Jan Oostergetelo,,,,,,SPD,
 131044,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
@@ -5864,6 +6160,7 @@
 131164,Gerhard O. Pfeffermann,,,,,,CDU/CSU,
 131167,Peter Struck,,,Dr.,,,SPD,
 131168,Theodor Waigel,,,Dr.,,,CDU/CSU,
+131172,Peter Struck,,,Dr.,,,SPD,
 131172,Zurufe  SPD,,,,von der,,SPD,
 131173,Theodor Waigel,,,Dr.,,,CDU/CSU,
 131177,Theodor Waigel,,,Dr.,,,CDU/CSU,
@@ -5880,6 +6177,7 @@
 131199,Ina Albowitz,,,,,,FDP,
 131203,Dietrich Austermann,,,,,,CDU/CSU,
 131208,Detlev  Larcher,,,,von,,SPD,
+131216,Ina Albowitz,,,,,,FDP,
 131219,Joachim Poß,,,,,,SPD,
 131223,Norbert Geis,,,,,,CDU/CSU,
 131224,Norbert Geis,,,,,,CDU/CSU,
@@ -5921,6 +6219,7 @@
 131332,Detlev  Larcher,,,,von,,SPD,
 131345,Rudolf Dreßler,,,,,,SPD,
 131347,Zurufe  CDU/CSU,,,,von der,,CDU/CSU,
+131347,Klaus Kirschner,,,,,,SPD,
 131348,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
 131350,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
 131351,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
@@ -5963,6 +6262,7 @@
 131554,Steffen Kampeter,,,,,,CDU/CSU,
 131555,Norbert Rieder,,,Dr.,,,CDU/CSU,
 131566,Winfried Pinger,,,Dr.,,,CDU/CSU,
+131567,Barbara Höll,,,Dr.,,,DIE LINKE.,
 131567,Zuruf  SPD,,,,von der,,SPD,
 131568,Brigitte Baumeister,,,,,,CDU/CSU,
 131579,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
@@ -5986,7 +6286,9 @@
 131627,Detlev  Larcher,,,,von,,SPD,
 131678,Ottmar Schreiner,,,,,,SPD,
 131679,Heiterkeit,,,,,,,
+131679,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 131685,Günther Friedrich Nolting,,,,,,FDP,
+131689,Norbert Gansel,,,,,,SPD,
 131690,Norbert Gansel,,,,,,SPD,
 131696,Norbert Gansel,,,,,,SPD,
 131703,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
@@ -5996,6 +6298,7 @@
 131709,Ulrich Irmer,,,,,,FDP,
 131719,Brigitte Baumeister,,,,,,CDU/CSU,
 131721,Gerhart Rudolf Baum,,,,,,FDP,
+131725,Brigitte Baumeister,,,,,,CDU/CSU,
 131734,Stefan Schwarz,,,,,,CDU/CSU,
 131735,Karl Lamers,,,,,,CDU/CSU,
 131737,Freimut Duve,,,,,,SPD,
@@ -6046,11 +6349,13 @@
 131860,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 131866,Ernst Hinsken,,,,,,CDU/CSU,
 131867,Burkhard Hirsch,,,Dr.,,,FDP,
+131869,Siegfried Hornung,,,,,,CDU/CSU,
 131871,Horst Sielaff,,,,,,SPD,
 131873,Horst Sielaff,,,,,,SPD,
 131876,Siegfried Hornung,,,,,,CDU/CSU,
 131877,Siegfried Hornung,,,,,,CDU/CSU,
 131879,Siegfried Hornung,,,,,,CDU/CSU,
+131880,Horst Sielaff,,,,,,SPD,
 131881,Horst Sielaff,,,,,,SPD,
 131884,Siegfried Hornung,,,,,,CDU/CSU,
 131885,Horst Sielaff,,,,,,SPD,
@@ -6094,10 +6399,12 @@
 132059,Michael Glos,,,,,,CDU/CSU,
 132061,Gerhard O. Pfeffermann,,,,,,CDU/CSU,
 132062,Gerhard O. Pfeffermann,,,,,,CDU/CSU,
+132063,Freimut Duve,,,,,,SPD,
 132065,Maria Michalk,,,,,,CDU/CSU,
 132069,Rudolf Dreßler,,,,,,SPD,
 132070,Hans-Günther Toetemeyer,,,,,,SPD,
 132072,Gunnar Uldall,,,,,,CDU/CSU,
+132078,Dieter-Julius Cronenberg,,,,,,FDP,Arnsberg
 132080,Siegfried Vergin,,,,,,SPD,
 132083,Christoph Matschie,,,,,,SPD,
 132087,Michael Glos,,,,,,CDU/CSU,
@@ -6130,6 +6437,8 @@
 132139,Norbert Gansel,,,,,,SPD,
 132142,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 132149,Detlev  Larcher,,,,von,,SPD,
+132151,Eckart Kuhlwein,,,,,,SPD,
+132151,Gegenruf des   Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 132155,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 132159,Hans-Günther Toetemeyer,,,,,,SPD,
 132165,Hans-Günther Toetemeyer,,,,,,SPD,
@@ -6144,6 +6453,8 @@
 132181,R. Werner Schuster,,,Dr.,,,SPD,
 132183,Brigitte Adler,,,,,,SPD,
 132184,Uwe Holtz,,,Dr.,,,SPD,
+132185,Brigitte Baumeister,,,,,,CDU/CSU,
+132186,Hans-Günther Toetemeyer,,,,,,SPD,
 132186,Heiterkeit und Beifall,,,,,,,
 132187,Ingomar Hauchler,,,Dr.,,,SPD,
 132188,Hans-Günther Toetemeyer,,,,,,SPD,
@@ -6157,6 +6468,7 @@
 132203,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
 132206,Hans-Günther Toetemeyer,,,,,,SPD,
 132207,Rudolf Bindig,,,,,,SPD,
+132208,Hans-Günther Toetemeyer,,,,,,SPD,
 132213,Brigitte Adler,,,,,,SPD,
 132214,Brigitte Adler,,,,,,SPD,
 132217,Uwe Holtz,,,Dr.,,,SPD,
@@ -6192,6 +6504,7 @@
 132349,Horst Sielaff,,,,,,SPD,
 132350,Horst Sielaff,,,,,,SPD,
 132353,Siegfried Hornung,,,,,,CDU/CSU,
+132355,Horst Sielaff,,,,,,SPD,
 132356,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 132357,Siegfried Hornung,,,,,,CDU/CSU,
 132358,Ulrich Heinrich,,,,,,FDP,
@@ -6214,10 +6527,13 @@
 132395,Clemens Schwalbe,,,,,,CDU/CSU,
 132399,Clemens Schwalbe,,,,,,CDU/CSU,
 132400,Susanne Kastner,,,,,,SPD,
+132404,Susanne Kastner,,,,,,SPD,
 132406,Susanne Kastner,,,,,,SPD,
 132407,Horst Peter,,,,,,SPD,Kassel
 132408,Susanne Kastner,,,,,,SPD,
 132413,Uwe Küster,,,Dr.,,,SPD,
+132416,Uwe Küster,,,Dr.,,,SPD,
+132416,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
 132424,Susanne Kastner,,,,,,SPD,
 132425,Susanne Kastner,,,,,,SPD,
 132426,Susanne Kastner,,,,,,SPD,
@@ -6228,6 +6544,7 @@
 132449,Peter Conradi,,,,,,SPD,
 132466,Günther Friedrich Nolting,,,,,,FDP,
 132467,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
+132469,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 132473,Günter Verheugen,,,,,,SPD,
 132474,Ulrich Irmer,,,,,,FDP,
 132476,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
@@ -6239,6 +6556,7 @@
 132485,Norbert Gansel,,,,,,SPD,
 132486,Karl Lamers,,,,,,CDU/CSU,
 132487,Peter Kittelmann,,,,,,CDU/CSU,
+132489,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
 132492,Ulrich Irmer,,,,,,FDP,
 132493,Günter Verheugen,,,,,,SPD,
 132494,Karsten D. Voigt,,,,,,SPD,Frankfurt
@@ -6253,6 +6571,8 @@
 132513,Karl Lamers,,,,,,CDU/CSU,
 132515,Heidemarie Wieczorek-Zeul,,,,,,SPD,
 132518,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
+132518,Zuruf  SPD,,,,von der,,SPD,
+132518,Heidemarie Wieczorek-Zeul,,,,,,SPD,
 132522,Paul Breuer,,,,,,CDU/CSU,
 132526,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
 132531,Ilja Seifert,,,Dr.,,,DIE LINKE.,
@@ -6297,6 +6617,8 @@
 132775,Andrea Lederer,,,,,,DIE LINKE.,
 132776,Alfred Dregger,,,Dr.,,,CDU/CSU,
 132778,Karl Lamers,,,,,,CDU/CSU,
+132779,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
+132779,Gerd Andres,,,,,,SPD,
 132783,Helmut Hausmann,,,Dr.,,,FDP,
 132786,Alfred Dregger,,,Dr.,,,CDU/CSU,
 132787,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
@@ -6434,6 +6756,7 @@
 133177,Ingrid Matthäus-Maier,,,,,,SPD,
 133182,Ingrid Matthäus-Maier,,,,,,SPD,
 133193,Ingrid Matthäus-Maier,,,,,,SPD,
+133195,Brigitte Baumeister,,,,,,CDU/CSU,
 133197,Michael Glos,,,,,,CDU/CSU,
 133198,Ingrid Matthäus-Maier,,,,,,SPD,
 133199,Ingrid Matthäus-Maier,,,,,,SPD,
@@ -6476,6 +6799,7 @@
 133315,Siegfried Hornung,,,,,,CDU/CSU,
 133317,Siegfried Hornung,,,,,,CDU/CSU,
 133324,Ulrike Mehl,,,,,,SPD,
+133328,Siegfried Hornung,,,,,,CDU/CSU,
 133330,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 133331,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 133332,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
@@ -6490,6 +6814,7 @@
 133348,Siegfried Hornung,,,,,,CDU/CSU,
 133349,Siegfried Hornung,,,,,,CDU/CSU,
 133352,Siegfried Hornung,,,,,,CDU/CSU,
+133353,Siegfried Hornung,,,,,,CDU/CSU,
 133354,Siegfried Hornung,,,,,,CDU/CSU,
 133355,Siegfried Hornung,,,,,,CDU/CSU,
 133357,Steffen Kampeter,,,,,,CDU/CSU,
@@ -6563,6 +6888,9 @@
 133549,Hans-Joachim Hacker,,,,,,SPD,
 133551,Hans-Joachim Hacker,,,,,,SPD,
 133598,Ludwig Stiegler,,,,,,SPD,
+133672,Clemens Schwalbe,,,,,,CDU/CSU,
+133672,Wolfgang Weng,,,Dr.,,,FDP,
+133672,Karl Stockhausen,,,,,,CDU/CSU,
 133673,Hans-Eberhard Urbaniak,,,,,,SPD,
 133674,Wolfgang Mischnick,,,,,,FDP,
 133677,Rainer Jork,,,Dr.-Ing.,,,CDU/CSU,
@@ -6600,6 +6928,7 @@
 133741,Siegfried Hornung,,,,,,CDU/CSU,
 133743,Horst Sielaff,,,,,,SPD,
 133744,Horst Sielaff,,,,,,SPD,
+133745,Horst Sielaff,,,,,,SPD,
 133747,Horst Sielaff,,,,,,SPD,
 133749,Helga Otto,,,Dr.,,,SPD,
 133750,Siegfried Hornung,,,,,,CDU/CSU,
@@ -6609,6 +6938,7 @@
 133758,Egon Susset,,,,,,CDU/CSU,
 133759,Siegfried Hornung,,,,,,CDU/CSU,
 133762,Siegfried Hornung,,,,,,CDU/CSU,
+133763,Gudrun Weyel,,,,,,SPD,
 133764,Siegfried Hornung,,,,,,CDU/CSU,
 133767,Nils Diederich,,,Dr.,,,SPD,Berlin
 133769,Siegfried Hornung,,,,,,CDU/CSU,
@@ -6617,6 +6947,7 @@
 133772,Siegfried Hornung,,,,,,CDU/CSU,
 133773,Siegfried Hornung,,,,,,CDU/CSU,
 133774,Siegfried Hornung,,,,,,CDU/CSU,
+133779,Wolfgang Roth,,,,,,SPD,
 133779,Heiterkeit,,,,,,,
 133781,Gerlin Hämmerle,,,,de,,SPD,
 133785,Freimut Duve,,,,,,SPD,
@@ -6652,12 +6983,12 @@
 133927,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 133930,Olaf Feldmann,,,Dr.,,,FDP,
 133937,Siegfried Hornung,,,,,,CDU/CSU,
-133938,Hans Büttner,,,,,,SPD,Ingolstadt
+133938,Hans Büttner,,,,,,SPD,
 133940,Margot  Renesse,,,,von,,SPD,
 133943,Margot  Renesse,,,,von,,SPD,
 133944,Bartholomäus Kalb,,,,,,CDU/CSU,
 133945,Otto Schily,,,,,,SPD,
-133946,Hans Büttner,,,,,,SPD,Ingolstadt
+133946,Hans Büttner,,,,,,SPD,
 133953,Wolf-Michael Catenhusten,,,,,,SPD,
 133956,Uwe Küster,,,Dr.,,,SPD,
 133958,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
@@ -6683,12 +7014,14 @@
 134020,Renate Hellwig,,,Dr.,,,CDU/CSU,
 134021,Dietmar Schütz,,,,,,SPD,
 134022,Eduard Oswald,,,,,,CDU/CSU,
+134022,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
 134024,-Ing. Dietmar Kansy,,,Dr.,,,CDU/CSU,
 134028,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
 134032,Otto Reschke,,,,,,SPD,
 134036,Peter Conradi,,,,,,SPD,
 134037,Dietmar Schütz,,,,,,SPD,
 134040,Peter Conradi,,,,,,SPD,
+134042,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
 134044,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 134049,Ulrich Briefs,,,Dr.,,,,
 134056,Freimut Duve,,,,,,SPD,
@@ -6721,6 +7054,7 @@
 134180,Ina Albowitz,,,,,,FDP,
 134182,Regina Kolbe,,,,,,SPD,
 134184,Ottmar Schreiner,,,,,,SPD,
+134185,Ottmar Schreiner,,,,,,SPD,
 134186,Ina Albowitz,,,,,,FDP,
 134188,Ottmar Schreiner,,,,,,SPD,
 134190,Ottmar Schreiner,,,,,,SPD,
@@ -6750,7 +7084,9 @@
 134247,Siegfried Hornung,,,,,,CDU/CSU,
 134250,Hans-Ulrich Klose,,,,,,SPD,
 134251,Gerd Wartenberg,,,,,,SPD,Berlin
+134253,Erwin Marschewski,,,,,,CDU/CSU,
 134253,Jürgen Augustinowitz,,,,,,CDU/CSU,
+134253,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
 134254,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
 134255,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
 134256,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
@@ -6775,6 +7111,7 @@
 134363,Bartholomäus Kalb,,,,,,CDU/CSU,
 134366,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 134369,Georg Gallus,,,,,,FDP,
+134371,Uwe Küster,,,Dr.,,,SPD,
 134371,Heiterkeit,,,,,,,
 134373,Hans-Ulrich Köhler,,,,,,CDU/CSU,Hainspitz
 134377,Eduard Oswald,,,,,,CDU/CSU,
@@ -6791,6 +7128,7 @@
 134410,Freimut Duve,,,,,,SPD,
 134411,Freimut Duve,,,,,,SPD,
 134412,Kurt Falthauser,,,Dr.,,,CDU/CSU,
+134414,Peter W. Reuschenbach,,,,,,SPD,
 134416,Freimut Duve,,,,,,SPD,
 134417,Peter W. Reuschenbach,,,,,,SPD,
 134418,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
@@ -6827,6 +7165,7 @@
 134507,Klaus Rose,,,Dr.,,,CDU/CSU,
 134514,Ingrid Matthäus-Maier,,,,,,SPD,
 134515,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
+134516,Gerhard O. Pfeffermann,,,,,,CDU/CSU,
 134517,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
 134519,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
 134521,Klaus Rose,,,Dr.,,,CDU/CSU,
@@ -6840,12 +7179,13 @@
 134536,Ingrid Matthäus-Maier,,,,,,SPD,
 134537,Nils Diederich,,,Dr.,,,SPD,Berlin
 134542,Nils Diederich,,,Dr.,,,SPD,Berlin
-134547,Hans Büttner,,,,,,SPD,Ingolstadt
+134547,Hans Büttner,,,,,,SPD,
 134548,Hans H. Gattermann,,,,,,FDP,
 134550,Dietrich Mahlo,,,Dr.,,,CDU/CSU,
 134551,Dietrich Mahlo,,,Dr.,,,CDU/CSU,
 134553,Hansjürgen Doss,,,,,,CDU/CSU,
 134554,Nils Diederich,,,Dr.,,,SPD,Berlin
+134555,Helmut Wieczorek,,,,,,SPD,Duisburg
 134558,Ilja Seifert,,,Dr.,,,DIE LINKE.,
 134559,Rudolf Dreßler,,,,,,SPD,
 134561,Ilja Seifert,,,Dr.,,,DIE LINKE.,
@@ -7020,7 +7360,7 @@
 135182,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
 135184,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
 135185,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
-135186,Hans Büttner,,,,,,SPD,Ingolstadt
+135186,Hans Büttner,,,,,,SPD,
 135189,Ernst Hinsken,,,,,,CDU/CSU,
 135190,Michael Glos,,,,,,CDU/CSU,
 135193,Uwe Küster,,,Dr.,,,SPD,
@@ -7039,14 +7379,14 @@
 135220,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 135221,Gisela Babel,,,Dr.,,,FDP,
 135223,Gisela Babel,,,Dr.,,,FDP,
-135224,Hans Büttner,,,,,,SPD,Ingolstadt
+135224,Hans Büttner,,,,,,SPD,
 135225,Günther Heyenn,,,,,,SPD,
-135227,Hans Büttner,,,,,,SPD,Ingolstadt
+135227,Hans Büttner,,,,,,SPD,
 135229,Julius Louven,,,,,,CDU/CSU,
-135230,Hans Büttner,,,,,,SPD,Ingolstadt
-135232,Hans Büttner,,,,,,SPD,Ingolstadt
+135230,Hans Büttner,,,,,,SPD,
+135232,Hans Büttner,,,,,,SPD,
 135233,Renate Rennebach,,,,,,SPD,
-135236,Hans Büttner,,,,,,SPD,Ingolstadt
+135236,Hans Büttner,,,,,,SPD,
 135238,Günther Heyenn,,,,,,SPD,
 135239,Regina Kolbe,,,,,,SPD,
 135244,Julius Louven,,,,,,CDU/CSU,
@@ -7067,6 +7407,7 @@
 135277,Ina Albowitz,,,,,,FDP,
 135281,Brigitte Adler,,,,,,SPD,
 135282,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
+135283,Angelika Barbe,,,,,,SPD,
 135283,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
 135284,Siegfried Vergin,,,,,,SPD,
 135287,Ilse Falk,,,,,,CDU/CSU,
@@ -7145,10 +7486,12 @@
 135459,Peter W. Reuschenbach,,,,,,SPD,
 135460,Günter Verheugen,,,,,,SPD,
 135462,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
+135466,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
 135466,Zuruf  F.D.P.,,,,von der,,,
 135467,Wolfgang Thierse,,,,,,SPD,
 135473,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
 135474,Otto Schily,,,,,,SPD,
+135477,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
 135478,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
 135479,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
 135484,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
@@ -7173,6 +7516,7 @@
 135597,Eckart Kuhlwein,,,,,,SPD,
 135598,Eckart Kuhlwein,,,,,,SPD,
 135600,Peter Struck,,,Dr.,,,SPD,
+135601,Peter Struck,,,Dr.,,,SPD,
 135601,Heiterkeit,,,,,,,
 135607,Hans-Eberhard Urbaniak,,,,,,SPD,
 135612,Editha Limbach,,,,,,CDU/CSU,
@@ -7232,6 +7576,7 @@
 135754,Horst Jungmann,,,,,,SPD,Wittmoldt
 135755,Horst Jungmann,,,,,,SPD,Wittmoldt
 135756,Heiterkeit,,,,,,,
+135756,Peter Struck,,,Dr.,,,SPD,
 135757,Jürgen Koppelin,,,,,,FDP,
 135758,Hans-Joachim Hacker,,,,,,SPD,
 135759,Jürgen Koppelin,,,,,,FDP,
@@ -7259,6 +7604,7 @@
 135873,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
 135875,Manfred Richter,,,,,,FDP,Bremerhaven
 135877,Josef Grünbeck,,,,,,FDP,
+135878,Uwe Jens,,,Dr.,,,SPD,
 135878,Josef Grünbeck,,,,,,FDP,
 135879,Wolfgang Weng,,,Dr.,,,FDP,
 135881,Eduard Oswald,,,,,,CDU/CSU,
@@ -7281,6 +7627,7 @@
 135925,Erwin Marschewski,,,,,,CDU/CSU,
 135929,Ortwin Lowack,,,,,,,
 135930,Heiterkeit,,,,,,,
+135930,Wolfgang Ullmann,,,Dr.,,,BÜNDNIS 90/DIE GRÜNEN,
 135931,Joachim Hörster,,,,,,CDU/CSU,
 135933,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 135934,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
@@ -7297,6 +7644,7 @@
 136045,Konrad Gilges,,,,,,SPD,
 136046,Jochen Feilcke,,,,,,CDU/CSU,
 136047,Ottmar Schreiner,,,,,,SPD,
+136047,Konrad Gilges,,,,,,SPD,
 136048,Volker Kauder,,,,,,CDU/CSU,
 136052,Konrad Gilges,,,,,,SPD,
 136055,Günter Verheugen,,,,,,SPD,
@@ -7304,6 +7652,7 @@
 136058,Renate Rennebach,,,,,,SPD,
 136059,Konrad Gilges,,,,,,SPD,
 136060,Dietrich Austermann,,,,,,CDU/CSU,
+136061,Gerd Andres,,,,,,SPD,
 136062,Jochen Feilcke,,,,,,CDU/CSU,
 136063,Jochen Feilcke,,,,,,CDU/CSU,
 136064,Konrad Gilges,,,,,,SPD,
@@ -7334,6 +7683,7 @@
 136126,Doris Odendahl,,,,,,SPD,
 136128,Eckart Kuhlwein,,,,,,SPD,
 136134,Doris Odendahl,,,,,,SPD,
+136143,Eckart Kuhlwein,,,,,,SPD,
 136144,Eckart Kuhlwein,,,,,,SPD,
 136145,Dirk Hansen,,,,,,FDP,
 136147,Doris Odendahl,,,,,,SPD,
@@ -7345,6 +7695,7 @@
 136167,Doris Odendahl,,,,,,SPD,
 136168,Rudolf Dreßler,,,,,,SPD,
 136169,Julius Louven,,,,,,CDU/CSU,
+136173,Julius Louven,,,,,,CDU/CSU,
 136173,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
 136176,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
 136180,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
@@ -7413,7 +7764,9 @@
 136447,Erich G. Fritz,,,,,,CDU/CSU,
 136449,Klaus Kirschner,,,,,,SPD,
 136452,Johannes Singer,,,,,,SPD,
+136454,Johannes Singer,,,,,,SPD,
 136457,Hans  With,,,Dr.,de,,SPD,
+136458,Günter Verheugen,,,,,,SPD,
 136462,Heinrich Seesing,,,,,,CDU/CSU,
 136465,Ursula Fischer,,,Dr.,,,DIE LINKE.,
 136468,Ursula Fischer,,,Dr.,,,DIE LINKE.,
@@ -7434,6 +7787,7 @@
 136501,Manfred Richter,,,,,,FDP,Bremerhaven
 136502,Karl-Josef Laumann,,,,,,CDU/CSU,
 136503,Heiterkeit,,,,,,,
+136503,Manfred Richter,,,,,,FDP,Bremerhaven
 136504,Manfred Richter,,,,,,FDP,Bremerhaven
 136505,Günther Heyenn,,,,,,SPD,
 136510,Michael Müller,,,,,,SPD,Düsseldorf
@@ -7453,6 +7807,7 @@
 136542,Otto Schily,,,,,,SPD,
 136543,Klaus Lennartz,,,,,,SPD,
 136545,Hans Klein,,,,,,CDU/CSU,München
+136546,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
 136549,Hans-Joachim Fuchtel,,,,,,CDU/CSU,
 136556,Hans Klein,,,,,,CDU/CSU,München
 136558,Regina Schmidt-Zadel,,,,,,SPD,
@@ -7500,6 +7855,7 @@
 136662,Siegfried Hornung,,,,,,CDU/CSU,
 136664,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
 136667,Siegfried Hornung,,,,,,CDU/CSU,
+136669,Siegfried Hornung,,,,,,CDU/CSU,
 136673,Erwin Marschewski,,,,,,CDU/CSU,
 136676,Siegfried Hornung,,,,,,CDU/CSU,
 136677,Michael  Schmu,,,,von,,CDU/CSU,
@@ -7521,6 +7877,7 @@
 136723,Ernst Waltemathe,,,,,,SPD,
 136734,Uwe Lambinus,,,,,,SPD,
 136737,Ina Albowitz,,,,,,FDP,
+136738,Rudolf Bindig,,,,,,SPD,
 136750,Lieselott Blunck,,,,,,SPD,
 136755,Peter Conradi,,,,,,SPD,
 136756,Peter W. Reuschenbach,,,,,,SPD,
@@ -7567,6 +7924,7 @@
 136876,Otto Schily,,,,,,SPD,
 136881,Wolfgang Schulhoff,,,,,,CDU/CSU,
 136882,Wolfgang Schulhoff,,,,,,CDU/CSU,
+136887,Ina Albowitz,,,,,,FDP,
 136887,Beifall,,,,,,,
 136891,Eduard Oswald,,,,,,CDU/CSU,
 136895,Peter Conradi,,,,,,SPD,
@@ -7578,6 +7936,8 @@
 136917,Gerhart Rudolf Baum,,,,,,FDP,
 136918,Gerhart Rudolf Baum,,,,,,FDP,
 136920,Heribert Scharrenbroich,,,,,,CDU/CSU,
+136921,Gegenruf der   Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
+136921,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
 136921,Reinhard   Schorlemer,,,,von,Freiherr,CDU/CSU,
 136922,Heribert Scharrenbroich,,,,,,CDU/CSU,
 136924,Friedrich Vogel,,,,,,CDU/CSU,Ennepetal
@@ -7612,6 +7972,7 @@
 137023,Freimut Duve,,,,,,SPD,
 137027,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 137028,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
+137031,Anke Fuchs,,,,,,SPD,Köln
 137033,Peter W. Reuschenbach,,,,,,SPD,
 137034,Peter W. Reuschenbach,,,,,,SPD,
 137036,Eduard Oswald,,,,,,CDU/CSU,
@@ -7626,6 +7987,7 @@
 137070,Claus Jäger,,,,,,CDU/CSU,
 137073,Christina Schenk,,,,,,BÜNDNIS 90/DIE GRÜNEN,
 137074,Christina Schenk,,,,,,BÜNDNIS 90/DIE GRÜNEN,
+137076,Clemens Schwalbe,,,,,,CDU/CSU,
 137077,Christina Schenk,,,,,,BÜNDNIS 90/DIE GRÜNEN,
 137078,Uwe Küster,,,Dr.,,,SPD,
 137085,Helmut Sauer,,,,,,CDU/CSU,Salzgitter
@@ -7668,6 +8030,7 @@
 137165,Anke Fuchs,,,,,,SPD,Köln
 137179,Anke Fuchs,,,,,,SPD,Köln
 137196,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
+137197,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
 137198,Paul Breuer,,,,,,CDU/CSU,
 137200,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
 137201,Paul Breuer,,,,,,CDU/CSU,
@@ -7710,7 +8073,7 @@
 137280,Walter Hitschler,,,Dr.,,,FDP,
 137281,Hans Raidel,,,,,,CDU/CSU,
 137282,Hans Raidel,,,,,,CDU/CSU,
-137284,Hans Büttner,,,,,,SPD,Ingolstadt
+137284,Hans Büttner,,,,,,SPD,
 137285,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
 137287,Elke Ferner,,,,,,SPD,
 137289,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
@@ -7722,15 +8085,19 @@
 137302,Horst Gibtner,,,,,,CDU/CSU,
 137303,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 137304,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
+137308,Uwe Küster,,,Dr.,,,SPD,
+137308,Klaus-Dieter Feige,,,Dr.,,,BÜNDNIS 90/DIE GRÜNEN,
 137311,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 137314,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 137315,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
 137322,Jürgen Warnke,,,Dr.,,,CDU/CSU,
+137323,Karl-Heinz Klejdzinski,,,Dr.,,,SPD,
 137328,Uwe Jens,,,Dr.,,,SPD,
 137334,Sigrid Skarpelis-Sperk,,,Dr.,,,SPD,
 137336,Karl-Heinz Klejdzinski,,,Dr.,,,SPD,
 137337,Karl-Heinz Klejdzinski,,,Dr.,,,SPD,
 137339,Elke Wülfing,,,,,,CDU/CSU,
+137341,Manfred Richter,,,,,,FDP,Bremerhaven
 137341,Heiterkeit,,,,,,,
 137342,Manfred Richter,,,,,,FDP,Bremerhaven
 137345,Joachim Hörster,,,,,,CDU/CSU,
@@ -7754,6 +8121,7 @@
 137393,Siegfried Hornung,,,,,,CDU/CSU,
 137394,Horst Sielaff,,,,,,SPD,
 137395,Siegfried Hornung,,,,,,CDU/CSU,
+137396,Horst Sielaff,,,,,,SPD,
 137398,Horst Sielaff,,,,,,SPD,
 137400,Siegfried Hornung,,,,,,CDU/CSU,
 137405,Hans-Ulrich Köhler,,,,,,CDU/CSU,Hainspitz
@@ -7782,6 +8150,7 @@
 137446,Olaf Feldmann,,,Dr.,,,FDP,
 137447,Peter Kurt Würzbach,,,,,,CDU/CSU,
 137449,Heiterkeit,,,,,,,
+137449,Olaf Feldmann,,,Dr.,,,FDP,
 137450,Olaf Feldmann,,,Dr.,,,FDP,
 137451,Gerlin Hämmerle,,,,de,,SPD,
 137455,Peter Ramsauer,,,Dr.,,,CDU/CSU,
@@ -7807,7 +8176,7 @@
 137587,Gerd Andres,,,,,,SPD,
 137588,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 137589,Günter Heyenn,,,,,,SPD,
-137594,Hans Büttner,,,,,,SPD,Ingolstadt
+137594,Hans Büttner,,,,,,SPD,
 137595,R. Werner Schuster,,,Dr.,,,SPD,
 137597,Jochen Feilcke,,,,,,CDU/CSU,
 137598,Jochen Feilcke,,,,,,CDU/CSU,
@@ -7848,12 +8217,13 @@
 137666,Horst Peter,,,,,,SPD,Kassel
 137667,Peter Struck,,,Dr.,,,SPD,
 137668,Gisela Babel,,,Dr.,,,FDP,
-137669,Hans Büttner,,,,,,SPD,Ingolstadt
+137669,Hans Büttner,,,,,,SPD,
 137670,Heribert Scharrenbroich,,,,,,CDU/CSU,
 137671,Heribert Scharrenbroich,,,,,,CDU/CSU,
 137678,Uta Würfel,,,,,,FDP,
 137682,Günther Friedrich Nolting,,,,,,FDP,
 137683,Günther Friedrich Nolting,,,,,,FDP,
+137688,Konrad Weiß,,,,,,BÜNDNIS 90/DIE GRÜNEN,Berlin
 137689,Günther Friedrich Nolting,,,,,,FDP,
 137690,Martin Göttsching,,,,,,CDU/CSU,
 137691,Horst Peter,,,,,,SPD,Kassel
@@ -7861,8 +8231,10 @@
 137709,Walter Kolbow,,,,,,SPD,
 137712,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
 137714,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
+137725,Peter Struck,,,Dr.,,,SPD,
 137727,Jochen Feilcke,,,,,,CDU/CSU,
 137728,Günther Friedrich Nolting,,,,,,FDP,
+137729,Siegfried Hornung,,,,,,CDU/CSU,
 137731,Otto Schily,,,,,,SPD,
 137733,Rudolf Purps,,,,,,SPD,
 137734,Bartholomäus Kalb,,,,,,CDU/CSU,
@@ -7884,7 +8256,7 @@
 137821,Jochen Feilcke,,,,,,CDU/CSU,
 137822,Gerd Andres,,,,,,SPD,
 137823,Hans-Joachim Fuchtel,,,,,,CDU/CSU,
-137827,Hans Büttner,,,,,,SPD,Ingolstadt
+137827,Hans Büttner,,,,,,SPD,
 137829,Ottmar Schreiner,,,,,,SPD,
 137830,Julius Louven,,,,,,CDU/CSU,
 137832,Gerd Andres,,,,,,SPD,
@@ -7904,7 +8276,7 @@
 137851,Eduard Oswald,,,,,,CDU/CSU,
 137862,Gerd Andres,,,,,,SPD,
 137864,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
-137865,Hans Büttner,,,,,,SPD,Ingolstadt
+137865,Hans Büttner,,,,,,SPD,
 137866,Hans-Joachim Fuchtel,,,,,,CDU/CSU,
 137868,Gerd Andres,,,,,,SPD,
 137869,Gerd Andres,,,,,,SPD,
@@ -7921,6 +8293,7 @@
 137905,Julius Louven,,,,,,CDU/CSU,
 137908,Ilja Seifert,,,Dr.,,,DIE LINKE.,
 137910,Ilja Seifert,,,Dr.,,,DIE LINKE.,
+137911,Gerd Andres,,,,,,SPD,
 137912,Konrad Gilges,,,,,,SPD,
 137913,Gerd Andres,,,,,,SPD,
 137917,Julius Louven,,,,,,CDU/CSU,
@@ -7934,9 +8307,12 @@
 137949,Julius Louven,,,,,,CDU/CSU,
 137950,Julius Louven,,,,,,CDU/CSU,
 137951,Jochen Feilcke,,,,,,CDU/CSU,
+137952,Ilse Falk,,,,,,CDU/CSU,
 137956,Margret Funke-Schmitt-Rink,,,Dr.,,,FDP,
 137959,Heiterkeit,,,,,,,
+137959,Eckart Kuhlwein,,,,,,SPD,
 137961,Marliese Dobberthien,,,Dr.,,,SPD,Marl
+137964,Uwe Küster,,,Dr.,,,SPD,
 137972,Ernst Hinsken,,,,,,CDU/CSU,
 137973,Ernst Hinsken,,,,,,CDU/CSU,
 137974,Ernst Hinsken,,,,,,CDU/CSU,
@@ -8003,6 +8379,8 @@
 138163,Hans-Ulrich Klose,,,,,,SPD,
 138167,Manfred Opel,,,,,,SPD,
 138169,Paul Breuer,,,,,,CDU/CSU,
+138171,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
+138171,Wolfgang   Stetten,,,Dr.,von,Freiherr,CDU/CSU,
 138175,Hans-Ulrich Klose,,,,,,SPD,
 138177,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
 138179,Hans-Ulrich Klose,,,,,,SPD,
@@ -8018,6 +8396,7 @@
 138196,Ingrid Matthäus-Maier,,,,,,SPD,
 138198,Ingrid Matthäus-Maier,,,,,,SPD,
 138201,Uwe Küster,,,Dr.,,,SPD,
+138201,Ingrid Matthäus-Maier,,,,,,SPD,
 138203,Ingrid Matthäus-Maier,,,,,,SPD,
 138206,Wolfgang Lüder,,,,,,FDP,
 138216,Willfried Penner,,,Dr.,,,SPD,
@@ -8027,6 +8406,7 @@
 138223,Willfried Penner,,,Dr.,,,SPD,
 138225,Peter Struck,,,Dr.,,,SPD,
 138227,Heribert Scharrenbroich,,,,,,CDU/CSU,
+138228,Ingrid Matthäus-Maier,,,,,,SPD,
 138228,Comelie Sonntag-Wolgast,,,Dr.,,,SPD,
 138244,Ursula Fischer,,,Dr.,,,DIE LINKE.,
 138245,Hans Gottfried Bernrath,,,,,,SPD,
@@ -8082,6 +8462,7 @@
 138354,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
 138355,Karsten D. Voigt,,,,,,,Frankfurt
 138359,Karsten D. Voigt,,,,,,SPD,Frankfurt
+138361,Karl Lamers,,,,,,CDU/CSU,
 138362,Anke Fuchs,,,,,,SPD,Köln
 138366,Ingomar Hauchler,,,Dr.,,,SPD,
 138369,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
@@ -8147,7 +8528,7 @@
 138507,Anke Fuchs,,,,,,SPD,Köln
 138508,Julius Louven,,,,,,CDU/CSU,
 138509,Regina Kolbe,,,,,,SPD,
-138513,Hans Büttner,,,,,,SPD,Ingolstadt
+138513,Hans Büttner,,,,,,SPD,
 138516,Julius Louven,,,,,,CDU/CSU,
 138517,Gisela Babel,,,Dr.,,,FDP,
 138518,Julius Louven,,,,,,CDU/CSU,
@@ -8157,7 +8538,9 @@
 138531,Ingrid Matthäus-Maier,,,,,,SPD,
 138532,Ottmar Schreiner,,,,,,SPD,
 138533,Julius Louven,,,,,,CDU/CSU,
+138534,Ingrid Matthäus-Maier,,,,,,SPD,
 138538,Werner Zywietz,,,,,,FDP,
+138539,Klaus Daubertshäuser,,,,,,SPD,
 138543,Manfred Schell,,,,,,CDU/CSU,
 138546,Matthias Wissmann,,,,,,CDU/CSU,
 138548,Clemens Schwalbe,,,,,,CDU/CSU,
@@ -8236,6 +8619,7 @@
 138716,Hans  With,,,Dr.,de,,SPD,
 138717,Norbert Geis,,,,,,CDU/CSU,
 138718,Hans  With,,,Dr.,de,,SPD,
+138720,Ingrid Matthäus-Maier,,,,,,SPD,
 138723,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 138727,Anke Fuchs,,,,,,SPD,Köln
 138742,Hans  With,,,Dr.,de,,SPD,
@@ -8245,6 +8629,7 @@
 138753,Anke Fuchs,,,,,,SPD,Köln
 138757,Norbert Geis,,,,,,CDU/CSU,
 138760,Joachim Hörster,,,,,,CDU/CSU,
+138762,Helmut Wieczorek,,,,,,SPD,Duisburg
 138764,Dieter Wiefelspütz,,,,,,SPD,
 138766,Ernst Hinsken,,,,,,CDU/CSU,
 138768,Peter Struck,,,Dr.,,,SPD,
@@ -8270,6 +8655,7 @@
 138838,Uta Würfel,,,,,,FDP,
 138842,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 138844,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
+138844,Norbert Gansel,,,,,,SPD,
 138846,Peter Conradi,,,,,,SPD,
 138849,Konrad Elmer,,,Dr.,,,SPD,
 138856,Peter Conradi,,,,,,SPD,
@@ -8283,6 +8669,7 @@
 138942,Eckart Kuhlwein,,,,,,SPD,
 138944,Rainer Jork,,,Dr.-Ing.,,,CDU/CSU,
 138947,Doris Odendahl,,,,,,SPD,
+138949,Dirk Hansen,,,,,,FDP,
 138951,Dietmar Keller,,,Dr.,,,DIE LINKE.,
 138952,Dietmar Keller,,,Dr.,,,DIE LINKE.,
 138953,Dirk Hansen,,,,,,FDP,
@@ -8309,6 +8696,7 @@
 139045,Hans-Joachim Fuchtel,,,,,,CDU/CSU,
 139046,Hans-Joachim Fuchtel,,,,,,CDU/CSU,
 139047,Siegfried Hornung,,,,,,CDU/CSU,
+139048,Barbara Weiler,,,,,,SPD,
 139048,Heiterkeit,,,,,,,
 139050,Siegfried Hornung,,,,,,CDU/CSU,
 139051,Siegfried Hornung,,,,,,CDU/CSU,
@@ -8328,7 +8716,7 @@
 139075,Barbara Weiler,,,,,,SPD,
 139110,Peter Struck,,,Dr.,,,SPD,
 139113,Peter Conradi,,,,,,SPD,
-139132,Hans Büttner,,,,,,SPD,Ingolstadt
+139132,Hans Büttner,,,,,,SPD,
 139134,Siegfried Hornung,,,,,,CDU/CSU,
 139136,Siegfried Hornung,,,,,,CDU/CSU,
 139139,Hans-Joachim Fuchtel,,,,,,CDU/CSU,
@@ -8343,6 +8731,7 @@
 139174,Norbert Blüm,,,Dr.,,,CDU/CSU,
 139177,Ottmar Schreiner,,,,,,SPD,
 139182,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
+139185,Hans Büttner,,,,,,SPD,
 139186,Siegfried Hornung,,,,,,CDU/CSU,
 139187,Barbara Höll,,,Dr.,,,DIE LINKE.,
 139190,Steffen Kampeter,,,,,,CDU/CSU,
@@ -8356,6 +8745,7 @@
 139210,Michael Müller,,,,,,SPD,Düsseldorf
 139211,Birgit Homburger,,,,,,FDP,Homburg
 139212,Gerhart Rudolf Baum,,,,,,FDP,
+139214,Gerhart Rudolf Baum,,,,,,FDP,
 139219,Gerhart Rudolf Baum,,,,,,FDP,
 139222,Dieter Wiefelspütz,,,,,,SPD,
 139224,Peter Glotz,,,Dr.,,,SPD,
@@ -8391,6 +8781,7 @@
 139307,Manfred Hampel,,,,,,SPD,
 139310,Udo Haschke,,,,,,CDU/CSU,Jena
 139312,Zurufe  SPD,,,,von der,,SPD,
+139312,Gregor Gysi,,,Dr.,,,DIE LINKE.,
 139315,Gregor Gysi,,,Dr.,,,DIE LINKE.,
 139320,Gregor Gysi,,,Dr.,,,DIE LINKE.,
 139322,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
@@ -8504,6 +8895,7 @@
 139682,Ilja Seifert,,,Dr.,,,DIE LINKE.,
 139683,Achim Großmann,,,,,,SPD,
 139685,Achim Großmann,,,,,,SPD,
+139686,Achim Großmann,,,,,,SPD,
 139692,Achim Großmann,,,,,,SPD,
 139693,Achim Großmann,,,,,,SPD,
 139696,Ilja Seifert,,,Dr.,,,DIE LINKE.,
@@ -8529,8 +8921,10 @@
 139746,Jürgen Koppelin,,,,,,FDP,
 139747,Hans-Ulrich Klose,,,,,,SPD,
 139748,Klaus Lennartz,,,,,,SPD,
+139749,HansUlrich Klose,,,,,,SPD,
 139749,Zurufe  SPD,,,,von der,,SPD,
 139750,Eduard Oswald,,,,,,CDU/CSU,
+139751,Siegfried Hornung,,,,,,CDU/CSU,
 139753,Klaus Lennartz,,,,,,SPD,
 139754,Heinrich Seesing,,,,,,CDU/CSU,
 139756,Rudolf Karl Krause,,,Dr.,,,,Bonese
@@ -8543,18 +8937,19 @@
 139794,Christel Hanewinckel,,,,,,SPD,
 139798,Günther Heyenn,,,,,,SPD,
 139799,Gerd Andres,,,,,,SPD,
+139799,Gegenruf des  Volker Kauder,,,,,,CDU/CSU,
 139801,Gerd Andres,,,,,,SPD,
 139804,Gerd Andres,,,,,,SPD,
 139806,Barbara Höll,,,Dr.,,,DIE LINKE.,
 139809,Rudolf Dreßler,,,,,,SPD,
 139810,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 139812,Ina Albowitz,,,,,,FDP,
-139813,Hans Büttner,,,,,,SPD,Ingolstadt
+139813,Hans Büttner,,,,,,SPD,
 139814,Manfred Richter,,,,,,FDP,Bremerhaven
 139815,Ina Albowitz,,,,,,FDP,
-139817,Hans Büttner,,,,,,SPD,Ingolstadt
+139817,Hans Büttner,,,,,,SPD,
 139818,Ottmar Schreiner,,,,,,SPD,
-139819,Hans Büttner,,,,,,SPD,Ingolstadt
+139819,Hans Büttner,,,,,,SPD,
 139820,Günther Heyenn,,,,,,SPD,
 139821,Ilja Seifert,,,Dr.,,,DIE LINKE.,
 139822,Uta Würfel,,,,,,FDP,
@@ -8562,9 +8957,9 @@
 139824,Gerd Andres,,,,,,SPD,
 139826,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
 139832,Dietrich Mahlo,,,Dr.,,,CDU/CSU,
-139833,Hans Büttner,,,,,,SPD,Ingolstadt
+139833,Hans Büttner,,,,,,SPD,
 139834,Detlev  Larcher,,,,von,,SPD,
-139835,Hans Büttner,,,,,,SPD,Ingolstadt
+139835,Hans Büttner,,,,,,SPD,
 139837,Detlev  Larcher,,,,von,,SPD,
 139841,Detlev  Larcher,,,,von,,SPD,
 139842,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
@@ -8575,9 +8970,10 @@
 139855,Alexander Warrikoff,,,Dr.,,,CDU/CSU,
 139856,Ottmar Schreiner,,,,,,SPD,
 139861,Barbara Weiler,,,,,,SPD,
+139862,Manfred Richter,,,,,,FDP,Bremerhaven
 139866,Manfred Richter,,,,,,FDP,Bremerhaven
 139872,Konrad Gilges,,,,,,SPD,
-139874,Hans Büttner,,,,,,SPD,Ingolstadt
+139874,Hans Büttner,,,,,,SPD,
 139877,Ottmar Schreiner,,,,,,SPD,
 139879,Achim Großmann,,,,,,SPD,
 139880,Eduard Oswald,,,,,,CDU/CSU,
@@ -8605,7 +9001,11 @@
 139970,Karl-Heinz Schröter,,,,,,SPD,
 139972,Klaus-Jürgen Hedrich,,,,,,CDU/CSU,
 139975,Heidemarie Wieczorek-Zeul,,,,,,SPD,
+139976,Hermann Otto Solms,,,Dr.,,,FDP,
 139976,Zuruf  F.D.P.,,,,von der,,,
+139977,Enttäuschend! —  Helmut Haussmann,,,Dr.,,,FDP,
+139977,Traurig!,,,,,,,
+139977,Zurufe  F.D.P.,,,,von der,,,
 139978,Günter Verheugen,,,,,,SPD,
 139984,Heidemarie Wieczorek-Zeul,,,,,,SPD,
 139986,Peter Conradi,,,,,,SPD,
@@ -8613,6 +9013,7 @@
 139993,Peter Conradi,,,,,,SPD,
 139996,Peter Kittelmann,,,,,,CDU/CSU,
 139998,Günter Verheugen,,,,,,SPD,
+140000,Helmut Haussmann,,,Dr.,,,FDP,
 140001,Helmut Haussmann,,,Dr.,,,FDP,
 140002,Heidemarie Wieczorek-Zeul,,,,,,SPD,
 140008,Renate Hellwig,,,Dr.,,,CDU/CSU,
@@ -8725,12 +9126,15 @@
 140352,Karl-Josef Laumann,,,,,,CDU/CSU,
 140353,Günther Heyenn,,,,,,SPD,
 140354,Horst Kubatschka,,,,,,SPD,
+140355,Heinz-Adolf Hörsken,,,,,,CDU/CSU,
 140357,Heinz-Adolf Hörsken,,,,,,CDU/CSU,
 140359,Günter Heyenn,,,,,,SPD,
 140361,Julius Louven,,,,,,CDU/CSU,
+140363,HeinzAdolf Hörsken,,,,,,CDU/CSU,
 140364,Heinz-Adolf Hörsken,,,,,,CDU/CSU,
 140365,Günther Heyenn,,,,,,SPD,
 140368,Ilja Seifert,,,Dr.,,,DIE LINKE.,
+140369,Alexander Warrikoff,,,Dr.,,,CDU/CSU,
 140371,Heinz-Adolf Hörsken,,,,,,CDU/CSU,
 140373,Gisela Babel,,,Dr.,,,FDP,
 140377,Gerd Andres,,,,,,SPD,
@@ -8748,6 +9152,7 @@
 140407,Detlev  Larcher,,,,von,,SPD,
 140410,Karl Diller,,,,,,SPD,
 140411,Ottmar Schreiner,,,,,,SPD,
+140412,Bundesminister  Theodor Waigel,,,Dr.,,,CDU/CSU,
 140412,Zurufe  SPD,,,,von der,,SPD,
 140413,Hans-Eberhard Urbaniak,,,,,,SPD,
 140416,Ottmar Schreiner,,,,,,SPD,
@@ -8779,6 +9184,7 @@
 140594,Günther Friedrich Nolting,,,,,,FDP,
 140596,Walter Kolbow,,,,,,SPD,
 140598,Hans-Günther Toetemeyer,,,,,,SPD,
+140600,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
 140601,Karl-Heinz Klejdzinski,,,Dr.,,,SPD,
 140604,Hans-Günther Toetemeyer,,,,,,SPD,
 140607,Karsten D. Voigt,,,,,,SPD,Frankfurt
@@ -8895,10 +9301,13 @@
 140941,Detlev  Larcher,,,,von,,SPD,
 140944,Dietrich Austermann,,,,,,CDU/CSU,
 140945,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
+140945,Dietrich Austermann,,,,,,CDU/CSU,
 140947,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 140948,Freimut Duve,,,,,,SPD,
 140949,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 140950,Freimut Duve,,,,,,SPD,
+140951,Freimut Duve,,,,,,SPD,
+140952,Ingrid MatthäusMaier,,,,,,SPD,
 140954,Anke Fuchs,,,,,,SPD,Köln
 140957,Freimut Duve,,,,,,SPD,
 140959,Ingrid Matthäus-Maier,,,,,,SPD,
@@ -8906,19 +9315,23 @@
 140967,Detlev  Larcher,,,,von,,SPD,
 140968,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
 140970,Detlev  Larcher,,,,von,,SPD,
+140971,Ingrid MatthäusMaier,,,,,,SPD,
 140973,Heinrich Seesing,,,,,,CDU/CSU,
 140974,Kurt Faltlhauser,,,Dr.,,,CDU/CSU,
 140975,Heinrich Lummer,,,,,,CDU/CSU,
 140978,Markus Meckel,,,,,,SPD,
 140979,Rolf Olderog,,,Dr.,,,CDU/CSU,
 140980,Freimut Duve,,,,,,SPD,
+140981,Ulrich Irmer,,,,,,FDP,
 140981,Freimut Duve,,,,,,SPD,
 140985,Karl Lamers,,,,,,CDU/CSU,
 140986,Freimut Duve,,,,,,SPD,
+140987,Ulrich Irmer,,,,,,FDP,
 140988,Uta Zapf,,,,,,SPD,
 140989,Karsten D. Voigt,,,,,,SPD,Frankfurt
 140990,Gerd Poppe,,,,,,BÜNDNIS 90/DIE GRÜNEN,
 140991,Karsten D. Voigt,,,,,,SPD,Frankfurt
+140992,Markus Meckel,,,,,,SPD,
 141013,Karsten D. Voigt,,,,,,SPD,Frankfurt
 141022,Freimut Duve,,,,,,SPD,
 141026,Gernot Erler,,,,,,SPD,
@@ -8976,6 +9389,7 @@
 141203,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
 141204,Michael Glos,,,,,,CDU/CSU,
 141207,Heidemarie Wieczorek-Zeul,,,,,,SPD,
+141208,Horst Kubatschka,,,,,,SPD,
 141209,Ulrich Irmer,,,,,,FDP,
 141212,Michael Glos,,,,,,CDU/CSU,
 141215,Michael Glos,,,,,,CDU/CSU,
@@ -9002,12 +9416,13 @@
 141328,Lieselott Blunck,,,,,,SPD,Uetersen
 141330,Detlev  Larcher,,,,von,,SPD,
 141331,Lieselott Blunck,,,,,,SPD,Uetersen
-141334,Hans Büttner,,,,,,SPD,Ingolstadt
+141334,Hans Büttner,,,,,,SPD,
 141338,Barbara Höll,,,Dr.,,,DIE LINKE.,
 141348,Wilhelm Schmidt,,,,,,SPD,Salzgitter
 141349,Barbara Höll,,,Dr.,,,DIE LINKE.,
 141350,Wolfgang Lüder,,,,,,FDP,
 141352,Wilhelm Schmidt,,,,,,SPD,Salzgitter
+141354,Wolfgang   Stetten,,,Dr.,von,Freiherr,CDU/CSU,
 141355,Gerlin Hämmerle,,,,de,,SPD,
 141356,Gerlin Hämmerle,,,,de,,SPD,
 141358,Wilhelm Schmidt,,,,,,SPD,Salzgitter
@@ -9068,6 +9483,8 @@
 141529,Horst Jungmann,,,,,,SPD,Wittmoldt
 141531,Ingrid Matthäus-Maier,,,,,,SPD,
 141533,Horst Jungmann,,,,,,SPD,Wittmoldt
+141534,Rudolf Purps,,,,,,SPD,
+141534,Rudi Walther,,,,,,SPD,Zierenberg
 141538,Karl-Hans Laermann,,,Dr.-Ing.,,,FDP,
 141540,Arnulf Kriedner,,,,,,CDU/CSU,
 141541,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
@@ -9109,7 +9526,10 @@
 141619,Uwe Küster,,,Dr.,,,SPD,
 141620,Horst Jungmann,,,,,,SPD,Wittmoldt
 141622,Ingrid Matthäus-Maier,,,,,,SPD,
+141624,Horst Jungmann,,,,,,SPD,Wittmoldt
 141627,Anke Fuchs,,,,,,SPD,Köln
+141629,Horst Sielaff,,,,,,SPD,
+141631,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 141632,Dietrich Austermann,,,,,,CDU/CSU,
 141633,Michael Glos,,,,,,CDU/CSU,
 141634,Helmut Wieczorek,,,,,,SPD,Duisburg
@@ -9170,6 +9590,7 @@
 141740,Ina Albowitz,,,,,,FDP,
 141742,Erwin Marschewski,,,,,,CDU/CSU,
 141750,Ina Albowitz,,,,,,FDP,
+141751,Ina Albowitz,,,,,,FDP,
 141752,Dieter Wiefelspütz,,,,,,SPD,
 141753,Günter,,,,,Graf,SPD,
 141754,Freimut Duve,,,,,,SPD,
@@ -9191,6 +9612,8 @@
 141788,Ulrich Heinrich,,,,,,FDP,
 141791,Hans-Gerd Strube,,,,,,CDU/CSU,
 141793,Nils Diederich,,,Dr.,,,SPD,Berlin
+141794,Kurt J. Rossmanith,,,,,,CDU/CSU,
+141794,Fritz Schumann,,,Dr.,,,DIE LINKE.,Kroppenstedt
 141795,Kurt J. Rossmanith,,,,,,CDU/CSU,
 141800,Nils Diederich,,,Dr.,,,SPD,Berlin
 141801,Ernst Hinsken,,,,,,CDU/CSU,
@@ -9201,6 +9624,7 @@
 141813,Manfred Reimann,,,,,,SPD,
 141814,Rudi Walther,,,,,,SPD,Zierenberg
 141816,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
+141817,Ina Albowitz,,,,,,FDP,
 141818,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
 141820,Ina Albowitz,,,,,,FDP,
 141821,Manfred Reimann,,,,,,SPD,
@@ -9225,6 +9649,7 @@
 141861,Manfred Reimann,,,,,,SPD,
 141865,Horst Jungmann,,,,,,SPD,Wittmoldt
 141867,Paul Hoffacker,,,Dr.,,,CDU/CSU,Hof
+141869,Horst Jungmann,,,,,,SPD,Wittmoldt
 141871,Uta Titze-Stecher,,,,,,SPD,
 141886,Peter Struck,,,Dr.,,,SPD,
 141888,Helmut Wieczorek,,,,,,SPD,Duisburg
@@ -9337,6 +9762,7 @@
 142206,Roland Kohn,,,,,,FDP,
 142207,Roland Kohn,,,,,,FDP,
 142208,Detlev  Larcher,,,,von,,SPD,
+142210,Roland Kohn,,,,,,FDP,
 142211,Roland Kohn,,,,,,FDP,
 142215,Ekkehard Gries,,,,,,FDP,
 142221,Ernst Waltemathe,,,,,,SPD,
@@ -9445,6 +9871,7 @@
 142573,Peter Conradi,,,,,,SPD,
 142574,Jochen Feilcke,,,,,,CDU/CSU,
 142576,Peter Conradi,,,,,,SPD,
+142578,Peter Kittelmann,,,,,,CDU/CSU,
 142578,Zuruf  SPD,,,,von der,,SPD,
 142580,Nils Diederich,,,Dr.,,,SPD,Berlin
 142582,Nils Diederich,,,Dr.,,,SPD,Berlin
@@ -9467,7 +9894,9 @@
 142662,Horst Friedrich,,,,,,FDP,
 142665,Gerhart Rudolf Baum,,,,,,FDP,
 142666,Uta Würfel,,,,,,FDP,
+142669,KarlHeinz Hornhues,,,Dr.,,,CDU/CSU,
 142670,Rudolf Bindig,,,,,,SPD,
+142672,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 142674,Freimut Duve,,,,,,SPD,
 142676,Claus Jäger,,,,,,CDU/CSU,
 142678,Gerhart Rudolf Baum,,,,,,FDP,
@@ -9504,8 +9933,11 @@
 142813,Peter Struck,,,Dr.,,,SPD,
 142814,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 142815,Michael Müller,,,,,,SPD,Düsseldorf
+142818,Vorsichtig,vorsichtig!,,,,,,
 142818,Zurufe  F.D.P.,,,,von der,,,
+142818,Detlev  Larcher,,,,von,,SPD,
 142820,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
+142820,Detlev  Larcher,,,,von,,SPD,
 142821,Bartholomäus Kalb,,,,,,CDU/CSU,
 142822,Peter Struck,,,Dr.,,,SPD,
 142823,Brigitte Baumeister,,,,,,CDU/CSU,
@@ -9525,17 +9957,21 @@
 142858,Ina Albowitz,,,,,,FDP,
 142860,Ina Albowitz,,,,,,FDP,
 142862,Rudolf Dreßler,,,,,,SPD,
+142863,Detlev  Larcher,,,,von,,SPD,
 142864,Hermann Rind,,,,,,FDP,
 142865,Hermann Rind,,,,,,FDP,
 142867,Hans-Eberhard Urbaniak,,,,,,SPD,
 142869,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 142870,Anke Fuchs,,,,,,SPD,Köln
 142871,Walter Schöler,,,,,,SPD,
-142872,Hans Büttner,,,,,,SPD,Ingolstadt
+142872,Hans Büttner,,,,,,SPD,
 142873,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 142875,Anke Fuchs,,,,,,SPD,Köln
 142878,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
+142881,Ingrid MatthäusMaier,,,,,,SPD,
+142882,Heribert Scharrenbroich,,,,,,CDU/CSU,
 142883,Heribert Scharrenbroich,,,,,,CDU/CSU,
+142886,Gerd Andres,,,,,,SPD,
 142888,Ina Albowitz,,,,,,FDP,
 142890,Hermann Rind,,,,,,FDP,
 142898,Uwe Küster,,,Dr.,,,SPD,
@@ -9550,9 +9986,12 @@
 142916,Freimut Duve,,,,,,SPD,
 142917,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 142919,Freimut Duve,,,,,,SPD,
+142920,Freimut Duve,,,,,,SPD,
 142921,Gerhart Rudolf Baum,,,,,,FDP,
+142922,Gerhart Rudolf Baum,,,,,,FDP,
 142922,Heiterkeit,,,,,,,
 142923,Gerhart Rudolf Baum,,,,,,FDP,
+142925,Freimut Duve,,,,,,SPD,
 142927,Freimut Duve,,,,,,SPD,
 142928,Freimut Duve,,,,,,SPD,
 142930,Rudolf Karl Krause,,,Dr.,,,,Bonese
@@ -9570,6 +10009,7 @@
 143020,Erwin Marschewski,,,,,,CDU/CSU,
 143021,Erwin Marschewski,,,,,,CDU/CSU,
 143024,Erwin Marschewski,,,,,,CDU/CSU,
+143026,Detlev  Larcher,,,,von,,SPD,
 143028,Hans-Joachim Otto,,,,,,FDP,Frankfurt
 143034,Hans-Joachim Otto,,,,,,FDP,Frankfurt
 143035,Erwin Marschewski,,,,,,CDU/CSU,
@@ -9631,13 +10071,14 @@
 143195,Josef Vosen,,,,,,SPD,
 143197,Josef Vosen,,,,,,SPD,
 143200,Josef Vosen,,,,,,SPD,
-143204,Hans Büttner,,,,,,SPD,Ingolstadt
+143204,Hans Büttner,,,,,,SPD,
 143205,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 143206,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 143208,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
+143209,Hans Büttner,,,,,,SPD,
 143211,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
-143212,Hans Büttner,,,,,,SPD,Ingolstadt
-143219,Hans Büttner,,,,,,SPD,Ingolstadt
+143212,Hans Büttner,,,,,,SPD,
+143219,Hans Büttner,,,,,,SPD,
 143220,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 143221,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 143222,Gerlin Hämmerle,,,,de,,SPD,
@@ -9649,6 +10090,8 @@
 143260,Günter Rixe,,,,,,SPD,
 143262,Dietmar Keller,,,Dr.,,,DIE LINKE.,
 143263,Alois   Waldburg-Zeil,,,,von,Graf,CDU/CSU,
+143264,Dirk Hansen,,,,,,FDP,
+143266,Günter Rixe,,,,,,SPD,
 143266,Eckart Kuhlwein,,,,,,SPD,
 143274,Günter Rixe,,,,,,SPD,
 143279,Günter Rixe,,,,,,SPD,
@@ -9658,6 +10101,8 @@
 143299,Lisa Peters,,,,,,FDP,
 143300,Lisa Peters,,,,,,FDP,
 143303,Ina Albowitz,,,,,,FDP,
+143307,Paul Breuer,,,,,,CDU/CSU,
+143307,Erwin Marschewski,,,,,,CDU/CSU,
 143308,Karl-Heinz Klejdzinski,,,Dr.,,,SPD,
 143309,Erwin Marschewski,,,,,,CDU/CSU,
 143310,Uwe Küster,,,Dr.,,,SPD,
@@ -9691,9 +10136,10 @@
 143445,Helmut Wieczorek,,,,,,SPD,Duisburg
 143446,Julius Louven,,,,,,CDU/CSU,
 143448,Wolf-Michael Catenhusen,,,,,,SPD,
-143451,Hans Büttner,,,,,,SPD,Ingolstadt
+143451,Hans Büttner,,,,,,SPD,
 143453,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 143456,Georg Gallus,,,,,,FDP,
+143457,Peter Struck,,,Dr.,,,SPD,
 143458,Uwe Jens,,,Dr.,,,SPD,
 143461,Ilja Seifert,,,Dr.,,,DIE LINKE.,
 143462,Kurt Faltlhauser,,,Dr.,,,CDU/CSU,
@@ -9710,6 +10156,7 @@
 143481,Brigitte Schulte,,,,,,SPD,Hameln
 143487,Gisela Babel,,,Dr.,,,FDP,
 143488,Ernst Hinsken,,,,,,CDU/CSU,
+143491,Rudolf Dreßler,,,,,,SPD,
 143492,Kurt Faltlhauser,,,Dr.,,,CDU/CSU,
 143503,Kurt Faltlhauser,,,Dr.,,,CDU/CSU,
 143504,Kurt Faltlhauser,,,Dr.,,,CDU/CSU,
@@ -9733,6 +10180,8 @@
 143584,Siegfried Hornung,,,,,,CDU/CSU,
 143586,Siegfried Hornung,,,,,,CDU/CSU,
 143588,Siegfried Hornung,,,,,,CDU/CSU,
+143590,Klaus-Dieter Feige,,,Dr.,,,BÜNDNIS 90/DIE GRÜNEN,
+143590,Uta Würfel,,,,,,FDP,
 143591,Siegfried Hornung,,,,,,CDU/CSU,
 143594,Erwin Marschewski,,,,,,CDU/CSU,
 143595,Erwin Marschewski,,,,,,CDU/CSU,
@@ -9764,8 +10213,8 @@
 143659,Ina Albowitz,,,,,,FDP,
 143661,Hans-Joachim Fuchtel,,,,,,CDU/CSU,
 143662,Karl-Josef Laumann,,,,,,CDU/CSU,
-143664,Hans Büttner,,,,,,SPD,Ingolstadt
-143668,Hans Büttner,,,,,,SPD,Ingolstadt
+143664,Hans Büttner,,,,,,SPD,
+143668,Hans Büttner,,,,,,SPD,
 143669,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
 143670,Eduard Oswald,,,,,,CDU/CSU,
 143672,Eduard Oswald,,,,,,CDU/CSU,
@@ -9787,6 +10236,7 @@
 143713,Norbert Formanski,,,,,,SPD,
 143714,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
 143715,Christina Schenk,,,,,,BÜNDNIS 90/DIE GRÜNEN,
+143715,Ilja Seifert,,,Dr.,,,DIE LINKE.,
 143717,Ilja Seifert,,,Dr.,,,DIE LINKE.,
 143721,Walter Hitschler,,,Dr.,,,FDP,
 143725,Wolfgang Weng,,,Dr.,,,FDP,
@@ -9844,6 +10294,7 @@
 143963,Ingrid Matthäus-Maier,,,,,,SPD,
 143969,Ingrid Matthäus-Maier,,,,,,SPD,
 143970,Barbara Höll,,,Dr.,,,DIE LINKE.,
+143972,Christoph Schnittler,,,Dr.,,,FDP,
 143973,Ingrid Matthäus-Maier,,,,,,SPD,
 143974,Brigitte Baumeister,,,,,,CDU/CSU,
 143975,Ingrid Matthäus-Maier,,,,,,SPD,
@@ -9856,7 +10307,9 @@
 143998,Hans Gottfried Bernrath,,,,,,SPD,
 143999,Jürgen Timm,,,,,,FDP,
 144001,Unruhe,,,,,,,
+144001,Hans Gottfried Bernrath,,,,,,SPD,
 144004,Otto  Lambsdorff,,,Dr.,,Graf,FDP,
+144005,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
 144009,Uwe Küster,,,Dr.,,,SPD,
 144011,Hans Gottfried Bernrath,,,,,,SPD,
 144012,Hans Gottfried Bernrath,,,,,,SPD,
@@ -9889,11 +10342,15 @@
 144096,Ernst Hinsken,,,,,,CDU/CSU,
 144099,Gisela Babel,,,Dr.,,,FDP,
 144100,Gisela Babel,,,Dr.,,,FDP,
+144101,Ernst Hinsken,,,,,,CDU/CSU,
+144101,Konrad Gilges,,,,,,SPD,
 144106,Ernst Hinsken,,,,,,CDU/CSU,
 144109,Konrad Gilges,,,,,,SPD,
 144118,Nils Diederich,,,Dr.,,,SPD,Berlin
 144122,Konrad Gilges,,,,,,SPD,
+144124,Nils Diederich,,,Dr.,,,SPD,Berlin
 144125,Michaela Geiger,,,,,,CDU/CSU,
+144127,Ursula Schmidt,,,,,,SPD,Aachen
 144144,Peter Conradi,,,,,,SPD,
 144145,Peter Conradi,,,,,,SPD,
 144146,Ina Albowitz,,,,,,FDP,
@@ -9908,6 +10365,7 @@
 144191,Peter Conradi,,,,,,SPD,
 144195,Brigitte Schulte,,,,,,SPD,Hameln
 144196,Ina Albowitz,,,,,,FDP,
+144197,Peter Conradi,,,,,,SPD,
 144200,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
 144203,Peter Conradi,,,,,,SPD,
 144205,Peter Conradi,,,,,,SPD,
@@ -9932,6 +10390,7 @@
 144261,Ingomar Hauchler,,,Dr.,,,SPD,
 144264,Ingomar Hauchler,,,Dr.,,,SPD,
 144268,Ingomar Hauchler,,,Dr.,,,SPD,
+144270,Ingrid Walz,,,,,,FDP,
 144271,Horst Sielaff,,,,,,SPD,
 144273,Horst Sielaff,,,,,,SPD,
 144274,Horst Sielaff,,,,,,SPD,
@@ -9943,6 +10402,7 @@
 144291,Wolfgang Zöller,,,,,,CDU/CSU,
 144292,Gerd Andres,,,,,,SPD,
 144294,Karl Hermann Haack,,,,,,SPD,Extertal
+144295,Gerd Andres,,,,,,SPD,
 144303,Peter Struck,,,Dr.,,,SPD,
 144306,Ilja Seifert,,,Dr.,,,DIE LINKE.,
 144310,Gerhard Friedrich,,,Dr.,,,CDU/CSU,
@@ -9950,6 +10410,8 @@
 144317,Rudolf Karl Krause,,,Dr.,,,,Bonese
 144321,Hans-Jochen Vogel,,,Dr.,,,SPD,
 144324,Uwe-Jens Heuer,,,Dr.,,,DIE LINKE.,
+144325,Uwe-Jens Heuer,,,Dr.,,,DIE LINKE.,
+144325,Norbert Geis,,,,,,CDU/CSU,
 144327,Gerhard Reddemann,,,,,,CDU/CSU,
 144334,Uwe-Jens Heuer,,,Dr.,,,DIE LINKE.,
 144341,Eckart Kuhlwein,,,,,,SPD,
@@ -9972,6 +10434,7 @@
 144401,Staatsminister Steffen Heitmann,,,,,,,
 144402,Ulrich Irmer,,,,,,FDP,
 144409,Antje-Marie Steen,,,,,,SPD,
+144418,Ingrid MatthäusMaier,,,,,,SPD,
 144419,Uwe Lühr,,,,,,FDP,
 144426,Burkhard Hirsch,,,Dr.,,,FDP,
 144428,Uwe-Jens Heuer,,,Dr.,,,DIE LINKE.,
@@ -9986,6 +10449,7 @@
 144479,Jürgen Meyer,,,Dr.,,,SPD,Ulm
 144482,Johannes Singer,,,,,,SPD,
 144483,Hans-Joachim Otto,,,,,,FDP,Frankfurt
+144486,Ingrid MatthäusMaier,,,,,,SPD,
 144488,Norbert Geis,,,,,,CDU/CSU,
 144492,Norbert Geis,,,,,,CDU/CSU,
 144495,Jürgen Meyer,,,Dr.,,,SPD,Ulm
@@ -10002,6 +10466,7 @@
 144525,Anke Fuchs,,,,,,SPD,Köln
 144527,Anke Fuchs,,,,,,SPD,Köln
 144529,Anke Fuchs,,,,,,SPD,Köln
+144532,Norbert Geis,,,,,,CDU/CSU,
 144535,Norbert Geis,,,,,,CDU/CSU,
 144539,Norbert Geis,,,,,,CDU/CSU,
 144543,Anke Fuchs,,,,,,SPD,Köln
@@ -10075,10 +10540,10 @@
 144810,Arne Fuhrmann,,,,,,SPD,
 144811,Lisa Seuster,,,,,,SPD,
 144813,Gerlin Hämmerle,,,,de,,SPD,
-144815,Hans Büttner,,,,,,SPD,Ingolstadt
+144815,Hans Büttner,,,,,,SPD,
 144817,Manfred Reimann,,,,,,SPD,
 144823,Manfred Reimann,,,,,,SPD,
-144825,Hans Büttner,,,,,,SPD,Ingolstadt
+144825,Hans Büttner,,,,,,SPD,
 144826,Clemens Schwalbe,,,,,,CDU/CSU,
 144838,Wolf-Michael Catenhusen,,,,,,SPD,
 144841,Ina Albowitz,,,,,,FDP,
@@ -10092,6 +10557,8 @@
 144926,Detlev  Larcher,,,,von,,SPD,
 144928,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 144931,Hermann Otto Solms,,,Dr.,,,FDP,
+144931,Klaus Beckmann,,,,,,FDP,
+144931,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 144932,Ernst Schwanhold,,,,,,SPD,
 144933,Hans-Ulrich Klose,,,,,,SPD,
 144935,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
@@ -10099,6 +10566,8 @@
 144940,Kurt Faltlhauser,,,Dr.,,,CDU/CSU,
 144941,Kurt J. Rossmanith,,,,,,CDU/CSU,
 144943,Detlev  Larcher,,,,von,,SPD,
+144944,Ernst Hinsken,,,,,,CDU/CSU,
+144944,Kurt J. Rossmanith,,,,,,CDU/CSU,
 144946,Uwe Jens,,,Dr.,,,SPD,
 144948,Otto  Lambsdorff,,,Dr.,,Graf,FDP,
 144949,Detlev  Larcher,,,,von,,SPD,
@@ -10165,6 +10634,7 @@
 145145,Joachim Hörster[CDU/CSU],,,,,,CDU/CSU,
 145148,Ulrich Irmer,,,,,,FDP,
 145150,Uwe Holtz,,,Dr.,,,SPD,
+145154,Uwe Holtz,,,Dr.,,,SPD,
 145156,Rudolf Bindig,,,,,,SPD,
 145159,Freimut Duve,,,,,,SPD,
 145163,Ulrich Irmer,,,,,,FDP,
@@ -10199,6 +10669,8 @@
 145292,Ortwin Lowack,,,,,,,
 145297,Jürgen Koppelin,,,,,,FDP,
 145309,Hubert Hüppe,,,,,,CDU/CSU,
+145317,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
+145317,Ulrich Irmer,,,,,,FDP,
 145318,Rudolf Bindig,,,,,,SPD,
 145320,Meinrad Belle,,,,,,CDU/CSU,
 145324,Rudolf Bindig,,,,,,SPD,
@@ -10208,6 +10680,7 @@
 145328,Rudolf Bindig,,,,,,SPD,
 145329,Wolfgang Zeitlmann,,,,,,CDU/CSU,
 145332,Rudolf Bindig,,,,,,SPD,
+145334,Konrad Weiß,,,,,,BÜNDNIS 90/DIE GRÜNEN,Berlin
 145338,Ulrich Irmer,,,,,,FDP,
 145339,Peter Kittelmann,,,,,,CDU/CSU,
 145340,Ulrich Irmer,,,,,,FDP,
@@ -10232,16 +10705,21 @@
 145398,Peter Conradi,,,,,,SPD,
 145399,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
 145403,Andrea Lederer,,,,,,DIE LINKE.,
+145404,Hans Büttner,,,,,,SPD,
 145404,Ottmar Schreiner,,,,,,SPD,
 145407,Ilja Seifert,,,Dr.,,,DIE LINKE.,
 145409,Ottmar Schreiner,,,,,,SPD,
 145410,Ottmar Schreiner,,,,,,SPD,
 145412,Ottmar Schreiner,,,,,,SPD,
+145414,Hans-Joachim Fuchtel,,,,,,CDU/CSU,
+145414,Ottmar Schreiner,,,,,,SPD,
 145415,Karl-Josef Laumann,,,,,,CDU/CSU,
 145416,Renate Rennebach,,,,,,SPD,
+145417,Hans Büttner,,,,,,SPD,
 145419,Kurt Faltlhauser,,,Dr.,,,CDU/CSU,
 145421,Kurt Faltlhauser,,,Dr.,,,CDU/CSU,
 145422,Heribert Scharrenbroich,,,,,,CDU/CSU,
+145424,Renate Rennebach,,,,,,SPD,
 145426,Ottmar Schreiner,,,,,,SPD,
 145431,Ottmar Schreiner,,,,,,SPD,
 145432,Ottmar Schreiner,,,,,,SPD,
@@ -10299,6 +10777,7 @@
 145655,Marion Caspers-Merk,,,,,,SPD,
 145661,Wolfgang Götzer,,,Dr.,,,CDU/CSU,
 145666,Heiterkeit,,,,,,,
+145666,Norbert Geis,,,,,,CDU/CSU,
 145667,Norbert Geis,,,,,,CDU/CSU,
 145668,Norbert Geis,,,,,,CDU/CSU,
 145670,Jürgen Meyer,,,Dr.,,,SPD,Ulm
@@ -10312,6 +10791,7 @@
 145686,Dieter Wiefelspütz,,,,,,SPD,
 145687,Dieter Wiefelspütz,,,,,,SPD,
 145688,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
+145708,Gerd Andres,,,,,,SPD,
 145708,Heiterkeit,,,,,,,
 145714,Hans-Joachim Fuchtel,,,,,,CDU/CSU,
 145715,Michael Glos,,,,,,CDU/CSU,
@@ -10374,7 +10854,9 @@
 145951,Uta Würfel,,,,,,FDP,
 145953,Editha Limbach,,,,,,CDU/CSU,
 145954,Lieselott Blunck,,,,,,SPD,Uetersen
+145955,Lieselott Blunck,,,,,,SPD,Uetersen
 145957,Uta Würfel,,,,,,FDP,
+145957,Klaus Lennartz,,,,,,SPD,
 145959,Paul Hoffacker,,,Dr.,,,CDU/CSU,Hof
 145960,Editha Limbach,,,,,,CDU/CSU,
 145961,Marita Sehn,,,,,,FDP,
@@ -10412,6 +10894,8 @@
 146031,Georg Gallus,,,,,,FDP,
 146032,Georg Gallus,,,,,,FDP,
 146033,Georg Gallus,,,,,,FDP,
+146037,Konrad Gilges,,,,,,SPD,
+146038,Gregor Gysi,,,Dr.,,,DIE LINKE.,
 146039,Detlev  Larcher,,,,von,,SPD,
 146040,Detlev  Larcher,,,,von,,SPD,
 146041,Johannes Singer,,,,,,SPD,
@@ -10448,10 +10932,14 @@
 146132,Horst Sielaff,,,,,,SPD,
 146133,Siegfried Hornung,,,,,,CDU/CSU,
 146136,Ulrich Heinrich,,,,,,FDP,
+146137,Bartholomäus Kalb,,,,,,CDU/CSU,
+146137,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
+146140,Horst Sielaff,,,,,,SPD,
 146143,Siegfried Hornung,,,,,,CDU/CSU,
 146144,Siegfried Hornung,,,,,,CDU/CSU,
 146147,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 146148,Horst Sielaff,,,,,,SPD,
+146149,Siegfried Hornung,,,,,,CDU/CSU,
 146150,Siegfried Hornung,,,,,,CDU/CSU,
 146151,Siegfried Hornung,,,,,,CDU/CSU,
 146158,Georg Gallus,,,,,,FDP,
@@ -10475,6 +10963,7 @@
 146196,Barbara Höll,,,Dr.,,,DIE LINKE.,
 146197,Johannes Nitsch,,,,,,CDU/CSU,
 146199,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
+146202,Barbara Höll,,,Dr.,,,DIE LINKE.,
 146205,Marion Caspers-Merk,,,,,,SPD,
 146207,Birgit Homburger,,,,,,FDP,Homburg
 146208,Liesel Hartenstein,,,Dr.,,,SPD,
@@ -10484,6 +10973,7 @@
 146214,Birgit Homburger,,,,,,FDP,Homburg
 146217,Gerhard Friedrich,,,Dr.,,,CDU/CSU,
 146222,Wolfgang Dehnel,,,,,,CDU/CSU,
+146223,Siegfried Hornung,,,,,,CDU/CSU,
 146225,Siegfried Hornung,,,,,,CDU/CSU,
 146226,Steffen Kampeter,,,,,,CDU/CSU,
 146227,Karl-Heinz Klejdzinski,,,Dr.,,,SPD,
@@ -10499,10 +10989,12 @@
 146247,Uta Zapf,,,,,,SPD,
 146248,Dieter Heistermann,,,,,,SPD,
 146250,Günther Friedrich Nolting,,,,,,FDP,
+146250,Walter Kolbow,,,,,,SPD,
 146252,Günther Friedrich Nolting,,,,,,FDP,
 146259,Jürgen Starnick,,,Dr.,,,FDP,
 146266,Ernst Schwanhold,,,,,,SPD,
 146268,Ernst Schwanhold,,,,,,SPD,
+146269,Gerlin Hämmerle,,,,de,,SPD,
 146269,Beifall,,,,,,,
 146290,Peter Conradi,,,,,,SPD,
 146294,Lisa Peters,,,,,,FDP,
@@ -10580,6 +11072,7 @@
 146581,Bartholomäus Kalb,,,,,,CDU/CSU,
 146582,Siegfried Hornung,,,,,,CDU/CSU,
 146585,Dieter Thomae,,,Dr.,,,FDP,
+146588,Peter Struck,,,Dr.,,,SPD,
 146594,Ernst Hinsken,,,,,,CDU/CSU,
 146595,Ilja Seifert,,,Dr.,,,DIE LINKE.,
 146596,Walter Hitschler,,,Dr.,,,FDP,
@@ -10596,6 +11089,7 @@
 146617,Ilja Seifert,,,Dr.,,,DIE LINKE.,
 146619,Monika Ganseforth,,,,,,SPD,
 146621,Regina Kolbe,,,,,,SPD,
+146623,Uwe Küster,,,Dr.,,,SPD,
 146625,Otto Regenspurger,,,,,,CDU/CSU,
 146626,Ilja Seifert,,,Dr.,,,DIE LINKE.,
 146629,Regina Kolbe,,,,,,SPD,
@@ -10619,6 +11113,7 @@
 146674,Uwe Küster,,,Dr.,,,SPD,
 146675,Ingrid Matthäus-Maier,,,,,,SPD,
 146676,Brigitte Adler,,,,,,SPD,
+146677,Brigitte Adler,,,,,,SPD,
 146678,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 146680,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 146683,Wolfgang Weng,,,Dr.,,,FDP,
@@ -10666,7 +11161,9 @@
 146850,Uwe Jens,,,Dr.,,,SPD,
 146854,Michael Glos,,,,,,CDU/CSU,
 146855,Theodor Waigel,,,Dr.,,,CDU/CSU,
+146859,Ingrid MatthäusMaier,,,,,,SPD,
 146864,Hans-Ulrich Klose,,,,,,SPD,
+146866,Theodor Waigel,,,Dr.,,,CDU/CSU,
 146867,Kurt Faltlhauser,,,Dr.,,,CDU/CSU,
 146869,Ingrid Matthäus-Maier,,,,,,SPD,
 146871,Theodor Waigel,,,Dr.,,,CDU/CSU,
@@ -10705,6 +11202,7 @@
 146979,Dieter Thomae,,,Dr.,,,FDP,
 146980,Paul Hoffacker,,,Dr.,,,CDU/CSU,Hof
 146981,Dieter Thomae,,,Dr.,,,FDP,
+146988,Paul Hoffacker,,,Dr.,,,CDU/CSU,Hof
 146990,Uta Titze-Stecher,,,,,,SPD,
 146992,Paul Hoffacker,,,Dr.,,,CDU/CSU,Hof
 146994,Anke Fuchs,,,,,,SPD,Köln
@@ -10717,6 +11215,7 @@
 147006,Anke Fuchs,,,,,,SPD,Köln
 147011,Walter Hitschler,,,Dr.,,,FDP,
 147013,Detlef Kleinert,,,,,,FDP,Hannover
+147015,HansJoachim Otto,,,,,,FDP,Frankfurt
 147018,Detlef Kleinert,,,,,,FDP,Hannover
 147019,Norbert Geis,,,,,,CDU/CSU,
 147025,Anke Fuchs,,,,,,SPD,Köln
@@ -10739,6 +11238,7 @@
 147073,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 147075,Brigitte Schulte,,,,,,SPD,Hameln
 147080,Heiterkeit,,,,,,,
+147080,Eduard Oswald,,,,,,CDU/CSU,
 147083,Brigitte Schulte,,,,,,SPD,Hameln
 147084,Siegfried Hornung,,,,,,CDU/CSU,
 147085,Eduard Oswald,,,,,,CDU/CSU,
@@ -10764,6 +11264,7 @@
 147132,Peter W. Reuschenbach,,,,,,SPD,
 147133,Anke Fuchs,,,,,,SPD,Köln
 147139,Norbert Formanski,,,,,,SPD,
+147141,Ina Albowitz,,,,,,FDP,
 147145,Dietmar Schütz,,,,,,SPD,
 147147,Hans Georg Wagner,,,,,,SPD,
 147148,Ernst Hinsken,,,,,,CDU/CSU,
@@ -10787,6 +11288,7 @@
 147201,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 147202,Barbara Weiler,,,,,,SPD,
 147204,Barbara Weiler,,,,,,SPD,
+147206,Joachim Hörster,,,,,,CDU/CSU,
 147206,Heiterkeit,,,,,,,
 147208,Ottmar Schreiner,,,,,,SPD,
 147209,Barbara Weiler,,,,,,SPD,
@@ -10829,12 +11331,14 @@
 147317,Dirk Hansen,,,,,,FDP,
 147318,Günter Rixe,,,,,,SPD,
 147319,Dirk Hansen,,,,,,FDP,
+147321,Günter Rixe,,,,,,SPD,
 147321,Heiterkeit,,,,,,,
 147322,Günter Rixe,,,,,,SPD,
 147324,Dirk Hansen,,,,,,FDP,
 147326,Günter Rixe,,,,,,SPD,
 147329,Doris Odendahl,,,,,,SPD,
 147332,Maria Eichhorn,,,,,,CDU/CSU,
+147335,Günter Rixe,,,,,,SPD,
 147335,Doris Odendahl,,,,,,SPD,
 147337,Norbert Lammert,,,Dr.,,,CDU/CSU,
 147338,Maria Eichhorn,,,,,,CDU/CSU,
@@ -10847,6 +11351,7 @@
 147376,Dietrich Mahlo,,,Dr.,,,CDU/CSU,
 147379,Wilhelm Schmidt,,,,,,SPD,Salzgitter
 147381,Paul Hoffacker,,,Dr.,,,CDU/CSU,Hof
+147382,Wilhelm Schmidt,,,,,,SPD,Salzgitter
 147384,Brigitte Baumeister,,,,,,CDU/CSU,
 147385,Gerhart Rudolf Baum,,,,,,FDP,
 147386,Hans-Eberhard Urbaniak,,,,,,SPD,
@@ -10871,8 +11376,10 @@
 147440,Siegfried Hornung,,,,,,CDU/CSU,
 147442,Georg Gallus,,,,,,FDP,
 147443,Eduard Oswald,,,,,,CDU/CSU,
+147444,Eduard Oswald,,,,,,CDU/CSU,
 147445,Siegfried Hornung,,,,,,CDU/CSU,
 147446,Heiterkeit,,,,,,,
+147446,Horst Sielaff,,,,,,SPD,
 147447,Ernst Hinsken,,,,,,CDU/CSU,
 147448,Horst Sielaff,,,,,,SPD,
 147451,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
@@ -10920,6 +11427,7 @@
 147613,Freimut Duve,,,,,,SPD,
 147614,Cornelie Sonntag-Wolgast,,,Dr.,,,SPD,
 147616,Konrad Gilges,,,,,,SPD,
+147621,Ulla Jelpke,,,,,,DIE LINKE.,
 147622,Wolfgang Lüder,,,,,,FDP,
 147626,Jochen Feilcke,,,,,,CDU/CSU,
 147629,Georg Gallus,,,,,,FDP,
@@ -10939,6 +11447,8 @@
 147670,Ina Albowitz,,,,,,FDP,
 147671,Anke Fuchs,,,,,,SPD,Köln
 147672,Hans  With,,,Dr.,de,,SPD,
+147674,Ingrid MatthäusMaier,,,,,,SPD,
+147676,Wolfgang   Stetten,,,Dr.,von,Freiherr,CDU/CSU,
 147678,Norbert Geis,,,,,,CDU/CSU,
 147682,Hans  With,,,Dr.,de,,SPD,
 147688,Norbert Geis,,,,,,CDU/CSU,
@@ -10954,9 +11464,11 @@
 147706,Hans  With,,,Dr.,de,,SPD,
 147712,Rudolf Karl Krause,,,Dr.,,,,Bonese
 147713,Burkhard Hirsch,,,Dr.,,,FDP,
+147715,Detlef Kleinert,,,,,,FDP,Hannover
 147718,Anke Fuchs,,,,,,SPD,Köln
 147719,Norbert Geis,,,,,,CDU/CSU,
 147721,Anke Fuchs,,,,,,SPD,Köln
+147723,Ingrid MatthäusMaier,,,,,,SPD,
 147726,Norbert Geis,,,,,,CDU/CSU,
 147732,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
 147735,Detlev  Larcher,,,,von,,SPD,
@@ -10964,7 +11476,9 @@
 147740,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
 147741,Manfred Hampel,,,,,,SPD,
 147745,Otto  Lambsdorff,,,Dr.,,Graf,FDP,
+147747,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
 147748,Anke Fuchs,,,,,,SPD,Köln
+147748,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
 147751,Uwe-Jens Heuer,,,Dr.,,,DIE LINKE.,
 147753,Hermann Rind,,,,,,FDP,
 147758,Siegfried Hornung,,,,,,CDU/CSU,
@@ -10984,6 +11498,7 @@
 147804,Uta Würfel,,,,,,FDP,
 147805,Edith Niehuis,,,Dr.,,,SPD,
 147811,Edith Niehuis,,,Dr.,,,SPD,
+147816,Uta Würfel,,,,,,FDP,
 147818,Joachim Hörster,,,,,,CDU/CSU,
 147822,Ulrich Heinrich,,,,,,FDP,
 147829,Ingrid Matthäus-Maier,,,,,,SPD,
@@ -11053,11 +11568,11 @@
 148100,Eduard Oswald,,,,,,CDU/CSU,
 148101,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 148106,Peter Struck,,,Dr.,,,SPD,
-148107,Hans Büttner,,,,,,SPD,Ingolstadt
-148108,Hans Büttner,,,,,,SPD,Ingolstadt
+148107,Hans Büttner,,,,,,SPD,
+148108,Hans Büttner,,,,,,SPD,
 148109,Hans Martin Bury,,,,,,SPD,
-148111,Hans Büttner,,,,,,SPD,Ingolstadt
-148113,Hans Büttner,,,,,,SPD,Ingolstadt
+148111,Hans Büttner,,,,,,SPD,
+148113,Hans Büttner,,,,,,SPD,
 148114,Hans Martin Bury,,,,,,SPD,
 148116,Gunnar Uldall,,,,,,CDU/CSU,
 148117,Otto  Lambsdorff,,,Dr.,,Graf,FDP,
@@ -11102,6 +11617,7 @@
 148277,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 148279,Anke Fuchs,,,,,,SPD,Köln
 148284,Lieselott Blunck,,,,,,SPD,Uetersen
+148290,Albert Pfuhl,,,,,,SPD,
 148295,Hermann Otto Sohns,,,Dr.,,,FDP,
 148307,Albrecht Müller,,,,,,SPD,Pleisweiler
 148308,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
@@ -11116,6 +11632,7 @@
 148336,Eckart Kuhlwein,,,,,,SPD,
 148338,Dionys Jobst,,,Dr.,,,CDU/CSU,
 148339,Wolf-Michael Catenhusen,,,,,,SPD,
+148342,Eckart Kuhlwein,,,,,,SPD,
 148343,Eckart Kuhlwein,,,,,,SPD,
 148345,Jürgen Timm,,,,,,FDP,
 148346,Dionys Jobst,,,Dr.,,,CDU/CSU,
@@ -11134,10 +11651,12 @@
 148379,Joseph-Theodor Blank,,,Dr.,,,CDU/CSU,
 148382,Ulrich Briefs,,,Dr.,,,,
 148383,Hans-Joachim Otto,,,,,,FDP,Frankfurt
+148384,Hans-Joachim Otto,,,,,,FDP,Frankfurt
 148384,Zuruf  SPD,,,,von der,,SPD,
 148403,Peter Struck,,,Dr.,,,SPD,
 148409,Ilja Seifert,,,Dr.,,,DIE LINKE.,
 148411,Peter Conradi,,,,,,SPD,
+148412,Peter Conradi,,,,,,SPD,
 148414,Norbert Formanski,,,,,,SPD,
 148416,Konrad Gilges,,,,,,SPD,
 148417,Achim Großmann,,,,,,SPD,
@@ -11174,6 +11693,7 @@
 148493,Eckart Kuhlwein,,,,,,SPD,
 148494,Erich G. Fritz,,,,,,CDU/CSU,
 148496,Wolfgang Meckelburg,,,,,,CDU/CSU,
+148499,Margret FunkeSchmitt-Rink,,,Dr.,,,FDP,
 148500,Gudrun Weyel,,,,,,SPD,
 148501,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 148502,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
@@ -11190,6 +11710,7 @@
 148534,Freimut Duve,,,,,,SPD,
 148537,Freimut Duve,,,,,,SPD,
 148539,Freimut Duve,,,,,,SPD,
+148541,Jochen Feilcke,,,,,,CDU/CSU,
 148541,Gerhard Reddemann,,,,,,CDU/CSU,
 148543,Hartmut Soell,,,Dr.,,,SPD,
 148545,Freimut Duve,,,,,,SPD,
@@ -11206,6 +11727,7 @@
 148571,Joachim Hörster,,,,,,CDU/CSU,
 148573,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
 148574,Hans-Joachim Hacker,,,,,,SPD,
+148578,Ingrid MatthäusMaier,,,,,,SPD,
 148580,Joachim Hörster,,,,,,CDU/CSU,
 148584,Ingrid Matthäus-Maier,,,,,,SPD,
 148585,Hans-Ulrich Klose,,,,,,SPD,
@@ -11215,6 +11737,7 @@
 148590,Hartmut Koschyk,,,,,,CDU/CSU,
 148591,Stefan Schwarz,,,,,,CDU/CSU,
 148593,Dirk Hansen,,,,,,FDP,
+148594,Ina Albowitz,,,,,,FDP,
 148597,Johannes Nitsch,,,,,,CDU/CSU,
 148603,Dirk Hansen,,,,,,FDP,
 148606,Ulrich Petzold,,,,,,CDU/CSU,
@@ -11232,6 +11755,7 @@
 148761,Anke Fuchs,,,,,,SPD,Köln
 148763,Anke Fuchs,,,,,,SPD,Köln
 148767,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
+148767,Uwe Küster,,,Dr.,,,SPD,
 148768,Kurt Faltlhauser,,,Dr.,,,CDU/CSU,
 148770,Anke Fuchs,,,,,,SPD,Köln
 148771,Anke Fuchs,,,,,,SPD,Köln
@@ -11302,6 +11826,7 @@
 148916,Freimut Duve,,,,,,SPD,
 148917,Gerhart Rudolf Baum,,,,,,FDP,
 148918,Burkhard Hirsch,,,Dr.,,,FDP,
+148924,Freimut Duve,,,,,,SPD,
 148925,Volker Kauder,,,,,,CDU/CSU,
 148927,Freimut Duve,,,,,,SPD,
 148929,Freimut Duve,,,,,,SPD,
@@ -11320,6 +11845,7 @@
 148961,Erwin Marschewski,,,,,,CDU/CSU,
 148962,Erwin Marschewski,,,,,,CDU/CSU,
 148967,Erwin Marschewski,,,,,,CDU/CSU,
+148968,Ingrid Matthäus-Maier,,,,,,SPD,
 148969,Christel Hanewinckel,,,,,,SPD,
 148971,Ingrid Matthäus-Maier,,,,,,SPD,
 148972,Anke Fuchs,,,,,,SPD,Köln
@@ -11336,6 +11862,7 @@
 148994,Joachim I lörster,,,,,,CDU/CSU,
 148996,Anke Fuchs,,,,,,SPD,Köln
 149000,Eva Pohl,,,Dr.,,,FDP,
+149001,Eva Pohl,,,Dr.,,,FDP,
 149009,Peter Büchner,,,,,,SPD,Speyer
 149016,Wolfgang Meckelburg,,,,,,CDU/CSU,
 149019,Alexander Warrikoff,,,Dr.,,,CDU/CSU,
@@ -11345,6 +11872,7 @@
 149025,Freimut Duve,,,,,,SPD,
 149028,Heidemarie Wieczorek-Zeul,,,,,,SPD,
 149029,Freimut Duve,,,,,,SPD,
+149030,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
 149032,Freimut Duve,,,,,,SPD,
 149033,Peter W. Reuschenbach,,,,,,SPD,
 149047,Hans-Ulrich Klose,,,,,,SPD,
@@ -11352,6 +11880,7 @@
 149051,Helmut Haussmann,,,Dr.,,,FDP,
 149053,Eduard Oswald,,,,,,CDU/CSU,
 149054,Renate Hellwig,,,Dr.,,,CDU/CSU,
+149056,Georg Gallus,,,,,,FDP,
 149058,Heidemarie Wieczorek-Zeul,,,,,,SPD,
 149062,Ingrid Matthäus-Maier,,,,,,SPD,
 149064,Ilja Seifert,,,Dr.,,,DIE LINKE.,
@@ -11366,7 +11895,7 @@
 149076,Siegfried Hornung,,,,,,CDU/CSU,
 149079,Renate Hellwig,,,Dr.,,,CDU/CSU,
 149084,Siegfried Hornung,,,,,,CDU/CSU,
-149097,Hans Büttner,,,,,,SPD,Ingolstadt
+149097,Hans Büttner,,,,,,SPD,
 149098,Michael Glos,,,,,,CDU/CSU,
 149102,Willfried Penner,,,Dr.,,,SPD,
 149104,Uwe Jens,,,Dr.,,,SPD,
@@ -11378,6 +11907,7 @@
 149119,Johannes Nitsch,,,,,,CDU/CSU,
 149120,Otto Schily,,,,,,SPD,
 149121,-Ing. Dietmar Kansy,,,Dr.,,,CDU/CSU,
+149121,Siegfried Hornung,,,,,,CDU/CSU,
 149123,Ministerpräsident Oskar Lafontaine,,,,,,,
 149125,Anke Fuchs,,,,,,SPD,Köln
 149127,Siegfried Hornung,,,,,,CDU/CSU,
@@ -11410,10 +11940,11 @@
 149173,Siegfried Vergin,,,,,,SPD,
 149174,Siegfried Vergin,,,,,,SPD,
 149176,Jörg  Essen,,,,van,,FDP,Essen
+149178,Siegfried Vergin,,,,,,SPD,
 149178,Margrit Wetzel,,,Dr.,,,SPD,
 149180,Norbert Geis,,,,,,CDU/CSU,
 149190,Gisela Babel,,,Dr.,,,FDP,
-149191,Hans Büttner,,,,,,SPD,Ingolstadt
+149191,Hans Büttner,,,,,,SPD,
 149193,Karl-Josef Laumann,,,,,,CDU/CSU,
 149194,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 149196,Gerlin Hämmerle,,,,de,,SPD,
@@ -11430,12 +11961,15 @@
 149260,Freimut Duve,,,,,,SPD,
 149264,Peter W. Reuschenbach,,,,,,SPD,
 149267,Hans-Jochen Vogel,,,Dr.,,,SPD,
+149268,R. Werner Schuster,,,Dr.,,,SPD,
 149269,Willfried Penner,,,Dr.,,,SPD,
 149272,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 149273,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 149276,Michael Glos,,,,,,CDU/CSU,
 149285,R. Werner Schuster,,,Dr.,,,SPD,
 149293,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
+149296,Detlev  Larcher,,,,von,,SPD,
+149296,Freimut Duve,,,,,,SPD,
 149297,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 149298,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
 149301,Barbara Höll,,,Dr.,,,DIE LINKE.,
@@ -11463,6 +11997,7 @@
 149391,Anke Fuchs,,,,,,SPD,Köln
 149392,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
 149393,Uwe Lühr,,,,,,FDP,
+149394,CarlLudwig Thiele,,,,,,FDP,
 149395,Andrea Lederer,,,,,,DIE LINKE.,
 149398,Ulrich Irmer,,,,,,FDP,
 149399,Karsten D. Voigt,,,,,,SPD,Frankfurt
@@ -11478,6 +12013,7 @@
 149429,Ulrich Irmer,,,,,,FDP,
 149431,Werner Hoyer,,,Dr.,,,FDP,
 149445,Zurufe  SPD,,,,von der,,SPD,
+149445,Helmut Wieczorek,,,,,,SPD,Duisburg
 149446,Helmut Wieczorek,,,,,,SPD,Duisburg
 149449,Hans Klein,,,,,,CDU/CSU,München
 149450,Helmut Wieczorek,,,,,,SPD,Duisburg
@@ -11531,12 +12067,14 @@
 149559,Günter,,,,,Graf,SPD,
 149561,Uwe Küster,,,Dr.,,,SPD,
 149564,Norbert Geis,,,,,,CDU/CSU,
+149568,Burkhard Hirsch,,,Dr.,,,FDP,
 149569,Uwe-Jens Heuer,,,Dr.,,,DIE LINKE.,
 149570,Gerd Wartenberg,,,,,,SPD,Berlin
 149573,Norbert Geis,,,,,,CDU/CSU,
 149575,Burkhard Hirsch,,,Dr.,,,FDP,
 149578,Ina Albowitz,,,,,,FDP,
 149579,Zuruf  F.D.P.,,,,von der,,,
+149579,Wolfgang   Stetten,,,Dr.,von,Freiherr,CDU/CSU,
 149583,Helmut Wieczorek,,,,,,SPD,Duisburg
 149585,Norbert Geis,,,,,,CDU/CSU,
 149586,Norbert Geis,,,,,,CDU/CSU,
@@ -11552,6 +12090,7 @@
 149607,Steffen Kampeter,,,,,,CDU/CSU,
 149608,Siegfried Hornung,,,,,,CDU/CSU,
 149610,Bartholomäus Kalb,,,,,,CDU/CSU,
+149611,Jan Oostergetelo,,,,,,SPD,
 149613,Jan Oostergetelo,,,,,,SPD,
 149616,Siegfried Hornung,,,,,,CDU/CSU,
 149618,Michael Müller,,,,,,SPD,Düsseldorf
@@ -11611,10 +12150,12 @@
 149758,Anke Fuchs,,,,,,SPD,Köln
 149759,Gisela Babel,,,Dr.,,,FDP,
 149760,Ingrid Matthäus-Maier,,,,,,SPD,
+149761,Ingrid Matthäus-Maier,,,,,,SPD,
 149763,Eckart Kuhlwein,,,,,,SPD,
 149764,Konrad Gilges,,,,,,SPD,
 149765,Gisela Babel,,,Dr.,,,FDP,
 149766,Anke Fuchs,,,,,,SPD,Köln
+149770,Uwe Küster,,,Dr.,,,SPD,
 149772,Bruno Menzel,,,Dr.,,,FDP,
 149773,Anke Fuchs,,,,,,SPD,Köln
 149776,Anke Fuchs,,,,,,SPD,Köln
@@ -11639,6 +12180,7 @@
 149851,Rudolf Dreßler,,,,,,SPD,
 149853,Anke Fuchs,,,,,,SPD,Köln
 149855,Anke Fuchs,,,,,,SPD,Köln
+149860,Norbert Blüm,,,Dr.,,,CDU/CSU,
 149862,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
 149864,Horst Kubatschka,,,,,,SPD,
 149866,Ilja Seifert,,,Dr.,,,DIE LINKE.,
@@ -11666,10 +12208,12 @@
 149912,Ilja Seifert,,,Dr.,,,DIE LINKE.,
 149913,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
 149914,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
+149916,Maria Michalk,,,,,,CDU/CSU,
 149918,Horst Jungmann,,,,,,SPD,Wittmoldt
 149921,Eduard Oswald,,,,,,CDU/CSU,
 149922,Hans-Ulrich Köhler,,,,,,CDU/CSU,Hainspitz
 149923,Otto Schily,,,,,,SPD,
+149924,Otto Schily,,,,,,SPD,
 149927,Georg Gallus,,,,,,FDP,
 149931,Norbert Gansel,,,,,,SPD,
 149932,Horst Jungmann,,,,,,SPD,Wittmoldt
@@ -11683,6 +12227,7 @@
 149948,Günther Friedrich Nolting,,,,,,FDP,
 149950,Steffen Kampeter,,,,,,CDU/CSU,
 149952,Georg Gallus,,,,,,FDP,
+149955,Erich G. Fritz,,,,,,CDU/CSU,
 149956,Ernst Schwanhold,,,,,,SPD,
 149962,Ernst Schwanhold,,,,,,SPD,
 149965,Ernst Schwanhold,,,,,,SPD,
@@ -11704,6 +12249,7 @@
 150019,Uwe Lambinus,,,,,,SPD,
 150020,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
 150024,Detlev  Larcher,,,,von,,SPD,
+150025,Arne Börnsen,,,,,,SPD,Ritterhude
 150026,Norbert Blüm,,,Dr.,,,CDU/CSU,
 150028,Detlev  Larcher,,,,von,,SPD,
 150029,Norbert Blüm,,,Dr.,,,CDU/CSU,
@@ -11726,10 +12272,14 @@
 150060,Peter Conradi,,,,,,SPD,
 150062,Arne Börnsen,,,,,,SPD,Ritterhude
 150070,Hans-Jochen Vogel,,,Dr.,,,SPD,
+150071,Weitere Gegenrufe  SPD,,,,von der,,SPD,
+150071,Hermann Otto Solms,,,Dr.,,,FDP,
+150071,Gegenrufe  F.D.P.,,,,von der,,,
 150071,Zuruf  SPD,an die F.D.P. gewandt,,,von der,,SPD,
 150073,Wolfgang Lüder,,,,,,FDP,
 150077,Gregor Gysi,,,Dr.,,,DIE LINKE.,
 150080,Arne Börnsen,,,,,,SPD,
+150084,Ulrich Irmer,,,,,,FDP,
 150085,Peter Conradi,,,,,,SPD,
 150086,Carl-Ludwig Thiele,,,,,,FDP,
 150089,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
@@ -11750,553 +12300,3 @@
 150113,Peter Struck,,,Dr.,,,SPD,
 150116,Ina Albowitz,,,,,,FDP,
 150119,Ina Albowitz,,,,,,FDP,
-112514,Kraus,,,,,,CDU/CSU,
-112575,Jens,,,Dr.,,,SPD,
-112626,Schäfer,,,,,,SPD,Offenburg
-112637,Hinsken,,,,,,CDU/CSU,
-112747,Conradi,,,,,,SPD,
-112818,Roth,,,,,,SPD,
-112947,Peter,,,,,,SPD,Kassel
-113256,Conradi,,,,,,SPD,
-113264,Glos,,,,,,CDU/CSU,
-113272,Rüttgers,,,Dr.,,,CDU/CSU,
-113287,Bohl,,,,,,CDU/CSU,
-113301,Reimann,,,,,,SPD,
-113332,Vogel,,,Dr.,,,SPD,
-113430,Bindig,,,,,,SPD,
-113475,Schäfer,,,,,,SPD,Offenburg
-113599,Gansel,,,,,,SPD,
-113805,Catenhusen,,,,,,SPD,
-113942,Müntefering,,,,,,SPD,
-114184,Opel,,,,,,SPD,
-114199,Weng,,,Dr.,,,FDP,Gerlingen
-114254,Gattermann,,,,,,FDP,
-114289,Vogel,,,Dr.,,,SPD,
-114312,Duve,,,,,,SPD,
-114353,Götte,,,Dr.,,,SPD,
-114389,Blank,,,Dr.,,,CDU/CSU,
-114402,Baum,,,,,,FDP,
-114410,Gegenruf des   Heuer,,,Dr.,,,DIE LINKE.,
-114431,Geis,,,,,,CDU/CSU,
-114461,Matthäus-Maier,,,,,,SPD,
-114466,Schäfer,,,,,,SPD,Offenburg
-114583,Schreiner,,,,,,SPD,
-114587,Schmidt,,,,,,SPD,Salzgitter
-114617,Däubler-Gmelin,,,Dr.,,,SPD,
-114686,Struck,,,Dr.,,,SPD,
-114815,Schmidt,,,,,,SPD,Salzgitter
-114818,Irmer,,,,,,FDP,
-114822,Wiefelspütz,,,,,,SPD,
-114826,Hoyer,,,Dr.,,,FDP,
-114945,Vogel,,,Dr.,,,SPD,
-115065,Lippold,,,Dr.,,,CDU/CSU,Offenbach
-115076,Mitglieder der FDP-Fraktion gratulieren dem Abgeordneten Zurhei  seiner Jungfernrede,,,,de,,FDP,
-115092,Geis,,,,,,CDU/CSU,
-115105,Bachmaier,,,,,,SPD,
-115123,Geis,,,,,,CDU/CSU,
-115174,Hämmerle,,,,,,SPD,
-115389,Susanne Kastner,,,,,,SPD,
-115390,Marliese Dobberthien,,,Dr.,,,SPD,Marl
-115465,Norbert Gansel,,,,,,SPD,
-115469,Peter Kittelmann,,,,,,CDU/CSU,
-115471,Günter Verheugen,,,,,,SPD,
-115516,Siegfried Hornung,,,,,,CDU/CSU,
-115527,Gerlin Hämmerle,,,,de,,SPD,
-115554,Josef Grünbeck,,,,,,FDP,
-115599,Sigrid Skarpelis-Sperk,,,Dr.,,,SPD,
-115740,Dietmar Schütz,,,,,,SPD,
-115802,Detlev  Larcher,,,,von,,SPD,
-115815,Harald B. Schäfer,,,,,,SPD,Offenburg
-115820,Harald B. Schäfer,,,,,,SPD,Offenburg
-115961,Hans-Jochen Vogel,,,Dr.,,,SPD,
-115976,Joachim Poß,,,,,,SPD,
-115981,Joachim Poß,,,,,,SPD,
-116050,Burkhard Hirsch,,,Dr.,,,FDP,
-116179,HansEberhard Urbaniak,,,,,,SPD,
-116251,Horst Günther,,,,,,CDU/CSU,Duisburg
-116387,Jochen Borchert,,,,,,CDU/CSU,
-116404,Ingrid Matthäus-Maier,,,,,,SPD,
-116462,Johannes Gerster,,,,,,CDU/CSU,Mainz
-116481,Ingrid Matthäus-Maier,,,,,,SPD,
-116509,Peter Glotz,,,Dr.,,,SPD,
-116516,Siegfried Hornung,,,,,,CDU/CSU,
-116579,Peter Harry Carstensen,,,,,,CDU/CSU,Nordstrand
-116610,Harald B. Schäfer,,,,,,SPD,Offenburg
-116620,Ingrid MatthäusMaier,,,,,,SPD,
-116621,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
-116662,Nils Diederich,,,Dr.,,,SPD,Berlin
-116721,Peter Kittelmann,,,,,,CDU/CSU,
-116728,Klaus Rose,,,Dr.,,,CDU/CSU,
-116943,Egon Susset,,,,,,CDU/CSU,
-117004,Konrad Weiß,,,,,,BÜNDNIS 90/DIE GRÜNEN,Berlin
-117068,Peter Struck,,,Dr.,,,SPD,
-117081,Margret FunkeSchmitt-Rink,,,Dr.,,,FDP,
-117205,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
-117330,Manfred Richter,,,,,,FDP,Bremerhaven
-117382,Maria Michalk,,,,,,CDU/CSU,
-117541,Detlev  Larcher,,,,von,,SPD,
-117544,Detlev  Larcher,,,,von,,SPD,
-117655,Dieter Heistermann,,,,,,SPD,
-117752,Werner Zywietz,,,,,,FDP,
-117787,Friedrich Bohl,,,,,,CDU/CSU,
-117850,Norbert Blüm,,,Dr.,,,CDU/CSU,
-117969,Norbert Gansel,,,,,,SPD,
-118004,Heribert Scharrenbroich,,,,,,CDU/CSU,
-118068,Otto  Lambsdorff,,,Dr.,,Graf,FDP,
-118186,Hans-Jochen Vogel,,,Dr.,,,SPD,
-118206,Heiner Geißler,,,Dr.,,,CDU/CSU,
-118257,Heiner Geißler,,,Dr.,,,CDU/CSU,
-118272,Hans Peter Schmitz,,,,,,CDU/CSU,Baesweiler
-118278,Hans-Jochen Vogel,,,Dr.,,,SPD,
-118300,Reinhard Meyer  Bentrup,,,Dr.,zu,,CDU/CSU,
-118351,Peter Kittelmann,,,,,,CDU/CSU,
-118650,Friedrich Bohl,,,,,,CDU/CSU,
-118720,Karsten D. Voigt,,,,,,SPD,Frankfurt
-118729,Detlev  Larcher,,,,von,,SPD,
-118733,Burkhard Hirsch,,,Dr.,,,FDP,
-118736,Johannes Singer,,,,,,SPD,
-118764,Johannes Singer,,,,,,SPD,
-118766,Jörg  Essen,,,,van,,FDP,Essen
-118853,Detlev  Larcher,,,,von,,SPD,
-119030,Gerhart Rudolf Baum,,,,,,FDP,
-119173,Michael Müller,,,,,,SPD,Düsseldorf
-119180,Detlev  Larcher,,,,von,,SPD,
-119224,Hans-Günther Toetemeyer,,,,,,SPD,
-119227,Dietmar Keller,,,Dr.,,,DIE LINKE.,
-119416,UweJens Heuer,,,Dr.,,,DIE LINKE.,
-119613,Rudolf Karl Krause,,,Dr.,,,CDU/CSU,Bonese
-119700,Editha Limbach,,,,,,CDU/CSU,
-119730,Peter Struck,,,Dr.,,,SPD,
-119846,Harald B. Schäfer,,,,,,SPD,Offenburg
-119997,Norbert Wieczorek,,,Dr.,,,SPD,
-120099,Freimut Duve,,,,,,SPD,
-120111,Ingrid Matthäus-Maier,,,,,,SPD,
-120115,Volker Rühe,,,,,,CDU/CSU,
-120165,Manfred Richter,,,,,,FDP,Bremerhaven
-120180,Herta Däubler-Gmelin,,,Dr.,,,SPD,
-120224,Klaus Lennartz,,,,,,SPD,
-120269,Margret FunkeSchmitt-Rink,,,Dr.,,,FDP,
-120323,Manfred Richter,,,,,,FDP,Bremerhaven
-120353,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
-120362,Bernd Wilz,,,,,,CDU/CSU,
-120365,Manfred Opel,,,,,,SPD,
-120404,Peter Kittelmann,,,,,,CDU/CSU,
-120420,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
-120557,Staatsminister Joseph Fischer,,,,,,,Hessen
-120609,Günter Verheugen,,,,,,SPD,
-120686,Wolfgang Roth,,,,,,SPD,
-120852,Harald B. Schäfer,,,,,,SPD,Offenburg
-120868,Herta DäublerGmelin,,,Dr.,,,SPD,
-120869,Michael Glos,,,,,,CDU/CSU,
-120872,Hans-Jochen Vogel,,,Dr.,,,SPD,
-120939,Detlev  Larcher,,,,von,,SPD,
-120950,Detlev  Larcher,,,,von,,SPD,
-121046,Dirk Hansen,,,,,,FDP,
-121053,Dirk Hansen,,,,,,FDP,
-121071,Johannes Gerster,,,,,,CDU/CSU,Mainz
-121138,Gerd Andres,,,,,,SPD,
-121154,Detlev  Larcher,,,,von,,SPD,
-121217,Dirk Hansen,,,,,,FDP,
-121272,Achim Großmann,,,,,,SPD,
-121382,Ernst Waltemathe,,,,,,SPD,
-121450,Peter Conradi,,,,,,SPD,
-121495,Wolfgang Roth,,,,,,SPD,
-121544,Josef Vosen,,,,,,SPD,
-121597,Dieter Wiefelspütz,,,,,,SPD,
-121617,Johannes Gerster,,,,,,CDU/CSU,Mainz
-121623,Josef Grünbeck,,,,,,FDP,
-121656,Wolfgang Roth,,,,,,SPD,
-121734,Hans-Jochen Vogel,,,Dr.,,,SPD,
-121767,Ingrid MatthäusMaier,,,,,,SPD,
-121774,Nils Diederich,,,Dr.,,,SPD,Berlin
-121791,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
-121797,Horst Jungmann,,,,,,SPD,Wittmoldt
-121808,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
-121967,Detlev  Larcher,,,,von,,SPD,
-122100,Michael Glos,,,,,,CDU/CSU,
-122201,Dieter Wiefelspütz,,,,,,SPD,
-122227,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
-122250,Manfred Richter,,,,,,FDP,Bremerhaven
-122283,Julius Louven,,,,,,CDU/CSU,
-122295,Gerd Andres,,,,,,SPD,
-122327,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
-122347,Helmut Sauer,,,,,,CDU/CSU,Salzgitter
-122489,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
-122505,Walter Franz Altherr,,,Dr.,,,CDU/CSU,
-122543,Wilhelm Schmidt,,,,,,SPD,Salzgitter
-122546,Johannes Singer,,,,,,SPD,
-122578,Eckart Kuhlwein,,,,,,SPD,
-122743,Norbert Wieczorek,,,Dr.,,,SPD,
-122745,Detlev  Larcher,,,,von,,SPD,
-122764,Ingrid MatthäusMaier,,,,,,SPD,
-123008,Christina Schenk,,,,,,BÜNDNIS 90/DIE GRÜNEN,
-123069,Rudolf Dreßler,,,,,,SPD,
-123243,Gegenruf des   Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
-123282,Ortwin Lowack,,,,,,,
-123457,Mitglied des Ministerrates!,,,,,,,
-123755,Brigitte Baumeister,,,,,,CDU/CSU,
-123860,Peter Struck,,,Dr.,,,SPD,
-124037,Herta Däubler-Gmelin,,,Dr.,,,SPD,
-124076,Burkhard Hirsch,,,Dr.,,,FDP,
-124269,Josef Vosen,,,,,,SPD,
-124324,Helmut Sauer,,,,,,CDU/CSU,Salzgitter
-124333,Helmut Sauer,,,,,,CDU/CSU,Salzgitter
-124462,Gudrun Weyel,,,,,,SPD,
-124469,Gudrun Weyel,,,,,,SPD,
-124519,Wolfgang   Stetten,,,Dr.,von,Freiherr,CDU/CSU,
-124732,Zuruf  F.D.P.,,,,von der,,,
-124779,Peter Conradi,,,,,,SPD,
-124794,Wolfgang   Stetten,,,Dr.,von,Freiherr,CDU/CSU,
-124917,Franz Müntefering,,,,,,SPD,
-124989,Gerhard O. Pfeffermann,,,,,,CDU/CSU,
-125149,Bernhard Jagoda,,,,,,CDU/CSU,
-125172,Peter Struck,,,Dr.,,,SPD,
-125228,Horst Jungmann,,,,,,SPD,Wittmoldt
-125378,Horst Kubatschka,,,,,,SPD,
-125411,Horst Jungmann,,,,,,SPD,Wittmoldt
-125598,Dirk Hansen,,,,,,FDP,
-125610,Günter Rixe,,,,,,SPD,
-125650,Gerd Wartenberg,,,,,,SPD,Berlin
-125657,Erwin Marschewski,,,,,,CDU/CSU,
-125963,Klaus Kübler,,,Dr.,,,SPD,
-125967,Claus Jäger,,,,,,CDU/CSU,
-126010,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
-126125,Siegfried Hornung,,,,,,CDU/CSU,
-126183,Ingrid MatthäusMaier,,,,,,SPD,
-126454,Rudolf Dreßler,,,,,,SPD,
-126555,Uwe Lambinus,,,,,,SPD,
-126626,HansJochen Vogel,,,Dr.,,,SPD,
-126634,Erwin Marschewski,,,,,,CDU/CSU,
-126693,Horst Sielaff,,,,,,SPD,
-126694,Horst Sielaff,,,,,,SPD,
-126734,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
-126816,Julius Louven,,,,,,CDU/CSU,
-127041,Hans-Joachim Fuchtel,,,,,,CDU/CSU,
-127206,Gerhard Reddemann,,,,,,CDU/CSU,
-127221,Uta Würfel,,,,,,FDP,
-127399,Günther Heyenn,,,,,,SPD,
-127581,Freimut Duve,,,,,,SPD,
-127647,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
-127684,Peter Struck,,,Dr.,,,SPD,
-127711,Ingrid MatthäusMaier,,,,,,SPD,
-127763,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
-127779,Dieter Heistermann,,,,,,SPD,
-127817,Eduard Oswald,,,,,,CDU/CSU,
-127847,Günther Krause,,,Dr.,,,CDU/CSU,Börgerende
-127983,Wolfgang Gröbl,,,,,,CDU/CSU,
-128041,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
-128057,Dieter Thomae,,,Dr.,,,FDP,
-128095,Alexander Warrikoff,,,Dr.,,,CDU/CSU,
-128283,Jürgen Meyer,,,Dr.,,,SPD,Ulm
-128500,Heidemarie Wieczorek-Zeul,,,,,,SPD,
-128510,Horst Günther,,,,,,CDU/CSU,Duisburg
-128774,Peter Kittelmann,,,,,,CDU/CSU,
-128812,Heidemarie Wieczorek-Zeul,,,,,,SPD,
-128833,Helmut Haussmann,,,Dr.,,,FDP,
-128859,Gerlin Hämmerle,,,,de,,SPD,
-128873,Paul Breuer,,,,,,CDU/CSU,
-128974,Gerd Andres,,,,,,SPD,
-128991,Heribert Scharrenbroich,,,,,,CDU/CSU,
-129042,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
-129199,Ingrid Matthäus-Maier,,,,,,SPD,
-129356,Gerhart Rudolf Baum,,,,,,FDP,
-129377,Michael Müller,,,,,,SPD,Düsseldorf
-129557,Günter Rixe,,,,,,SPD,
-129606,Jochen Feilcke,,,,,,CDU/CSU,
-129616,Herta DäublerGmelin,,,Dr.,,,SPD,
-129647,KlausDieter Feige,,,Dr.,,,BÜNDNIS 90/DIE GRÜNEN,
-129746,Peter Conradi,,,,,,SPD,
-129763,Herta Däubler-Gmelin,,,Dr.,,,SPD,
-129768,Siegfried Hornung,,,,,,CDU/CSU,
-129791,Gerd Andres,,,,,,SPD,
-129895,Werner Hoyer,,,Dr.,,,FDP,
-129922,Ingomar Hauchler,,,Dr.,,,SPD,
-130216,Hans-Jochen Vogel,,,Dr.,,,SPD,
-130246,Christian Lenzer,,,,,,CDU/CSU,
-130381,Freimut Duve,,,,,,SPD,
-130394,Erika Simm,,,,,,SPD,
-130611,HansUlrich Klose,,,,,,SPD,
-130777,Peter Struck,,,Dr.,,,SPD,
-130810,Wolfgang Bötsch,,,Dr.,,,CDU/CSU,
-130954,Wolfgang Roth,,,,,,SPD,
-131040,Horst Sielaff,,,,,,SPD,
-131172,Peter Struck,,,Dr.,,,SPD,
-131216,Ina Albowitz,,,,,,FDP,
-131347,Klaus Kirschner,,,,,,SPD,
-131567,Barbara Höll,,,Dr.,,,DIE LINKE.,
-131679,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
-131689,Norbert Gansel,,,,,,SPD,
-131725,Brigitte Baumeister,,,,,,CDU/CSU,
-131869,Siegfried Hornung,,,,,,CDU/CSU,
-131880,Horst Sielaff,,,,,,SPD,
-132063,Freimut Duve,,,,,,SPD,
-132078,Dieter-Julius Cronenberg,,,,,,FDP,Arnsberg
-132151,Eckart Kuhlwein,,,,,,SPD,
-132185,Brigitte Baumeister,,,,,,CDU/CSU,
-132186,Hans-Günther Toetemeyer,,,,,,SPD,
-132208,Hans-Günther Toetemeyer,,,,,,SPD,
-132355,Horst Sielaff,,,,,,SPD,
-132404,Susanne Kastner,,,,,,SPD,
-132416,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
-132469,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
-132518,Zuruf  SPD,,,,von der,,SPD,
-132779,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
-133195,Brigitte Baumeister,,,,,,CDU/CSU,
-133328,Siegfried Hornung,,,,,,CDU/CSU,
-133353,Siegfried Hornung,,,,,,CDU/CSU,
-133672,Wolfgang Weng,,,Dr.,,,FDP,
-133745,Horst Sielaff,,,,,,SPD,
-133763,Gudrun Weyel,,,,,,SPD,
-133779,Wolfgang Roth,,,,,,SPD,
-134022,Dietmar Kansy,,,Dr.-Ing.,,,CDU/CSU,
-134042,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
-134185,Ottmar Schreiner,,,,,,SPD,
-134253,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
-134371,Uwe Küster,,,Dr.,,,SPD,
-134414,Peter W. Reuschenbach,,,,,,SPD,
-134516,Gerhard O. Pfeffermann,,,,,,CDU/CSU,
-134555,Helmut Wieczorek,,,,,,SPD,Duisburg
-135283,Angelika Barbe,,,,,,SPD,
-135466,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
-135477,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
-135601,Peter Struck,,,Dr.,,,SPD,
-135756,Peter Struck,,,Dr.,,,SPD,
-135878,Uwe Jens,,,Dr.,,,SPD,
-135930,Wolfgang Ullmann,,,Dr.,,,BÜNDNIS 90/DIE GRÜNEN,
-136047,Konrad Gilges,,,,,,SPD,
-136061,Gerd Andres,,,,,,SPD,
-136143,Eckart Kuhlwein,,,,,,SPD,
-136173,Julius Louven,,,,,,CDU/CSU,
-136454,Johannes Singer,,,,,,SPD,
-136458,Günter Verheugen,,,,,,SPD,
-136503,Manfred Richter,,,,,,FDP,Bremerhaven
-136546,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
-136669,Siegfried Hornung,,,,,,CDU/CSU,
-136887,Ina Albowitz,,,,,,FDP,
-136921,Gegenruf der   Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
-137031,Anke Fuchs,,,,,,SPD,Köln
-137076,Clemens Schwalbe,,,,,,CDU/CSU,
-137197,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
-137308,Uwe Küster,,,Dr.,,,SPD,
-137323,Karl-Heinz Klejdzinski,,,Dr.,,,SPD,
-137341,Manfred Richter,,,,,,FDP,Bremerhaven
-137396,Horst Sielaff,,,,,,SPD,
-137449,Olaf Feldmann,,,Dr.,,,FDP,
-137688,Konrad Weiß,,,,,,BÜNDNIS 90/DIE GRÜNEN,Berlin
-137725,Peter Struck,,,Dr.,,,SPD,
-137729,Siegfried Hornung,,,,,,CDU/CSU,
-137911,Gerd Andres,,,,,,SPD,
-137952,Ilse Falk,,,,,,CDU/CSU,
-137959,Eckart Kuhlwein,,,,,,SPD,
-137964,Uwe Küster,,,Dr.,,,SPD,
-138171,Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
-138201,Ingrid Matthäus-Maier,,,,,,SPD,
-138228,Ingrid Matthäus-Maier,,,,,,SPD,
-138361,Karl Lamers,,,,,,CDU/CSU,
-138534,Ingrid Matthäus-Maier,,,,,,SPD,
-138539,Klaus Daubertshäuser,,,,,,SPD,
-138720,Ingrid Matthäus-Maier,,,,,,SPD,
-138762,Helmut Wieczorek,,,,,,SPD,Duisburg
-138844,Norbert Gansel,,,,,,SPD,
-138949,Dirk Hansen,,,,,,FDP,
-139048,Barbara Weiler,,,,,,SPD,
-139185,Hans Büttner,,,,,,SPD,Ingolstadt
-139214,Gerhart Rudolf Baum,,,,,,FDP,
-139312,Gregor Gysi,,,Dr.,,,DIE LINKE.,
-139686,Achim Großmann,,,,,,SPD,
-139749,HansUlrich Klose,,,,,,SPD,
-139751,Siegfried Hornung,,,,,,CDU/CSU,
-139799,Gegenruf des  Volker Kauder,,,,,,CDU/CSU,
-139862,Manfred Richter,,,,,,FDP,Bremerhaven
-139976,Hermann Otto Solms,,,Dr.,,,FDP,
-139977,Zurufe  F.D.P.,,,,von der,,,
-140000,Helmut Haussmann,,,Dr.,,,FDP,
-140355,Heinz-Adolf Hörsken,,,,,,CDU/CSU,
-140363,HeinzAdolf Hörsken,,,,,,CDU/CSU,
-140369,Alexander Warrikoff,,,Dr.,,,CDU/CSU,
-140412,Bundesminister  Theodor Waigel,,,Dr.,,,CDU/CSU,
-140600,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
-140945,Dietrich Austermann,,,,,,CDU/CSU,
-140951,Freimut Duve,,,,,,SPD,
-140952,Ingrid MatthäusMaier,,,,,,SPD,
-140971,Ingrid MatthäusMaier,,,,,,SPD,
-140981,Ulrich Irmer,,,,,,FDP,
-140987,Ulrich Irmer,,,,,,FDP,
-140992,Markus Meckel,,,,,,SPD,
-141208,Horst Kubatschka,,,,,,SPD,
-141354,Wolfgang   Stetten,,,Dr.,von,Freiherr,CDU/CSU,
-141534,Rudi Walther,,,,,,SPD,Zierenberg
-141624,Horst Jungmann,,,,,,SPD,Wittmoldt
-141629,Horst Sielaff,,,,,,SPD,
-141631,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
-141751,Ina Albowitz,,,,,,FDP,
-141794,Kurt J. Rossmanith,,,,,,CDU/CSU,
-141817,Ina Albowitz,,,,,,FDP,
-141869,Horst Jungmann,,,,,,SPD,Wittmoldt
-142210,Roland Kohn,,,,,,FDP,
-142578,Peter Kittelmann,,,,,,CDU/CSU,
-142669,KarlHeinz Hornhues,,,Dr.,,,CDU/CSU,
-142672,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
-142818,Vorsichtig,vorsichtig!,,,,,,
-142820,Detlev  Larcher,,,,von,,SPD,
-142863,Detlev  Larcher,,,,von,,SPD,
-142881,Ingrid MatthäusMaier,,,,,,SPD,
-142882,Heribert Scharrenbroich,,,,,,CDU/CSU,
-142886,Gerd Andres,,,,,,SPD,
-142920,Freimut Duve,,,,,,SPD,
-142922,Gerhart Rudolf Baum,,,,,,FDP,
-142925,Freimut Duve,,,,,,SPD,
-143026,Detlev  Larcher,,,,von,,SPD,
-143209,Hans Büttner,,,,,,SPD,Ingolstadt
-143264,Dirk Hansen,,,,,,FDP,
-143266,Günter Rixe,,,,,,SPD,
-143307,Erwin Marschewski,,,,,,CDU/CSU,
-143457,Peter Struck,,,Dr.,,,SPD,
-143491,Rudolf Dreßler,,,,,,SPD,
-143590,Uta Würfel,,,,,,FDP,
-143715,Ilja Seifert,,,Dr.,,,DIE LINKE.,
-143972,Christoph Schnittler,,,Dr.,,,FDP,
-144001,Hans Gottfried Bernrath,,,,,,SPD,
-144005,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
-144101,Konrad Gilges,,,,,,SPD,
-144124,Nils Diederich,,,Dr.,,,SPD,Berlin
-144127,Ursula Schmidt,,,,,,SPD,Aachen
-144197,Peter Conradi,,,,,,SPD,
-144270,Ingrid Walz,,,,,,FDP,
-144295,Gerd Andres,,,,,,SPD,
-144325,Norbert Geis,,,,,,CDU/CSU,
-144418,Ingrid MatthäusMaier,,,,,,SPD,
-144486,Ingrid MatthäusMaier,,,,,,SPD,
-144532,Norbert Geis,,,,,,CDU/CSU,
-144931,Klaus Beckmann,,,,,,FDP,
-144944,Ernst Hinsken,,,,,,CDU/CSU,
-145154,Uwe Holtz,,,Dr.,,,SPD,
-145317,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
-145334,Konrad Weiß,,,,,,BÜNDNIS 90/DIE GRÜNEN,Berlin
-145404,Hans Büttner,,,,,,SPD,Ingolstadt
-145414,Ottmar Schreiner,,,,,,SPD,
-145417,Hans Büttner,,,,,,SPD,Ingolstadt
-145424,Renate Rennebach,,,,,,SPD,
-145666,Norbert Geis,,,,,,CDU/CSU,
-145708,Gerd Andres,,,,,,SPD,
-145955,Lieselott Blunck,,,,,,SPD,Uetersen
-145957,Klaus Lennartz,,,,,,SPD,
-146037,Konrad Gilges,,,,,,SPD,
-146137,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
-146140,Horst Sielaff,,,,,,SPD,
-146149,Siegfried Hornung,,,,,,CDU/CSU,
-146202,Barbara Höll,,,Dr.,,,DIE LINKE.,
-146223,Siegfried Hornung,,,,,,CDU/CSU,
-146250,Walter Kolbow,,,,,,SPD,
-146269,Gerlin Hämmerle,,,,de,,SPD,
-146588,Peter Struck,,,Dr.,,,SPD,
-146623,Uwe Küster,,,Dr.,,,SPD,
-146677,Brigitte Adler,,,,,,SPD,
-146859,Ingrid MatthäusMaier,,,,,,SPD,
-146866,Theodor Waigel,,,Dr.,,,CDU/CSU,
-146988,Paul Hoffacker,,,Dr.,,,CDU/CSU,Hof
-147015,HansJoachim Otto,,,,,,FDP,Frankfurt
-147080,Eduard Oswald,,,,,,CDU/CSU,
-147141,Ina Albowitz,,,,,,FDP,
-147206,Joachim Hörster,,,,,,CDU/CSU,
-147321,Günter Rixe,,,,,,SPD,
-147335,Günter Rixe,,,,,,SPD,
-147382,Wilhelm Schmidt,,,,,,SPD,Salzgitter
-147446,Horst Sielaff,,,,,,SPD,
-147621,Ulla Jelpke,,,,,,DIE LINKE.,
-147674,Ingrid MatthäusMaier,,,,,,SPD,
-147676,Wolfgang   Stetten,,,Dr.,von,Freiherr,CDU/CSU,
-147715,Detlef Kleinert,,,,,,FDP,Hannover
-147723,Ingrid MatthäusMaier,,,,,,SPD,
-147747,Dagmar Enkelmann,,,Dr.,,,DIE LINKE.,
-147748,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
-147816,Uta Würfel,,,,,,FDP,
-148290,Albert Pfuhl,,,,,,SPD,
-148342,Eckart Kuhlwein,,,,,,SPD,
-148384,Hans-Joachim Otto,,,,,,FDP,Frankfurt
-148412,Peter Conradi,,,,,,SPD,
-148499,Margret FunkeSchmitt-Rink,,,Dr.,,,FDP,
-148541,Jochen Feilcke,,,,,,CDU/CSU,
-148578,Ingrid MatthäusMaier,,,,,,SPD,
-148594,Ina Albowitz,,,,,,FDP,
-148767,Uwe Küster,,,Dr.,,,SPD,
-148924,Freimut Duve,,,,,,SPD,
-148968,Ingrid Matthäus-Maier,,,,,,SPD,
-149001,Eva Pohl,,,Dr.,,,FDP,
-149030,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
-149056,Georg Gallus,,,,,,FDP,
-149121,Siegfried Hornung,,,,,,CDU/CSU,
-149178,Siegfried Vergin,,,,,,SPD,
-149268,R. Werner Schuster,,,Dr.,,,SPD,
-149296,Detlev  Larcher,,,,von,,SPD,
-149394,CarlLudwig Thiele,,,,,,FDP,
-149445,Helmut Wieczorek,,,,,,SPD,Duisburg
-149568,Burkhard Hirsch,,,Dr.,,,FDP,
-149579,Wolfgang   Stetten,,,Dr.,von,Freiherr,CDU/CSU,
-149611,Jan Oostergetelo,,,,,,SPD,
-149761,Ingrid Matthäus-Maier,,,,,,SPD,
-149770,Uwe Küster,,,Dr.,,,SPD,
-149860,Norbert Blüm,,,Dr.,,,CDU/CSU,
-149916,Maria Michalk,,,,,,CDU/CSU,
-149924,Otto Schily,,,,,,SPD,
-149955,Erich G. Fritz,,,,,,CDU/CSU,
-150025,Arne Börnsen,,,,,,SPD,Ritterhude
-150071,Gegenrufe  F.D.P.,,,,von der,,,
-150084,Ulrich Irmer,,,,,,FDP,
-113805,Weng,,,Dr.,,,FDP,Gerlingen
-115076,Duve,,,,,,SPD,
-115092,Müller,,,,,,SPD,Pleisweiler
-115599,Wolfgang Roth,,,,,,SPD,
-116516,Paul Breuer,,,,,,CDU/CSU,
-116620,Gegenruf des  Josef Grünbeck,,,,,,FDP,
-117655,Detlev  Larcher,,,,von,,SPD,
-118004,Horst Seehofer,,,,,,CDU/CSU,
-119227,Stefan Schwarz,,,,,,CDU/CSU,
-120365,Norbert Gansel,,,,,,SPD,
-121450,Norbert Gansel,,,,,,SPD,
-121791,Horst Jungmann,,,,,,SPD,Wittmoldt
-122743,Freimut Duve,,,,,,SPD,
-123008,Günther Heyenn,,,,,,SPD,
-123457,Freimut Duve,,,,,,SPD,
-124732,Uwe-Jens Heuer,"der inzwischen wieder Platz genommen hat, spendet Beifall",,Dr.,,,DIE LINKE.,
-126634,Dieter Wiefelspütz,,,,,,SPD,
-129042,Uwe Küster,,,Dr.,,,SPD,
-129895,Freimut Duve,,,,,,SPD,
-130216,Otto  Lambsdorff,,,Dr.,,Graf,FDP,
-132151,Gegenruf des   Jürgen Rüttgers,,,Dr.,,,CDU/CSU,
-132416,Uwe Küster,,,Dr.,,,SPD,
-132489,Wolfgang Schäuble,,,Dr.,,,CDU/CSU,
-132518,Heidemarie Wieczorek-Zeul,,,,,,SPD,
-132779,Gerd Andres,,,,,,SPD,
-133672,Karl Stockhausen,,,,,,CDU/CSU,
-134253,Erwin Marschewski,,,,,,CDU/CSU,
-136738,Rudolf Bindig,,,,,,SPD,
-136921,Karl-Heinz Hornhues,,,Dr.,,,CDU/CSU,
-137308,Klaus-Dieter Feige,,,Dr.,,,BÜNDNIS 90/DIE GRÜNEN,
-138171,Wolfgang   Stetten,,,Dr.,von,Freiherr,CDU/CSU,
-139977,Traurig!,,,,,,,
-141534,Rudolf Purps,,,,,,SPD,
-141794,Fritz Schumann,,,Dr.,,,DIE LINKE.,Kroppenstedt
-142818,Detlev  Larcher,,,,von,,SPD,
-143307,Paul Breuer,,,,,,CDU/CSU,
-143590,Klaus-Dieter Feige,,,Dr.,,,BÜNDNIS 90/DIE GRÜNEN,
-144101,Ernst Hinsken,,,,,,CDU/CSU,
-144325,Uwe-Jens Heuer,,,Dr.,,,DIE LINKE.,
-144931,Wolfgang Weng,,,Dr.,,,FDP,Gerlingen
-144944,Kurt J. Rossmanith,,,,,,CDU/CSU,
-145317,Ulrich Irmer,,,,,,FDP,
-145414,Hans-Joachim Fuchtel,,,,,,CDU/CSU,
-146038,Gregor Gysi,,,Dr.,,,DIE LINKE.,
-146137,Bartholomäus Kalb,,,,,,CDU/CSU,
-147444,Eduard Oswald,,,,,,CDU/CSU,
-149296,Freimut Duve,,,,,,SPD,
-150071,Weitere Gegenrufe  SPD,,,,von der,,SPD,
-113805,Seesing,,,,,,CDU/CSU,
-118896,Ingrid Roitzsch,,,,,,CDU/CSU,Quickborn
-120365,Gegenruf des  Friedrich Bohl,,,,,,CDU/CSU,
-123008,Ottmar Schreiner,,,,,,SPD,
-124732,Heiterkeit — Zuruf  F.D.P.,,,,von der,,,
-130216,Hans-Jochen Vogel,,,Dr.,,,SPD,
-133672,Clemens Schwalbe,,,,,,CDU/CSU,
-139977,Enttäuschend! —  Helmut Haussmann,,,Dr.,,,FDP,
-150071,Hermann Otto Solms,,,Dr.,,,FDP,

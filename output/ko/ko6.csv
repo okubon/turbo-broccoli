@@ -1,6 +1,6 @@
 ﻿RB_ID,KO_Name,FUNKTION,POSITION,ANREDE_TITEL,PRAEFIX,ADEL,PARTEI,ORTSZUSATZ
 321675,Haase,,,,,,,Kassel
-321812,Jacobi,,,,,,,Köln/Iserlohn
+321812,Jacobi,,,,,,,Köln
 321986,Haase,,,,,,,Kassel
 322265,Schmidt,,,Dr.,,,,Gellersen
 322388,Ahg.  Marx,,,Dr.,,,,Kaiserslautern
@@ -16,7 +16,7 @@
 324668,Lenz,,,Dr.,,,,Bergstraße
 324824,Mursch,,,,,,,Soltau-Harburg
 325068,Franke,,,,,,,Osnabrück
-325523,Jacobi,,,,,,,Köln/Iserlohn
+325523,Jacobi,,,,,,,Köln
 325543,Jacobi,,,,,,,
 326120,Haase,,,,,,,Kassel
 326152,Haase,,,,,,,Kassel
@@ -47,6 +47,9 @@
 330450,Schäfer,,,Dr.,,,,Tübingen
 330716,Schneider,,,Dr.,,,,Nürnberg
 330722,Lücke,,,,,,,Bensberg
+330722,Schäfer,,,Dr.,,,,Tübingen
+330722,Schäfer,,,Dr.,,,,Tübingen
+330722,Lücke,,,,,,,Bensberg
 330731,Schäfer,,,Dr.,,,,Tübingen
 330739,Schäfer,,,Dr.,,,,Tübingen
 330755,Lücke,,,,,,,
@@ -54,6 +57,7 @@
 330782,Lücke,,,,,,,Bensberg
 330930,Marx,,,Dr.,,,,Kaiserslautern
 331024,Zuruf des   Marx,,,Dr.,,,,Kaiserslautern
+331054,Marx,,,Dr.,,,,Kaiserslautern
 331363,Stark,,,Dr.,,,,Nürtingen
 331380,Müller,,,,,,,Norden
 331422,Kliesing,,,Dr.,,,,Honnef
@@ -70,6 +74,7 @@
 331960,Schäfer,,,Dr.,,,,Tübingen
 332121,Haase,,,,,,,Kassel
 332137,Baier,,,,,,,
+332137,Haase,,,,,,,Kassel
 332155,Schäfer,,,Dr.,,,,Tübingen
 332263,Lenz,,,Dr.,,,,Bergstraße
 332273,Schäfer,,,Dr.,,,,Tübingen
@@ -81,6 +86,7 @@
 332512,Schmidt,,,Dr.,,,,Wuppertal
 332519,Marx,,,Dr.,,,,Kaiserslautern
 332525,Marx,,,Dr.,,,,Kaiserslautern
+332546,Hermsdorf,,,,,,,Cuxhaven
 332549,Schäfer,,,Dr.,,,,Tübingen
 332551,Schäfer,,,Dr.,,,,Tübingen
 332651,Schmidt,,,Dr.,,,,Wuppertal
@@ -93,6 +99,7 @@
 332804,Marx,,,Dr.,,,,Kaiserslautern
 332883,Haase,,,,,,,Kassel
 333124,Stark,,,Dr.,,,,Nürtingen
+333175,Stark,,,Dr.,,,,Nürtingen
 333175,Stoltenberg,,,Dr.,,,,
 333330,Hauser,,,Dr.,,,,Sasbach
 333377,Franke,,,,,,,Osnabrück
@@ -142,6 +149,7 @@
 336481,Schäfer,,,Dr.,,,,Tübingen
 336519,Schäfer,,,Dr.,,,,Tübingen
 336526,Wehner,,,,,,,
+336526,Schäfer,,,Dr.,,,,Tübingen
 336573,Schmidt,,,Dr.,,,,Gellersen
 336578,Schmidt,,,Dr.,,,,Gellersen
 336591,Franke,,,,,,,Osnabrück
@@ -204,6 +212,7 @@
 341535,Franke,,,,,,,Osnabrück
 341580,Franke,,,,,,,Osnabrück
 341601,Schmidt,,,,,,,München
+341669,Haase,,,,,,,Kassel
 341676,Hauser,,,Dr.,,,,Sasbach
 341677,Haase,,,,,,,Kassel
 341703,Stark,,,Dr.,,,,Nürtingen
@@ -211,6 +220,7 @@
 341868,Marx,,,Dr.,,,,
 341872,Schäfer,,,Dr.,,,,Tübingen
 341920,Franke,,,,,,,Osnabrück
+341945,Marx,,,Dr.,,,,Kaiserslautern
 341960,Marx,,,Dr.,,,,Kaiserslautern
 341971,Ahg.  Marx,,,Dr.,,,,Kaiserslautern
 342256,Schäfer,,,Dr.,,,,Tübingen
@@ -221,8 +231,10 @@
 342453,Hermesdorf,,,Dr.,,,,
 342463,Schneider,,,Dr.,,,,Nürnberg
 342607,Vogel,,,,,,,
+342611,Stark,,,Dr.,,,,Nürtingen
 342611,Heiterkeit.,,,,,,,
 342638,Zuruf des   Hauser,,,Dr.,,,,Sasbach
+342645,Ehrhard,,,,,,,Bad Schwalbach
 342655,Lenz,,,Dr.,,,,Bergstraße
 342678,Hauser,,,Dr.,,,,Sasbach
 342728,Franke,,,,,,,Osnabrück
@@ -230,6 +242,8 @@
 342942,Schmidt,,,Dr.,,,,Gellersen
 343243,Haase,,,,,,,Kassel
 343255,Wehner,,,,,,,
+343255,Weitere Zurufe  SPD und Gegenrufe  CDU/CSU.,,,,von der,,SPD,
+343255,Marx,,,Dr.,,,,Kaiserslautern
 343330,Schulte,,,,,,,Unna
 343535,Haase,,,,,,,Kassel
 343537,Schäfer,,,Dr.,,,,Tübingen
@@ -255,6 +269,7 @@
 345859,Schäfer,,,Dr.,,,,Tübingen
 345861,Becker,,,,,,,Pirmasens
 345872,Schäfer,,,Dr.,,,,Tübingen
+345905,Schäfer,,,Dr.,,,,Tübingen
 345906,Schäfer,,,Dr.,,,,Tübingen
 345924,Schäfer,,,Dr.,,,,Tübingen
 345944,Schäfer,,,Dr.,,,,Tübingen
@@ -269,6 +284,7 @@
 346683,Schäfer,,,Dr.,,,,Tübingen
 346716,Schäfer,,,Dr.,,,,Tübingen
 346766,Marx,,,Dr.,,,,Kaiserslautern
+346778,Haase,,,,,,,Kassel
 346783,Haase,,,,,,,Kassel
 346814,Hermesdorf,,,Dr.,,,,
 346833,Schäfer,,,Dr.,,,,Tübingen
@@ -294,6 +310,7 @@
 348649,Franke,,,,,,,Osnabrück
 348656,Abg Müller,,,,,,,Berlin
 348806,Stark,,,Dr.,,,,Nürtingen
+348807,Schäfer,,,Dr.,,,,Tübingen
 348807,Unruhe.,,,,,,,
 348810,Haase,,,,,,,Kassel
 348844,Riedl,,,Dr.,,,,München
@@ -303,10 +320,13 @@
 349713,Brandt,,,,,,,Grolsheim
 349785,Marx,,,Dr.,,,,Kaiserslautern
 349817,Franke,,,,,,,Osnabrück
+349981,Schäfer,,,Dr.,,,,Tübingen
 350046,Schäfer,,,Dr.,,,,Tübingen
 350126,Müller,,,,,,,Remscheid
 350128,Müller,,,,,,,Remscheid
 350136,Müller,,,,,,,Remscheid
+350256,Marx,,,Dr.,,,,Kaiserslautern
+350256,Stücklen,,,,,,,
 350256,Hört! Hört! bei der CDU/CSU.,,,,,,CDU/CSU,
 350260,Schneider,,,Dr.,,,,Nürnberg
 350323,Schneider,,,Dr.,,,,Nürnberg
@@ -339,6 +359,7 @@
 352650,Becker,,,,,,,Pirmasens
 352654,Wagner,,,Dr.,,,,Trier
 352720,Lenz,,,Dr.,,,,Bergstraße
+352872,Schäfer,,,Dr.,,,,Tübingen
 352872,Müller-Hermann,,,Dr.,,,,
 352885,Haar,,,,,,,Stuttgart
 352953,Müller,,,,,,,Berlin
@@ -363,12 +384,15 @@
 355157,Stark,,,Dr.,,,,Nürtingen
 355267,Schröder,,,Dr.,,,,Düsseldorf
 355320,Lebhafte Zurufe  CDU/CSU.,,,,von der,,CDU/CSU,
+355320,Haase,,,,,,,Kassel
 355444,Stark,,,Dr.,,,,Nürtingen
 355652,Schäfer,,,Dr.,,,,Tübingen
+355658,Schäfer,,,Dr.,,,,Tübingen
 355658,Müller-Hermann,,,Dr.,,,,
 355777,Schäfer,,,Dr.,,,,Tübingen
 355839,Haase,,,,,,,Kassel
 355949,Erhard,,,,,,,Bad Schwalbach
+355950,Haase,,,,,,,Kassel
 355950,Zurufe  CDU/CSU,,,,von der,,CDU/CSU,
 355955,Haase,,,,,,,Kassel
 356151,Haase,,,,,,,Kassel
@@ -388,10 +412,13 @@
 357258,Schäfer,,,Dr.,,,,Tübingen
 357362,Stark,,,Dr.,,,,Nürtingen
 357382,Jahn,,,Dr.,,,,Braunschweig
+357395,Franke,,,,,,,Osnabrück
 357494,Jahn,,,Dr.,,,,Braunschweig
 357669,Schäfer,,,Dr.,,,,Tübingen
 357703,Schneider,,,Dr.,,,,Nürnberg
+357704,Schäfer,,,Dr.,,,,Tübingen
 357704,Beifall des  Pensky,,,,,,,
+357727,Schäfer,,,Dr.,,,,Tübingen
 357875,Schäfer,,,Dr.,,,,Tübingen
 357876,Schäfer,,,Dr.,,,,Tübingen
 357887,Schneider,,,Dr.,,,,Nürnberg
@@ -414,6 +441,7 @@
 359212,Schäfer,,,Dr.,,,,Tübingen
 359453,Schröder,,,Dr.,,,,Düsseldorf
 359730,Franke,,,,,,,Osnabrück
+359734,Franke,,,,,,,Osnabrück
 359734,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
 359881,Franke,,,,,,,Osnabrück
 359956,Schäfer,,,Dr.,,,,Tübingen
@@ -431,31 +459,3 @@
 360245,Stark,,,Dr.,,,,Nürtingen
 360289,Schäfer,,,Dr.,,,,Tübingen
 360341,Schäfer,,,Dr.,,,,Tübingen
-330722,Schäfer,,,Dr.,,,,Tübingen
-331054,Marx,,,Dr.,,,,Kaiserslautern
-332137,Haase,,,,,,,Kassel
-332546,Hermsdorf,,,,,,,Cuxhaven
-333175,Stark,,,Dr.,,,,Nürtingen
-336526,Schäfer,,,Dr.,,,,Tübingen
-341669,Haase,,,,,,,Kassel
-341945,Marx,,,Dr.,,,,Kaiserslautern
-342611,Stark,,,Dr.,,,,Nürtingen
-342645,Ehrhard,,,,,,,Bad Schwalbach
-343255,Weitere Zurufe  SPD und Gegenrufe  CDU/CSU.,,,,von der,,SPD,
-345905,Schäfer,,,Dr.,,,,Tübingen
-346778,Haase,,,,,,,Kassel
-348807,Schäfer,,,Dr.,,,,Tübingen
-349981,Schäfer,,,Dr.,,,,Tübingen
-350256,Stücklen,,,,,,,
-352872,Schäfer,,,Dr.,,,,Tübingen
-355320,Haase,,,,,,,Kassel
-355658,Schäfer,,,Dr.,,,,Tübingen
-355950,Haase,,,,,,,Kassel
-357395,Franke,,,,,,,Osnabrück
-357704,Schäfer,,,Dr.,,,,Tübingen
-357727,Schäfer,,,Dr.,,,,Tübingen
-359734,Franke,,,,,,,Osnabrück
-330722,Lücke,,,,,,,Bensberg
-343255,Marx,,,Dr.,,,,Kaiserslautern
-350256,Marx,,,Dr.,,,,Kaiserslautern
-330722,Schäfer,,,Dr.,,,,Tübingen

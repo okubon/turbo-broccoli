@@ -3,12 +3,14 @@
 210819,Schmid,,,Dr.,,,,Frankfurt
 210820,Baur,,,,,,,Augsburg
 210822,Weber,,,Dr. h. c.,,,,Essen
+210833,Schröter,,,,,,,Berlin
 210833,Große Heiterkeit.,,,,,,,
 210901,Schröter,,,,,,,Berlin
 210953,Schmitt,,,,,,,Vockenhausen
 210959,Schmid,,,Dr.,,,,Frankfurt
 211154,Schmitt,,,,,,,Vockenhausen
 211306,Heiterkeit.,,,,,,,
+211306,Schröter,,,,,,,Berlin
 211373,h.c. Weber[Essen],,,Dr.,,,,Essen
 211384,Schmid,,,Dr.,,,,Frankfurt
 211424,Schröder,,,Dr.,,,,Düsseldorf
@@ -16,6 +18,7 @@
 211570,Schmücker,,,,,,SPD,
 211611,Lenze,,,,,,,Attendorn
 211629,Schütz,,,,,,,München
+211642,Schütz,,,,,,,
 211802,Weber,,,Dr. h. c.,,,,Essen
 211865,Kühn,,,,,,,Köln
 211871,Schmidt,,,Dr.,,,,Wuppertal
@@ -24,12 +27,16 @@
 212043,Beyer,,,,,,,Frankfurt
 212045,Becker,,,Dr.,,,,
 212063,Beifall.,,,,,,,
+212063,Schröter,,,,,,,Berlin
 212092,Schmidt,,,,,,,Hamburg
 212207,Schneider,,,,,,,Bremerhaven
 212272,Zuruf  SPD,,,,von der,,SPD,
+212272,Schmidt,,,,,,,Hamburg
 212280,Schröter,,,,,,,Berlin
 212315,Weber,,,Dr. h. c.,,,,Essen
+212326,Schmidt,,,,,,,Hamburg
 212326,Mommer,,,Dr.,,,,
+212326,Zuruf  SPD,,,,von der,,SPD,
 212386,Döring,,,,,,,Düsseldorf
 212405,Döring,,,,,,,Düsseldorf
 212407,Schmidt,,,,,,,Hamburg
@@ -37,7 +44,13 @@
 212425,Kliesing,,,Dr.,,,,Honnef
 212438,Schmid,,,Dr.,,,,Frankfurt
 212450,Schmid,,,Dr.,,,,Frankfurt
+212485,Kliesing,,,Dr.,,,,
+212485,Weber,,,Dr. h. c.,,,,Essen
 212540,Schmid,,,Dr.,,,,Frankfurt
+212560,Wacher,,,,,,,Hof
+212560,Widerspruch in der Mitte.,,,,,,,
+212578,Lachen in der Mitte.,,,,,,,
+212578,Kliesing,,,Dr.,,,,Honnef
 212640,Schneider,,,,,,,Bremerhaven
 212689,Schmid,,,Dr.,,,,Frankfurt
 212695,Schmitt,,,,,,,Vockenhausen
@@ -53,6 +66,8 @@
 212958,Lenze,,,,,,,Attendorn
 212977,Schmidt,,,,,,,Hamburg
 212982,Schmitt,,,,,,,Vockenhausen
+213002,Heiland,,,,,,,
+213002,Schmidt,,,,,,,Hamburg
 213002,Schmidt,,,,,,,Hamburg
 213004,Schmidt,,,,,,,Hamburg
 213007,Schmidt,,,,,,,Hamburg
@@ -135,10 +150,13 @@
 218210,Baier,,,,,,,Mosbach
 218223,Schmitt,,,,,,,Vockenhausen
 218291,Fritz,,,Dr.,,,,Ludwigshafen
+218344,Schneider,,,Dr.,,,,Saarbrücken
 218344,Große Heiterkeit.,,,,,,,
 218520,Jahn,,,,,,,Marburg
+218526,Schmitt,,,,,,,
 218639,Zimmermann,,,Dr.,,,,
 218714,Jahn,,,,,,,Marburg
+218724,Jahn,,,,,,,Marburg
 218724,Arndt,,,Dr.,,,,
 218729,Schmitt,,,,,,,Vockenhausen
 218735,Jahn,,,,,,,Marburg
@@ -176,6 +194,7 @@
 220726,Schmid,,,Dr.,,,,Frankfurt
 220744,Heck,,,Dr.,,,,Rottweil
 220751,Schmitt,,,,,,,Vockenhausen
+220985,Wacher,,,,,,,Hof
 221027,Schmidt,,,,,,,Hamburg
 221083,Even,,,Dr.,,,,Düsseldorf
 221085,Schmitt,,,,,,,Vockenhausen
@@ -194,6 +213,7 @@
 221873,Schmitt,,,,,,,Vockenhausen
 221976,Jahn,,,,,,,Marburg
 222046,Zustimmung.,,,,,,,
+222046,Könen,,,,,,,Düsseldorf
 222063,Weber,,,Dr. h. c.,,,,Essen
 222388,Baier,,,,,,,Mosbach
 222497,Schmidt,,,Dr.,,,,Wuppertal
@@ -254,8 +274,10 @@
 230309,Weber,,,,,,,Georgenau
 230359,Weber,,,,,,,Georgenau
 230390,Weber,,,,,,,Georgenau
+230465,Schütz,,,,,,,München
 230465,Zuruf  SPD,,,,von der,,SPD,
 230615,Fritz,,,Dr.,,,,Ludwigshafen
+230906,Killat,,,,,,,Unterbach
 230906,Große Heiterkeit.,,,,,,,
 231186,Könen,,,,,,,Düsseldorf
 231502,Schröter,,,,,,,Berlin
@@ -273,25 +295,3 @@
 232453,Weber,,,,,,,Georgenau
 232464,Lücker,,,,,,,München
 232478,Schmid,,,Dr.,,,,Frankfurt
-210833,Schröter,,,,,,,Berlin
-211306,Schröter,,,,,,,Berlin
-211642,Schütz,,,,,,,
-212063,Schröter,,,,,,,Berlin
-212272,Schmidt,,,,,,,Hamburg
-212326,Zuruf  SPD,,,,von der,,SPD,
-212485,Kliesing,,,Dr.,,,,
-212560,Widerspruch in der Mitte.,,,,,,,
-212578,Lachen in der Mitte.,,,,,,,
-213002,Heiland,,,,,,,
-218344,Schneider,,,Dr.,,,,Saarbrücken
-218526,Schmitt,,,,,,,
-218724,Jahn,,,,,,,Marburg
-220985,Wacher,,,,,,,Hof
-222046,Könen,,,,,,,Düsseldorf
-230465,Schütz,,,,,,,München
-230906,Killat,,,,,,,Unterbach
-212326,Schmidt,,,,,,,Hamburg
-212485,Weber,,,Dr. h. c.,,,,Essen
-212560,Wacher,,,,,,,Hof
-212578,Kliesing,,,Dr.,,,,Honnef
-213002,Schmidt,,,,,,,Hamburg

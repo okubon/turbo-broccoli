@@ -4,9 +4,12 @@
 456150,Kohl,,,Dr.,,,CDU/CSU,
 456152,Wörner,,,Dr.,,,CDU/CSU,
 456159,Kunz,,,Dr.,,,CDU/CSU,Weiden
+456162,Wehner,,,,,,SPD,
 456164,Wehner,,,,,,SPD,
 456165,Zimmermann,,,Dr.,,,CDU/CSU,
 456166,Ehmke,,,Dr.,,,SPD,
+456167,Schlei,,,,,,SPD,
+456167,Möller,,,Dr.,,,CDU/CSU,
 456167,Kroll-Schlüter,,,,,,CDU/CSU,
 456169,Kohl,,,Dr.,,,CDU/CSU,
 456171,Wörner,,,Dr.,,,CDU/CSU,
@@ -27,14 +30,18 @@
 456228,Pieroth,,,,,,CDU/CSU,
 456235,Roth,,,,,,SPD,
 456239,Wehner,,,,,,SPD,
+456241,Heydt   Massenbach,,,,von der,Freiherr,CDU/CSU,
 456245,Kolb,,,,,,CDU/CSU,
 456247,Kolb,,,,,,CDU/CSU,
 456249,Pieroth,,,,,,CDU/CSU,
 456254,Westphal,,,,,,SPD,
+456256,Schwarz-Schilling,,,Dr.,,,CDU/CSU,
+456256,Schwarz,,,,,,CDU/CSU,
 456258,Spöri,,,Dr.,,,SPD,
 456260,Friedmann,,,Dr.,,,CDU/CSU,
 456262,Kiep,,,,,,CDU/CSU,
 456264,Friedmann,,,Dr.,,,CDU/CSU,
+456267,Roh,,,,de,,SPD,
 456269,Schwarz,,,,,,CDU/CSU,
 456272,Schwarz,,,,,,CDU/CSU,
 456273,Blüm,,,Dr.,,,CDU/CSU,
@@ -102,8 +109,11 @@
 456924,Franke,,,,,,CDU/CSU,
 456931,Pieroth,,,,,,CDU/CSU,
 456933,Franke,,,,,,CDU/CSU,
+456935,Franke,,,,,,CDU/CSU,
 456938,Kunz,,,,,,CDU/CSU,Berlin
 456944,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
+456944,Pieroth,,,,,,CDU/CSU,
+456944,Reddemann,,,,,,CDU/CSU,
 456947,Pieroth,,,,,,CDU/CSU,
 456953,Reddemann,,,,,,CDU/CSU,
 456955,Reddemann,,,,,,CDU/CSU,
@@ -117,6 +127,7 @@
 457061,Franke,,,,,,CDU/CSU,
 457065,Wehner,,,,,,SPD,
 457067,Kolb,,,,,,CDU/CSU,
+457071,Franke,,,,,,CDU/CSU,
 457073,Kleinert,,,,,,FDP,
 457075,Franke,,,,,,CDU/CSU,
 457079,Lenz,,,Dr.,,,CDU/CSU,Bergstraße
@@ -142,6 +153,7 @@
 457388,Pfeifer,,,,,,CDU/CSU,
 457391,Kühbacher,,,,,,SPD,
 457392,Pfeifer,,,,,,CDU/CSU,
+457396,Windelen,,,,,,CDU/CSU,
 457398,Glos,,,,,,CDU/CSU,
 457400,Kühbacher,,,,,,SPD,
 457425,Thüsing,,,,,,SPD,
@@ -211,6 +223,8 @@
 457835,Wörner,,,Dr.,,,CDU/CSU,
 457837,Barzel,,,Dr.,,,CDU/CSU,
 457839,Wörner,,,Dr.,,,CDU/CSU,
+457841,Barzel,,,Dr.,,,CDU/CSU,
+457842,Windelen,,,,,,CDU/CSU,
 457848,Dregger,,,Dr.,,,CDU/CSU,
 457849,Wehner,,,,,,SPD,
 457851,Wehner,,,,,,SPD,
@@ -220,6 +234,7 @@
 457861,Kolb,,,,,,CDU/CSU,
 457865,Kolb,,,,,,CDU/CSU,
 457868,Wehner,,,,,,SPD,
+457869,Wehner,,,,,,SPD,
 457876,Windelen,,,,,,CDU/CSU,
 457878,Stark,,,Dr.,,,CDU/CSU,Nürtingen
 457880,Barzel,,,Dr.,,,CDU/CSU,
@@ -244,9 +259,11 @@
 457950,Würzbach,,,,,,CDU/CSU,
 457956,Haase,,,,,,CDU/CSU,Kassel
 457959,Würzbach,,,,,,CDU/CSU,
+457961,Haase,,,,,,CDU/CSU,Kassel
 457963,Ehmke,,,Dr.,,,SPD,
 457967,Immer,,,,,,SPD,Altenkirchen
 457971,Immer,,,,,,SPD,Altenkirchen
+457973,Immer,,,,,,SPD,Altenkirchen
 457977,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 457981,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 457984,Marx,,,Dr.,,,CDU/CSU,
@@ -268,6 +285,8 @@
 458031,Möller,,,Dr.,,,CDU/CSU,
 458034,Jahn,,,Dr.,,,CDU/CSU,Münster
 458038,Jahn,,,Dr.,,,CDU/CSU,Münster
+458042,Das ist unerhört!,,,,,,,
+458042,Möller,,,Dr.,,,CDU/CSU,
 458042,Zurufe  CDU/CSU,,,,von der,,CDU/CSU,
 458055,Waltemathe,,,,,,SPD,
 458058,Müntefering,,,,,,SPD,
@@ -281,6 +300,7 @@
 458084,Reuschenbach,,,,,,SPD,
 458088,Stahl,,,,,,SPD,Kempen
 458091,Gerstein,,,,,,CDU/CSU,
+458094,Stahl,,,,,,SPD,Kempen
 458098,Kiep,,,,,,CDU/CSU,
 458102,Riesenhuber,,,Dr.,,,CDU/CSU,
 458106,Franke,,,,,,CDU/CSU,
@@ -308,11 +328,13 @@
 458196,Franke,,,,,,CDU/CSU,
 458200,Westphal,,,,,,SPD,
 458216,Daweke,,,,,,CDU/CSU,
+458218,Daweke,,,,,,CDU/CSU,
 458219,Probst,,,Dr.,,,CDU/CSU,
 458220,Probst,,,Dr.,,,CDU/CSU,
 458224,Daweke,,,,,,CDU/CSU,
 458226,Daweke,,,,,,CDU/CSU,
 458227,Daweke,,,,,,CDU/CSU,
+458231,Daweke,,,,,,CDU/CSU,
 458233,Daweke,,,,,,CDU/CSU,
 458235,Stahl,,,,,,SPD,Kempen
 458237,Stahl,,,,,,SPD,Kempen
@@ -365,6 +387,7 @@
 458551,Stark,,,Dr.,,,CDU/CSU,Nürtingen
 458552,Erhard,,,,,,CDU/CSU,Bad Schwalbach
 458555,Heiterkeit,,,,,,,
+458555,Schlei,,,,,,SPD,
 458563,Erhard,,,,,,CDU/CSU,Bad Schwalbach
 458572,Kleinert,,,,,,FDP,
 458573,Wehner,,,,,,SPD,
@@ -390,6 +413,7 @@
 458710,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 458732,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 458738,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
+458758,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 458808,Thüsing,,,,,,SPD,
 458811,Hennig,,,Dr.,,,CDU/CSU,
 458813,Hennig,,,Dr.,,,CDU/CSU,
@@ -416,6 +440,7 @@
 459122,Wehner,,,,,,SPD,
 459129,Böhme,,,Dr.,,,SPD,Freiburg
 459132,Böhme,,,Dr.,,,SPD,Freiburg
+459136,Sauter,,,,,,CDU/CSU,Epfendorf
 459136,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
 459147,Rawe,,,,,,CDU/CSU,
 459154,Kiep,,,,,,CDU/CSU,
@@ -441,12 +466,16 @@
 459477,Blüm,,,Dr.,,,CDU/CSU,
 459484,Steger,,,Dr.,,,SPD,
 459487,Waigel,,,Dr.,,,CDU/CSU,
+459489,Roth,,,,,,SPD,
+459493,Roth,,,,,,SPD,
 459495,Waigel,,,Dr.,,,CDU/CSU,
 459498,Waigel,,,Dr.,,,CDU/CSU,
 459499,Jens,,,Dr.,,,SPD,
 459507,Waigel,,,Dr.,,,CDU/CSU,
+459509,Diederich,,,Dr.,,,SPD,Berlin
 459511,Haussmann,,,Dr.,,,FDP,
 459521,Roth,,,,,,SPD,
+459523,Reddemann,,,,,,CDU/CSU,
 459531,Blüm,,,Dr.,,,CDU/CSU,
 459536,Reddemann,,,,,,CDU/CSU,
 459537,Jäger,,,,,,CDU/CSU,Wangen
@@ -465,6 +494,7 @@
 459720,Kroll-Schlüter,,,,,,CDU/CSU,
 459722,Niegel,,,,,,CDU/CSU,
 459724,Gerster,,,,,,CDU/CSU,Mainz
+459726,KrollSchlüter,,,,,,CDU/CSU,
 459727,Kohl,,,Dr.,,,CDU/CSU,
 459731,Kohl,,,Dr.,,,CDU/CSU,
 459733,Kohl,,,Dr.,,,CDU/CSU,
@@ -488,6 +518,7 @@
 459949,Hennig,,,Dr.,,,CDU/CSU,
 459951,Kleinert,,,,,,FDP,
 459959,Däubler-Gmelin,,,Dr.,,,SPD,
+459961,Däubler-Gmelin,,,Dr.,,,SPD,
 459967,Gnädinger,,,,,,SPD,
 459968,Stark,,,Dr.,,,CDU/CSU,Nürtingen
 459970,Gnädinger,,,,,,SPD,
@@ -515,6 +546,7 @@
 460026,Kohl,,,Dr.,,,CDU/CSU,
 460027,Blüm,,,Dr.,,,CDU/CSU,
 460028,Haussmann,,,Dr.,,,FDP,
+460032,Urbaniak,,,,,,SPD,
 460032,Blüm,,,Dr.,,,CDU/CSU,
 460034,Müller,,,,,,CDU/CSU,Remscheid
 460036,Blüm,,,Dr.,,,CDU/CSU,
@@ -523,6 +555,7 @@
 460042,Blüm,,,Dr.,,,CDU/CSU,
 460048,Müller,,,,,,CDU/CSU,Remscheid
 460056,Blüm,,,Dr.,,,CDU/CSU,
+460060,Jäger,,,,,,CDU/CSU,Wangen
 460066,Timm,,,Dr.,,,SPD,
 460068,Jäger,,,,,,CDU/CSU,Wangen
 460070,Schwarz-Schilling,,,Dr.,,,CDU/CSU,
@@ -539,6 +572,7 @@
 460281,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 460282,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 460284,Ehmke,,,Dr.,,,SPD,
+460286,Wehner,,,,,,SPD,
 460290,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 460304,Barzel,,,Dr.,,,CDU/CSU,
 460308,Stark,,,Dr.,,,CDU/CSU,Nürtingen
@@ -559,6 +593,7 @@
 460350,Wehner,,,,,,SPD,
 460354,Gerstein,,,,,,CDU/CSU,
 460361,Jenninger,,,Dr.,,,CDU/CSU,
+460362,Wehner,,,,,,SPD,
 460364,Kohl,,,Dr.,,,CDU/CSU,
 460366,Kohl,,,Dr.,,,CDU/CSU,
 460375,Pack,,,,,,CDU/CSU,
@@ -602,6 +637,7 @@
 460666,Immer,,,,,,SPD,Altenkirchen
 460668,Eigen,,,,,,CDU/CSU,
 460670,Immer,,,,,,SPD,Altenkirchen
+460675,Immer,,,,,,SPD,Altenkirchen
 460675,Erneute Heiterkeit,,,,,,,
 460680,Wehner,,,,,,SPD,
 460683,Sauter,,,,,,CDU/CSU,Epfendorf
@@ -618,7 +654,9 @@
 460905,Lennartz,,,,,,SPD,
 460925,Martiny-Glotz,,,Dr.,,,SPD,
 460945,Heiterkeit,,,,,,,
+460945,Eigen,,,,,,CDU/CSU,
 460947,Hupka,,,Dr.,,,CDU/CSU,
+460996,Wolfram,,,,,,SPD,Recklinghausen
 461000,Urbaniak,,,,,,SPD,
 461004,Vogt,,,,,,CDU/CSU,Düren
 461006,Barzel,,,Dr.,,,CDU/CSU,
@@ -627,6 +665,7 @@
 461017,Müller,,,,,,CDU/CSU,Remscheid
 461020,Barzel,,,Dr.,,,CDU/CSU,
 461022,Zuruf  SPD,,,,von der,,SPD,
+461022,Urbaniak,,,,,,SPD,
 461023,Müller,,,,,,CDU/CSU,Remscheid
 461025,Jenninger,,,Dr.,,,CDU/CSU,
 461029,Franke,,,,,,CDU/CSU,
@@ -634,16 +673,19 @@
 461039,Blüm,,,Dr.,,,CDU/CSU,
 461041,Urbaniak,,,,,,SPD,
 461043,Müller,,,,,,CDU/CSU,Remscheid
+461045,Wehner,,,,,,SPD,
 461047,Rappe,,,,,,SPD,Hildesheim
 461048,Franke,,,,,,CDU/CSU,
 461052,Vogt,,,,,,CDU/CSU,Düren
 461053,Franke,,,,,,CDU/CSU,
 461054,Müller,,,,,,CDU/CSU,Remscheid
+461056,Franke,,,,,,CDU/CSU,
 461058,Rappe,,,,,,SPD,Hildesheim
 461060,Reddemann,,,,,,CDU/CSU,
 461062,Urbaniak,,,,,,SPD,
 461064,Vogel,,,,,,CDU/CSU,Ennepetal
 461066,Dregger,,,Dr.,,,CDU/CSU,
+461067,Wehner,,,,,,SPD,
 461069,Barzel,,,Dr.,,,CDU/CSU,
 461071,Huyn,,,,,Graf,CDU/CSU,
 461073,Wehner,,,,,,SPD,
@@ -710,6 +752,7 @@
 461556,Kohl,,,Dr.,,,CDU/CSU,
 461559,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 461561,Schwarz-Schilling,,,Dr.,,,CDU/CSU,
+461563,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 461566,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 461568,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 461570,Barzel,,,Dr.,,,CDU/CSU,
@@ -724,7 +767,9 @@
 461615,Klejdzinski,,,Dr.,,,SPD,
 461663,Niegel,,,,,,CDU/CSU,
 461720,Heiterkeit,,,,,,,
+461720,Voss,,,Dr.,,,CDU/CSU,
 461725,Heiterkeit,,,,,,,
+461725,Voss,,,Dr.,,,CDU/CSU,
 461738,Kunz,,,Dr.,,,CDU/CSU,Weiden
 461782,Langner,,,Dr.,,,CDU/CSU,
 461784,Langner,,,Dr.,,,CDU/CSU,
@@ -789,16 +834,21 @@
 462424,Hupka,,,Dr.,,,CDU/CSU,
 462441,Hennig,,,Dr.,,,CDU/CSU,
 462442,Hennig,,,Dr.,,,CDU/CSU,
+462454,Wehner,,,,,,SPD,
 462456,Würzbach,,,,,,CDU/CSU,
 462458,Kiep,,,,,,CDU/CSU,
 462459,Schwarz,,,,,,CDU/CSU,
 462462,Würzbach,,,,,,CDU/CSU,
 462468,Wehner,,,,,,SPD,
 462470,Würzbach,,,,,,CDU/CSU,
+462472,Wehner,,,,,,SPD,
 462473,Jenninger,,,Dr.,,,CDU/CSU,
 462475,Jenninger,,,Dr.,,,CDU/CSU,
+462478,Wehner,,,,,,SPD,
 462480,Wehner,,,,,,SPD,
 462482,Wehner,,,,,,SPD,
+462486,Wehner,,,,,,SPD,
+462487,Wehner,,,,,,SPD,
 462488,George,,,Dr.,,,CDU/CSU,
 462490,Kolb,,,,,,CDU/CSU,
 462494,Stark,,,Dr.,,,CDU/CSU,Nürtingen
@@ -809,8 +859,10 @@
 462507,Lutz,,,,,,SPD,
 462510,Dreßler,,,,,,SPD,
 462512,Landré,,,,,,CDU/CSU,
+462517,Lutz,,,,,,SPD,
 462521,Windelen,,,,,,CDU/CSU,
 462523,Huyn,,,,,Graf,CDU/CSU,
+462525,Wehner,,,,,,SPD,
 462527,Jenninger,,,Dr.,,,CDU/CSU,
 462528,Kohl,,,Dr.,,,CDU/CSU,
 462530,Barzel,,,Dr.,,,CDU/CSU,
@@ -834,6 +886,7 @@
 462600,Kohl,,,Dr.,,,CDU/CSU,
 462613,Emmerlich,,,Dr.,,,SPD,
 462619,Zuruf  SPD,,,,von der,,SPD,
+462619,Hirsch,,,Dr.,,,FDP,
 462621,Erhard,,,,,,CDU/CSU,Bad Schwalbach
 462625,Wolfram,,,,,,SPD,Recklinghausen
 462628,Kansy,,,Dr.-Ing.,,,CDU/CSU,
@@ -843,8 +896,10 @@
 462641,Kolb,,,,,,CDU/CSU,
 462643,Kolb,,,,,,CDU/CSU,
 462645,Kolb,,,,,,CDU/CSU,
+462646,Gerstein,,,,,,CDU/CSU,
 462648,Wolfram,,,,,,SPD,Recklinghausen
 462650,Stavenhagen,,,Dr.,,,CDU/CSU,
+462654,Stavenhagen,,,Dr.,,,CDU/CSU,
 462658,Kolb,,,,,,CDU/CSU,
 462662,Stavenhagen,,,Dr.,,,CDU/CSU,
 462664,Lenzer,,,,,,CDU/CSU,
@@ -855,6 +910,7 @@
 462686,Riesenhuber,,,Dr.,,,CDU/CSU,
 462690,Kolb,,,,,,CDU/CSU,
 462694,Kolb,,,,,,CDU/CSU,
+462696,Wehner,,,,,,SPD,
 462698,Franke,,,,,,CDU/CSU,
 462700,Franke,,,,,,CDU/CSU,
 462701,Wischnewski,,,,,,SPD,
@@ -870,6 +926,7 @@
 462796,Merker,,,,,,FDP,
 462813,Zeitler,,,,,,SPD,
 462828,Stockleben,,,,,,SPD,
+462884,Wehner,,,,,,SPD,
 462886,Westphal,,,,,,SPD,
 462888,Spöri,,,Dr.,,,SPD,
 462890,Gerster,,,,,,CDU/CSU,Mainz
@@ -882,6 +939,7 @@
 462901,Riedl,,,Dr.,,,CDU/CSU,München
 462903,Kolb,,,,,,CDU/CSU,
 462907,Kolb,,,,,,CDU/CSU,
+462908,Kolb,,,,,,CDU/CSU,
 462910,Gerster,,,,,,CDU/CSU,Mainz
 462912,Glos,,,,,,CDU/CSU,
 462916,Walther,,,,,,SPD,
@@ -891,6 +949,7 @@
 462925,Riedl,,,Dr.,,,CDU/CSU,München
 462927,Spöri,,,Dr.,,,SPD,
 462935,Gerster,,,,,,CDU/CSU,Mainz
+462937,Lemmrich,,,,,,CDU/CSU,
 462940,Kiep,,,,,,CDU/CSU,
 462943,Friedmann,,,Dr.,,,CDU/CSU,
 462944,Riedl,,,Dr.,,,CDU/CSU,München
@@ -899,8 +958,10 @@
 462950,Roth,,,,,,SPD,
 462958,Roth,,,,,,SPD,
 462960,Roth,,,,,,SPD,
+462962,Walther,,,,,,SPD,
 462964,Kittelmann,,,,,,CDU/CSU,
 462967,Kittelmann,,,,,,CDU/CSU,
+462970,Kittelmann,,,,,,CDU/CSU,
 462971,Riedl,,,Dr.,,,CDU/CSU,München
 462973,Kühbacher,,,,,,SPD,
 462979,Kolb,,,,,,CDU/CSU,
@@ -912,6 +973,7 @@
 462994,Kolb,,,,,,CDU/CSU,
 462998,Kolb,,,,,,CDU/CSU,
 463000,Kolb,,,,,,CDU/CSU,
+463002,Kolb,,,,,,CDU/CSU,
 463005,Kolb,,,,,,CDU/CSU,
 463008,Kroll-Schlüter,,,,,,CDU/CSU,
 463010,Löffler,,,,,,SPD,
@@ -921,6 +983,7 @@
 463025,Tillmann,,,,,,CDU/CSU,
 463027,Tillmann,,,,,,CDU/CSU,
 463031,Gerster,,,,,,CDU/CSU,Mainz
+463035,Lemmrich,,,,,,CDU/CSU,
 463037,Pfeffermann,,,,,,CDU/CSU,
 463040,Lemmrich,,,,,,CDU/CSU,
 463043,Riedl,,,Dr.,,,CDU/CSU,München
@@ -934,6 +997,8 @@
 463056,Kansy,,,Dr.-Ing.,,,CDU/CSU,
 463057,Jahn,,,Dr.,,,CDU/CSU,Münster
 463058,Möller,,,Dr.,,,CDU/CSU,
+463059,Niegel,,,,,,CDU/CSU,
+463061,Wehner,,,,,,SPD,
 463063,Gerster,,,,,,CDU/CSU,Mainz
 463066,Gerster,,,,,,CDU/CSU,Mainz
 463069,Eigen,,,,,,CDU/CSU,
@@ -943,7 +1008,11 @@
 463080,Riedl,,,Dr.,,,CDU/CSU,München
 463082,Grobecker,,,,,,SPD,
 463087,Marx,,,Dr.,,,CDU/CSU,
+463091,Marx,,,Dr.,,,CDU/CSU,
+463091,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
+463091,Blüm,,,Dr.,,,CDU/CSU,
 463093,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
+463095,Wehner,,,,,,SPD,
 463097,Wolfram,,,,,,SPD,Recklinghausen
 463102,Blüm,,,Dr.,,,CDU/CSU,
 463111,Jenninger,,,Dr.,,,CDU/CSU,
@@ -986,6 +1055,9 @@
 463240,Hartmann,,,,,,CDU/CSU,
 463244,Marx,,,Dr.,,,CDU/CSU,
 463246,Marx,,,Dr.,,,CDU/CSU,
+463248,Hupka,,,Dr.,,,CDU/CSU,
+463248,Marx,,,Dr.,,,CDU/CSU,
+463248,Marx,,,Dr.,,,CDU/CSU,
 463250,Marx,,,Dr.,,,CDU/CSU,
 463254,Wehner,,,,,,SPD,
 463259,Riedl,,,Dr.,,,CDU/CSU,München
@@ -998,27 +1070,37 @@
 463280,Walther,,,,,,SPD,
 463285,Marx,,,Dr.,,,CDU/CSU,
 463287,Hüsch,,,Dr.,,,CDU/CSU,
+463293,Walther,,,,,,SPD,
 463295,Hennig,,,Dr.,,,CDU/CSU,
 463297,Hennig,,,Dr.,,,CDU/CSU,
 463301,Gerster,,,,,,CDU/CSU,Mainz
 463303,Marx,,,Dr.,,,CDU/CSU,
+463305,Carstens,,,,,,CDU/CSU,Emstek
+463305,Wörner,,,Dr.,,,CDU/CSU,
 463320,Würtz,,,,,,SPD,
 463321,Marx,,,Dr.,,,CDU/CSU,
 463323,Wörner,,,Dr.,,,CDU/CSU,
 463327,Marx,,,Dr.,,,CDU/CSU,
+463328,Dallmeyer,,,,,,CDU/CSU,
 463336,Wörner,,,Dr.,,,CDU/CSU,
 463339,Wörner,,,Dr.,,,CDU/CSU,
 463342,Kunz,,,Dr.,,,CDU/CSU,Weiden
 463350,Walther,,,,,,SPD,
+463352,Weiskirch,,,,,,CDU/CSU,Olpe
+463354,Weiskirch,,,,,,CDU/CSU,Olpe
 463356,Kohl,,,Dr.,,,CDU/CSU,
 463366,Lebhafte Zurufe,,,,,,,
+463366,Wehner,,,,,,SPD,
 463370,Reuschenbach,,,,,,SPD,
+463376,Wehner,,,,,,SPD,
 463379,Kleinert,,,,,,FDP,
 463380,Jenninger,,,Dr.,,,CDU/CSU,
 463387,Buschfort,,,,,,SPD,
 463389,Franke,,,,,,CDU/CSU,
 463393,Carstens,,,,,,CDU/CSU,Emstek
 463394,Zurufe  CDU/CSU,,,,von der,,CDU/CSU,
+463394,Franke,,,,,,CDU/CSU,
+463394,Der Exsenator!,,,,,,,
 463395,Hauck,,,,,,SPD,
 463397,Riedl,,,Dr.,,,CDU/CSU,München
 463399,Blüm,,,Dr.,,,CDU/CSU,
@@ -1057,6 +1139,7 @@
 463500,Kühbacher,,,,,,SPD,
 463503,Kansy,,,Dr.-Ing.,,,CDU/CSU,
 463504,Kleinert,,,,,,FDP,
+463506,Gerster,,,,,,CDU/CSU,Mainz
 463510,Möller,,,Dr.,,,CDU/CSU,
 463511,Walther,,,,,,SPD,
 463513,Broll,,,,,,CDU/CSU,
@@ -1068,6 +1151,7 @@
 463533,Gerster,,,,,,CDU/CSU,Mainz
 463538,Daweke,,,,,,CDU/CSU,
 463542,Daweke,,,,,,CDU/CSU,
+463543,Daweke,,,,,,CDU/CSU,
 463550,Walther,,,,,,SPD,
 463552,Däubler-Gmelin,,,Dr.,,,SPD,
 463554,Däubler-Gmelin,,,Dr.,,,SPD,
@@ -1078,6 +1162,7 @@
 463564,Gerster,,,,,,CDU/CSU,Mainz
 463568,Gerster,,,,,,CDU/CSU,Mainz
 463570,Däubler-Gmelin,,,Dr.,,,SPD,
+463572,Bindig,,,,,,SPD,
 463573,Niegel,,,,,,CDU/CSU,
 463574,Erhard,,,,,,CDU/CSU,Bad Schwalbach
 463577,Friedmann,,,Dr.,,,CDU/CSU,
@@ -1085,10 +1170,12 @@
 463585,Erhard,,,,,,CDU/CSU,Bad Schwalbach
 463591,Hackel,,,Dr.,,,CDU/CSU,
 463595,Kolb,,,,,,CDU/CSU,
+463597,Glos,,,,,,CDU/CSU,
 463600,Glos,,,,,,CDU/CSU,
 463601,Kolb,,,,,,CDU/CSU,
 463603,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 463604,Kolb,,,,,,CDU/CSU,
+463605,Möller,,,Dr.,,,CDU/CSU,
 463605,Beifall,,,,,,,
 463607,Riedl,,,Dr.,,,CDU/CSU,München
 463611,Möller,,,Dr.,,,CDU/CSU,
@@ -1108,6 +1195,7 @@
 463858,Eigen,,,,,,CDU/CSU,
 463890,Verhülsdonk,,,,,,CDU/CSU,
 463935,Heiterkeit,,,,,,,
+463935,Voss,,,Dr.,,,CDU/CSU,
 463938,Voss,,,Dr.,,,CDU/CSU,
 463939,Hellwig,,,Dr.,,,CDU/CSU,
 464000,Hansen,,,,,,SPD,
@@ -1137,6 +1225,7 @@
 464133,Kolb,,,,,,CDU/CSU,
 464135,Kolb,,,,,,CDU/CSU,
 464139,Steger,,,Dr.,,,SPD,
+464141,Kolb,,,,,,CDU/CSU,
 464143,Kansy,,,Dr.-Ing.,,,CDU/CSU,
 464144,Müntefering,,,,,,SPD,
 464146,Riesenhuber,,,Dr.,,,CDU/CSU,
@@ -1201,6 +1290,7 @@
 464596,Marx,,,Dr.,,,CDU/CSU,
 464598,Marx,,,Dr.,,,CDU/CSU,
 464601,Wehner,,,,,,SPD,
+464602,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 464603,Wehner,,,,,,SPD,
 464604,Barzel,,,Dr.,,,CDU/CSU,
 464607,Huyn,,,,,Graf,CDU/CSU,
@@ -1220,7 +1310,9 @@
 464640,Wehner,,,,,,SPD,
 464643,Hennig,,,Dr.,,,CDU/CSU,
 464645,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
+464647,Todenhöfer,,,Dr.,,,CDU/CSU,
 464647,Huyn,,,,,Graf,CDU/CSU,
+464649,Wehner,,,,,,SPD,
 464669,Jäger,,,,,,CDU/CSU,Wangen
 464680,Dallmeyer,,,,,,CDU/CSU,
 464694,Thüsing,,,,,,SPD,
@@ -1256,13 +1348,16 @@
 465024,Eigen,,,,,,CDU/CSU,
 465042,Westphal,,,,,,SPD,
 465045,Wehner,,,,,,SPD,
+465047,Glos,,,,,,CDU/CSU,
 465052,Kiep,,,,,,CDU/CSU,
 465058,Walther,,,,,,SPD,
 465061,Kohl,,,Dr.,,,CDU/CSU,
 465063,Barzel,,,Dr.,,,CDU/CSU,
+465065,Wehner,,,,,,SPD,
 465067,Dregger,,,Dr.,,,CDU/CSU,
 465068,Wehner,,,,,,SPD,
 465069,Westphal,,,,,,SPD,
+465075,Gansel,,,,,,SPD,
 465077,Beckmann,,,,,,FDP,
 465078,Dregger,,,Dr.,,,CDU/CSU,
 465080,Gansel,,,,,,SPD,
@@ -1270,6 +1365,7 @@
 465082,Conradi,,,,,,SPD,
 465083,Spöri,,,Dr.,,,SPD,
 465084,Häfele,,,Dr.,,,CDU/CSU,
+465086,Wehner,,,,,,SPD,
 465088,Broll,,,,,,CDU/CSU,
 465089,Glos,,,,,,CDU/CSU,
 465094,Riedl,,,Dr.,,,CDU/CSU,München
@@ -1290,12 +1386,14 @@
 465130,Böhme,,,Dr.,,,SPD,Freiburg
 465132,Lutz,,,,,,SPD,
 465140,Lutz,,,,,,SPD,
+465142,Matthöfer,,,,,,SPD,
 465143,Egert,,,,,,SPD,
 465147,Franke,,,,,,CDU/CSU,
 465149,Franke,,,,,,CDU/CSU,
 465152,Franke,,,,,,CDU/CSU,
 465162,Müller,,,,,,CDU/CSU,Remscheid
 465164,Müller,,,,,,CDU/CSU,Remscheid
+465168,Franke,,,,,,CDU/CSU,
 465172,Mertes,,,Dr.,,,CDU/CSU,
 465174,Gerstein,,,,,,CDU/CSU,
 465178,Gerstein,,,,,,CDU/CSU,
@@ -1304,6 +1402,7 @@
 465187,Reuschenbach,,,,,,SPD,
 465188,Lammert,,,Dr.,,,CDU/CSU,
 465196,Kohl,,,Dr.,,,CDU/CSU,
+465197,Wehner,,,,,,SPD,
 465198,Wolfram,,,,,,SPD,Recklinghausen
 465199,Gerstein,,,,,,CDU/CSU,
 465201,Barzel,,,Dr.,,,CDU/CSU,
@@ -1313,6 +1412,7 @@
 465208,Barzel,,,Dr.,,,CDU/CSU,
 465209,Walther,,,,,,SPD,
 465210,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
+465215,Ehmke,,,Dr.,,,SPD,
 465215,Barzel,,,Dr.,,,CDU/CSU,
 465221,Barzel,,,Dr.,,,CDU/CSU,
 465223,Dregger,,,Dr.,,,CDU/CSU,
@@ -1330,7 +1430,9 @@
 465387,Möller,,,Dr.,,,CDU/CSU,
 465391,Möller,,,Dr.,,,CDU/CSU,
 465394,Niegel,,,,,,CDU/CSU,
+465401,Conradi,,,,,,SPD,
 465403,Gnädinger,,,,,,SPD,
+465404,Rawe,,,,,,CDU/CSU,
 465405,Kolb,,,,,,CDU/CSU,
 465407,Jahn,,,Dr.,,,CDU/CSU,Münster
 465448,Stutzer,,,,,,CDU/CSU,
@@ -1357,17 +1459,21 @@
 465638,Jahn,,,Dr.,,,CDU/CSU,Münster
 465640,Kansy,,,Dr.-Ing.,,,CDU/CSU,
 465642,Jahn,,,Dr.,,,CDU/CSU,Münster
+465644,Jahn,,,Dr.,,,CDU/CSU,Münster
 465646,Jahn,,,Dr.,,,CDU/CSU,Münster
 465648,Kansy,,,Dr.-Ing.,,,CDU/CSU,
 465650,Müntefering,,,,,,SPD,
+465652,Niegel,,,,,,CDU/CSU,
 465654,Rappe,,,,,,SPD,Hildesheim
 465658,Kolb,,,,,,CDU/CSU,
 465659,Probst,,,Dr.,,,CDU/CSU,
 465660,Wilms,,,Dr.,,,CDU/CSU,
 465666,Probst,,,Dr.,,,CDU/CSU,
 465668,Rappe,,,,,,SPD,Hildesheim
+465670,Wehner,,,,,,SPD,
 465671,Wilms,,,Dr.,,,CDU/CSU,
 465673,Pfeifer,,,,,,CDU/CSU,
+465678,Rühe,,,,,,CDU/CSU,
 465680,Rühe,,,,,,CDU/CSU,
 465686,Wilms,,,Dr.,,,CDU/CSU,
 465695,Daweke,,,,,,CDU/CSU,
@@ -1379,6 +1485,7 @@
 465722,Jäger,,,,,,CDU/CSU,Wangen
 465724,Jäger,,,,,,CDU/CSU,Wangen
 465726,Hennig,,,Dr.,,,CDU/CSU,
+465727,Berger,,,,,,CDU/CSU,Berg
 465727,Lorenz,,,,,,CDU/CSU,
 465728,Lambinus,,,,,,SPD,
 465732,Jäger,,,,,,CDU/CSU,Wangen
@@ -1387,8 +1494,10 @@
 465738,Kroll-Schlüter,,,,,,CDU/CSU,
 465740,Ronneburger,,,,,,FDP,
 465744,Jäger,,,,,,CDU/CSU,Wangen
+465748,Lambinus,,,,,,SPD,
 465748,Wehner,,,,,,SPD,
 465751,Zurufe  CDU/CSU,,,,von der,,CDU/CSU,
+465751,Büchler,,,,,,SPD,Hof
 465754,Stahl,,,,,,SPD,Kempen
 465756,Hupka,,,Dr.,,,CDU/CSU,
 465758,Hupka,,,Dr.,,,CDU/CSU,
@@ -1399,10 +1508,12 @@
 465879,Spöri,,,Dr.,,,SPD,
 465897,Jäger,,,,,,CDU/CSU,Wangen
 465911,Kunz,,,Dr.,,,CDU/CSU,Weiden
+465995,Kunz,,,Dr.,,,CDU/CSU,Weiden
 466007,Glos,,,,,,CDU/CSU,
 466043,Glos,,,,,,CDU/CSU,
 466128,Eigen,,,,,,CDU/CSU,
 466155,Wehner,,,,,,SPD,
+466155,Barzel,,,Dr.,,,CDU/CSU,
 466158,Wehner,,,,,,SPD,
 466160,Urbaniak,,,,,,SPD,
 466162,Marx,,,Dr.,,,CDU/CSU,
@@ -1411,9 +1522,11 @@
 466170,Barzel,,,Dr.,,,CDU/CSU,
 466171,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 466175,Marx,,,Dr.,,,CDU/CSU,
+466179,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 466189,Jenninger,,,Dr.,,,CDU/CSU,
 466190,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 466194,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
+466202,Rawe,,,,,,CDU/CSU,
 466204,Conradi,,,,,,SPD,
 466252,Clemens,,,,,,CDU/CSU,
 466347,Jaunich,,,,,,SPD,
@@ -1430,6 +1543,7 @@
 466464,Benedix-Engler,,,,,,CDU/CSU,
 466465,Vogel,,,,,,CDU/CSU,Ennepetal
 466466,Stark,,,Dr.,,,CDU/CSU,Nürtingen
+466467,Stark,,,Dr.,,,CDU/CSU,Nürtingen
 466468,Stark,,,Dr.,,,CDU/CSU,Nürtingen
 466469,Olderog,,,Dr.,,,CDU/CSU,
 466473,Stark,,,Dr.,,,CDU/CSU,Nürtingen
@@ -1437,9 +1551,11 @@
 466477,Wehner,,,,,,SPD,
 466482,Stark,,,Dr.,,,CDU/CSU,Nürtingen
 466484,Schoeler,,,,von,,FDP,
+466489,Penksy,,,,,,SPD,
 466497,Pensky,,,,,,SPD,
 466499,Lenz,,,Dr.,,,CDU/CSU,Bergstraße
 466500,Wehner,,,,,,SPD,
+466501,Wehner,,,,,,SPD,
 466507,Däubler-Gmelin,,,Dr.,,,SPD,
 466510,Brandt,,,,,,SPD,Grolsheim
 466511,Erhard,,,,,,CDU/CSU,Bad Schwalbach
@@ -1451,6 +1567,7 @@
 466524,Stark,,,Dr.,,,CDU/CSU,Nürtingen
 466526,Erhard,,,,,,CDU/CSU,Bad Schwalbach
 466527,Werner,,,,,,CDU/CSU,
+466528,Wehner,,,,,,SPD,
 466530,Jäger,,,,,,CDU/CSU,Wangen
 466532,Jäger,,,,,,CDU/CSU,Wangen
 466534,Jäger,,,,,,CDU/CSU,Wangen
@@ -1510,6 +1627,7 @@
 467087,Jobst,,,Dr.,,,CDU/CSU,
 467110,Reddemann,,,,,,CDU/CSU,
 467116,Heiterkeit,,,,,,,
+467116,Reddemann,,,,,,CDU/CSU,
 467134,Reddemann,,,,,,CDU/CSU,
 467154,Reddemann,,,,,,CDU/CSU,
 467207,Laufs,,,Dr.,,,CDU/CSU,
@@ -1531,6 +1649,7 @@
 467282,Nöbel,,,Dr.,,,SPD,
 467290,Weirich,,,,,,CDU/CSU,
 467292,Weirich,,,,,,CDU/CSU,
+467293,Stücklen,,,,,,CDU/CSU,
 467293,Heiterkeit,,,,,,,
 467303,Czaja,,,Dr.,,,CDU/CSU,
 467330,Sauer,,,,,,CDU/CSU,Salzgitter
@@ -1539,6 +1658,7 @@
 467346,Sauer,,,,,,CDU/CSU,Salzgitter
 467349,Voigt,,,,,,SPD,Frankfurt
 467391,Czaja,,,Dr.,,,CDU/CSU,
+467394,Herterich,,,,,,SPD,
 467448,Kunz,,,Dr.,,,CDU/CSU,Weiden
 467505,Schulze,,,,,,CDU/CSU,Berlin
 467509,Friedmann,,,Dr.,,,CDU/CSU,
@@ -1558,6 +1678,7 @@
 467575,Hupka,,,Dr.,,,CDU/CSU,
 467582,Haase,,,,,,CDU/CSU,Kassel
 467584,Spöri,,,Dr.,,,SPD,
+467585,Carstens,,,,,,CDU/CSU,Emstek
 467585,Glos,,,,,,CDU/CSU,
 467586,Haase,,,,,,CDU/CSU,Kassel
 467588,Jenninger,,,Dr.,,,CDU/CSU,
@@ -1576,6 +1697,7 @@
 467625,Riedl,,,Dr.,,,CDU/CSU,München
 467626,Westphal,,,,,,SPD,
 467630,Friedmann,,,Dr.,,,CDU/CSU,
+467632,Wehner,,,,,,SPD,
 467634,Kiep,,,,,,CDU/CSU,
 467635,Pohlmann,,,,,,CDU/CSU,
 467637,Pohlmann,,,,,,CDU/CSU,
@@ -1595,6 +1717,7 @@
 467891,Haase,,,,,,CDU/CSU,Kassel
 467895,Franke,,,,,,CDU/CSU,
 467896,Barzel,,,Dr.,,,CDU/CSU,
+467898,Westphal,,,,,,SPD,
 467901,Jenninger,,,Dr.,,,CDU/CSU,
 467903,Franke,,,,,,CDU/CSU,
 467904,Bindig,,,,,,SPD,
@@ -1616,12 +1739,14 @@
 467938,Steger,,,Dr.,,,SPD,
 467940,Probst,,,Dr.,,,CDU/CSU,
 467943,Wolfram,,,,,,SPD,Recklinghausen
+467944,Daweke,,,,,,CDU/CSU,
 467947,Pfeifer,,,,,,CDU/CSU,
 467949,Pfeifer,,,,,,CDU/CSU,
 467954,Daweke,,,,,,CDU/CSU,
 467956,Daweke,,,,,,CDU/CSU,
 467962,Daweke,,,,,,CDU/CSU,
 467964,Merker,,,,,,FDP,
+467966,Wehner,,,,,,SPD,
 467968,Pfeffermann,,,,,,CDU/CSU,
 467969,Jobst,,,Dr.,,,CDU/CSU,
 467970,Pfeffermann,,,,,,CDU/CSU,
@@ -1644,6 +1769,7 @@
 468140,George,,,Dr.,,,CDU/CSU,
 468144,Jobst,,,Dr.,,,CDU/CSU,
 468151,Jobst,,,Dr.,,,CDU/CSU,
+468153,Wehner,,,,,,SPD,
 468155,Jobst,,,Dr.,,,CDU/CSU,
 468159,Riemer,,,Dr.,,,FDP,
 468163,Jobst,,,Dr.,,,CDU/CSU,
@@ -1660,6 +1786,7 @@
 468401,Würzbach,,,,,,CDU/CSU,
 468403,Ganz,,,,,,CDU/CSU,St. Wendel
 468405,Dallmeyer,,,,,,CDU/CSU,
+468405,Ganz,,,,,,CDU/CSU,St. Wendel
 468410,Berger,,,,,,CDU/CSU,Berg
 468412,Vohrer,,,Dr.,,,FDP,
 468414,Köhler,,,Dr.,,,CDU/CSU,Wolfsburg
@@ -1668,16 +1795,21 @@
 468421,Köhler,,,Dr.,,,CDU/CSU,Wolfsburg
 468423,Köhler,,,Dr.,,,CDU/CSU,Wolfsburg
 468428,Köhler,,,Dr.,,,CDU/CSU,Wolfsburg
+468431,Berger,,,,,,CDU/CSU,Berg
 468433,Biehle,,,,,,CDU/CSU,
 468438,Würzbach,,,,,,CDU/CSU,
 468440,Haase,,,,,,CDU/CSU,Kassel
+468444,Würzbach,,,,,,CDU/CSU,
 468453,Dallmeyer,,,,,,CDU/CSU,
 468457,Berger,,,,,,CDU/CSU,Berg
+468459,Würzbach,,,,,,CDU/CSU,
 468463,Wimmer,,,,,,CDU/CSU,Neuss
 468469,Wörner,,,Dr.,,,CDU/CSU,
 468471,Wehner,,,,,,SPD,
 468475,Würzbach,,,,,,CDU/CSU,
 468477,Würzbach,,,,,,CDU/CSU,
+468477,Marx,,,Dr.,,,CDU/CSU,
+468479,Würzbach,,,,,,CDU/CSU,
 468481,Würzbach,,,,,,CDU/CSU,
 468483,Biehle,,,,,,CDU/CSU,
 468487,Würzbach,,,,,,CDU/CSU,
@@ -1695,6 +1827,7 @@
 468739,Gerstein,,,,,,CDU/CSU,
 468740,Gerstein,,,,,,CDU/CSU,
 468742,Heiterkeit,,,,,,,
+468742,Niegel,,,,,,CDU/CSU,
 468750,Wehner,,,,,,SPD,
 468754,Jäger,,,,,,CDU/CSU,Wangen
 468756,Schulze,,,,,,CDU/CSU,Berlin
@@ -1717,6 +1850,7 @@
 468873,Meinike,,,,,,SPD,Oberhausen
 469105,Kohl,,,Dr.,,,CDU/CSU,
 469107,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
+469109,Brandt,,,,,,SPD,
 469117,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 469121,Voigt,,,,,,SPD,Frankfurt
 469123,Wörner,,,Dr.,,,CDU/CSU,
@@ -1734,11 +1868,14 @@
 469167,Walther,,,,,,SPD,
 469169,Riedl,,,Dr.,,,CDU/CSU,München
 469171,Grobecker,,,,,,SPD,
+469175,Wehner,,,,,,SPD,
+469185,Haase,,,,,,CDU/CSU,Kassel
 469187,Glos,,,,,,CDU/CSU,
+469187,Friedmann,,,Dr.,,,CDU/CSU,
 469193,Zuruf  SPD,,,,von der,,SPD,
 469254,Eigen,,,,,,CDU/CSU,
 469271,Dr,,,,,,,
-469273,Funk,,,,,,CDU/CSU,
+469273,Funk,,,,,,CDU/CSU,Gutenzell
 469276,Weiß,,,,,,CDU/CSU,
 469282,Weiß,,,,,,CDU/CSU,
 469305,Schorlemer,,,,von,Freiherr,CDU/CSU,
@@ -1746,12 +1883,19 @@
 469372,Laufs,,,Dr.,,,CDU/CSU,
 469377,Spöri,,,Dr.,,,SPD,
 469379,Probst,,,Dr.,,,CDU/CSU,
+469380,Gerstein,,,,,,CDU/CSU,
 469382,Catenhusen,,,,,,SPD,
+469387,Riesenhuber,,,Dr.,,,CDU/CSU,
 469391,Lenzer,,,,,,CDU/CSU,
 469395,Catenhusen,,,,,,SPD,
+469397,Zuruf  CDU/ CSU,,,,von der,,,
+469397,Probst,,,Dr.,,,CDU/CSU,
+469397,Riesenhuber,,,Dr.,,,CDU/CSU,
 469399,Probst,,,Dr.,,,CDU/CSU,
+469399,Riesenhuber,,,Dr.,,,CDU/CSU,
 469401,Probst,,,Dr.,,,CDU/CSU,
 469405,Gerstein,,,,,,CDU/CSU,
+469407,Gerstein,,,,,,CDU/CSU,
 469409,Lenzer,,,,,,CDU/CSU,
 469411,Laufs,,,Dr.,,,CDU/CSU,
 469415,Probst,,,Dr.,,,CDU/CSU,
@@ -1760,6 +1904,8 @@
 469423,Lowack,,,,,,CDU/CSU,
 469424,Pfeifer,,,,,,CDU/CSU,
 469427,Timm,,,Dr.,,,SPD,
+469428,Wehner,,,,,,SPD,
+469483,Jäger,,,,,,CDU/CSU,Wangen
 469483,Eigen,,,,,,CDU/CSU,
 469484,Hupka,,,Dr.,,,CDU/CSU,
 469493,Eigen,,,,,,CDU/CSU,
@@ -1774,7 +1920,9 @@
 469674,Bühler,,,,,,CDU/CSU,Bruchsal
 469676,Dregger,,,Dr.,,,CDU/CSU,
 469677,Marx,,,Dr.,,,CDU/CSU,
+469678,Löffler,,,,,,SPD,
 469680,Liedtke,,,,,,SPD,
+469683,Wörner,,,Dr.,,,CDU/CSU,
 469683,Heiterkeit,,,,,,,
 469685,Jäger,,,,,,,Wangen
 469689,Erhard,,,,,,CDU/CSU,Bad Schwalbach
@@ -1833,6 +1981,7 @@
 470131,Marx,,,Dr.,,,CDU/CSU,
 470133,Lenz,,,Dr.,,,CDU/CSU,Bergstraße
 470134,Jäger,,,,,,CDU/CSU,Wangen
+470136,Voigt,,,,,,SPD,Frankfurt
 470138,Kunz,,,Dr.,,,CDU/CSU,Weiden
 470139,Möller,,,Dr.,,,CDU/CSU,
 470141,Kunz,,,Dr.,,,CDU/CSU,Weiden
@@ -1840,6 +1989,7 @@
 470146,Marx,,,Dr.,,,CDU/CSU,
 470148,Jäger,,,,,,CDU/CSU,Wangen
 470150,Sauer,,,,,,CDU/CSU,Salzgitter
+470153,Wehner,,,,,,SPD,
 470157,Volmer,,,,,,CDU/CSU,
 470158,Volmer,,,,,,CDU/CSU,
 470162,Lenz,,,Dr.,,,CDU/CSU,Bergstraße
@@ -1855,15 +2005,19 @@
 470191,Kohl,,,Dr.,,,CDU/CSU,
 470193,Haase,,,,,,CDU/CSU,Kassel
 470197,Kohl,,,Dr.,,,CDU/CSU,
+470203,Wehner,,,,,,SPD,
 470204,Wischnewski,,,,,,SPD,
+470208,Kohl,,,Dr.,,,CDU/CSU,
 470208,Heiterkeit,,,,,,,
 470212,Kansy,,,Dr.-Ing.,,,CDU/CSU,
 470213,Hornhues,,,Dr.,,,CDU/CSU,
 470214,Kohl,,,Dr.,,,CDU/CSU,
+470216,Wehner,,,,,,SPD,
 470216,Heiterkeit,,,,,,,
 470231,Marx,,,Dr.,,,CDU/CSU,
 470237,Daweke,,,,,,CDU/CSU,
 470239,Wischnewski,,,,,,SPD,
+470249,Jäger,,,,,,CDU/CSU,Wangen
 470251,Daweke,,,,,,CDU/CSU,
 470253,Hennig,,,Dr.,,,CDU/CSU,
 470257,Marx,,,Dr.,,,CDU/CSU,
@@ -1882,15 +2036,20 @@
 470306,Zumpfort,,,Dr.,,,FDP,
 470314,Haase,,,,,,CDU/CSU,Kassel
 470319,Haase,,,,,,CDU/CSU,Kassel
+470320,Gerster,,,,,,CDU/CSU,Mainz
 470323,Gerster,,,,,,CDU/CSU,Mainz
 470324,Gerster,,,,,,CDU/CSU,Mainz
+470326,Wehner,,,,,,SPD,
 470328,Würtz,,,,,,SPD,
 470330,Kittelmann,,,,,,CDU/CSU,
+470333,Gerster,,,,,,CDU/CSU,Mainz
 470335,Jäger,,,,,,CDU/CSU,Wangen
 470337,Lintner,,,,,,CDU/CSU,
 470338,Werner,,,,,,CDU/CSU,
 470340,Haase,,,,,,CDU/CSU,Kassel
+470341,Wehner,,,,,,SPD,
 470349,Löffler,,,,,,SPD,
+470356,Löffler,,,,,,SPD,
 470358,Glos,,,,,,CDU/CSU,
 470360,Haase,,,,,,CDU/CSU,Kassel
 470361,Lampersbach,,,,,,CDU/CSU,
@@ -1903,6 +2062,7 @@
 470385,Häfele,,,Dr.,,,CDU/CSU,
 470392,Carstens,,,,,,CDU/CSU,Emstek
 470406,Haase,,,,,,CDU/CSU,Kassel
+470415,Wehner,,,,,,SPD,
 470416,Haase,,,,,,CDU/CSU,Kassel
 470417,Löffler,,,,,,SPD,
 470419,Löffler,,,,,,SPD,
@@ -1934,8 +2094,11 @@
 470504,Kiep,,,,,,CDU/CSU,
 470509,Friedmann,,,Dr.,,,CDU/CSU,
 470511,Glos,,,,,,CDU/CSU,
+470513,Glos,,,,,,CDU/CSU,
+470517,Glos,,,,,,CDU/CSU,
 470519,Löffler,,,,,,SPD,
 470523,Diederich,,,Dr.,,,SPD,Berlin
+470525,Löffler,,,,,,SPD,
 470527,Eigen,,,,,,CDU/CSU,
 470530,Haase,,,,,,CDU/CSU,Kassel
 470531,Borchert,,,,,,CDU/CSU,
@@ -1944,6 +2107,7 @@
 470541,Hoffmann,,,,,,SPD,Hof
 470551,Eigen,,,,,,CDU/CSU,
 470555,Eigen,,,,,,CDU/CSU,
+470558,Eigen,,,,,,CDU/CSU,
 470562,Schmitz,,,,,,CDU/CSU,Baesweiler
 470565,Schmitz,,,,,,CDU/CSU,Baesweiler
 470567,Grobecker,,,,,,SPD,
@@ -1955,6 +2119,7 @@
 470585,Schartz,,,,,,CDU/CSU,Trier
 470587,Schmitz,,,,,,CDU/CSU,Baesweiler
 470589,Ehmke,,,Dr.,,,SPD,
+470591,Löffler,,,,,,SPD,
 470593,Schröder,,,,,,CDU/CSU,Lüneburg
 470597,Löffler,,,,,,SPD,
 470598,Hoffmann,,,,,,SPD,Hof
@@ -1969,7 +2134,9 @@
 470620,Riedl,,,Dr.,,,CDU/CSU,München
 470624,Möller,,,Dr.,,,CDU/CSU,
 470626,Möller,,,Dr.,,,CDU/CSU,
+470628,Bindig,,,,,,SPD,
 470632,Westphal,,,,,,SPD,
+470634,Wehner,,,,,,SPD,
 470636,Hüsch,,,Dr.,,,CDU/CSU,
 470638,Wehner,,,,,,SPD,
 470640,Bindig,,,,,,SPD,
@@ -1995,6 +2162,7 @@
 470703,Schäuble,,,Dr.,,,CDU/CSU,
 470704,Riedl,,,Dr.,,,CDU/CSU,München
 470706,Löffler,,,,,,SPD,
+470708,Dreßler,,,,,,SPD,
 470710,Grobecker,,,,,,SPD,
 470711,Roth,,,,,,SPD,
 470712,Kolb,,,,,,CDU/CSU,
@@ -2013,6 +2181,8 @@
 470754,Riedl,,,Dr.,,,CDU/CSU,München
 470755,Glos,,,,,,CDU/CSU,
 470756,Glos,,,,,,CDU/CSU,
+470757,Carstens,,,,,,CDU/CSU,Emstek
+470757,Zuruf  SPD,,,,von der,,SPD,
 470759,Riedl,,,Dr.,,,CDU/CSU,München
 470761,Glos,,,,,,CDU/CSU,
 470764,Grobecker,,,,,,SPD,
@@ -2036,6 +2206,7 @@
 470820,Carstens,,,,,,CDU/CSU,Emstek
 470822,Würzbach,,,,,,CDU/CSU,
 470824,Carstens,,,,,,CDU/CSU,Emstek
+470832,Würzbach,,,,,,CDU/CSU,
 470833,Miltner,,,Dr.,,,CDU/CSU,
 470839,Gerster,,,,,,CDU/CSU,Mainz
 470841,Würzbach,,,,,,CDU/CSU,
@@ -2051,13 +2222,18 @@
 470866,Rose,,,Dr.,,,CDU/CSU,
 470871,Haase,,,,,,CDU/CSU,Kassel
 470878,Friedmann,,,Dr.,,,CDU/CSU,
+470879,Haase,,,,,,CDU/CSU,Kassel
 470880,Riedl,,,Dr.,,,CDU/CSU,München
 470881,Glos,,,,,,CDU/CSU,
+470885,Kittelmann,,,,,,CDU/CSU,
 470886,Riedl,,,Dr.,,,CDU/CSU,München
+470887,Kühbacher,,,,,,SPD,
 470888,Franke,,,,,,CDU/CSU,
+470891,Wehner,,,,,,SPD,
 470893,Friedmann,,,Dr.,,,CDU/CSU,
 470894,Friedmann,,,Dr.,,,CDU/CSU,
 470896,Wehner,,,,,,SPD,
+470898,Wehner,,,,,,SPD,
 470899,Friedmann,,,Dr.,,,CDU/CSU,
 470964,Kansy,,,Dr.-Ing.,,,CDU/CSU,
 470966,Berger,,,,,,CDU/CSU,Berg
@@ -2073,6 +2249,8 @@
 471101,Erhard,,,,,,CDU/CSU,Bad Schwalbach
 471103,Dregger,,,Dr.,,,CDU/CSU,
 471105,Spranger,,,,,,CDU/CSU,
+471107,Wehner,,,,,,SPD,
+471109,Urbaniak,,,,,,SPD,
 471116,Dregger,,,Dr.,,,CDU/CSU,
 471117,Spranger,,,,,,CDU/CSU,
 471123,Werner,,,,,,CDU/CSU,
@@ -2089,6 +2267,7 @@
 471347,Werner,,,,,,CDU/CSU,
 471350,Urbaniak,,,,,,SPD,
 471352,Brandt,,,,,,SPD,Grolsheim
+471362,Spranger,,,,,,CDU/CSU,
 471364,Brandt,,,,,,SPD,Grolsheim
 471368,Dregger,,,Dr.,,,CDU/CSU,
 471370,Dreßler,,,,,,SPD,
@@ -2127,6 +2306,7 @@
 471448,Dregger,,,Dr.,,,CDU/CSU,
 471449,Dregger,,,Dr.,,,CDU/CSU,
 471450,Wolfram,,,,,,SPD,Recklinghausen
+471452,Vogel,,,,,,CDU/CSU,Ennepetal
 471456,Waffenschmidt,,,Dr.,,,CDU/CSU,
 471458,Möller,,,Dr.,,,CDU/CSU,
 471459,Vogel,,,,,,CDU/CSU,Ennepetal
@@ -2143,6 +2323,7 @@
 471490,Diederich,,,Dr.,,,SPD,Berlin
 471492,Kansy,,,Dr.-Ing.,,,CDU/CSU,
 471494,Waffenschmidt,,,Dr.,,,CDU/CSU,
+471496,Rösch,,,,,,FDP,
 471498,Wolfram,,,,,,SPD,Recklinghausen
 471503,Lampersbach,,,,,,CDU/CSU,
 471504,Möller,,,Dr.,,,CDU/CSU,
@@ -2158,16 +2339,18 @@
 471533,Reddemann,,,,,,CDU/CSU,
 471564,Eigen,,,,,,CDU/CSU,
 471565,Eigen,,,,,,CDU/CSU,
-471573,Funk,,,,,,CDU/CSU,
+471573,Funk,,,,,,CDU/CSU,Gutenzell
 471591,Gerster,,,,,,CDU/CSU,Mainz
 471608,Sauer,,,,,,CDU/CSU,Stuttgart
 471690,Kiechle,,,,,,CDU/CSU,
 471692,Susset,,,,,,CDU/CSU,
 471694,Eigen,,,,,,CDU/CSU,
 471696,Bayha,,,,,,CDU/CSU,
+471698,Immer,,,,,,SPD,Altenkirchen
 471702,Kunz,,,Dr.,,,CDU/CSU,Weiden
 471703,Sauter,,,,,,CDU/CSU,Epfendorf
 471707,Immer,,,,,,SPD,Altenkirchen
+471712,Immer,,,,,,SPD,Altenkirchen
 471716,Schmidt,,,Dr.,,,SPD,Gellersen
 471719,Immer,,,,,,SPD,Altenkirchen
 471720,Schmitz,,,,,,CDU/CSU,Baesweiler
@@ -2181,12 +2364,18 @@
 471744,Stark,,,Dr.,,,CDU/CSU,Nürtingen
 471750,Jobst,,,Dr.,,,CDU/CSU,
 471751,Jobst,,,Dr.,,,CDU/CSU,
+471751,Sauer,,,,,,CDU/CSU,Salzgitter
 471753,Riesenhuber,,,Dr.,,,CDU/CSU,
 471755,Laufs,,,Dr.,,,CDU/CSU,
 471759,Riesenhuber,,,Dr.,,,CDU/CSU,
+471760,Gerstein,,,,,,CDU/CSU,
+471761,Schäfer,,,,,,SPD,Offenburg
 471765,Wilms,,,Dr.,,,CDU/CSU,
 471767,Ehmke,,,Dr.,,,SPD,
 471770,Miltner,,,Dr.,,,CDU/CSU,
+471771,Riesenhuber,,,Dr.,,,CDU/CSU,
+471776,Riesenhuber,,,Dr.,,,CDU/CSU,
+471778,Jansen,,,,,,SPD,
 471781,George,,,Dr.,,,CDU/CSU,
 471785,Pohlmann,,,,,,CDU/CSU,
 471795,George,,,Dr.,,,CDU/CSU,
@@ -2194,7 +2383,9 @@
 472003,Neuhaus,,,,,,CDU/CSU,
 472017,Pfeffermann,,,,,,CDU/CSU,
 472020,Berger,,,,,,CDU/CSU,Berg
+472022,Riesenhuber,,,Dr.,,,CDU/CSU,
 472022,Wehner,,,,,,SPD,
+472022,Gerlach,,,,,,CDU/CSU,Obernau
 472026,Pfeffermann,,,,,,CDU/CSU,
 472027,Riesenhuber,,,Dr.,,,CDU/CSU,
 472029,Schäfer,,,,,,SPD,Offenburg
@@ -2216,11 +2407,13 @@
 472074,Köhler,,,Dr.,,,CDU/CSU,Wolfsburg
 472077,Köhler,,,Dr.,,,CDU/CSU,Wolfsburg
 472079,Kittelmann,,,,,,CDU/CSU,
+472081,Köhler,,,Dr.,,,CDU/CSU,Wolfsburg
 472091,Leuschner,,,,,,SPD,
 472134,Wilms,,,Dr.,,,CDU/CSU,
 472155,Daweke,,,,,,CDU/CSU,
 472157,Gärtner,,,,,,FDP,
 472160,Heiterkeit,,,,,,,
+472160,Daweke,,,,,,CDU/CSU,
 472162,Daweke,,,,,,CDU/CSU,
 472168,Pfeifer,,,,,,CDU/CSU,
 472169,Zeitler,,,,,,SPD,
@@ -2237,11 +2430,13 @@
 472232,Ehmke,,,Dr.,,,SPD,
 472236,Waigel,,,Dr.,,,CDU/CSU,
 472239,Wehner,,,,,,SPD,
+472241,Wehner,,,,,,SPD,
 472245,Jahn,,,Dr.,,,CDU/CSU,Münster
 472252,Wehner,,,,,,SPD,
 472256,Topmann,,,,,,SPD,
 472258,Westphal,,,,,,SPD,
 472262,Geißler,,,Dr.,,,CDU/CSU,
+472267,Kolb,,,,,,CDU/CSU,
 472276,Cronenberg,,,,,,FDP,
 472280,Broll,,,,,,CDU/CSU,
 472285,Kittelmann,,,,,,CDU/CSU,
@@ -2319,6 +2514,8 @@
 472848,Wörner,,,Dr.,,,CDU/CSU,
 472851,Genscher,,,,,,FDP,
 472852,Kansy,,,Dr.-Ing.,,,CDU/CSU,
+472854,Hennig,,,Dr.,,,CDU/CSU,
+472854,Barzel,,,Dr.,,,CDU/CSU,
 472861,Gansel,,,,,,SPD,
 472863,Bohl,,,,,,CDU/CSU,
 472867,Jäger,,,,,,CDU/CSU,Wangen
@@ -2336,6 +2533,7 @@
 472909,Jäger,,,,,,CDU/CSU,Wangen
 472911,Lorenz,,,,,,CDU/CSU,
 472916,Jäger,,,,,,CDU/CSU,Wangen
+472916,Werner,,,,,,CDU/CSU,
 472924,Sauer,,,,,,CDU/CSU,Salzgitter
 472964,Jenninger,,,Dr.,,,CDU/CSU,
 473040,Jäger,,,,,,CDU/CSU,Wangen
@@ -2356,6 +2554,8 @@
 473185,Pfeffermann,,,,,,CDU/CSU,
 473191,Daweke,,,,,,CDU/CSU,
 473202,Daweke,,,,,,CDU/CSU,
+473204,Immer,,,,,,SPD,Altenkirchen
+473207,Sauter,,,,,,CDU/CSU,Epfendorf
 473209,Marx,,,Dr.,,,CDU/CSU,
 473213,Weiskirch,,,,,,CDU/CSU,Olpe
 473219,Gerster,,,,,,CDU/CSU,Mainz
@@ -2373,6 +2573,7 @@
 473434,Gärtner,,,,,,FDP,
 473480,Gerster,,,,,,CDU/CSU,Mainz
 473482,Schröder,,,,,,CDU/CSU,Wilhelminenhof
+473484,Löffler,,,,,,SPD,
 473488,Schorlemer,,,,von,Freiherr,CDU/CSU,
 473489,Vogel,,,,,,CDU/CSU,Ennepetal
 473490,Herberholz,,,,,,SPD,
@@ -2385,6 +2586,7 @@
 473513,Gallus,,,,,,FDP,
 473514,Löffler,,,,,,SPD,
 473515,Kiechle,,,,,,CDU/CSU,
+473515,Geldern,,,Dr.,von,,CDU/CSU,
 473518,Kiechle,,,,,,CDU/CSU,
 473519,Löffler,,,,,,SPD,
 473521,Eigen,,,,,,CDU/CSU,
@@ -2403,9 +2605,11 @@
 473777,Gansel,,,,,,SPD,
 473781,Mischnick,,,,,,FDP,
 473784,Immer,,,,,,SPD,Altenkirchen
+473785,Immer,,,,,,SPD,Altenkirchen
 473789,Schorlemer,,,,von,Freiherr,CDU/CSU,
 473790,Gansel,,,,,,SPD,
 473791,Kunz,,,Dr.,,,CDU/CSU,Weiden
+473793,Immer,,,,,,SPD,Altenkirchen
 473795,Schorlemer,,,,von,Freiherr,CDU/CSU,
 473796,Eigen,,,,,,CDU/CSU,
 473799,Schröder,,,,,,CDU/CSU,Wilhelminenhof
@@ -2417,23 +2621,29 @@
 473814,Glos,,,,,,CDU/CSU,
 473824,Waigel,,,Dr.,,,CDU/CSU,
 473826,Urbaniak,,,,,,SPD,
+473829,Urbaniak,,,,,,SPD,
 473831,Urbaniak,,,,,,SPD,
 473833,Kunz,,,Dr.,,,CDU/CSU,Weiden
+473835,Lampersbach,,,,,,CDU/CSU,
 473845,Löffler,,,,,,SPD,
 473849,Reuschenbach,,,,,,SPD,
 473850,Kolbow,,,,,,SPD,
 473852,Marx,,,Dr.,,,CDU/CSU,
 473853,Dallmeyer,,,,,,CDU/CSU,
+473855,Wehner,,,,,,SPD,
 473857,Immer,,,,,,SPD,Altenkirchen
 473860,Dallmeyer,,,,,,CDU/CSU,
 473862,Dallmeyer,,,,,,CDU/CSU,
 473863,Immer,,,,,,SPD,Altenkirchen
+473864,Immer,,,,,,SPD,Altenkirchen
 473868,Immer,,,,,,SPD,Altenkirchen
 473870,Dallmeyer,,,,,,CDU/CSU,
 473873,Wimmer,,,,,,CDU/CSU,Neuss
 473885,Möllemann,,,,,,FDP,
 473887,Klejdzinski,,,Dr.,,,SPD,
+473889,Jungmann,,,,,,SPD,
 473889,Immer,,,,,,SPD,Altenkirchen
+473891,Dallmeyer,,,,,,CDU/CSU,
 473898,Würzbach,,,,,,CDU/CSU,
 473900,Wimmer,,,,,,CDU/CSU,Neuss
 473902,Wimmer,,,,,,CDU/CSU,Neuss
@@ -2451,6 +2661,7 @@
 473949,Gerstein,,,,,,CDU/CSU,
 473955,Stark,,,Dr.,,,CDU/CSU,Nürtingen
 473956,Wehner,,,,,,SPD,
+473956,Vogel,,,,,,CDU/CSU,Ennepetal
 473958,Kohl,,,Dr.,,,CDU/CSU,
 473959,Wehner,,,,,,SPD,
 473961,Jenninger,,,Dr.,,,CDU/CSU,
@@ -2493,6 +2704,8 @@
 474200,Daweke,,,,,,CDU/CSU,
 474202,Kohl,,,Dr.,,,CDU/CSU,
 474203,Kurzzeitiger Stromausfall,,,,,,,
+474203,Kansy,,,Dr.-Ing.,,,CDU/CSU,
+474213,Löffler,,,,,,SPD,
 474215,Kansy,,,Dr.-Ing.,,,CDU/CSU,
 474217,Kansy,,,Dr.-Ing.,,,CDU/CSU,
 474226,Duve,,,,,,SPD,
@@ -2503,6 +2716,7 @@
 474256,Bugl,,,Dr.,,,CDU/CSU,
 474258,Voigt,,,,,,SPD,Frankfurt
 474260,Zuruf  SPD,,,,von der,,SPD,
+474260,Thüsing,,,,,,SPD,
 474261,Thüsing,,,,,,SPD,
 474274,Catenhusen,,,,,,SPD,
 474282,Czaja,,,Dr.,,,CDU/CSU,
@@ -2559,7 +2773,7 @@
 474745,Eigen,,,,,,CDU/CSU,
 474770,Hürland,,,,,,CDU/CSU,
 474772,Hürland,,,,,,CDU/CSU,
-474775,Funk,,,,,,CDU/CSU,
+474775,Funk,,,,,,CDU/CSU,Gutenzell
 474784,Kansy,,,Dr.-Ing.,,,CDU/CSU,
 474786,Reddemann,,,,,,CDU/CSU,
 474788,Löffler,,,,,,SPD,
@@ -2579,19 +2793,23 @@
 474831,Löffler,,,,,,SPD,
 474836,Waigel,,,Dr.,,,CDU/CSU,
 474838,Löffler,,,,,,SPD,
+474843,Löffler,,,,,,SPD,
 474845,Echternach,,,,,,CDU/CSU,
 474850,Wissmann,,,,,,CDU/CSU,
 474856,Kittelmann,,,,,,CDU/CSU,
 474857,Wissmann,,,,,,CDU/CSU,
 474858,Roth,,,,,,SPD,
 474862,Sehr richtig! bei der SPD,,,,,,SPD,
+474862,Hauser,,,,,,CDU/CSU,Krefeld
 474864,Waigel,,,Dr.,,,CDU/CSU,
+474875,Kittelmann,,,,,,CDU/CSU,
 474877,Wissmann,,,,,,CDU/CSU,
 474878,Kittelmann,,,,,,CDU/CSU,
 474880,Löffler,,,,,,SPD,
 474882,Waigel,,,Dr.,,,CDU/CSU,
 474888,Gerstein,,,,,,CDU/CSU,
 474941,Gerstein,,,,,,CDU/CSU,
+474945,Steger,,,Dr.,,,SPD,
 474952,Steger,,,Dr.,,,SPD,
 474977,Niegel,,,,,,CDU/CSU,
 474981,Niegel,,,,,,CDU/CSU,
@@ -2624,11 +2842,14 @@
 475123,Klein,,,Dr.,,,CDU/CSU,Göttingen
 475126,Haase,,,,,,CDU/CSU,Kassel
 475128,Kansy,,,Dr.-Ing.,,,CDU/CSU,
+475128,Bohl,,,,,,CDU/CSU,
 475129,Bohl,,,,,,CDU/CSU,
 475130,Klein,,,Dr.,,,CDU/CSU,Göttingen
 475135,Langner,,,Dr.,,,CDU/CSU,
+475140,Löffler,,,,,,SPD,
 475141,Lambinus,,,,,,SPD,
 475143,Bohl,,,,,,CDU/CSU,
+475149,Löffler,,,,,,SPD,
 475151,Löffler,,,,,,SPD,
 475153,Olderog,,,Dr.,,,CDU/CSU,
 475156,Rawe,,,,,,CDU/CSU,
@@ -2655,8 +2876,11 @@
 475360,Jahn,,,Dr.,,,CDU/CSU,Münster
 475364,Löffler,,,,,,SPD,
 475366,Clemens,,,,,,CDU/CSU,
+475368,Schmidt,,,,,,SPD,München
 475372,Kiechle,,,,,,CDU/CSU,
 475376,Waltemathe,,,,,,SPD,
+475380,Löffler,,,,,,SPD,
+475382,Waltemathe,,,,,,SPD,
 475384,Möller,,,Dr.,,,CDU/CSU,
 475386,Kansy,,,Dr.-Ing.,,,CDU/CSU,
 475388,Möller,,,Dr.,,,CDU/CSU,
@@ -2681,12 +2905,13 @@
 475552,Wolfram,,,,,,SPD,Recklinghausen
 475553,Jäger,,,,,,CDU/CSU,Wangen
 475559,Pack,,,,,,CDU/CSU,
-475575,Funk,,,,,,CDU/CSU,
+475575,Funk,,,,,,CDU/CSU,Gutenzell
 475616,Eigen,,,,,,CDU/CSU,
 475620,Jenninger,,,Dr.,,,CDU/CSU,
 475624,Glos,,,,,,CDU/CSU,
 475630,Daweke,,,,,,CDU/CSU,
 475631,Löffler,,,,,,SPD,
+475633,Löffler,,,,,,SPD,
 475639,Möller,,,Dr.,,,CDU/CSU,
 475640,Daweke,,,,,,CDU/CSU,
 475652,Stark,,,Dr.,,,CDU/CSU,Nürtingen
@@ -2702,6 +2927,7 @@
 475683,Huyn,,,,,Graf,CDU/CSU,
 475686,Stercken,,,Dr.,,,CDU/CSU,
 475690,Klein,,,,,,CDU/CSU,München
+475692,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 475694,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 475695,Jenninger,,,Dr.,,,CDU/CSU,
 475698,Jaunich,,,,,,SPD,
@@ -2710,6 +2936,7 @@
 475707,Faltlhauser,,,Dr.,,,CDU/CSU,
 475709,Immer,,,,,,SPD,Altenkirchen
 475716,Bindig,,,,,,SPD,
+475730,Bindig,,,,,,SPD,
 475735,Wissmann,,,,,,CDU/CSU,
 475737,Breuer,,,,,,CDU/CSU,
 475744,Adam-Schwaetzer,,,Dr.,,,FDP,
@@ -2733,6 +2960,7 @@
 475815,Weiskirch,,,,,,CDU/CSU,Olpe
 475817,Berger,,,,,,CDU/CSU,Berg
 475819,Berger,,,,,,CDU/CSU,Berg
+475819,Weiskirch,,,,,,CDU/CSU,Olpe
 475826,Würzbach,,,,,,CDU/CSU,
 475830,Wörner,,,Dr.,,,CDU/CSU,
 475832,Klejdzinski,,,Dr.,,,SPD,
@@ -2741,6 +2969,7 @@
 475841,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 475843,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 475845,Lenz,,,Dr.,,,CDU/CSU,Bergstraße
+475847,Lenz,,,Dr.,,,CDU/CSU,Bergstraße
 475854,Huyn,,,,,Graf,CDU/CSU,
 475856,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 475867,Schäfer,,,,,,SPD,Offenburg
@@ -2799,6 +3028,7 @@
 476337,Conradi,,,,,,SPD,
 476357,Pfeffermann,,,,,,CDU/CSU,
 476370,Häfele,,,Dr.,,,CDU/CSU,
+476371,Häfele,,,Dr.,,,CDU/CSU,
 476373,Kühbacher,,,,,,SPD,
 476374,Glos,,,,,,CDU/CSU,
 476375,Stavenhagen,,,Dr.,,,CDU/CSU,
@@ -2823,8 +3053,10 @@
 476653,Marx,,,Dr.,,,CDU/CSU,
 476654,Marx,,,Dr.,,,CDU/CSU,
 476674,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
+476675,Seiters,,,,,,CDU/CSU,
 476675,Einige Abgeordnete der SPD-Fraktion verlassen ihre Plätze,,,,,,SPD,
 476678,Barzel,,,Dr.,,,CDU/CSU,
+476682,Mertens,,,Dr.,,,CDU/CSU,Gerolstein
 476687,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 476690,Kohl,,,Dr.,,,CDU/CSU,
 476692,Barzel,,,Dr.,,,CDU/CSU,
@@ -2834,6 +3066,7 @@
 476706,Jungmann,,,,,,SPD,
 476708,Dregger,,,Dr.,,,CDU/CSU,
 476710,Zurufe  CDU/CSU,,,,von der,,CDU/CSU,
+476710,Dregger,,,Dr.,,,CDU/CSU,
 476717,Dregger,,,Dr.,,,CDU/CSU,
 476718,Barzel,,,Dr.,,,CDU/CSU,
 476721,Ehmke,,,Dr.,,,SPD,
@@ -2868,6 +3101,7 @@
 476812,Warnke,,,Dr.,,,CDU/CSU,
 476820,Jahn,,,Dr.,,,CDU/CSU,München
 476823,Kroll-Schlüter,,,,,,CDU/CSU,
+476825,Vogel,,,,,,CDU/CSU,Ennepetal
 476826,Löffler,,,,,,SPD,
 476828,Eigen,,,,,,CDU/CSU,
 476830,Kansy,,,Dr.-Ing.,,,CDU/CSU,
@@ -2915,6 +3149,7 @@
 477168,Löffler,,,,,,SPD,
 477174,Jäger,,,,,,CDU/CSU,Wangen
 477176,Zeitler,,,,,,SPD,
+477185,Wehner,,,,,,SPD,
 477187,Jäger,,,,,,CDU/CSU,Wangen
 477189,Jäger,,,,,,CDU/CSU,Wangen
 477192,Jenninger,,,Dr.,,,CDU/CSU,
@@ -2925,10 +3160,12 @@
 477200,Spöri,,,Dr.,,,SPD,
 477204,Löffler,,,,,,SPD,
 477206,Urbaniak,,,,,,SPD,
+477210,Löffler,,,,,,SPD,
 477210,Heiterkeit,,,,,,,
 477218,Bötsch,,,Dr.,,,CDU/CSU,
 477220,Löffler,,,,,,SPD,
 477222,Franke,,,,,,CDU/CSU,
+477224,Franke,,,,,,CDU/CSU,
 477226,Heyenn,,,,,,SPD,
 477232,Franke,,,,,,CDU/CSU,
 477234,Wehner,,,,,,SPD,
@@ -2960,6 +3197,7 @@
 477467,Glos,,,,,,CDU/CSU,
 477472,Haase,,,,,,CDU/CSU,Kassel
 477474,Haase,,,,,,CDU/CSU,Kassel
+477476,Löffler,,,,,,SPD,
 477478,Haase,,,,,,CDU/CSU,Kassel
 477479,Haase,,,,,,CDU/CSU,Kassel
 477481,Haase,,,,,,CDU/CSU,Kassel
@@ -2974,6 +3212,7 @@
 477504,Haase,,,,,,CDU/CSU,Kassel
 477506,Haase,,,,,,CDU/CSU,Kassel
 477510,Haase,,,,,,CDU/CSU,Kassel
+477513,Schröder,,,,,,CDU/CSU,Lüneburg
 477517,Haase,,,,,,CDU/CSU,Kassel
 477519,Schröder,,,,,,CDU/CSU,Lüneburg
 477521,Kolb,,,,,,CDU/CSU,
@@ -2981,6 +3220,7 @@
 477547,Czaja,,,Dr.,,,CDU/CSU,
 477558,Czaja,,,Dr.,,,CDU/CSU,
 477561,Wörner,,,Dr.,,,CDU/CSU,
+477564,Roth,,,,,,SPD,
 477567,Urbaniak,,,,,,SPD,
 477571,Dregger,,,Dr.,,,CDU/CSU,
 477577,Roth,,,,,,SPD,
@@ -2991,6 +3231,7 @@
 477601,Löffler,,,,,,SPD,
 477603,Skarpelis-Sperk,,,Dr.,,,SPD,
 477609,Riedl,,,Dr.,,,CDU/CSU,München
+477610,Kolb,,,,,,CDU/CSU,
 477612,Lambinus,,,,,,SPD,
 477614,Löffler,,,,,,SPD,
 477615,Waigel,,,Dr.,,,CDU/CSU,
@@ -2999,9 +3240,12 @@
 477622,George,,,Dr.,,,CDU/CSU,
 477625,Roth,,,,,,SPD,
 477628,Stark,,,Dr.,,,CDU/CSU,Nürtingen
+477631,Stark,,,Dr.,,,CDU/CSU,Nürtingen
 477632,Schäuble,,,Dr.,,,CDU/CSU,
 477633,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 477635,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
+477639,Rawe,,,,,,CDU/CSU,
+477644,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
 477646,Voigt,,,,,,SPD,Frankfurt
 477651,Jungmann,,,,,,SPD,
 477653,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
@@ -3015,6 +3259,7 @@
 477681,Erhard,,,,,,CDU/CSU,Bad Schwalbach
 477687,Carstens,,,,,,CDU/CSU,Emstek
 477692,Marx,,,Dr.,,,CDU/CSU,
+477694,Liedtke,,,,,,SPD,
 477710,Funke,,,,,,FDP,
 477712,Funke,,,,,,FDP,
 477723,Hansen,,,,,,,
@@ -3074,8 +3319,10 @@
 478063,Kansy,,,Dr.-Ing.,,,CDU/CSU,
 478067,Dregger,,,Dr.,,,CDU/CSU,
 478068,Berger,,,,,,CDU/CSU,Berg
+478069,Geißler,,,Dr.,,,CDU/CSU,
 478071,Matthöfer,,,,,,SPD,
 478077,Apel,,,Dr.,,,SPD,
+478094,Haase,,,,,,CDU/CSU,Kassel
 478095,Apel,,,Dr.,,,SPD,
 478099,Cronenberg,,,,,,FDP,
 478101,Gerster,,,,,,CDU/CSU,Mainz
@@ -3086,6 +3333,7 @@
 478116,Ehmke,,,Dr.,,,SPD,
 478121,Glos,,,,,,CDU/CSU,
 478122,Westphal,,,,,,SPD,
+478130,Bindig,,,,,,SPD,
 478134,Westphal,,,,,,SPD,
 478138,Friedmann,,,Dr.,,,CDU/CSU,
 478143,Kansy,,,Dr.-Ing.,,,CDU/CSU,
@@ -3094,12 +3342,14 @@
 478157,Löffler,,,,,,SPD,
 478158,Löffler,,,,,,SPD,
 478163,Schwarz,,,,,,CDU/CSU,
+478168,Riedl,,,Dr.,,,CDU/CSU,München
 478173,Bötsch,,,Dr.,,,CDU/CSU,
 478174,Schwarz,,,,,,CDU/CSU,
 478176,Waigel,,,Dr.,,,CDU/CSU,
 478182,Glos,,,,,,CDU/CSU,
 478184,Löffler,,,,,,SPD,
 478186,Dregger,,,Dr.,,,CDU/CSU,
+478187,Bindig,,,,,,SPD,
 478190,Dregger,,,Dr.,,,CDU/CSU,
 478191,Haase,,,,,,CDU/CSU,Kassel
 478195,Waigel,,,Dr.,,,CDU/CSU,
@@ -3115,6 +3365,8 @@
 478219,Schwarz,,,,,,CDU/CSU,
 478221,Friedmann,,,Dr.,,,CDU/CSU,
 478222,Stark,,,Dr.,,,CDU/CSU,Nürtingen
+478223,Zuruf des   Stark,,,Dr.,,,CDU/CSU,Nürtingen
+478223,Bötsch,,,Dr.,,,CDU/CSU,
 478225,Stark,,,Dr.,,,CDU/CSU,Nürtingen
 478227,Schwarz,,,,,,CDU/CSU,
 478228,Stark,,,Dr.,,,CDU/CSU,Nürtingen
@@ -3174,9 +3426,14 @@
 478391,Ehrenberg,,,Dr.,,,SPD,
 478393,Westphal,,,,,,SPD,
 478395,Löffler,,,,,,SPD,
+478397,Stark,,,Dr.,,,CDU/CSU,Nürtingen
 478401,Urbaniak,,,,,,SPD,
 478402,Bötsch,,,Dr.,,,CDU/CSU,
+478402,Müller,,,,,,CDU/CSU,Remscheid
 478404,Stahl,,,,,,SPD,Kempen
+478406,Stahl,,,,,,SPD,Kempen
+478407,Stahl,,,,,,SPD,Kempen
+478412,Cronenberg,,,,,,FDP,
 478416,Dregger,,,Dr.,,,CDU/CSU,
 478420,Dregger,,,Dr.,,,CDU/CSU,
 478421,Stahl,,,,,,SPD,Kempen
@@ -3187,6 +3444,7 @@
 478451,Marx,,,Dr.,,,CDU/CSU,
 478452,Ehmke,,,Dr.,,,SPD,
 478458,Timm,,,Dr.,,,SPD,
+478464,Reddemann,,,,,,CDU/CSU,
 478466,Stahl,,,,,,SPD,Kempen
 478467,Liedtke,,,,,,SPD,
 478469,Liedtke,,,,,,SPD,
@@ -3212,14 +3470,18 @@
 478659,Stahl,,,,,,SPD,Kempen
 478665,Stahl,,,,,,SPD,Kempen
 478669,Ehmke,,,Dr.,,,SPD,
+478675,Kittelmann,,,,,,CDU/CSU,
 478675,Pfeffermann,,,,,,CDU/CSU,
 478676,Haase,,,,,,CDU/CSU,Kassel
+478677,Roth,,,,,,SPD,
+478679,Roth,,,,,,SPD,
 478683,Kittelmann,,,,,,CDU/CSU,
 478685,Waigel,,,Dr.,,,CDU/CSU,
 478689,Klein,,,,,,CDU/CSU,München
 478691,Roth,,,,,,SPD,
 478697,Steinhauer,,,,,,SPD,
 478699,Urbaniak,,,,,,SPD,
+478702,Urbaniak,,,,,,SPD,
 478708,Lammert,,,Dr.,,,CDU/CSU,
 478710,Wehner,,,,,,SPD,
 478714,Breuer,,,,,,CDU/CSU,
@@ -3273,6 +3535,7 @@
 479082,Stahl,,,,,,SPD,Kempen
 479088,Reuschenbach,,,,,,SPD,
 479089,Wolfram,,,,,,SPD,Recklinghausen
+479092,Lenzer,,,,,,CDU/CSU,
 479094,Steger,,,Dr.,,,SPD,
 479098,Wolfram,,,,,,SPD,Recklinghausen
 479104,Steger,,,Dr.,,,SPD,
@@ -3286,8 +3549,10 @@
 479123,Walther,,,,,,SPD,
 479124,Rose,,,Dr.,,,CDU/CSU,
 479125,Beifall und Zurufe  SPD,,,,von der,,SPD,
+479125,Urbaniak,,,,,,SPD,
 479135,Hoffmann,,,,,,SPD,Hof
 479143,Walther,,,,,,SPD,
+479144,Jungmann,,,,,,SPD,
 479144,Oh-Rufe bei der SPD,,,,,,SPD,
 479147,Sick,,,,,,CDU/CSU,
 479149,Kühbacher,,,,,,SPD,
@@ -3296,6 +3561,7 @@
 479160,Ing. Kansy,,,Dr.,,,CDU/CSU,
 479161,Kühbacher,,,,,,SPD,
 479162,Kühbacher,,,,,,SPD,
+479167,Gerster,,,,,,CDU/CSU,Mainz
 479171,Walther,,,,,,SPD,
 479173,Gerster,,,,,,CDU/CSU,Mainz
 479177,Kansy,,,Dr.-Ing.,,,CDU/CSU,
@@ -3318,6 +3584,7 @@
 479219,Conradi,,,,,,SPD,
 479220,Wittmann,,,Dr.,,,CDU/CSU,
 479222,Kuhlwein,,,,,,SPD,
+479226,Conradi,,,,,,SPD,
 479226,Waltemathe,,,,,,SPD,
 479228,Waltemathe,,,,,,SPD,
 479231,Conradi,,,,,,SPD,
@@ -3326,16 +3593,22 @@
 479244,Müntefering,,,,,,SPD,
 479246,Riedl,,,Dr.,,,CDU/CSU,München
 479253,Friedmann,,,Dr.,,,CDU/CSU,
+479261,Schmitz,,,,,,CDU/CSU,Baesweiler
 479265,Gerster,,,,,,CDU/CSU,Mainz
+479267,Wehner,,,,,,SPD,
 479273,Gerster,,,,,,CDU/CSU,Mainz
 479275,Haase,,,,,,CDU/CSU,Kassel
 479278,Franke,,,,,,CDU/CSU,
 479279,Haase,,,,,,CDU/CSU,Kassel
 479280,Löffler,,,,,,SPD,
 479285,Haase,,,,,,CDU/CSU,Kassel
+479289,Löffler,,,,,,SPD,
+479292,Löffler,,,,,,SPD,
+479297,Westphal,,,,,,SPD,
 479302,Gerster,,,,,,CDU/CSU,Mainz
 479311,Walther,,,,,,SPD,
 479312,Spöri,,,Dr.,,,SPD,
+479312,Walther,,,,,,SPD,
 479314,Spöri,,,Dr.,,,SPD,
 479317,Walther,,,,,,SPD,
 479320,Walther,,,,,,SPD,
@@ -3361,6 +3634,7 @@
 479400,Spöri,,,Dr.,,,SPD,
 479402,Gobrecht,,,,,,SPD,
 479404,Becker,,,Dr.,,,CDU/CSU,Frankfurt
+479406,Kolb,,,,,,CDU/CSU,
 479408,Löffler,,,,,,SPD,
 479410,Kolb,,,,,,CDU/CSU,
 479412,Lutz,,,,,,SPD,
@@ -3374,7 +3648,9 @@
 479458,Hartmann,,,,,,CDU/CSU,
 479460,Hartmann,,,,,,CDU/CSU,
 479470,Sehr richtig! bei der CDU/CSU,,,,,,CDU/CSU,
+479470,Kühbacher,,,,,,SPD,
 479485,Mischnick,,,,,,FDP,
+479486,Haase,,,,,,CDU/CSU,Kassel
 479486,Breuer,,,,,,CDU/CSU,
 479488,Daweke,,,,,,CDU/CSU,
 479498,Haase,,,,,,CDU/CSU,Kassel
@@ -3406,6 +3682,7 @@
 479582,Werner,,,,,,CDU/CSU,
 479584,Gerster,,,,,,CDU/CSU,Mainz
 479586,Hackel,,,Dr.,,,CDU/CSU,
+479588,Diederich,,,Dr.,,,SPD,Berlin
 479590,Diederich,,,Dr.,,,SPD,Berlin
 479591,Schulze,,,,,,CDU/CSU,Berlin
 479603,Thüsing,,,,,,SPD,
@@ -3436,6 +3713,7 @@
 479755,Müntefering,,,,,,SPD,
 479759,Müntefering,,,,,,SPD,
 479765,Ehmke,,,Dr.,,,SPD,
+479767,Roth,,,,,,SPD,
 479773,Ruf,,,,,,CDU/CSU,
 479775,Gnädinger,,,,,,SPD,
 479777,Engholm,,,,,,SPD,
@@ -3467,6 +3745,7 @@
 480107,Müntefering,,,,,,SPD,
 480120,Wolfram,,,,,,SPD,Recklinghausen
 480121,Lenzer,,,,,,CDU/CSU,
+480123,Roth,,,,,,SPD,
 480125,Steger,,,Dr.,,,SPD,
 480128,Maaß,,,,,,CDU/CSU,
 480130,Pfeffermann,,,,,,CDU/CSU,
@@ -3476,7 +3755,10 @@
 480141,Marx,,,Dr.,,,CDU/CSU,
 480144,Marx,,,Dr.,,,CDU/CSU,
 480145,Hupka,,,Dr.,,,CDU/CSU,
+480148,Reddemann,,,,,,CDU/CSU,
+480148,Erhard,,,,,,CDU/CSU,Bad Schwalbach
 480148,Zurufe  CDU/CSU,,,,von der,,CDU/CSU,
+480150,Reddemann,,,,,,CDU/CSU,
 480150,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
 480151,Marx,,,Dr.,,,CDU/CSU,
 480152,Dregger,,,Dr.,,,CDU/CSU,
@@ -3535,6 +3817,7 @@
 480430,Seiters,,,,,,CDU/CSU,
 480432,Weisskirchen,,,,,,SPD,Wiesloch
 480435,Broll,,,,,,CDU/CSU,
+480437,Broll,,,,,,CDU/CSU,
 480438,Roth,,,,,,SPD,
 480440,Westphal,,,,,,SPD,
 480442,Ehmke,,,Dr.,,,SPD,
@@ -3544,6 +3827,7 @@
 480452,Seiters,,,,,,CDU/CSU,
 480454,Wissmann,,,,,,CDU/CSU,
 480456,Zeitler,,,,,,SPD,
+480458,Roth,,,,,,SPD,
 480464,Gilges,,,,,,SPD,
 480465,Roth,,,,,,SPD,
 480466,Berger,,,,,,CDU/CSU,Berg
@@ -3619,6 +3903,7 @@
 481128,Neumann,,,,,,SPD,Bramsche
 481132,Hürland,,,,,,CDU/CSU,
 481140,Lambinus,,,,,,SPD,
+481150,Roth,,,,,,SPD,
 481155,Hartenstein,,,Dr.,,,SPD,
 481159,Stahl,,,,,,SPD,Kempen
 481166,Hartenstein,,,Dr.,,,SPD,
@@ -3640,6 +3925,8 @@
 481311,Lambinus,,,,,,SPD,
 481313,Baack,,,,,,SPD,
 481335,Pfeffermann,,,,,,CDU/CSU,
+481336,Pfeffermann,,,,,,CDU/CSU,
+481336,Wehner,,,,,,SPD,
 481336,Wehner,,,,,,SPD,
 481337,Bohl,,,,,,CDU/CSU,
 481341,Wehner,,,,,,SPD,
@@ -3659,6 +3946,7 @@
 481371,Müntefering,,,,,,SPD,
 481373,Lin,,,Dr.,de,,SPD,
 481376,Heyenn,,,,,,SPD,
+481377,Olderog,,,Dr.,,,CDU/CSU,
 481378,Lin,,,Dr.,de,,SPD,
 481380,Lin,,,Dr.,de,,SPD,
 481382,Müntefering,,,,,,SPD,
@@ -3673,6 +3961,7 @@
 481439,George,,,Dr.,,,CDU/CSU,
 481441,Lutz,,,,,,SPD,
 481508,Roth,,,,,,SPD,
+481514,Roth,,,,,,SPD,
 481521,Roth,,,,,,SPD,
 481524,Collet,,,,,,SPD,
 481527,Wolfram,,,,,,SPD,Recklinghausen
@@ -3694,12 +3983,16 @@
 481694,Cronenberg,,,,,,FDP,
 481696,Penner,,,Dr.,,,SPD,
 481698,Daweke,,,,,,CDU/CSU,
+481703,Kuhlwein,,,,,,SPD,
 481705,Kansy,,,Dr.-Ing.,,,CDU/CSU,
 481714,Kuhlwein,,,,,,SPD,
 481719,Rossmanith,,,,,,CDU/CSU,
 481735,Kuhlwein,,,,,,SPD,
 481738,Kuhlwein,,,,,,SPD,
 481742,Kuhlwein,,,,,,SPD,
+481744,Magin,,,,,,CDU/CSU,
+481744,Waltemathe,,,,,,SPD,
+481744,Roth,,,,,,SPD,
 481748,Kansy,,,Dr.-Ing.,,,CDU/CSU,
 481750,Möller,,,Dr.,,,CDU/CSU,
 481752,Müntefering,,,,,,SPD,
@@ -3747,10 +4040,12 @@
 481871,Bahr,,,,,,SPD,
 481873,Berger,,,,,,CDU/CSU,Berg
 481875,Ehmke,,,Dr.,,,SPD,
+481883,Kolb,,,,,,CDU/CSU,
 481885,Kühlbacher,,,,,,SPD,
 481887,Kolb,,,,,,CDU/CSU,
 481892,Lambinus,,,,,,SPD,
 481896,Kansy,,,Dr.-Ing.,,,CDU/CSU,
+481897,Wehner,,,,,,SPD,
 481900,Clemens,,,,,,CDU/CSU,
 481902,Bindig,,,,,,SPD,
 481904,Waltemathe,,,,,,SPD,
@@ -3775,6 +4070,7 @@
 481957,Matthöfer,,,,,,SPD,
 481958,Spöri,,,Dr.,,,SPD,
 481960,Hauff,,,Dr.,,,SPD,
+481962,Stark,,,Dr.,,,CDU/CSU,Nürtingen
 481964,Sauer,,,,,,CDU/CSU,Salzgitter
 481965,Milz,,,,,,CDU/CSU,
 481967,Sauer,,,,,,CDU/CSU,Salzgitter
@@ -3808,12 +4104,14 @@
 482070,Haase,,,,,,CDU/CSU,Kassel
 482071,Traupe,,,,,,SPD,
 482074,Haase,,,,,,CDU/CSU,Kassel
+482079,Carstens,,,,,,CDU/CSU,Emstek
 482081,Bindig,,,,,,SPD,
 482085,Bindig,,,,,,SPD,
 482089,Jäger,,,,,,CDU/CSU,Wangen
 482091,Wehner,,,,,,SPD,
 482094,Hansen,,,,,,,
 482098,Conradi,,,,,,SPD,
+482102,Kühbacher,,,,,,SPD,
 482102,Wehner,,,,,,SPD,
 482104,Wehner,,,,,,SPD,
 482105,Spöri,,,Dr.,,,SPD,
@@ -3867,9 +4165,11 @@
 482253,Walther,,,,,,SPD,
 482254,Lin,,,Dr.,de,,SPD,
 482255,Gerster,,,,,,CDU/CSU,Mainz
+482259,Haase,,,,,,CDU/CSU,Kassel
 482261,Weisskirchen,,,,,,SPD,Wiesloch
 482263,Glos,,,,,,CDU/CSU,
 482265,Rose,,,Dr.,,,CDU/CSU,
+482272,Bindig,,,,,,SPD,
 482274,Weisskirchen,,,,,,SPD,Wiesloch
 482278,Bindig,,,,,,SPD,
 482289,Ehmke,,,Dr.,,,SPD,
@@ -3905,6 +4205,7 @@
 482362,Glombig,,,,,,SPD,
 482363,Erhard,,,,,,CDU/CSU,Bad Schwalbach
 482365,Glos,,,,,,CDU/CSU,
+482367,Kolb,,,,,,CDU/CSU,
 482368,Kolb,,,,,,CDU/CSU,
 482371,Schäuble,,,Dr.,,,CDU/CSU,
 482373,Cronenberg,,,,,,FDP,
@@ -3913,6 +4214,7 @@
 482379,Helmrich,,,,,,CDU/CSU,
 482383,Lutz,,,,,,SPD,
 482386,Zuruf  SPD,,,,von der,,SPD,
+482386,Gerster,,,,,,CDU/CSU,Mainz
 482387,Gerster,,,,,,CDU/CSU,Mainz
 482389,Hoffmann,,,,,,SPD,Hof
 482391,Urbaniak,,,,,,SPD,
@@ -3923,11 +4225,13 @@
 482418,Kolb,,,,,,CDU/CSU,
 482420,Kolb,,,,,,CDU/CSU,
 482423,Urbaniak,,,,,,SPD,
+482425,Cronenberg,,,,,,FDP,
 482427,Faltlhauser,,,Dr.,,,CDU/CSU,
 482429,Berger,,,,,,CDU/CSU,Berg
 482430,Gerster,,,,,,CDU/CSU,Mainz
 482431,Seiters,,,,,,CDU/CSU,
 482433,Wieczorek,,,,,,SPD,Duisburg
+482436,Wehner,,,,,,SPD,
 482437,Wehner,,,,,,SPD,
 482441,Erhard,,,,,,CDU/CSU,Bad Schwalbach
 482443,Bindig,,,,,,SPD,
@@ -3941,6 +4245,7 @@
 482466,Emmerlich,,,Dr.,,,SPD,
 482467,Emmerlich,,,Dr.,,,SPD,
 482468,Emmerlich,,,Dr.,,,SPD,
+482470,Hartmann,,,,,,CDU/CSU,
 482470,Kroll-Schlüter,,,,,,CDU/CSU,
 482473,Müller,,,,,,CDU/CSU,Remscheid
 482475,Emmerlich,,,Dr.,,,SPD,
@@ -3949,6 +4254,7 @@
 482482,Gilges,,,,,,SPD,
 482484,Kroll-Schlüter,,,,,,CDU/CSU,
 482486,Emmerlich,,,Dr.,,,SPD,
+482488,Emmerlich,,,Dr.,,,SPD,
 482490,Kroll-Schlüter,,,,,,CDU/CSU,
 482495,Emmerlich,,,Dr.,,,SPD,
 482497,Kroll-Schlüter,,,,,,CDU/CSU,
@@ -3973,6 +4279,7 @@
 482556,Ehmke,,,Dr.,,,SPD,
 482562,Geldern,,,Dr.,von,,CDU/CSU,
 482569,Heiterkeit,,,,,,,
+482569,Schäuble,,,Dr.,,,CDU/CSU,
 482571,Liedtke,,,,,,SPD,
 482573,Stark,,,Dr.,,,CDU/CSU,Nürtingen
 482574,Bühler,,,,,,CDU/CSU,Bruchsal
@@ -3981,6 +4288,7 @@
 482580,Huonker,,,,,,SPD,
 482582,Gobrecht,,,,,,SPD,
 482584,Erhard,,,,,,CDU/CSU,Bad Schwalbach
+482586,Breuer,,,,,,CDU/CSU,
 482587,Schäuble,,,Dr.,,,CDU/CSU,
 482588,Friedmann,,,Dr.,,,CDU/CSU,
 482590,Seiters,,,,,,CDU/CSU,
@@ -3989,313 +4297,5 @@
 482595,Gansel,,,,,,SPD,
 482598,Gobrecht,,,,,,SPD,
 482602,Erhard,,,,,,CDU/CSU,Bad Schwalbach
-482603,Beifall,,,,,,,
-456162,Wehner,,,,,,SPD,
-456167,Möller,,,Dr.,,,CDU/CSU,
-456241,Heydt   Massenbach,,,,von der,Freiherr,CDU/CSU,
-456256,Schwarz-Schilling,,,Dr.,,,CDU/CSU,
-456267,Roh,,,,de,,SPD,
-456935,Franke,,,,,,CDU/CSU,
-456944,Pieroth,,,,,,CDU/CSU,
-457071,Franke,,,,,,CDU/CSU,
-457396,Windelen,,,,,,CDU/CSU,
-457841,Barzel,,,Dr.,,,CDU/CSU,
-457842,Windelen,,,,,,CDU/CSU,
-457869,Wehner,,,,,,SPD,
-457961,Haase,,,,,,CDU/CSU,Kassel
-457973,Immer,,,,,,SPD,Altenkirchen
-458042,Das ist unerhört!,,,,,,,
-458094,Stahl,,,,,,SPD,Kempen
-458218,Daweke,,,,,,CDU/CSU,
-458231,Daweke,,,,,,CDU/CSU,
-458555,Schlei,,,,,,SPD,
-458758,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
-459136,Sauter,,,,,,CDU/CSU,Epfendorf
-459489,Roth,,,,,,SPD,
-459493,Roth,,,,,,SPD,
-459509,Diederich,,,Dr.,,,SPD,Berlin
-459523,Reddemann,,,,,,CDU/CSU,
-459726,KrollSchlüter,,,,,,CDU/CSU,
-459961,Däubler-Gmelin,,,Dr.,,,SPD,
-460032,Urbaniak,,,,,,SPD,
-460060,Jäger,,,,,,CDU/CSU,Wangen
-460286,Wehner,,,,,,SPD,
-460362,Wehner,,,,,,SPD,
-460675,Immer,,,,,,SPD,Altenkirchen
-460945,Eigen,,,,,,CDU/CSU,
-460996,Wolfram,,,,,,SPD,Recklinghausen
-461022,Urbaniak,,,,,,SPD,
-461045,Wehner,,,,,,SPD,
-461056,Franke,,,,,,CDU/CSU,
-461067,Wehner,,,,,,SPD,
-461563,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
-461720,Voss,,,Dr.,,,CDU/CSU,
-461725,Voss,,,Dr.,,,CDU/CSU,
-462454,Wehner,,,,,,SPD,
-462472,Wehner,,,,,,SPD,
-462478,Wehner,,,,,,SPD,
-462486,Wehner,,,,,,SPD,
-462487,Wehner,,,,,,SPD,
-462517,Lutz,,,,,,SPD,
-462525,Wehner,,,,,,SPD,
-462619,Hirsch,,,Dr.,,,FDP,
-462646,Gerstein,,,,,,CDU/CSU,
-462654,Stavenhagen,,,Dr.,,,CDU/CSU,
-462696,Wehner,,,,,,SPD,
-462884,Wehner,,,,,,SPD,
-462908,Kolb,,,,,,CDU/CSU,
-462937,Lemmrich,,,,,,CDU/CSU,
-462962,Walther,,,,,,SPD,
-462970,Kittelmann,,,,,,CDU/CSU,
-463002,Kolb,,,,,,CDU/CSU,
-463035,Lemmrich,,,,,,CDU/CSU,
-463059,Niegel,,,,,,CDU/CSU,
-463061,Wehner,,,,,,SPD,
-463091,Zuruf  CDU/CSU,,,,von der,,CDU/CSU,
-463095,Wehner,,,,,,SPD,
-463248,Marx,,,Dr.,,,CDU/CSU,
-463293,Walther,,,,,,SPD,
-463305,Wörner,,,Dr.,,,CDU/CSU,
-463328,Dallmeyer,,,,,,CDU/CSU,
-463352,Weiskirch,,,,,,CDU/CSU,Olpe
-463354,Weiskirch,,,,,,CDU/CSU,Olpe
-463366,Wehner,,,,,,SPD,
-463376,Wehner,,,,,,SPD,
-463394,Der Exsenator!,,,,,,,
-463506,Gerster,,,,,,CDU/CSU,Mainz
-463543,Daweke,,,,,,CDU/CSU,
-463572,Bindig,,,,,,SPD,
-463597,Glos,,,,,,CDU/CSU,
-463605,Möller,,,Dr.,,,CDU/CSU,
-463935,Voss,,,Dr.,,,CDU/CSU,
-464141,Kolb,,,,,,CDU/CSU,
-464602,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
-464647,Todenhöfer,,,Dr.,,,CDU/CSU,
-464649,Wehner,,,,,,SPD,
-465047,Glos,,,,,,CDU/CSU,
-465065,Wehner,,,,,,SPD,
-465075,Gansel,,,,,,SPD,
-465086,Wehner,,,,,,SPD,
-465142,Matthöfer,,,,,,SPD,
-465168,Franke,,,,,,CDU/CSU,
-465197,Wehner,,,,,,SPD,
-465215,Ehmke,,,Dr.,,,SPD,
-465401,Conradi,,,,,,SPD,
-465404,Rawe,,,,,,CDU/CSU,
-465644,Jahn,,,Dr.,,,CDU/CSU,Münster
-465652,Niegel,,,,,,CDU/CSU,
-465670,Wehner,,,,,,SPD,
-465678,Rühe,,,,,,CDU/CSU,
-465727,Berger,,,,,,CDU/CSU,Berg
-465748,Lambinus,,,,,,SPD,
-465751,Büchler,,,,,,SPD,Hof
-465995,Kunz,,,Dr.,,,CDU/CSU,Weiden
-466155,Barzel,,,Dr.,,,CDU/CSU,
-466179,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
-466202,Rawe,,,,,,CDU/CSU,
-466467,Stark,,,Dr.,,,CDU/CSU,Nürtingen
-466489,Penksy,,,,,,SPD,
-466501,Wehner,,,,,,SPD,
-466528,Wehner,,,,,,SPD,
-467116,Reddemann,,,,,,CDU/CSU,
-467293,Stücklen,,,,,,CDU/CSU,
-467585,Carstens,,,,,,CDU/CSU,Emstek
-467632,Wehner,,,,,,SPD,
-467944,Daweke,,,,,,CDU/CSU,
-467966,Wehner,,,,,,SPD,
-468153,Wehner,,,,,,SPD,
-468405,Ganz,,,,,,CDU/CSU,St. Wendel
-468431,Berger,,,,,,CDU/CSU,Berg
-468444,Würzbach,,,,,,CDU/CSU,
-468459,Würzbach,,,,,,CDU/CSU,
-468477,Marx,,,Dr.,,,CDU/CSU,
-468479,Würzbach,,,,,,CDU/CSU,
-468742,Niegel,,,,,,CDU/CSU,
-469109,Brandt,,,,,,SPD,
-469175,Wehner,,,,,,SPD,
-469185,Haase,,,,,,CDU/CSU,Kassel
-469187,Friedmann,,,Dr.,,,CDU/CSU,
-469380,Gerstein,,,,,,CDU/CSU,
-469387,Riesenhuber,,,Dr.,,,CDU/CSU,
-469397,Zuruf  CDU/ CSU,,,,von der,,,
-469399,Riesenhuber,,,Dr.,,,CDU/CSU,
-469407,Gerstein,,,,,,CDU/CSU,
-469428,Wehner,,,,,,SPD,
-469483,Jäger,,,,,,CDU/CSU,Wangen
-469678,Löffler,,,,,,SPD,
-469683,Wörner,,,Dr.,,,CDU/CSU,
-470136,Voigt,,,,,,SPD,Frankfurt
-470153,Wehner,,,,,,SPD,
-470203,Wehner,,,,,,SPD,
-470208,Kohl,,,Dr.,,,CDU/CSU,
-470216,Wehner,,,,,,SPD,
-470249,Jäger,,,,,,CDU/CSU,Wangen
-470320,Gerster,,,,,,CDU/CSU,Mainz
-470326,Wehner,,,,,,SPD,
-470333,Gerster,,,,,,CDU/CSU,Mainz
-470341,Wehner,,,,,,SPD,
-470356,Löffler,,,,,,SPD,
-470415,Wehner,,,,,,SPD,
-470513,Glos,,,,,,CDU/CSU,
-470517,Glos,,,,,,CDU/CSU,
-470525,Löffler,,,,,,SPD,
-470558,Eigen,,,,,,CDU/CSU,
-470591,Löffler,,,,,,SPD,
-470628,Bindig,,,,,,SPD,
-470634,Wehner,,,,,,SPD,
-470708,Dreßler,,,,,,SPD,
-470757,Zuruf  SPD,,,,von der,,SPD,
-470832,Würzbach,,,,,,CDU/CSU,
-470879,Haase,,,,,,CDU/CSU,Kassel
-470885,Kittelmann,,,,,,CDU/CSU,
-470887,Kühbacher,,,,,,SPD,
-470891,Wehner,,,,,,SPD,
-470898,Wehner,,,,,,SPD,
-471107,Wehner,,,,,,SPD,
-471109,Urbaniak,,,,,,SPD,
-471362,Spranger,,,,,,CDU/CSU,
-471452,Vogel,,,,,,CDU/CSU,Ennepetal
-471496,Rösch,,,,,,FDP,
-471698,Immer,,,,,,SPD,Altenkirchen
-471712,Immer,,,,,,SPD,Altenkirchen
-471751,Sauer,,,,,,CDU/CSU,Salzgitter
-471760,Gerstein,,,,,,CDU/CSU,
-471761,Schäfer,,,,,,SPD,Offenburg
-471771,Riesenhuber,,,Dr.,,,CDU/CSU,
-471776,Riesenhuber,,,Dr.,,,CDU/CSU,
-471778,Jansen,,,,,,SPD,
-472022,Riesenhuber,,,Dr.,,,CDU/CSU,
-472081,Köhler,,,Dr.,,,CDU/CSU,Wolfsburg
-472160,Daweke,,,,,,CDU/CSU,
-472241,Wehner,,,,,,SPD,
-472267,Kolb,,,,,,CDU/CSU,
-472854,Hennig,,,Dr.,,,CDU/CSU,
-472916,Werner,,,,,,CDU/CSU,
-473204,Immer,,,,,,SPD,Altenkirchen
-473207,Sauter,,,,,,CDU/CSU,Epfendorf
-473484,Löffler,,,,,,SPD,
-473515,Geldern,,,Dr.,von,,CDU/CSU,
-473785,Immer,,,,,,SPD,Altenkirchen
-473793,Immer,,,,,,SPD,Altenkirchen
-473829,Urbaniak,,,,,,SPD,
-473835,Lampersbach,,,,,,CDU/CSU,
-473855,Wehner,,,,,,SPD,
-473864,Immer,,,,,,SPD,Altenkirchen
-473889,Jungmann,,,,,,SPD,
-473891,Dallmeyer,,,,,,CDU/CSU,
-473956,Vogel,,,,,,CDU/CSU,Ennepetal
-474213,Löffler,,,,,,SPD,
-474260,Thüsing,,,,,,SPD,
-474843,Löffler,,,,,,SPD,
-474862,Hauser,,,,,,CDU/CSU,Krefeld
-474875,Kittelmann,,,,,,CDU/CSU,
-474945,Steger,,,Dr.,,,SPD,
-475128,Bohl,,,,,,CDU/CSU,
-475140,Löffler,,,,,,SPD,
-475149,Löffler,,,,,,SPD,
-475368,Schmidt,,,,,,SPD,München
-475380,Löffler,,,,,,SPD,
-475382,Waltemathe,,,,,,SPD,
-475633,Löffler,,,,,,SPD,
-475692,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
-475730,Bindig,,,,,,SPD,
-475819,Weiskirch,,,,,,CDU/CSU,Olpe
-475847,Lenz,,,Dr.,,,CDU/CSU,Bergstraße
-476371,Häfele,,,Dr.,,,CDU/CSU,
-476675,Seiters,,,,,,CDU/CSU,
-476682,Mertens,,,Dr.,,,CDU/CSU,Gerolstein
-476710,Dregger,,,Dr.,,,CDU/CSU,
-476825,Vogel,,,,,,CDU/CSU,Ennepetal
-477185,Wehner,,,,,,SPD,
-477210,Löffler,,,,,,SPD,
-477224,Franke,,,,,,CDU/CSU,
-477476,Löffler,,,,,,SPD,
-477513,Schröder,,,,,,CDU/CSU,Lüneburg
-477564,Roth,,,,,,SPD,
-477610,Kolb,,,,,,CDU/CSU,
-477631,Stark,,,Dr.,,,CDU/CSU,Nürtingen
-477639,Rawe,,,,,,CDU/CSU,
-477644,Mertes,,,Dr.,,,CDU/CSU,Gerolstein
-477694,Liedtke,,,,,,SPD,
-478069,Geißler,,,Dr.,,,CDU/CSU,
-478094,Haase,,,,,,CDU/CSU,Kassel
-478130,Bindig,,,,,,SPD,
-478168,Riedl,,,Dr.,,,CDU/CSU,München
-478187,Bindig,,,,,,SPD,
-478223,Zuruf des   Stark,,,Dr.,,,CDU/CSU,Nürtingen
-478397,Stark,,,Dr.,,,CDU/CSU,Nürtingen
-478402,Müller,,,,,,CDU/CSU,Remscheid
-478406,Stahl,,,,,,SPD,Kempen
-478407,Stahl,,,,,,SPD,Kempen
-478412,Cronenberg,,,,,,FDP,
-478464,Reddemann,,,,,,CDU/CSU,
-478675,Kittelmann,,,,,,CDU/CSU,
-478677,Roth,,,,,,SPD,
-478679,Roth,,,,,,SPD,
-478702,Urbaniak,,,,,,SPD,
-479092,Lenzer,,,,,,CDU/CSU,
-479125,Urbaniak,,,,,,SPD,
-479144,Jungmann,,,,,,SPD,
-479167,Gerster,,,,,,CDU/CSU,Mainz
-479226,Conradi,,,,,,SPD,
-479261,Schmitz,,,,,,CDU/CSU,Baesweiler
-479267,Wehner,,,,,,SPD,
-479289,Löffler,,,,,,SPD,
-479292,Löffler,,,,,,SPD,
-479297,Westphal,,,,,,SPD,
-479312,Walther,,,,,,SPD,
-479406,Kolb,,,,,,CDU/CSU,
-479470,Kühbacher,,,,,,SPD,
-479486,Haase,,,,,,CDU/CSU,Kassel
-479588,Diederich,,,Dr.,,,SPD,Berlin
-479767,Roth,,,,,,SPD,
-480123,Roth,,,,,,SPD,
-480148,Reddemann,,,,,,CDU/CSU,
-480150,Reddemann,,,,,,CDU/CSU,
-480437,Broll,,,,,,CDU/CSU,
-480458,Roth,,,,,,SPD,
-481150,Roth,,,,,,SPD,
-481336,Pfeffermann,,,,,,CDU/CSU,
-481377,Olderog,,,Dr.,,,CDU/CSU,
-481514,Roth,,,,,,SPD,
-481703,Kuhlwein,,,,,,SPD,
-481744,Waltemathe,,,,,,SPD,
-481883,Kolb,,,,,,CDU/CSU,
-481897,Wehner,,,,,,SPD,
-481962,Stark,,,Dr.,,,CDU/CSU,Nürtingen
-482079,Carstens,,,,,,CDU/CSU,Emstek
-482102,Kühbacher,,,,,,SPD,
-482259,Haase,,,,,,CDU/CSU,Kassel
-482272,Bindig,,,,,,SPD,
-482367,Kolb,,,,,,CDU/CSU,
-482386,Gerster,,,,,,CDU/CSU,Mainz
-482425,Cronenberg,,,,,,FDP,
-482436,Wehner,,,,,,SPD,
-482470,Hartmann,,,,,,CDU/CSU,
-482488,Emmerlich,,,Dr.,,,SPD,
-482569,Schäuble,,,Dr.,,,CDU/CSU,
-482586,Breuer,,,,,,CDU/CSU,
 482603,Gerstein,,,,,,CDU/CSU,
-456167,Schlei,,,,,,SPD,
-456256,Schwarz,,,,,,CDU/CSU,
-456944,Reddemann,,,,,,CDU/CSU,
-458042,Möller,,,Dr.,,,CDU/CSU,
-463091,Marx,,,Dr.,,,CDU/CSU,
-463248,Hupka,,,Dr.,,,CDU/CSU,
-463305,Carstens,,,,,,CDU/CSU,Emstek
-463394,Franke,,,,,,CDU/CSU,
-467394,Herterich,,,,,,SPD,
-467898,Westphal,,,,,,SPD,
-469397,Probst,,,Dr.,,,CDU/CSU,
-470757,Carstens,,,,,,CDU/CSU,Emstek
-472022,Gerlach,,,,,,CDU/CSU,Obernau
-472854,Barzel,,,Dr.,,,CDU/CSU,
-474203,Kansy,,,Dr.-Ing.,,,CDU/CSU,
-478223,Bötsch,,,Dr.,,,CDU/CSU,
-480148,Erhard,,,,,,CDU/CSU,Bad Schwalbach
-481336,Wehner,,,,,,SPD,
-481744,Magin,,,,,,CDU/CSU,
-463091,Blüm,,,Dr.,,,CDU/CSU,
-463248,Marx,,,Dr.,,,CDU/CSU,
-469397,Riesenhuber,,,Dr.,,,CDU/CSU,
-481744,Roth,,,,,,SPD,
+482603,Beifall,,,,,,,

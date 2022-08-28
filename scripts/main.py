@@ -18,24 +18,6 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-def merge_all_csv() -> None:
-    """
-    For performance reasons every peri od has its seperate csv. 
-    This function merges all of them. Note: the output csv might be
-    too big for some pcs or tools to handle.
-    """
-    rb_path = "output/rb/"
-    rb_all_files = glob.glob(os.path.join(rb_path, "*.csv"))
-    rb_df_from_each_file = (pd.read_csv(f, sep=",") for f in rb_all_files)
-    rb_df_merged = pd.concat(rb_df_from_each_file, ignore_index=True)
-    rb_df_merged.to_csv("output/rb_merged.csv")
-
-    ko_path = "output/ko/"
-    ko_all_files = glob.glob(os.path.join(ko_path, "*.csv"))
-    ko_df_from_each_file = (pd.read_csv(f, sep=",") for f in ko_all_files)
-    ko_df_merged = pd.concat(ko_df_from_each_file, ignore_index=True)
-    ko_df_merged.to_csv("output/ko_merged.csv")
-
 def main() -> None:
     """
     Walks through the entire process of extracting, assigning, 
@@ -61,7 +43,8 @@ def main() -> None:
             # final cleaning and extracting before saving
             RB_df, KO_df = clean_dfs(RB_df, KO_df, ortszusatz)
 
-            KO_df = KO_df.sort_values(by=['RB_ID'])
+            KO_df = KO_df.sort_values(by=["RB_ID"])
+
             # export to csv
             RB_df.to_csv(rf"output/rb/rb{wp}.csv",encoding="utf-8-sig", index = False)
             KO_df.to_csv(rf"output/ko/ko{wp}.csv",encoding="utf-8-sig", index = False) 
@@ -91,8 +74,25 @@ def main() -> None:
             t1 = time.time()
             total_time += t1 - t0 
 
+def merge_all_csv() -> None:
+    """
+    For performance reasons every period has its seperate csv. 
+    This function merges all of them. Note: the output csv might be
+    too big for some pcs or tools to handle.
+    """
+    rb_path = "output/rb/"
+    rb_all_files = glob.glob(os.path.join(rb_path, "*.csv"))
+    rb_df_from_each_file = (pd.read_csv(f, sep=",") for f in rb_all_files)
+    rb_df_merged = pd.concat(rb_df_from_each_file, ignore_index=True)
+    rb_df_merged.to_csv("output/rb_merged.csv")
+
+    ko_path = "output/ko/"
+    ko_all_files = glob.glob(os.path.join(ko_path, "*.csv"))
+    ko_df_from_each_file = (pd.read_csv(f, sep=",") for f in ko_all_files)
+    ko_df_merged = pd.concat(ko_df_from_each_file, ignore_index=True)
+    ko_df_merged.to_csv("output/ko_merged.csv")
 
 main()
 # commented out because the merged file tends to kill (me and) the data 
-# transformation process inside PowerQuery
+# transformation process inside PowerQuery and Excel
 # merge_all_csv()

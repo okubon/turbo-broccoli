@@ -3,6 +3,8 @@ import xml.etree.ElementTree as ET
 import re
 import csv
 
+pd.options.mode.chained_assignment = None  
+
 def get_ortszusatz() -> set:
     """
     extracts and cleans all city additions from the stammdaten.xml 
@@ -89,7 +91,7 @@ def extract_transform_df(RB_df: pd.DataFrame, KO_df: pd.DataFrame) -> tuple[pd.D
     KO_df["GESCHLECHT"] = KO_df["GESCHLECHT"].str.replace("Abg.", "", regex=True)
 
     # filter unpersonalized KO (applause, laugh, etc.)
-    KO_df = KO_df[~KO_df["KO_Name"].str.contains("(Beifall|Lachen|Zustimmung|Widerspruch|Unruhe|Heiterkeit) bei", regex=True, na=False)]
+    KO_df = KO_df[~KO_df["KO_Name"].str.contains("(?:Beifall|Lachen|Zustimmung|Widerspruch|Unruhe|Heiterkeit) bei", regex=True, na=False)]
 
     return RB_df, KO_df
 

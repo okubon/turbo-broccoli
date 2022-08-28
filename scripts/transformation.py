@@ -9,9 +9,9 @@ def get_ortszusatz() -> set:
     and creates a list
     """
     ortszusatz = []
-    stammdaten = ET.parse('./protokolle_wp_1-12/other/MDB_STAMMDATEN.XML').getroot()
+    stammdaten = ET.parse("./protokolle_wp_1-12/other/MDB_STAMMDATEN.XML").getroot()
 
-    for city in stammdaten.iter('ORTSZUSATZ'):
+    for city in stammdaten.iter("ORTSZUSATZ"):
         ortszusatz.append(city.text)
 
     ortszusatz = list(set(ortszusatz))
@@ -55,8 +55,7 @@ def extract_transform_df(RB_df: pd.DataFrame, KO_df: pd.DataFrame) -> tuple[pd.D
     """
     # extracts additional KO that are currently mushed together
     # splits and unpivots the data
-
-    # bypass split error - columns must be same lenght as key, unpivot data
+    # to bypass split error - columns must be same lenght as key: save individually and concat
     # KO_df[["KO_Name", "KO_Name.1", "KO_Name.2","KO_Name.3"]] = KO_df["KO_Name"].str.split(" — ", n=3, expand=True)
     temp_KO_df = KO_df["KO_Name"].str.split(" — ", n=3, expand=True)
     temp_KO_df.columns = ["KO_Name_Nr{}".format(x+1) for x in temp_KO_df.columns]
@@ -68,22 +67,26 @@ def extract_transform_df(RB_df: pd.DataFrame, KO_df: pd.DataFrame) -> tuple[pd.D
     KO_df["KO_Name"] = KO_df["KO_Name"].str.replace(r"(?<=.):.*", "", regex=True)
 
     re_dict = {
+                "GESCHLECHT":r"(Frau(?= )|Abg.(?= ))",
                 "FUNKTION":r"((?<=., ).*)",
                 "POSITION":r"^(Alterspräsidenti?n?|Vizepräsidenti?n?|Präsidenti?n?)",
                 "ANREDE_TITEL":r"(Prof\. Dr\. - Ing\.|Prof\. Dr\.|Prof\.|Dr\. h\. c\.|Dr\. - Ing\.|Dr\.-Ing\.|D\. Dr\.|Dr\.)",
-                "PRAEFIX":r"(de(?= )|van(?= )|vom(?= )|von der(?= )|von und zu(?= )|von(?= )|zu(?= ))",
+                "PRAEFIX":r"((?<!\w)de(?= )|(?<!\w)van(?= )|(?<!\w)vom(?= )|(?<!\w)von der(?= )|(?<!\w)von und zu(?= )|(?<!\w)von(?= )|(?<!\w)zu(?= ))",
                 "ADEL":r"(Baron|Freiherr|Fürst zu|Fürst|Gräfin|Graf|Prinz zu|Prinz)"
             }
 
-    RB_df["RB_Name"] = RB_df["RB_Name"].str.replace(r"(Frau(?= )|Abg.(?= ))", "", regex=True)
-    KO_df["KO_Name"] = KO_df["KO_Name"].str.replace(r"(Frau(?= )|Abg.(?= ))", "", regex=True)
-
+    # extract and cut off all of the defined parts
     for regex in re_dict:
         RB_df[regex] = RB_df["RB_Name"].str.extract(re_dict[regex])
         RB_df["RB_Name"] = RB_df["RB_Name"].str.replace(re_dict[regex], "", regex=True)
 
         KO_df[regex] = KO_df["KO_Name"].str.extract(re_dict[regex])
         KO_df["KO_Name"] = KO_df["KO_Name"].str.replace(re_dict[regex], "", regex=True)     
+
+    RB_df["GESCHLECHT"] = RB_df["GESCHLECHT"].str.replace("Frau", "weiblich", regex=True)
+    RB_df["GESCHLECHT"] = RB_df["GESCHLECHT"].str.replace("Abg.", "", regex=True)
+    KO_df["GESCHLECHT"] = KO_df["GESCHLECHT"].str.replace("Frau", "weiblich", regex=True)
+    KO_df["GESCHLECHT"] = KO_df["GESCHLECHT"].str.replace("Abg.", "", regex=True)
 
     # filter unpersonalized KO (applause, laugh, etc.)
     KO_df = KO_df[~KO_df["KO_Name"].str.contains("(Beifall|Lachen|Zustimmung|Widerspruch|Unruhe|Heiterkeit) bei", regex=True, na=False)]
@@ -105,7 +108,7 @@ def extract_brackets_df(RB_df: pd.DataFrame, KO_df: pd.DataFrame, ortszusatz: se
         RB_df["PARTEI"] = RB_df["RB_Name"].str.extract(party_re)
         KO_df["PARTEI"] = KO_df["KO_Name"].str.extract(party_re)
 
-        ortszusatz_str = '|'.join([str(x) for x in ortszusatz])
+        ortszusatz_str = "|".join([str(x) for x in ortszusatz])
         RB_df["ORTSZUSATZ"] = RB_df["RB_Name"].str.extract("(" + repr(ortszusatz_str) + ")")
         KO_df["ORTSZUSATZ"] = KO_df["KO_Name"].str.extract("(" + repr(ortszusatz_str) + ")")
 

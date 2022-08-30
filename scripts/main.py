@@ -8,7 +8,8 @@ import logging
 from extraction import *
 from transformation import *
 
-# alternative to spamming your terminal, used to check on performance and errors
+# alternative to spamming your terminal, used to check 
+# on performance and errors
 logging.basicConfig(
     format="%(asctime)s: %(message)s", 
     datefmt="%d/%m/%Y %I:%M:%S", 
@@ -74,25 +75,4 @@ def main() -> None:
             t1 = time.time()
             total_time += t1 - t0 
 
-def merge_all_csv() -> None:
-    """
-    For performance reasons every period has its seperate csv. 
-    This function merges all of them. Note: the output csv might be
-    too big for some pcs or tools to handle.
-    """
-    rb_path = "output/rb/"
-    rb_all_files = glob.glob(os.path.join(rb_path, "*.csv"))
-    rb_df_from_each_file = (pd.read_csv(f, sep=",") for f in rb_all_files)
-    rb_df_merged = pd.concat(rb_df_from_each_file, ignore_index=True)
-    rb_df_merged.to_csv("output/rb_merged.csv")
-
-    ko_path = "output/ko/"
-    ko_all_files = glob.glob(os.path.join(ko_path, "*.csv"))
-    ko_df_from_each_file = (pd.read_csv(f, sep=",") for f in ko_all_files)
-    ko_df_merged = pd.concat(ko_df_from_each_file, ignore_index=True)
-    ko_df_merged.to_csv("output/ko_merged.csv")
-
 main()
-# commented out because the merged file tends to kill (me and) the data 
-# transformation process inside PowerQuery and Excel
-# merge_all_csv()

@@ -3,9 +3,10 @@ import xml.etree.ElementTree as ET
 import re
 import csv
 
+# to get rid of the caveats warnings
 pd.options.mode.chained_assignment = None  
 
-def get_ortszusatz() -> set:
+def get_ortszusatz() -> list:
     """
     extracts and cleans all city additions from the stammdaten.xml 
     and creates a list

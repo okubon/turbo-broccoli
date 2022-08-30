@@ -13,6 +13,7 @@ def type_of_speech(sentence: str) -> tuple[str, str]:
 
     # RegEx for the different formats of KO
     # for whatever reason the positive lookbehind for "(" doesn't work
+    # so it's getting cleaned in another function
     ko_regex = {
         "base": "\([a-zA-Z]+.*\[.*\](?=:)"
     }

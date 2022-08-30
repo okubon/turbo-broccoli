@@ -1,0 +1,5 @@
+=SUMMENPRODUKT((stammdaten_bereinigt.xlsx!Tabelle7[NACHNAME]=[@[RB_Name]])*(stammdaten_bereinigt.xlsx!Tabelle7[ANREDE_TITEL]=[@[ANREDE_TITEL]])*(stammdaten_bereinigt.xlsx!Tabelle7[PARTEI_KURZ]=[@PARTEI])*(stammdaten_bereinigt.xlsx!Tabelle7[ORTSZUSATZ]=[@ORTSZUSATZ])*stammdaten_bereinigt.xlsx!Tabelle7[ID])
+
+=SUMMENPRODUKT((stammdaten_bereinigt.xlsx!Tabelle7[NACHNAME]=[@[RB_Name]])*(stammdaten_bereinigt.xlsx!Tabelle7[ANREDE_TITEL]=[@[ANREDE_TITEL]])*(stammdaten_bereinigt.xlsx!Tabelle7[PARTEI_KURZ]=[@PARTEI])*stammdaten_bereinigt.xlsx!Tabelle7[ID])
+
+=SUMMENPRODUKT((stammdaten_bereinigt.xlsx!Tabelle7[NACHNAME]=[@[RB_Name]])*(stammdaten_bereinigt.xlsx!Tabelle7[PARTEI_KURZ]=[@PARTEI])*stammdaten_bereinigt.xlsx!Tabelle7[ID])

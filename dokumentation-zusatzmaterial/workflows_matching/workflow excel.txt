@@ -1,0 +1,31 @@
+struktur excel
+
+1. Import Stammdaten mit power query
+2. Stammdaten: Parteien säubern mit hilfe "austauschen.xlsx"
+
+	=> Janina: CHECK "Plos" = "Parteilos", ergänze austauschen.csv
+
+	((Leere manuell recherchiert, entstanden durch Fraktionswechsel, 
+	Dubletten entfernt))
+2a. Dubletten entfernen (entstanden durch Neuzusammenschluss Gruppen/Fraktionen)
+
+3. Umsortierung der Spalten in der Tabelle Stammdaten entsprechend Reihenfolge RB.csv, UID an den Schluss
+
+4. Sortierung der Tabellen aufsteigend nach Name (A-Z), damit Verweis funktioniert
+
+5. Erstellung des Verweises mit mehreren Summenproduktfunktionen
+
+6. Analyse der Übrigbleibenden:
+- Nicht identifizerbare Personen, z. B. wegen Tippfehlern im Protokoll, OCR-Einlesefehlern (Minder -> Pünder)
+- Falsch extrahierte/konvertierte XML (z. B. Fraktionszugehörigkeit, wo Partei fehlte)
+- Falsch erkannte Regex (Name auf -de in Namensvorsilbe "de" umgewandelt; zitierte Personen als Redende extrahiert ("Mücke hat eigentlich selbst das Stichwort gegeben")
+- Dubletten wegen Parteiwechsel bzw. wechselnden Zusammenschlüssen von Gruppen zu Fraktionen -> Stammdaten verkürzend zusammengeführt, da Dubletten Verweise zerschießen (ID bleibt, Partei ändert sich, z. B. Erich Mende, FDP -> CDU)
+- Leibbrand (KPD) - ein männlicher, eine weibliche, aber keine Möglichkeit mehr zur Unterscheidung im Export
+- Regierungsmitglieder, Gastredner*innen ohne Abgeordnetenmandat
+
+FEHLERCODES:
+KA - kein*e Abgenordnete*r
+NEZ - nicht eindeutig zuzuordnen
+NI - nicht identifizierbar
+
+7. Einfügen Geschlecht per SVERWEIS via UID
